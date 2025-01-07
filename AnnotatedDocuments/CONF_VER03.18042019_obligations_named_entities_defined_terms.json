@@ -1,0 +1,996 @@
+[
+    {
+        "ID": "5aa1fdda-6fc5-414b-ab15-8307403468db",
+        "PassageID": "1.",
+        "Passage": "DEALING WITH CONFIDENTIAL INFORMATION",
+        "Obligations": []
+    },
+    {
+        "ID": "fa81ab52-b6d6-444c-a3e5-ec220f333a38",
+        "PassageID": "1.1",
+        "Passage": "Introduction",
+        "Obligations": []
+    },
+    {
+        "ID": "23bfaaa4-7322-4512-b59a-505a28a3f259",
+        "PassageID": "1.1.1",
+        "Passage": "This Confidentiality Policy provides guidance concerning the obligations and requirements on the Financial Services Regulatory Authority (the \u201cRegulator\u201d) when using and disclosing non-public information provided by third parties in the course of regulating financial services in the Abu Dhabi Global Market (\u201cADGM\u201d). Unless expressly provided in this Confidentiality Policy, definitions for capitalized terms may be found in the Financial Services Markets Regulations (2015) (the \u201cFSMR\u201d).",
+        "Obligations": [
+            "Obligation:1 \"Understand FSRA's Confidentiality Obligations**: Familiarize yourself with how the FSRA handles non-public information it receives in its regulatory functions.\"",
+            "Obligation:2 \"Provide Accurate Information**: Ensure that any information you provide to the FSRA is accurate and complete.\"",
+            "Obligation:3 \"Comply with Information Requests**: Respond to FSRA requests for information in a timely and cooperative manner.\"",
+            "Obligation:4 \"Maintain Data Protection**: Handle personal data in compliance with relevant data protection laws and regulations.\"",
+            "Obligation:5 \"Record Keeping**: Maintain appropriate records and confidentiality of sensitive information as per ADGM regulations.\"",
+            "Obligation:6 \"Report Breaches**: Notify the appropriate authority within ADGM if you become aware of any breaches of confidentiality by the FSRA.\"",
+            "Obligation:7 \"Regulatory Cooperation**: Cooperate with the FSRA in its regulatory functions while respecting the confidentiality policy.\"",
+            "Obligation:8 \"Adhere to Confidentiality Requirements**: Follow any specific confidentiality requirements outlined in your licensing or regulatory framework within the ADGM.\"",
+            "Obligation:9 \"Consult Relevant Documents**: Refer to the FSMR, FSRA rules and guidance, and the terms of the Confidentiality Policy for specific obligations.\"",
+            "Obligation:10 \"Seek Professional Advice**: Consult with a compliance officer or legal counsel for tailored advice based on your situation and regulatory framework within ADGM.\""
+        ],
+        "NamedEntities": {
+            "policy": "system of principles, rules and guidelines, adopted by an organization to guide decision making with respect to particular situations and implemented via procedures or protocols to achieve stated goals"
+        }
+    },
+    {
+        "ID": "03497933-b5b5-45d6-8b04-659f08c83a84",
+        "PassageID": "1.2",
+        "Passage": "Regulatory Approach",
+        "Obligations": []
+    },
+    {
+        "ID": "9d2693b4-56e6-4f12-bf1b-c6c0ed90d726",
+        "PassageID": "1.2.1",
+        "Passage": "When dealing with Confidential Information, the Regulator employs best practice, consistent with international standards set by organisations such as the Basel Committee on Banking Supervision (\u201cBCBS\u201d), the International Organisation of Securities Commissions (\u201cIOSCO\u201d), the Financial Action Task Force (\u201cFATF\u201d) and the Islamic Financial Services Board (\u201cIFSB\u201d).",
+        "Obligations": []
+    },
+    {
+        "ID": "b95b9cd6-2db3-4a76-8c64-99dd13be3977",
+        "PassageID": "1.2.2",
+        "Passage": "With the application of international best practice standards, the Regulator is obligated to:\n(a)\tensure compliance with and enforce applicable financial services legislation, consistent with the Basel Core Principles for Effective Banking Supervision, the IOSCO Objectives and Principles of Securities Regulation and the FATF Recommendations on combating money laundering, the financing of terrorism and proliferation of weapons of mass destruction;\n(b)\tassist financial services regulators in other jurisdictions to the best possible extent regarding co-operation and the exchange of Confidential Information consistent with the obligations contained and in the manner prescribed in the IOSCO Multilateral Memorandum of Understanding;\n(c)\tuse all reasonable efforts to ensure that neither ADGM regulations nor foreign laws relating to confidentiality and secrecy prevent the Regulator from gathering, protecting  or disclosing Confidential Information where required for lawful regulatory purposes;\n(d)\tlimit the disclosure of Confidential Information to other financial services regulators and enforcement agencies to the extent required for ensuring compliance with, and enforcement of, applicable financial services and criminal legislation;\n(e)\tto adopt and implement internal control systems and procedures for the handling, storing, processing and securing of Confidential Information that meet international best practices; and\n(f)\tto comply with all applicable laws and ADGM regulations which govern the Regulator\u2019s collection and dissemination of Confidential Information.\n\n",
+        "Obligations": [
+            "Obligation:1 \"Compliance with Financial Services Legislation:**\n   - Adhere to ADGM financial services legislation and international standards (Basel Core Principles, IOSCO Principles, FATF Recommendations).\n   - Implement and maintain internal policies and procedures for compliance.\n   - Regularly review and update the compliance framework to align with international best practices.\"",
+            "Obligation:2 \"Co-operation with Regulators:**\n   - Co-operate with ADGM and foreign regulators as required.\n   - Provide information to regulators for regulatory cooperation and information exchange when necessary.\"",
+            "Obligation:3 \"Confidentiality and Information Sharing:**\n   - Maintain confidentiality of sensitive information as per ADGM regulations and international best practices.\n   - Implement systems and controls to prevent unauthorized disclosure of confidential information.\n   - Understand and comply with lawful circumstances for the Regulator to share confidential information.\"",
+            "Obligation:4 \"Internal Control Systems:**\n   - Develop, implement, and regularly review robust internal control systems for handling, storing, processing, and securing confidential information.\"",
+            "Obligation:5 \"Compliance with Collection and Dissemination of Information:**\n   - Comply with laws and regulations governing the collection, use, and dissemination of confidential information.\n   - Ensure transparency and legal compliance in data protection and privacy practices.\"",
+            "Obligation:6 \"Reporting and Monitoring:**\n   - Establish monitoring and reporting systems for detecting and reporting compliance issues to the Regulator promptly.\n   - Conduct regular audits to assess compliance with financial services legislation and regulatory requirements.\"",
+            "Obligation:7 \"Training and Awareness:**\n   - Provide ongoing training to staff on ADGM regulations and the importance of compliance.\n   - Foster a culture of compliance and ethical conduct within the organization.\"",
+            "Obligation:8 \"Consultation and Guidance:**\n   - Stay informed about changes in the regulatory framework.\n   - Seek guidance from the Regulator or legal professionals specialized in ADGM financial regulatory compliance when necessary.\""
+        ],
+        "NamedEntities": {
+            "control": "situation in which some party has the power to direct or strongly influence the direction of the management and policies related to something",
+            "regulation": "a rule used to carry out a law",
+            "exchange": "any organization, association, or group of persons, whether incorporated or unincorporated, which constitutes, maintains, or provides a facility for bringing together purchasers and sellers of financial instruments, commodities, or other products, services, or goods, and includes the market place and facilities maintained by such exchange"
+        }
+    },
+    {
+        "ID": "6de11e7f-34c2-4152-97ac-45b61b14243e",
+        "PassageID": "1.3",
+        "Passage": "Applicable legislation",
+        "Obligations": []
+    },
+    {
+        "ID": "4dd80743-bfd5-400c-bc62-c3d55f1e3aed",
+        "PassageID": "1.3.1",
+        "Passage": "The main legislative provisions governing the use of Confidential Information by the Regulator are set out in Abu Dhabi Law No. (4) of 2013, Part 16 of the FSMR, the Data Protection Regulations (2015) and the UAE Penal Code (Federal Law No. (3) of 1987).",
+        "Obligations": [
+            "Obligation:1 \"Maintain Confidentiality**:\n   - Protect the confidentiality of any non-public information received in the course of business activities.\"",
+            "Obligation:2 \"Legal Disclosure**:\n   - Disclose confidential information only when legally permitted or compelled by law.\"",
+            "Obligation:3 \"Compliance with FSMR**:\n   - Adhere to the principles and rules set out in the FSMR regarding the handling, use, disclosure, and transfer of confidential information.\"",
+            "Obligation:4 \"Reporting and Protection**:\n   - Report required information to the Regulator and protect any confidential information involved in such reporting.\"",
+            "Obligation:5 \"Follow Data Protection Regulations**:\n   - Process personal data in line with data protection principles (lawfulness, fairness, transparency, purpose limitation, data minimization, accuracy, storage limitation, integrity, and confidentiality).\n   - Respect and facilitate the rights of data subjects (access, correction, deletion, and objection to processing).\n   - Ensure the security of personal data against unauthorized or unlawful processing, loss, destruction, or damage.\n   - Notify data subjects about data processing and obtain consent when necessary.\"",
+            "Obligation:6 \"Avoid Criminal Liability**:\n   - Refrain from actions that could lead to criminal offenses under the UAE Penal Code, such as unauthorized disclosure of confidential information or insider trading.\"",
+            "Obligation:7 \"Implement Internal Controls**:\n   - Establish and maintain internal controls and policies to prevent unauthorized access, disclosure, or misuse of confidential information.\"",
+            "Obligation:8 \"Appoint a Data Protection Officer (DPO)**:\n   - Appoint a DPO to oversee data protection compliance if required by the nature of your activities.\"",
+            "Obligation:9 \"Stay Updated and Seek Advice**:\n   - Keep abreast of changes to the regulatory framework and seek legal or compliance advice to ensure full compliance with obligations related to the use of confidential information.\"",
+            "Obligation:10 \"Tailor Compliance Programs**:\n   - Develop and tailor compliance programs to the specific requirements of the regulations and the nature of your business operations within the ADGM.\""
+        ],
+        "NamedEntities": {
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        }
+    },
+    {
+        "ID": "bfac01be-278a-4ba1-8edc-b04129193354",
+        "PassageID": "2.",
+        "Passage": "REGULATORY POWERS TO OBTAIN CONFIDENTIAL INFORMATION",
+        "Obligations": []
+    },
+    {
+        "ID": "30b187c5-ec87-477b-9be0-aeb066c8a472",
+        "PassageID": "2.1",
+        "Passage": "Background",
+        "Obligations": []
+    },
+    {
+        "ID": "2345807b-e86f-4a35-b88f-1b65d24014fe",
+        "PassageID": "2.1.1",
+        "Passage": "The Regulator may be provided with information which is confidential in two ways:\n(a)\tvoluntarily (that is, information obtained on a voluntary basis); and\n(b)\tunder compulsion, including through:\ni.\tthe exercise of the Regulator\u2019s supervisory and investigative powers (see section \u200e2.2 below); and\nii.\tthe exercise of the Regulator\u2019s information gathering powers at the request, and on behalf, of Non-ADGM Regulators (see section \u200e2.3 below).",
+        "Obligations": []
+    },
+    {
+        "ID": "fadf32bf-6133-4b68-8b62-b4df174863db",
+        "PassageID": "2.2",
+        "Passage": "Regulator\u2019s Supervisory and Investigative Powers",
+        "Obligations": []
+    },
+    {
+        "ID": "6960a4ac-c374-469e-9e94-6566e523d6cf",
+        "PassageID": "2.2.1",
+        "Passage": "The Regulator has comprehensive powers under the FSMR to carry out its duties and responsibilities. These include the power to require reports, conduct on-site inspections of business premises of authorised entities within the ADGM, interview individuals, as well as compel the production of documents, testimony and other information \u2013 see, for example, sections 201 and 206 of the FSMR.",
+        "Obligations": [
+            "Obligation:1 \"Prepare and Submit Periodic Reports**: Ensure accurate, complete, and timely preparation and submission of periodic reports as required by the FSMR or as requested by the FSRA.\"",
+            "Obligation:2 \"Facilitate On-Site Inspections**: Allow the FSRA to conduct on-site inspections and provide access to facilities, records, and staff.\"",
+            "Obligation:3 \"Cooperate During Interviews**: Facilitate and ensure availability and cooperation of directors, officers, employees, or agents for interviews requested by the FSRA.\"",
+            "Obligation:4 \"Produce Documents and Records**: Comply with requests to produce documents, records, or information relevant to inquiries, inspections, or business operations.\"",
+            "Obligation:5 \"Provide Testimony and Information**: When required, provide testimony or detailed explanations regarding business operations, practices, or specific transactions.\"",
+            "Obligation:6 \"Comply with FSMR and FSRA Directives**: Adhere to all aspects of the FSMR and any rules, guidance, policies, or directives issued by the FSRA.\"",
+            "Obligation:7 \"Maintain Robust Internal Controls and Record Keeping**: Establish and maintain internal controls, procedures, and record-keeping systems to ensure compliance and facilitate prompt information retrieval.\"",
+            "Obligation:8 \"Notify of Significant Events and Material Changes**: Promptly notify the FSRA of significant events or material changes that could impact regulatory compliance or client interests.\"",
+            "Obligation:9 \"Take Remedial Actions**: Address deficiencies or breaches identified by the FSRA by taking prompt remedial actions as directed.\"",
+            "Obligation:10 \"Pay Regulatory Fees**: Pay all relevant fees associated with regulatory activities as prescribed by the FSRA.\n\nIt is important to continuously monitor for updates to the FSMR and maintain open communication with the FSRA or a compliance professional to ensure ongoing compliance. Non-compliance can lead to fines, suspension, or revocation of authorisation within the ADGM.\""
+        ]
+    },
+    {
+        "ID": "3799cb58-490a-41c9-8bad-e7f268eabe38",
+        "PassageID": "2.2.2",
+        "Passage": "The Regulator has in place internal procedures to monitor and manage access to and the use of Confidential Information and documents obtained during the course of its regulatory activities. These procedures include the use of manual and electronic document storage and retrieval systems.\nFor example, the Regulator limits access to confidential documents obtained to those members of the Regulator\u2019s staff engaged with the relevant matter to which the documents are related by use of secure filing of physical documents and restricted computer drives containing confidential documents in electronic form.",
+        "Obligations": [
+            "Obligation:1 \"Cooperate with the Regulator**: Provide access to information and documents as required for regulatory purposes.\"",
+            "Obligation:2 \"Comply with Data Protection Regulations**: Ensure compliance with ADGM's data protection regulations, maintaining confidentiality and security of personal data and sensitive information.\"",
+            "Obligation:3 \"Implement Adequate Security Measures**: Establish and maintain adequate measures to protect confidential information, including secure storage, restricted access, and proper information handling protocols.\"",
+            "Obligation:4 \"Report Breaches**: Report any breaches of confidentiality or improper handling of confidential information to the Regulator in a timely manner.\"",
+            "Obligation:5 \"Adhere to Regulator's Guidance and Rules**: Follow any specific guidance or rules issued by the Regulator regarding the handling of confidential information.\"",
+            "Obligation:6 \"Enter into Confidentiality Agreements**: Engage in confidentiality agreements or adhere to confidentiality clauses within regulatory documents when required.\"",
+            "Obligation:7 \"Train and Raise Awareness Among Staff**: Ensure staff is trained and aware of their obligations regarding the handling of confidential information, particularly in relation to regulatory engagement.\"",
+            "Obligation:8 \"Maintain Documentation and Records**: Keep accurate records of the information and documents provided to the Regulator, including submission dates and document details.\n\nFor specific obligations, refer to the relevant ADGM regulations, rules, and guidance applicable to your situation or entity, and consult with a compliance officer or legal advisor for tailored guidance.\""
+        ]
+    },
+    {
+        "ID": "698bee04-7b13-45ef-a40a-6df66b8d0d7f",
+        "PassageID": "2.2.3",
+        "Passage": "The Regulator may obtain information relating to regulated entities from third parties including intermediaries and companies that perform outsourced functions for regulated entities.",
+        "Obligations": []
+    },
+    {
+        "ID": "c189930c-3626-49e7-828b-48393687167d",
+        "PassageID": "2.2.4",
+        "Passage": "As the Regulator's mandate is to regulate all financial services provided in and from the ADGM, the Regulator has broad access to compel the disclosure of Confidential Information from individuals and firms participating in or connected to the provision of financial services in or from the ADGM. This includes, without limitation, all market participants, listed companies, reporting entities and their respective officers and directors.\nFor example, an ADGM-based fund manager which manages a fund organized in and sold to investors in a foreign jurisdiction will be subject to the jurisdiction of the Regulator and all books and records relating to the fund and its unitholders will be subject to examination by the Regulator upon request.",
+        "Obligations": [
+            "Obligation:1 \"Disclosure of Confidential Information**: Disclose confidential information when required by the ADGM Regulator, including details about the fund, its unitholders, and financial services provided.\"",
+            "Obligation:2 \"Maintenance of Records**: Maintain accurate, complete, and readily examinable books and records for the fund and its unitholders.\"",
+            "Obligation:3 \"Cooperation with Examination**: Fully cooperate with the ADGM Regulator during examinations by providing access to books, records, and facilitating reviews.\"",
+            "Obligation:4 \"Compliance with Regulatory Requests**: Comply with all information or documentation requests from the Regulator in a timely and complete manner.\"",
+            "Obligation:5 \"Reporting Obligations**: Submit regular reports to the Regulator as required, which may include financial statements, investor reports, and compliance reports.\"",
+            "Obligation:6 \"Adherence to ADGM Regulations and Standards**: Ensure all financial services, including fund management, comply with ADGM financial regulations, investor protection, AML, CTF, and other relevant financial crime regulations.\"",
+            "Obligation:7 \"Notification of Changes**: Notify the Regulator of any significant changes to the fund, its management, or operations that could impact regulatory obligations or unitholder interests.\"",
+            "Obligation:8 \"Fit and Proper Conduct**: Maintain conduct that is fit and proper for the role, upholding the integrity of the ADGM financial system.\"",
+            "Obligation:9 \"Risk Management**: Implement adequate risk management processes to identify, manage, and mitigate risks associated with the fund and its operations.\"",
+            "Obligation:10 \"Transparency with Unitholders**: Provide unitholders with clear and accurate information about the fund, its performance, and associated risks.\"",
+            "Obligation:11 \"Regulatory Filings**: Make any required regulatory filings with the ADGM Regulator, such as audited financial statements and other documents as required.\"",
+            "Obligation:12 \"Data Protection**: Comply with data protection laws and regulations when handling unitholders' personal information.\"",
+            "Obligation:13 \"Training and Competency**: Ensure that you and your staff are adequately trained and competent to perform duties in compliance with ADGM regulations.\n\nIt is recommended to regularly review ADGM regulations and guidelines relevant to your activities and consult with legal or professional advisors to ensure full compliance.\""
+        ],
+        "NamedEntities": {
+            "fund manager": "The party that sets up the fund, decides the investment strategy, appoints the agents, and is responsible for the promotion and the marketing of the fund. It makes all of the important decisions related to the fund. Also called fund promotor or fund sponsor. This is a dupliucate of Fund Management Company at the moment",
+            "jurisdiction": "power of a court to adjudicate cases, issue orders, and interpret and apply the law with respect to some specific geographic area"
+        }
+    },
+    {
+        "ID": "c03b5c3a-a9ff-42fa-b04e-0b4ad2b5975f",
+        "PassageID": "2.3",
+        "Passage": "Powers to cooperate with, assist and support Non-ADGM Regulators",
+        "Obligations": []
+    },
+    {
+        "ID": "321d5b98-b97a-43db-893d-70298f763898",
+        "PassageID": "2.3.1",
+        "Passage": "The Regulator may also exercise its information gathering powers at the request, and on behalf, of regulators and authorities in other jurisdictions, solely to assist them in performing their regulatory or enforcement functions.",
+        "Obligations": []
+    },
+    {
+        "ID": "30321c41-3b60-4c89-8840-ba67df61afaa",
+        "PassageID": "2.3.2",
+        "Passage": "The following sections of the FSMR give the Regulator specific authority to exercise some of its specific powers on behalf of other authorities:\n(a)\tsection 215 enables the Regulator to co-operate with other persons (in ADGM or elsewhere) who have functions (i) similar to those of the Regulator or (ii) in relation to the prevention or detection of Financial Crime. Co-operation may include the sharing of information which the Regulator is not prevented from lawfully disclosing;\n(b)\tsection 216 gives the Regulator specific authority to exercise its Own-Initiative Powers at the request, or on behalf, of Non-ADGM Regulators; and\n(c)\tsection 217 gives the Regulator specific authority to exercise its Investigative Powers at the request of Non-ADGM Regulators.  In deciding whether or not to exercise its Investigative Powers, section 217(2) sets out a non-exhaustive list of factors that the Regulator may take into account.",
+        "Obligations": [
+            "Obligation:1 \"Ensure Compliance with Regulations:**\n   - Maintain full compliance with ADGM regulations and international financial crime prevention standards.\n   - Regularly review and update compliance programs to align with both ADGM and international regulations.\"",
+            "Obligation:2 \"Maintain Records:**\n   - Keep accurate and complete records that can be readily provided to the Regulator or other authorities when requested.\"",
+            "Obligation:3 \"Cooperate with Authorities:**\n   - Be prepared to cooperate fully with the Regulator during information sharing, regulatory actions, and investigations.\n   - Provide any necessary information, access to documents, and facilitate interviews with personnel as required.\"",
+            "Obligation:4 \"Monitor and Report:**\n   - Continuously monitor activities for compliance and report any suspicious activities or transactions to the Regulator in accordance with applicable laws.\"",
+            "Obligation:5 \"Prepare for Regulatory Actions:**\n   - Be ready to comply with any actions taken by the Regulator, such as conditions on licenses or directives during investigations, which may be initiated on their own accord or at the request of non-ADGM regulators.\"",
+            "Obligation:6 \"Consult with Experts:**\n   - Engage with a compliance officer or legal advisor to understand specific implications and ensure adherence to all obligations under ADGM financial regulations.\"",
+            "Obligation:7 \"Implement Adequate Systems:**\n   - Ensure that systems and controls are adequate to prevent financial crime and facilitate compliance with regulatory requests or directives.\n\nBy following these consolidated action items, you will be better positioned to meet your indirect obligations under the FSMR of the ADGM and respond effectively to the Regulator's powers and authorities.\""
+        ],
+        "NamedEntities": {
+            "account": "container for records associated with a business arrangement for regular transactions and services"
+        }
+    },
+    {
+        "ID": "1c83f212-bd45-4299-b2e1-66ed94f62623",
+        "PassageID": "2.3.3",
+        "Passage": "If the Regulator decides to exercise its powers at the request, or on behalf, of a Non-ADGM Regulator, Confidential Information gathered as result of the Regulator exercising its powers under sections 215, 216 or 217 can only be disclosed to that Non-ADGM Regulator in accordance with the provisions of sections 198 or section 199 of the FSMR.",
+        "Obligations": []
+    },
+    {
+        "ID": "bf770c9e-b2c7-44d8-9b57-170723be2c0d",
+        "PassageID": "3.",
+        "Passage": "REGULATOR\u2019S OBLIGATION OF CONFIDENTIALITY",
+        "Obligations": []
+    },
+    {
+        "ID": "4d240321-2850-4a12-9e6f-4a14706f8c21",
+        "PassageID": "3.1",
+        "Passage": "Background",
+        "Obligations": []
+    },
+    {
+        "ID": "6d82d11b-1064-4161-b371-89c05ef97d68",
+        "PassageID": "3.1.1",
+        "Passage": "The Regulator\u2019s powers to obtain, use and disclose Confidential Information in order to discharge its functions and powers are subject to statutory limitations. These protections exist to protect individual privacy and to assure regulated firms and individuals that any Confidential Information they provide to the Regulator will be dealt with in confidence and used only for lawful purposes.",
+        "Obligations": [
+            "Obligation:1 \"Maintain Confidentiality**: Protect the confidentiality of sensitive information, including client data and proprietary business processes, and avoid unauthorized disclosure.\"",
+            "Obligation:2 \"Use Information Lawfully**: Ensure that all confidential information is used strictly for lawful purposes and in accordance with regulatory frameworks and permissions.\"",
+            "Obligation:3 \"Comply with Data Protection Laws**: Adhere to data protection and privacy laws within ADGM, ensuring personal data is processed fairly, lawfully, and securely.\"",
+            "Obligation:4 \"Report Accurately to the Regulator**: Provide accurate information to the Regulator as required, including financial reports and transaction details, without unlawfully disclosing confidential information.\"",
+            "Obligation:5 \"Respond to Regulatory Requests**: Comply with lawful information requests from the Regulator, ensuring that such compliance respects statutory limitations on disclosure.\"",
+            "Obligation:6 \"Implement Protection Measures**: Establish appropriate security measures to prevent unauthorized access, disclosure, alteration, or destruction of confidential information.\"",
+            "Obligation:7 \"Develop Training and Policies**: Create and enforce policies and procedures for handling confidential information, and train employees on their importance and their roles in compliance.\"",
+            "Obligation:8 \"Notify of Breaches**: Promptly report any breaches of confidentiality or misuse of information to the Regulator and, if applicable, to affected individuals.\"",
+            "Obligation:9 \"Cooperate with Investigations**: Assist the Regulator with any investigations or inquiries related to the use or disclosure of confidential information.\"",
+            "Obligation:10 \"Maintain Accurate Records**: Keep detailed records of the processing of confidential information and be prepared to disclose these records to the Regulator if requested.\"",
+            "Obligation:11 \"Adhere to Non-Disclosure Agreements**: Sign and comply with non-disclosure agreements or statutory non-disclosure provisions as required.\n\nPlease note that these action items are based on general obligations within the ADGM framework and may vary depending on specific circumstances. For precise obligations, consult the relevant ADGM regulations or seek legal counsel.\""
+        ]
+    },
+    {
+        "ID": "ff3bbf8f-5a58-4ab3-be4f-1510b4e7fdf6",
+        "PassageID": "3.2",
+        "Passage": "Overriding Duty of Confidentiality",
+        "Obligations": [],
+        "NamedEntities": {
+            "duty": "some obligation which exists and is imposed on some individual"
+        }
+    },
+    {
+        "ID": "d6685678-9815-4ef9-a0d5-62ea912062f9",
+        "PassageID": "3.2.1",
+        "Passage": "The Regulator must keep confidential any Confidential Information received by or disclosed to it in the course of performing its functions, subject to the exceptions set out in section \u200e3.3 below.\n",
+        "Obligations": [
+            "Obligation:1 \"Obtain and review the specific section 3.3 of the regulation to understand the detailed exceptions to the confidentiality obligation.\"",
+            "Obligation:2 \"Respect the confidentiality requirements imposed on the Regulator and accurately label any confidential information provided as such.\"",
+            "Obligation:3 \"Cooperate with the Regulator's confidentiality protocols and provide information as required.\"",
+            "Obligation:4 \"Implement appropriate internal controls and procedures to prevent unauthorized disclosure of confidential information.\"",
+            "Obligation:5 \"Be aware of the exceptions to confidentiality and prepare for lawful disclosures that may involve your confidential information.\"",
+            "Obligation:6 \"Consult with a compliance officer or legal counsel to ensure full understanding and compliance with confidentiality and disclosure obligations.\"",
+            "Obligation:7 \"Ensure that any confidential information handled in relation to dealings with the Regulator is kept secure and not disclosed to unauthorized parties.\"",
+            "Obligation:8 \"Comply with relevant regulatory requirements and procedures when disclosing confidential information to the Regulator.\"",
+            "Obligation:9 \"Report any disclosures of confidential information that fall under an exception to the Regulator as per outlined procedures.\"",
+            "Obligation:10 \"Understand when the exceptions to confidentiality apply and ensure that any disclosure or handling of confidential information aligns with these exceptions.\"",
+            "Obligation:11 \"Notify the Regulator immediately if an unauthorized disclosure of confidential information occurs.\"",
+            "Obligation:12 \"Cooperate with the Regulator in any investigation or inquiry related to the confidentiality of information.\""
+        ]
+    },
+    {
+        "ID": "ec1b1310-a700-42b5-9b47-da559da183d9",
+        "PassageID": "3.2.2",
+        "Passage": "Abu Dhabi Law No. (4) of 2013. This duty of confidentiality is set out in Article 12 of Abu Dhabi Law No. (4) of 2013 and requires the Regulator to keep confidential any Confidential Information received by or disclosed to it in the course of performing its functions, unless disclosure is permitted in accordance with ADGM regulations.",
+        "Obligations": [
+            "Obligation:1 \"Maintain Confidentiality**: Ensure that any confidential information received in the course of performing duties is kept strictly confidential.\"",
+            "Obligation:2 \"Permitted Disclosures**: Disclose confidential information only when such disclosure is allowed under ADGM regulations or required by law, court order, or with the consent of the entity or individual to whom the information pertains.\"",
+            "Obligation:3 \"Handling of Information**: Implement systems and controls to handle confidential information appropriately and prevent unauthorized disclosure.\"",
+            "Obligation:4 \"Compliance with Laws and Regulations**: Comply with all relevant ADGM laws and regulations, including data protection laws, that govern the handling of confidential information.\"",
+            "Obligation:5 \"Internal Controls and Procedures**: Establish and maintain internal controls and procedures to safeguard confidential information, including employee training and data security measures.\"",
+            "Obligation:6 \"Reporting Unauthorized Disclosures**: Report any unauthorized disclosures of confidential information to the relevant authorities within ADGM promptly.\"",
+            "Obligation:7 \"Cooperation with the Regulator**: Cooperate with the Regulator when confidential information is required for the performance of its functions, ensuring that such requests are made in accordance with the regulations.\"",
+            "Obligation:8 \"Handling Requests for Information**: Manage requests for confidential information from third parties in accordance with ADGM regulations to ensure no unauthorized disclosures occur.\"",
+            "Obligation:9 \"Seek Legal Advice**: If unsure about obligations, consult with a legal expert specialized in ADGM financial regulatory compliance.\"",
+            "Obligation:10 \"Provide Accurate Information**: If a regulated entity or individual, provide accurate and complete information to the Regulator as required by regulations.\"",
+            "Obligation:11 \"Understand Disclosure Circumstances**: Be aware of the circumstances under which your information may be disclosed by the Regulator.\"",
+            "Obligation:12 \"Seek Assurance**: Obtain assurance from the Regulator that your information will be handled in accordance with confidentiality obligations.\"",
+            "Obligation:13 \"Refer to Specific Regulations**: Refer to specific ADGM regulations and any guidance or rules issued by the FSRA that apply to your activities for a complete understanding of your obligations.\""
+        ],
+        "NamedEntities": {
+            "duty": "some obligation which exists and is imposed on some individual",
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        }
+    },
+    {
+        "ID": "c7d38394-744b-4b51-96c6-915284a07162",
+        "PassageID": "3.2.3",
+        "Passage": "Abu Dhabi Law No. (4) of 2013. The relevant ADGM regulations impacting on the Regulator\u2019s duty of confidentiality are the FSMR and the Data Protection Regulations 2015.\n\n",
+        "Obligations": [
+            "Obligation:1 \"Obtain necessary licenses and authorizations to conduct financial services within ADGM.\"",
+            "Obligation:2 \"Comply with capital adequacy, risk management, liquidity, and corporate governance requirements.\"",
+            "Obligation:3 \"Adhere to Anti-Money Laundering (AML) and Counter-Terrorist Financing (CTF) regulations.\"",
+            "Obligation:4 \"Maintain proper records and submit regular financial reports to the FSRA.\"",
+            "Obligation:5 \"Protect client assets and treat customers fairly, ensuring suitability of products and disclosure of relevant information.\"",
+            "Obligation:6 \"Avoid market abuse activities such as insider trading or market manipulation.\"",
+            "Obligation:7 \"Establish and maintain effective compliance and internal control systems.\"",
+            "Obligation:8 \"Process personal data lawfully, fairly, and securely, ensuring transparency in data processing activities.\"",
+            "Obligation:9 \"Obtain explicit consent from individuals for data collection and processing, unless another lawful basis applies.\"",
+            "Obligation:10 \"Keep personal data accurate and up-to-date.\"",
+            "Obligation:11 \"Implement appropriate technical and organizational measures to protect personal data.\"",
+            "Obligation:12 \"Ensure personal data is not transferred outside of ADGM unless to jurisdictions with adequate protection or with appropriate safeguards.\"",
+            "Obligation:13 \"Report data breaches to the ADGM Office of Data Protection and affected individuals when necessary.\"",
+            "Obligation:14 \"Appoint a data protection officer if required by the scale and nature of data processing.\"",
+            "Obligation:15 \"Respect the rights of data subjects, including access, correction, and deletion of their personal data.\"",
+            "Obligation:16 \"Ensure confidentiality of information received in the course of regulatory functions, disclosing only when necessary or legally required.\""
+        ],
+        "NamedEntities": {
+            "duty": "some obligation which exists and is imposed on some individual",
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        }
+    },
+    {
+        "ID": "94e75f0a-bc14-42f2-aa9a-aec58166dc40",
+        "PassageID": "3.2.4",
+        "Passage": "FSMR. Similarly to the duty of confidentiality in Abu Dhabi Law No. (4) of 2013, section 198 of the FSMR also prohibits disclosure of Confidential Information by the Regulator, its employees, agents or by any person coming into possession of it, subject to exceptions set out in section \u200e3.3 below.\n",
+        "Obligations": [
+            "Obligation:1 \"Maintain Confidentiality**: Do not disclose any confidential information obtained through your duties or relationship with the Regulator, except as allowed by law or FSMR.\"",
+            "Obligation:2 \"Compliance with Permitted Disclosures**: Ensure that any disclosure of confidential information complies with the exceptions outlined in the FSMR or other applicable laws, such as:\n   - Disclosure with consent from the person to whom the duty of confidentiality is owed.\n   - Disclosure required by law or court order.\n   - Disclosure necessary for the performance of the duties of the Regulator.\n   - Disclosure to other regulatory bodies for regulatory cooperation.\"",
+            "Obligation:3 \"Safeguarding Information**: Take reasonable steps to protect confidential information from unauthorized access, loss, or destruction.\"",
+            "Obligation:4 \"Reporting Obligations**: Report any legal or regulatory obligations, such as suspicious activities related to money laundering or terrorist financing, and report any unauthorized disclosures of confidential information.\"",
+            "Obligation:5 \"Adhere to Internal Policies and Procedures**: Follow internal policies and procedures designed to maintain confidentiality as required by the FSMR.\"",
+            "Obligation:6 \"Training and Awareness**: Stay informed about confidentiality obligations and ensure that any team members are also trained and aware of these obligations.\"",
+            "Obligation:7 \"Legal and Regulatory Compliance**: Ensure all actions related to handling confidential information are compliant with the FSMR and other relevant laws and regulations.\"",
+            "Obligation:8 \"Seek Legal Advice**: If uncertain about your obligations or the application of the FSMR to your situation, seek legal advice or consult with the ADGM FSRA for guidance.\"",
+            "Obligation:9 \"Understand Consequences**: Be aware of the potential consequences, such as disciplinary action, regulatory sanctions, or legal proceedings, for breaching the duty of confidentiality.\""
+        ],
+        "NamedEntities": {
+            "duty": "some obligation which exists and is imposed on some individual",
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        }
+    },
+    {
+        "ID": "43168100-3219-4520-9efe-62639c33f2ed",
+        "PassageID": "3.2.5",
+        "Passage": "Data Protection Regulations 2015. Certain duties and obligations contained within the Data Protection Regulations 2015 apply to the Regulator when dealing with personal data, concerning accuracy and the duty to ensure security of processing when personal data is being collected and maintained.",
+        "Obligations": [
+            "Obligation:1 \"Ensure Accuracy of Data**: Take reasonable steps to ensure personal data is accurate and up to date, rectifying or erasing inaccurate data.\"",
+            "Obligation:2 \"Maintain Security of Processing**: Implement appropriate technical and organizational measures to protect against unauthorized or unlawful processing, accidental loss, destruction, or damage.\"",
+            "Obligation:3 \"Conduct Lawful Data Collection**: Collect personal data in a lawful, fair, and transparent manner, providing individuals with information about data usage, processing, and protection.\"",
+            "Obligation:4 \"Implement Data Maintenance Protocols**: Do not keep personal data longer than necessary, regularly review data holdings, and securely delete or anonymize data when no longer needed.\"",
+            "Obligation:5 \"Uphold Data Subject Rights**: Respect and facilitate data subjects' rights to access, rectify inaccuracies, erase data, restrict processing, ensure data portability, and object to processing.\"",
+            "Obligation:6 \"Appoint a Data Protection Officer (DPO)**: If required, appoint a DPO to monitor compliance, advise on DPIAs, and act as a contact point for data subjects and the supervisory authority.\"",
+            "Obligation:7 \"Notify Authorities of Data Breaches**: Notify the Commissioner of Data Protection promptly, within 72 hours if feasible, unless the breach is unlikely to result in a risk to the rights and freedoms of natural persons.\"",
+            "Obligation:8 \"Conduct Data Protection Impact Assessments (DPIA)**: Carry out DPIAs for processing likely to result in high risk to individuals' rights and freedoms to assess and mitigate risks.\"",
+            "Obligation:9 \"Maintain Records of Processing Activities**: Keep detailed records of processing activities, including purposes of processing, categories of data subjects and personal data, and details of data transfers to third countries.\"",
+            "Obligation:10 \"Ensure Compliance with International Data Transfers**: When transferring personal data internationally, ensure adequate safeguards are in place to protect the data and that data subjects have enforceable rights and effective legal remedies.\"",
+            "Obligation:11 \"Provide Training and Awareness**: Train staff on data protection responsibilities and ensure awareness of the principles and obligations under the Data Protection Regulations.\n\nThese action items are synthesized from the provided responses and are intended to guide entities within the ADGM in complying with the Data Protection Regulations 2015. Legal consultation is recommended for tailored advice and thorough understanding of specific obligations.\""
+        ],
+        "NamedEntities": {
+            "security": "financial instrument that can be bought or sold",
+            "duty": "some obligation which exists and is imposed on some individual"
+        }
+    },
+    {
+        "ID": "11fcd8c4-5f92-44c3-93f9-b42f65e5476b",
+        "PassageID": "3.2.6",
+        "Passage": "Data Protection Regulations 2015. The Regulator is excused from certain obligations set out in the Data Protection Regulations in circumstances where compliance with such duties would be likely to prejudice the proper discharge of the Regulator\u2019s powers or functions to protect the public from financial loss due to improper conduct, unfitness or incompetence of persons engaging in offering financial services.\n",
+        "Obligations": [
+            "Obligation:1 \"Data Processing Principles**: Ensure that personal data is processed in a manner that is fair, lawful, and secure.\"",
+            "Obligation:2 \"Data Subject Rights**: Respect the rights of data subjects, including their rights to access, correct, and delete their personal data.\"",
+            "Obligation:3 \"Data Protection Officer (DPO)**: Appoint a DPO as required to oversee data protection strategies and compliance.\"",
+            "Obligation:4 \"Notification of Data Breaches**: Report any data breaches to the ADGM Office of Data Protection within the specified timeframe.\"",
+            "Obligation:5 \"Data Transfer**: Ensure that personal data transfers to other jurisdictions comply with ADGM data protection regulations, and do not transfer data to territories without adequate protection unless certain conditions are met.\"",
+            "Obligation:6 \"Record Keeping**: Maintain accurate records of all data processing activities.\"",
+            "Obligation:7 \"Data Protection Impact Assessments (DPIAs)**: Conduct DPIAs for processing activities that pose a high risk to the rights and freedoms of individuals.\"",
+            "Obligation:8 \"Compliance Documentation**: Implement and maintain policies, procedures, and documentation to demonstrate compliance with the Data Protection Regulations.\n\nNote: These action items are applicable to entities operating within the ADGM jurisdiction and are subject to the Data Protection Regulations 2015. Entities should consult the full text of the regulations or seek legal advice to understand the full scope of their obligations.\""
+        ],
+        "NamedEntities": {
+            "offering": "The process step of offering a security for issue. This is the making available of a new securities issue through an underwriting."
+        }
+    },
+    {
+        "ID": "01171093-76b9-440d-aca8-5c5efead7252",
+        "PassageID": "3.2.7",
+        "Passage": "The UAE Penal Code (Federal Law No. (3) of 1987). As the UAE criminal laws apply in the ADGM, Article 379 of the UAE Penal Code provides for criminal penalties for disclosure of Confidential Information in cases other than those lawfully permitted.  Public officials, or those persons in charge of a public service, are subject to more severe penalties than the general persons for unlawful disclosure of Confidential Information \u2013 namely, imprisonment of up to five (5) years.\n",
+        "Obligations": [
+            "Obligation:1 \"Maintain Confidentiality**: Safeguard all confidential information encountered during your duties, including personal data, trade secrets, financial records, and other classified information.\"",
+            "Obligation:2 \"Lawful Disclosure**: Only disclose confidential information when legally permitted or required, such as with consent, in compliance with legal obligations, or as authorized in your official duties.\"",
+            "Obligation:3 \"Understand Confidential Information**: Clearly identify what information is considered confidential within your role or business operations.\"",
+            "Obligation:4 \"Implement Policies and Procedures**: Establish and enforce policies and procedures to prevent unauthorized disclosure, including employee training, data protection measures, and confidentiality agreements.\"",
+            "Obligation:5 \"Be Aware of Penalties**: Understand the criminal penalties for non-compliance, particularly for public officials or service providers, which can include imprisonment.\"",
+            "Obligation:6 \"Reporting Obligations**: Report any breaches of confidentiality to the relevant authorities within ADGM or other UAE authorities as required.\"",
+            "Obligation:7 \"Compliance with Additional Regulations**: Ensure adherence to other relevant regulations, such as the ADGM Data Protection Regulations, which may have further requirements for handling personal data.\"",
+            "Obligation:8 \"Regular Review and Audit**: Continuously review and audit your practices to ensure compliance and identify potential risks.\"",
+            "Obligation:9 \"Seek Legal Counsel**: Consult with legal or compliance professionals to ensure accurate understanding and application of these obligations to your specific situation within ADGM.\""
+        ],
+        "NamedEntities": {
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        }
+    },
+    {
+        "ID": "5bb7d55c-51cc-4533-b79d-fee4e55d39f6",
+        "PassageID": "3.2.8",
+        "Passage": "Regulator\u2019s internal practices and procedures. The above-mentioned statutory obligations requiring all Regulator\u2019s employees, agents and independent contractors to keep all Confidential Information confidential is further reinforced by requiring all Regulator\u2019s employees, agents and independent contractors to sign an Employment or Consultancy Services Contract that incorporates a confidentiality clause.",
+        "Obligations": [
+            "Obligation:1 \"Sign a Contract with Confidentiality Clause**: Enter into an Employment or Consultancy Services Contract that includes a clause mandating the confidentiality of information.\"",
+            "Obligation:2 \"Maintain Confidentiality**: Do not disclose any Confidential Information accessed through your role to third parties without authorization.\"",
+            "Obligation:3 \"Adhere to Internal Practices and Procedures**: Follow the Regulator's guidelines and protocols for managing, storing, sharing, and disposing of Confidential Information.\"",
+            "Obligation:4 \"Report Breaches**: Notify the appropriate authority within the Regulator's organization if you become aware of any breaches of confidentiality.\"",
+            "Obligation:5 \"Understand Continued Obligation**: Recognize that the duty to maintain confidentiality extends beyond the termination of your contract or employment, as outlined in your agreement.\"",
+            "Obligation:6 \"Participate in Training and Awareness Programs**: Engage in training or awareness sessions to fully understand the scope and importance of confidentiality obligations.\"",
+            "Obligation:7 \"Secure Handling of Information**: Ensure that Confidential Information is securely handled and stored to prevent unauthorized access, using methods such as passwords, encryption, and secure storage.\"",
+            "Obligation:8 \"Limitation on Use of Information**: Use Confidential Information solely for fulfilling your duties and not for any other purposes.\"",
+            "Obligation:9 \"Acknowledge Penalties for Non-Compliance**: Be aware of the potential disciplinary action, legal consequences, and financial penalties for failing to comply with confidentiality obligations.\"",
+            "Obligation:10 \"Seek Clarification When Needed**: If uncertain about any aspect of your obligations, seek clarification from the Regulator's compliance or legal department.\n\nRemember to review your contract and the Regulator's policies thoroughly to ensure you understand and comply with all your obligations regarding confidentiality.\""
+        ],
+        "NamedEntities": {
+            "contract": "voluntary, deliberate agreement between competent parties to which the parties agree to be legally bound, and for which the parties provide valuable consideration",
+            "employment": "situation representing the state of being employed, i.e., the relationship that holds between an employer and employee for some period of time"
+        }
+    },
+    {
+        "ID": "00d0364d-90b2-4c58-b10d-f778c1bdfd2c",
+        "PassageID": "3.3",
+        "Passage": "Exceptions to the Duty of Confidentiality\n",
+        "Obligations": [],
+        "NamedEntities": {
+            "duty": "some obligation which exists and is imposed on some individual"
+        }
+    },
+    {
+        "ID": "fbbdae87-6f42-49d9-81a9-e75a30466d8a",
+        "PassageID": "3.3.1",
+        "Passage": "With prior consent under section 198(1) of FSMR. Section 198(1) prohibits disclosure of Confidential Information by the Regulator, its employees, agents or by any person coming into possession of Confidential Information unless they have the prior consent of\u2014\n(a)\tthe person from whom the Confidential Information was obtained; and,\n(b)\tif different, the person to whom the duty of confidentiality is owed (paragraphs 198(1)(a) and (b)).\n",
+        "Obligations": [
+            "Obligation:1 \"Maintain Confidentiality**: Ensure the confidentiality of any information classified as \"Confidential Information\" under the FSMR is maintained and not disclosed to third parties without proper authorization.\"",
+            "Obligation:2 \"Obtain Prior Consent for Disclosure**: Secure prior consent for the disclosure of Confidential Information from both the individual or entity from whom the information was obtained and the individual or entity to whom the duty of confidentiality is owed.\"",
+            "Obligation:3 \"Assess the Nature of the Information**: Verify that the information in question is indeed Confidential Information as defined by the FSMR.\"",
+            "Obligation:4 \"Implement Internal Controls**: Establish and maintain appropriate internal controls and procedures to prevent unauthorized disclosure, which includes training for employees and agents.\"",
+            "Obligation:5 \"Compliance with Exceptions**: Understand and comply with any exceptions to the confidentiality obligations as outlined in the FSMR or other applicable laws, such as disclosures required by law or in the performance of duties by the Regulator.\"",
+            "Obligation:6 \"Documentation**: Keep detailed records of consent obtained for disclosure and document any disclosures made, including the recipient and purpose of the disclosure.\"",
+            "Obligation:7 \"Reporting Unauthorized Disclosures**: Report any unauthorized disclosures of Confidential Information to the Regulator and take steps to mitigate potential harm.\"",
+            "Obligation:8 \"Training and Awareness**: Ensure that all relevant personnel are trained and aware of the confidentiality obligations and the proper handling of Confidential Information.\"",
+            "Obligation:9 \"Review and Update Procedures**: Regularly review and update procedures related to the handling of Confidential Information to ensure compliance with the FSMR.\"",
+            "Obligation:10 \"Compliance with Legal and Regulatory Requirements**: Ensure that any disclosure of Confidential Information, even with consent, is in line with all other relevant legal and regulatory requirements.\"",
+            "Obligation:11 \"Limited Disclosure**: When disclosure is made with consent, limit it to what is necessary and protect the confidentiality of the information as much as possible.\""
+        ],
+        "NamedEntities": {
+            "duty": "some obligation which exists and is imposed on some individual"
+        }
+    },
+    {
+        "ID": "c00da018-12cb-43c0-b760-846f4828225a",
+        "PassageID": "3.3.2",
+        "Passage": "The exceptions under section 199(1) of FSMR. Section 199 of the FSMR provides certain exceptions from the overriding restriction on disclosure of Confidential Information in section 198.  Specifically, subsection 199(1) enables the Regulator to disclose Confidential Information for the purpose of facilitating the carrying out of a Public Function, subject to section 199(2), if the disclosure is\u2014\n(a)\tpermitted or required under any enactment applicable to the Regulator, including, for the avoidance of doubt, any applicable international obligations; or\n(b)\tmade to\u2014\n(i)\tthe ADGM Registrar of Companies;\n(ii)\ta Non-Abu Dhabi Global Market Regulator;\n(iii)\ta governmental or regulatory authority exercising powers and performing functions relating to anti-money laundering, counter-terrorist financing or sanctions compliance, whether in the ADGM or otherwise;\n(iv)\ta self-regulatory body or organisation exercising and performing powers and functions in relation to financial services, whether in the ADGM or otherwise;\n(v)\ta criminal law enforcement agency, whether in the U.A.E or otherwise, for the purpose of any criminal investigation or criminal proceedings;\n(vi)\ta civil law enforcement agency or body, whether in the Abu Dhabi Global Market, U.A.E or otherwise;\nfor the purpose of assisting the performance by any such person of its functions and powers; or\n(c)\tmade in good faith for the purposes of the exercise of the functions and powers of the Regulator or in order to further the Regulator's objectives.",
+        "Obligations": [
+            "Obligation:1 \"Maintain Confidentiality**: Ensure the confidentiality of information is maintained according to section 198 of FSMR unless an exception applies.\"",
+            "Obligation:2 \"Permitted Disclosures**: Disclose Confidential Information only in circumstances outlined in section 199(1) of FSMR, which include:\n   - Disclosure is permitted or required by law, including international obligations.\n   - Disclosure is made to specific entities or authorities, such as:\n     - ADGM Registrar of Companies\n     - Non-ADGM Regulators\n     - Authorities related to AML, CTF, or sanctions compliance\n     - Self-regulatory organizations related to financial services\n     - Criminal law enforcement agencies for criminal investigations or proceedings\n     - Civil law enforcement agencies or bodies\"",
+            "Obligation:3 \"Comply with Conditions for Disclosure**: Ensure any disclosure complies with the conditions set out in section 199(2) of FSMR.\"",
+            "Obligation:4 \"Disclosure for Public Function**: Verify that the disclosure is necessary for facilitating a Public Function.\"",
+            "Obligation:5 \"Good Faith Disclosure**: Make disclosures in good faith for the purpose of the Regulator exercising its functions and powers or to further the Regulator's objectives.\"",
+            "Obligation:6 \"Compliance with Requests**: Comply with information requests from the Regulator for the purpose of carrying out a Public Function or in good faith for the exercise of its functions and powers.\"",
+            "Obligation:7 \"Cooperation**: Cooperate with the Regulator and any entities listed in section 199(1)(b) when approached for assistance.\"",
+            "Obligation:8 \"Reporting Requirements**: Fulfill any reporting obligations under AML, CTF, or sanctions compliance regulations, which may involve disclosing Confidential Information to the relevant authorities.\"",
+            "Obligation:9 \"Legal and Regulatory Compliance**: Ensure that any disclosure of Confidential Information is in accordance with the legal and regulatory framework of ADGM, including adherence to any international obligations.\"",
+            "Obligation:10 \"Seek Legal Advice**: Consult with legal counsel or compliance experts to ensure compliance with FSMR and other relevant regulations, especially when there is uncertainty regarding the obligations.\""
+        ],
+        "NamedEntities": {
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        }
+    },
+    {
+        "ID": "dc3f77a8-19bb-49c7-a2f8-f257642a9321",
+        "PassageID": "3.3.3",
+        "Passage": "The exceptions under section 199(1) of FSMR. The provisions in section 199(2) relate specifically to Confidential Information originating in another governmental or regulatory authority, or Confidential Information that is CRD Information, and provide for and are consistent with the exchange of information and professional secrecy requirements in the European Union\u2019s Capital Requirements Directive.  For the purposes of section 199(2):\n(a)\t\u2018CRD Information\u2019 is defined as Confidential Information received or obtained by the Regulator from the EEA Competent Authority by virtue of the Capital Requirements Directive; and\n(b)\t\u2018EEA Competent Authority\u2019 means a public authority or body officially recognised by national law of a jurisdiction within the EEA and empowered by that national law to supervise institutions as part of the supervisory system.",
+        "Obligations": [],
+        "NamedEntities": {
+            "jurisdiction": "power of a court to adjudicate cases, issue orders, and interpret and apply the law with respect to some specific geographic area",
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties",
+            "exchange": "any organization, association, or group of persons, whether incorporated or unincorporated, which constitutes, maintains, or provides a facility for bringing together purchasers and sellers of financial instruments, commodities, or other products, services, or goods, and includes the market place and facilities maintained by such exchange"
+        }
+    },
+    {
+        "ID": "18dac2e1-b4fe-4748-9b25-bb5e59564aa4",
+        "PassageID": "3.3.4",
+        "Passage": "Section 199(2) provides that paragraphs 198(1)b)(i), (ii), (iii), (iv), (vi) and 1(c) do not permit the Regulator to disclose this Confidential Information unless \u2013\n(a) \tthe governmental or regulatory authority that has disclosed the Confidential Information to the Regulator has given its prior written consent to the disclosure; and\n(b) \twhere the Confidential Information is CRD Information:\n(i) \tthe EEA Competent Authority that has disclosed the Confidential Information to the Regulator has given its prior written consent to the disclosure; and\n(ii) \tif such consent was given for a particular purpose, the disclosure by the Regulator is solely for that purpose.\n",
+        "Obligations": [
+            "Obligation:1 \"Obtain Prior Written Consent for Disclosure:**\n   - Ensure to get prior written consent from the original disclosing authority before disclosing any confidential information.\"",
+            "Obligation:2 \"Adhere to Conditions of Consent for CRD Information:**\n   - If dealing with CRD Information, obtain prior written consent from the EEA Competent Authority.\n   - Disclose the information only for the specific purpose for which consent was given.\"",
+            "Obligation:3 \"Purpose-Limited Disclosure:**\n   - Ensure that any disclosure of confidential information aligns with the purpose specified in the consent.\"",
+            "Obligation:4 \"Documentation and Record-Keeping:**\n   - Maintain thorough documentation of consents, purposes for which they were granted, and records of disclosures and uses of the disclosed information.\"",
+            "Obligation:5 \"Compliance with Additional Regulations and Obligations:**\n   - Comply with all relevant ADGM regulations, international regulations, and principles of data protection and confidentiality when disclosing confidential information.\""
+        ]
+    },
+    {
+        "ID": "3ea3d5aa-2378-40cd-ab7a-f454859a385c",
+        "PassageID": "3.3.5",
+        "Passage": "Disclosure to a criminal law enforcement agency. Importantly, disclosure of Confidential Information by the Regulator to a criminal law enforcement agency, whether in the U.A.E or otherwise, for the purpose of any criminal investigation or criminal proceedings under paragraph 199(1)(b)(v) is not subject to the requirements under section 199(2).\n",
+        "Obligations": [
+            "Obligation:1 \"Cooperate with Investigations**: Provide information or documents as requested by the Regulator or law enforcement agencies during any criminal investigation or proceedings.\"",
+            "Obligation:2 \"Maintain Confidentiality**: Keep all information confidential unless required or permitted by law or by the Regulator to disclose it to authorities.\"",
+            "Obligation:3 \"Comply with Laws and Regulations**: Adhere to all applicable laws and regulations, including those related to AML, CTF, and financial crimes.\"",
+            "Obligation:4 \"Report Suspicious Activities**: Report any suspicious activities or transactions to the FIU or other designated authorities as required by AML and CTF regulations.\"",
+            "Obligation:5 \"Implement Internal Policies and Procedures**: Establish and maintain internal policies and procedures to manage the risk of criminal activities, including customer due diligence, record-keeping, and reporting.\"",
+            "Obligation:6 \"Train Employees**: Ensure that employees are trained and aware of legal obligations and internal policies, especially regarding the identification and reporting of suspicious activities.\"",
+            "Obligation:7 \"Ensure Data Protection Compliance**: While disclosing information, comply with data protection laws, ensuring that any personal data disclosure is lawful and proportionate.\"",
+            "Obligation:8 \"Seek Legal Advice**: Obtain legal advice to ensure compliance with relevant laws and regulations, particularly in situations involving potential criminal investigations or proceedings.\"",
+            "Obligation:9 \"Maintain Accurate Records**: Keep accurate and complete records of all transactions and communications that may be relevant for investigations or legal proceedings.\"",
+            "Obligation:10 \"Understand Regulatory Powers**: Be aware of the Regulator's authority to disclose confidential information for criminal investigations or proceedings.\n\nPlease note that these action items are based on general obligations and may need to be tailored to specific circumstances or roles within the ADGM. It is recommended to consult with a legal professional or the ADGM Regulator for guidance specific to your situation.\""
+        ],
+        "NamedEntities": {
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        }
+    },
+    {
+        "ID": "83907119-2b7a-41a4-af66-4ebc566b0820",
+        "PassageID": "3.4",
+        "Passage": "Admissibility of compelled testimony in criminal proceedings",
+        "Obligations": []
+    },
+    {
+        "ID": "7585319d-2470-46fc-975e-d1a88a2805d6",
+        "PassageID": "3.4.1",
+        "Passage": "In addition to the overriding duty of confidentiality set out in section 198, section 207(2) of the FSMR prohibits the Regulator from disclosing a statement made by a person to an investigator at an interview conducted pursuant to section 206(1)(a) to any law enforcement agency for the purpose of criminal proceedings against that person unless:\n(a)\tthe person consents to the disclosure; or\n(b)\tthe Regulator is required by law or court order to disclose the statement.",
+        "Obligations": [
+            "Obligation:1 \"Understand Confidentiality Obligations**: Familiarize yourself with the Regulator's duty of confidentiality and prohibition on disclosure as outlined in sections 198 and 207(2) of the FSMR.\"",
+            "Obligation:2 \"Cooperate with Investigations**: If you are subject to an investigation, cooperate with the Regulator as required by the regulatory framework of the ADGM.\"",
+            "Obligation:3 \"Be Aware of Your Rights**: Know that your statements made during an interview are generally protected from disclosure, and understand the conditions under which they may be disclosed.\"",
+            "Obligation:4 \"Provide Consent for Disclosure**: If you wish, you can consent to the disclosure of your statements to law enforcement agencies for the purpose of criminal proceedings.\"",
+            "Obligation:5 \"Seek Legal Advice**: Obtain legal advice to understand the implications of your statements, potential disclosures, and your overall rights and obligations during an investigation.\"",
+            "Obligation:6 \"Maintain Records**: Keep records of all interactions with the Regulator, including interviews, especially if you are part of a regulated entity.\"",
+            "Obligation:7 \"Implement Training and Policies**: If responsible for compliance within a regulated entity, ensure that employees are trained and policies are in place regarding confidentiality protections and obligations as per the FSMR.\"",
+            "Obligation:8 \"Consult Full Text or Legal Advisor**: Always refer to the full text of the FSMR or consult with a legal advisor for a comprehensive understanding of all obligations under the ADGM regulatory framework.\""
+        ],
+        "NamedEntities": {
+            "duty": "some obligation which exists and is imposed on some individual",
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        }
+    },
+    {
+        "ID": "21d88aa8-21b6-44e6-adb1-61bdb35c8eb6",
+        "PassageID": "3.5",
+        "Passage": "The effect of foreign secrecy laws",
+        "Obligations": []
+    },
+    {
+        "ID": "4e538f99-8bbf-460d-b005-4b6b11955cea",
+        "PassageID": "3.5.1",
+        "Passage": "Foreign banking secrecy laws lack extraterritorial effect and thus do not apply in the ADGM; entities regulated by the Regulator and their clients are not prevented from complying with obligations to disclose information related to financial services activities conducted in or from the ADGM.",
+        "Obligations": []
+    },
+    {
+        "ID": "8f854fc0-237d-48e0-a6b4-5b5d586fd7a3",
+        "PassageID": "3.5.2",
+        "Passage": "Similarly, a request from the Regulator for disclosure of confidential client account information (if the client's business is booked, held, serviced and managed exclusively in a foreign jurisdiction) shall be governed by and be subject to the secrecy laws, if any, of that jurisdiction.",
+        "Obligations": [
+            "Obligation:1 \"Assess Jurisdiction**: Determine if the client's business is booked, held, serviced, and managed exclusively in a foreign jurisdiction to understand which laws and regulations apply.\"",
+            "Obligation:2 \"Understand Secrecy Laws**: Gain a clear understanding of the legal framework governing the confidentiality of client information in the relevant foreign jurisdiction.\"",
+            "Obligation:3 \"Compliance with Secrecy Laws**: Ensure that any disclosure of confidential client account information complies with the secrecy laws of the foreign jurisdiction, which may involve seeking legal advice, client consent, or adhering to international agreements or court orders.\"",
+            "Obligation:4 \"Responding to the Regulator**: Provide the Regulator with the requested information if permissible, or explain the legal constraints preventing disclosure, while maintaining open communication to manage their expectations.\"",
+            "Obligation:5 \"Documentation and Record-Keeping**: Maintain thorough records of the Regulator's request, your response, and any related legal analysis or correspondence.\"",
+            "Obligation:6 \"Ongoing Monitoring**: Stay updated on any changes to the secrecy laws in the foreign jurisdiction that might affect disclosure obligations.\"",
+            "Obligation:7 \"Legal and Regulatory Consultation**: Consult with legal counsel specializing in the relevant foreign jurisdiction's laws and ADGM regulations to ensure full compliance with your obligations.\"",
+            "Obligation:8 \"Risk Management**: Implement and maintain a risk management framework to address legal and regulatory risks associated with cross-border information requests.\"",
+            "Obligation:9 \"Policies and Procedures**: Develop and maintain robust policies and procedures to handle regulatory requests in compliance with both ADGM regulations and foreign secrecy laws.\""
+        ],
+        "NamedEntities": {
+            "account": "container for records associated with a business arrangement for regular transactions and services",
+            "jurisdiction": "power of a court to adjudicate cases, issue orders, and interpret and apply the law with respect to some specific geographic area"
+        }
+    },
+    {
+        "ID": "29d14542-4c62-40a8-9ba6-b246f53f3a7c",
+        "PassageID": "4.",
+        "Passage": "DISCLOSURE OF CONFIDENTIAL INFORMATION",
+        "Obligations": []
+    },
+    {
+        "ID": "b2d22511-a0d6-4867-b2ba-f8584df83eae",
+        "PassageID": "4.1",
+        "Passage": "Making a request for disclosure of Confidential Information",
+        "Obligations": []
+    },
+    {
+        "ID": "9cc48429-d444-4e4c-8d3c-b0581d5c7d50",
+        "PassageID": "4.1.1",
+        "Passage": "Every request to disclose Confidential Information, will be assessed by the Regulator on a case-by-case basis, whether this information was obtained voluntarily, in the course of the Regulator exercising its own functions and powers or exercising its powers on behalf of other authorities.",
+        "Obligations": []
+    },
+    {
+        "ID": "0c21abc9-9815-4416-930b-45470227e019",
+        "PassageID": "4.1.2",
+        "Passage": "In deciding whether to comply with a request to disclose Confidential Information, the Regulator would satisfy itself that there are legitimate reasons for the request and that the authority requesting the information has the appropriate policies and procedures in place for dealing with Confidential Information.",
+        "Obligations": [
+            "Obligation:1 \"Maintain the confidentiality of sensitive business and client information.\"",
+            "Obligation:2 \"Assess the legitimacy of any requests for information from regulatory or other authorities.\"",
+            "Obligation:3 \"Verify that the requesting authority has appropriate policies and procedures for handling confidential information.\"",
+            "Obligation:4 \"Ensure compliance with all applicable laws, regulations, and ADGM-specific rules regarding the disclosure of confidential information.\"",
+            "Obligation:5 \"Document all disclosures of confidential information, including request details, assessment of legitimacy, and verification of authority's handling procedures.\"",
+            "Obligation:6 \"Seek legal advice when uncertain about the disclosure of confidential information.\"",
+            "Obligation:7 \"Cooperate with the regulator by providing requested information in accordance with instructions, if the request is deemed legitimate.\"",
+            "Obligation:8 \"Develop and implement internal policies and procedures for handling requests for the disclosure of confidential information.\"",
+            "Obligation:9 \"Follow internal policies and procedures when disclosing confidential information, including obtaining necessary approvals.\"",
+            "Obligation:10 \"Notify affected parties before disclosing their confidential information, if required.\"",
+            "Obligation:11 \"Limit the disclosure to only the information necessary to comply with the request.\"",
+            "Obligation:12 \"Consult with a compliance officer or legal counsel for tailored advice regarding specific regulatory requirements and the context of the disclosure request.\""
+        ]
+    },
+    {
+        "ID": "5b971fba-9c2c-40a0-9b54-e38c1d4d3350",
+        "PassageID": "4.1.3",
+        "Passage": "Section 199(3) of the FSMR enables the Regulator to, among other things:\n(a)\timpose conditions on the information disclosed, which may relate to, among other things, the obtaining of consents or, where appropriate, subjecting information received to restrictions on disclosure that are at least equivalent to those set out in section 198, per paragraph 199(3)(a); and\n(b)\trestrict the uses to which the Confidential Information disclosed may be put.\n",
+        "Obligations": [
+            "Obligation:1 \"Adhere to Disclosure Conditions:**\n   - Comply with any conditions imposed by the Regulator regarding the disclosure of confidential information.\n   - Obtain necessary consents from relevant parties before disclosing information.\"",
+            "Obligation:2 \"Maintain Restrictions on Further Disclosure:**\n   - Ensure that any further disclosure of confidential information is subject to restrictions equivalent to those in Section 198 of the FSMR.\n   - Protect the confidentiality of the information and prevent unauthorized access or dissemination.\"",
+            "Obligation:3 \"Limit Use of Confidential Information:**\n   - Restrict the use of confidential information to the purposes for which it was disclosed and as authorized by the Regulator.\n   - Avoid using the information for unauthorized purposes.\"",
+            "Obligation:4 \"Compliance with Additional Conditions:**\n   - Follow any specific procedures, limitations, or requirements set forth by the Regulator for handling confidential information.\"",
+            "Obligation:5 \"Reporting and Record-Keeping:**\n   - Keep records of the information disclosed, the consents obtained, and the uses of the information.\n   - Report to the Regulator as necessary to demonstrate compliance with the imposed conditions and restrictions.\"",
+            "Obligation:6 \"Ongoing Compliance:**\n   - Continuously ensure that all conditions and restrictions on the handling of confidential information are being met.\"",
+            "Obligation:7 \"Legal and Regulatory Reference:**\n   - Refer to the full text of the FSMR and any relevant guidance issued by the Regulator.\n   - Seek legal advice if necessary to ensure full compliance with obligations under ADGM financial regulations.\""
+        ]
+    },
+    {
+        "ID": "e7100772-5db0-41ad-9b70-703063c71cdb",
+        "PassageID": "4.1.4",
+        "Passage": "Where the disclosure by the Regulator is made subject to conditions, the person to whom the Confidential Information has been disclosed may not use the Confidential Information in breach of any such condition, as set out in section 199(4) of the FSMR.",
+        "Obligations": [
+            "Obligation:1 \"Compliance with Conditions**: Adhere to any conditions imposed by the Regulator regarding the use of the confidential information.\"",
+            "Obligation:2 \"Prohibition of Unauthorized Use**: Do not use the confidential information in any way that breaches the conditions set by the Regulator.\"",
+            "Obligation:3 \"Confidentiality Maintenance**: Keep the information confidential and do not disclose it to unauthorized third parties, unless permitted by law or the conditions of disclosure.\"",
+            "Obligation:4 \"Reporting Misuse**: Report any misuse of the confidential information to the Regulator.\"",
+            "Obligation:5 \"Legal and Regulatory Compliance**: Ensure that the use of the confidential information complies with all applicable laws and regulations.\"",
+            "Obligation:6 \"Documentation and Record-Keeping**: Maintain records of the information received, the conditions of its disclosure, and any actions taken with the confidential information.\"",
+            "Obligation:7 \"Seeking Clarification/Cooperation with the Regulator**: Seek clarification from the Regulator if there is uncertainty about the conditions of use, and cooperate with the Regulator if they inquire about your use of the confidential information.\n\nNote: The action item \"Seeking Clarification\" from the first list and \"Cooperation with the Regulator\" from the second list have been consolidated as they both involve engaging with the Regulator for guidance and compliance.\""
+        ]
+    },
+    {
+        "ID": "4baeeb46-33ab-41da-a124-80deae1df6b4",
+        "PassageID": "4.2",
+        "Passage": "Disclosure to governmental and regulatory authorities in section 199 of the FSMR",
+        "Obligations": [
+            "Obligation:1 \"Mandatory Reporting**: Report certain types of information, including suspicious activities and financial transactions that exceed a certain threshold, to the relevant authorities.\"",
+            "Obligation:2 \"Compliance with Requests**: Comply with lawful information requests from governmental or regulatory authorities within their scope of power.\"",
+            "Obligation:3 \"Accuracy of Information**: Ensure that any disclosed information is accurate and complete.\"",
+            "Obligation:4 \"Timeliness**: Make disclosures within the specified timeframes.\"",
+            "Obligation:5 \"Confidentiality**: Maintain confidentiality of third-party information when disclosing to authorities, unless required by law.\"",
+            "Obligation:6 \"Record-Keeping**: Maintain records of the information disclosed and the basis for such disclosures.\"",
+            "Obligation:7 \"Notification of Clients or Third Parties**: Notify clients or third parties affected by the disclosure when required, unless prohibited by law.\"",
+            "Obligation:8 \"Internal Policies and Procedures**: Establish and maintain policies and procedures to ensure compliance with disclosure requirements.\"",
+            "Obligation:9 \"Cooperation with Investigations**: Cooperate fully with authorities during investigations.\"",
+            "Obligation:10 \"Data Protection**: Comply with applicable data protection laws when disclosing information.\"",
+            "Obligation:11 \"Notification of Changes**: Inform the relevant authorities of significant changes to your business that could affect regulatory obligations.\""
+        ]
+    },
+    {
+        "ID": "0efb35a9-fdcb-4963-a5b8-4d8ca2747814",
+        "PassageID": "4.2.1",
+        "Passage": "Section 199(1)(b) gives the Regulator specific authority to disclose Confidential Information to the authorities listed therein so that they may properly carry out their functions, subject to section 199(2).",
+        "Obligations": [
+            "Obligation:1 \"Compliance with Requests for Information**: Comply with lawful requests for confidential information from the Regulator, as per Section 199(1)(b).\"",
+            "Obligation:2 \"Maintain Confidentiality**: Keep sensitive information confidential and only disclose it in accordance with legal and regulatory requirements.\"",
+            "Obligation:3 \"Adhere to Data Protection Laws**: Ensure that the processing of personal data complies with the ADGM Data Protection Regulations and other applicable data protection and privacy laws.\"",
+            "Obligation:4 \"Record-Keeping**: Keep accurate and complete records of all confidential information and any disclosures made to the Regulator or other authorities.\"",
+            "Obligation:5 \"Notification of Disclosures**: Notify individuals or entities if their confidential information is shared with authorities when required and permitted by law.\"",
+            "Obligation:6 \"Cooperate with Authorities**: Cooperate with the Regulator and other relevant authorities in investigations or regulatory proceedings.\"",
+            "Obligation:7 \"Implement Internal Policies and Procedures**: Develop and maintain internal policies and procedures to manage confidential information and ensure compliance with all disclosure obligations.\"",
+            "Obligation:8 \"Consult Full Text of Legislation or Seek Legal Advice**: Refer to the full text of Section 199 and related regulations or seek legal advice to understand specific obligations based on the nature of your business and role within the ADGM.\""
+        ]
+    },
+    {
+        "ID": "09405ca4-fb5d-43b3-bba2-7f2da491d209",
+        "PassageID": "4.2.2",
+        "Passage": "Where the Confidential Information (in whole or in part) originates in another governmental or regulatory authority, the Regulator may only disclose that Confidential  Information in accordance with section 199(2), as set out in paragraphs 3.3.3 \u2013 3.3.4 above, subject to paragraph 3.3.5.",
+        "Obligations": [
+            "Obligation:1 \"Maintain Confidentiality**: Ensure that any Confidential Information received from another governmental or regulatory authority is kept confidential and not disclosed to unauthorized parties.\"",
+            "Obligation:2 \"Compliance with Section 199(2)**: Adhere to the specific provisions of section 199(2) of the relevant regulation, which likely outlines the circumstances under which such Confidential Information may be disclosed.\"",
+            "Obligation:3 \"Adherence to Additional Conditions**: Follow any additional conditions or limitations set out in the referenced paragraphs (3.3.3 \u2013 3.3.5) when handling the Confidential Information.\"",
+            "Obligation:4 \"Report Unauthorized Disclosures**: Report any unauthorized disclosures of Confidential Information to the relevant authorities within the ADGM and potentially to the originating governmental or regulatory authority.\"",
+            "Obligation:5 \"Internal Policies and Procedures**: Establish and follow internal policies and procedures for handling, storing, and potentially destroying Confidential Information to ensure it remains secure.\"",
+            "Obligation:6 \"Training and Awareness**: Train and ensure awareness among all relevant personnel within your organization regarding their obligations for handling Confidential Information.\"",
+            "Obligation:7 \"Legal and Regulatory Compliance**: Ensure that all disclosures and processing of Confidential Information comply with the legal and regulatory framework of the ADGM, as well as any other applicable laws, such as data protection regulations.\"",
+            "Obligation:8 \"Cooperation with Authorities**: Cooperate with the originating governmental or regulatory authority regarding the handling of their Confidential Information, if required.\n\nTo fully understand and comply with your obligations, review the specific sections of the ADGM regulations referenced (section 199(2) and paragraphs 3.3.3 \u2013 3.3.5) and consult with a legal or compliance professional if necessary.\""
+        ]
+    },
+    {
+        "ID": "6b15279a-ffe6-4bc9-961d-d8d4a305ef6f",
+        "PassageID": "4.2.3",
+        "Passage": "As set out in paragraphs 4.1.3 and 4.1.4 above, in disclosing any Confidential Information under section 199(1), the Regulator may require the requesting authority to comply with certain conditions or agree to restrict the uses to which the Confidential Information may be put, insofar as the Regulator considers appropriate.",
+        "Obligations": [
+            "Obligation:1 \"Compliance with Conditions**: Adhere to any conditions imposed by the Regulator (FSRA) regarding the disclosure of confidential information.\"",
+            "Obligation:2 \"Restricted Use**: Limit the use of the confidential information to the purposes for which it was disclosed and agreed upon with the Regulator.\"",
+            "Obligation:3 \"Confidentiality Assurance**: Provide assurances or enter into agreements to protect the confidentiality of the information received.\"",
+            "Obligation:4 \"Reporting Obligations**: Inform the Regulator about how the information is being used and report any breaches of the agreed-upon conditions.\"",
+            "Obligation:5 \"Data Protection Compliance**: Ensure that the handling of confidential information complies with relevant data protection laws and regulations.\"",
+            "Obligation:6 \"Potential Audits or Inspections**: Be prepared for audits or inspections by the Regulator to verify compliance with the conditions of the disclosure.\"",
+            "Obligation:7 \"Breach Consequences**: Understand and be aware of the consequences of breaching the conditions, which may include regulatory sanctions, penalties, or legal action.\"",
+            "Obligation:8 \"Appropriate Use**: Ensure that the intended use of the confidential information aligns with the conditions and restrictions set by the Regulator.\"",
+            "Obligation:9 \"Maintain Confidentiality**: Safeguard the information from unauthorized access or disclosure in accordance with the Regulator's conditions.\"",
+            "Obligation:10 \"Consult Legal or Compliance Professionals**: If uncertain about obligations, seek advice from professionals specializing in ADGM financial regulations.\n\n(Note: The action items are based on the assumption that the reader is the requesting authority or involved in handling the confidential information as per the ADGM's FSRA regulations. The specific obligations may vary depending on the actual role and involvement of the reader.)\""
+        ]
+    },
+    {
+        "ID": "681ba212-fa8c-4e83-a82a-cfd0139c3a91",
+        "PassageID": "4.2.4",
+        "Passage": "In addition, should a memorandum of understanding be in place between the Regulator and a Non-ADGM Regulator concerning the sharing of Confidential Information, subject to the limitations contained in the FSMR, the Regulator will conduct itself in accordance with section 199(2) and the terms of such memorandum of understanding.  For example, the Regulator may include a provision that each party\u2019s consent is required to be obtained prior to disclosing any Confidential Information to a third party (unless the information is required for the purpose of a criminal investigation or criminal proceedings, as discussed in paragraph 3.3.5).\nFor example, on receipt of a legitimate request for Confidential Information in possession of the Regulator from a Non-ADGM Regulator (\u201cthe requestor\u201d), made for the purpose of facilitating the carrying out of a Public Function, the Regulator:\na)\tmay disclose the Confidential Information to the requestor subject to conditions, including that:-\ni.\tthe requestor may only use the Confidential Information for their own lawful purpose as identified in the request;\nii.\tthe requestor may not voluntarily disclose the Confidential Information to a third party (including other regulatory entities in their home jurisdiction) without the further consent of the Regulator; and\niii.\tif the requestor is compelled to disclose the Confidential Information by court order or subpoena, it must give notice to the Regulator prior to disclosure unless such notice would violate applicable laws.\nb)\twill generally not notify affected parties of the request for Confidential Information.  Notice to the affected party/parties will only be considered where such notification would not be contrary to the public interest and would not frustrate or prejudice the purpose of the disclosure to the requestor.",
+        "Obligations": [
+            "Obligation:1 \"Ensure Accuracy of Information**: Provide accurate and complete Confidential Information to the ADGM Regulator.\"",
+            "Obligation:2 \"Understand Information Sharing**: Be aware that the Regulator may share your Confidential Information with Non-ADGM Regulators without notification, unless deemed appropriate by the Regulator.\"",
+            "Obligation:3 \"Comply with Conditions**: If requesting Confidential Information, comply with any conditions imposed by the Regulator, including restrictions on third-party disclosure.\"",
+            "Obligation:4 \"Notify Regulator When Compelled**: If legally compelled to disclose Confidential Information received from the Regulator, notify the Regulator in advance unless prohibited by law.\"",
+            "Obligation:5 \"Familiarize with MOU Terms**: Understand the terms of any Memorandum of Understanding between the Regulator and a Non-ADGM Regulator, particularly regarding information sharing.\"",
+            "Obligation:6 \"Use Information Lawfully**: Use any Confidential Information received from the Regulator only for lawful purposes and in accordance with conditions set by the Regulator.\"",
+            "Obligation:7 \"Prepare for Non-Notification**: Accept that you may not be notified if your Confidential Information is shared with Non-ADGM Regulators, unless specific circumstances apply.\"",
+            "Obligation:8 \"Compliance with Regulatory Framework**: Ensure all actions are compliant with the ADGM's regulatory framework and cooperate with the FSRA's requests and conditions regarding confidential information.\""
+        ],
+        "NamedEntities": {
+            "interest": "the cost of using credit, or another's money, expressed as a rate per period of time, payable by a debtor to a creditor in consideration of the credit extended to the debtor",
+            "jurisdiction": "power of a court to adjudicate cases, issue orders, and interpret and apply the law with respect to some specific geographic area"
+        }
+    },
+    {
+        "ID": "05bc10b7-b838-4855-9f99-4583d8e239db",
+        "PassageID": "4.2.5",
+        "Passage": "When the Regulator receives a request from an authority to disclose Confidential Information (other than compelled testimony \u2013 see paragraph \u200e4.5), the Regulator will generally comply with such request if made in good faith for the specific purpose of fulfilling the performance of the requesting party\u2019s functions and powers, as contemplated by section 199(1).",
+        "Obligations": [
+            "Obligation:1 \"Cooperate with the Regulator**: Be prepared to cooperate with the Regulator by providing requested information related to your operations that may be subject to disclosure.\"",
+            "Obligation:2 \"Maintain Accurate Records**: Keep your records up-to-date and accurate to ensure that any information requested by the Regulator can be provided promptly.\"",
+            "Obligation:3 \"Implement Confidentiality Protocols**: Establish and maintain robust confidentiality protocols to protect sensitive information and understand the conditions under which it can be disclosed.\"",
+            "Obligation:4 \"Comply with Laws and Regulations**: Adhere to all relevant laws and regulations concerning the protection and disclosure of confidential information, including understanding the legal framework of the ADGM.\"",
+            "Obligation:5 \"Notify Affected Parties**: If required by law or regulation, notify parties whose information is disclosed to another authority.\"",
+            "Obligation:6 \"Seek Legal Advice**: Obtain legal advice to fully understand your rights and obligations regarding the disclosure of confidential information.\"",
+            "Obligation:7 \"Ensure Data Protection Compliance**: Comply with data protection laws, including GDPR if applicable, to protect personal data from unauthorized disclosure.\"",
+            "Obligation:8 \"Review Compliance Policies**: Regularly review and update compliance policies and procedures to ensure alignment with regulatory requirements, especially concerning the disclosure of confidential information.\"",
+            "Obligation:9 \"Understand Notification Rights**: Be aware of your rights regarding notification if your confidential information is disclosed, unless such notification is prohibited or would impede the requesting authority's functions.\"",
+            "Obligation:10 \"Familiarize with Relevant Regulations**: Review and understand the full text of section 199(1) and related regulations or guidance to fully grasp your obligations within the ADGM framework.\""
+        ]
+    },
+    {
+        "ID": "9720e389-67c7-43b5-b771-0cff63b5c1e0",
+        "PassageID": "4.3",
+        "Passage": "Disclosure for use in civil litigation",
+        "Obligations": []
+    },
+    {
+        "ID": "d5f06cc2-641f-47b8-979d-9a02192e7343",
+        "PassageID": "4.3.1",
+        "Passage": "In other circumstances, such as where Confidential Information is sought by a party other than a governmental or regulatory authority, such as, for example, as evidence for use in civil litigation, the Regulator will require prior consent of\u2014\n(a)\tthe person from whom the Confidential Information was obtained; and,\n(b)\tif different, the person to whom the duty of confidentiality is owed (paragraphs 198(1)(a) and (b)),\nconsistent with its general duty of confidentiality, as contemplated by section 198(1) of the FSMR.",
+        "Obligations": [
+            "Obligation:1 \"Obtain Prior Consent**:\n   - Obtain consent from the person from whom the Confidential Information was originally obtained.\n   - Obtain consent from the person to whom the duty of confidentiality is owed, if different.\"",
+            "Obligation:2 \"Adhere to the Duty of Confidentiality**:\n   - Protect the confidentiality of information obtained in the course of duties or regulatory activities, as outlined in section 198(1) of the FSMR.\"",
+            "Obligation:3 \"Assess the Request**:\n   - Carefully assess requests for Confidential Information to ensure they do not conflict with the duty of confidentiality and meet all legal requirements for disclosure.\"",
+            "Obligation:4 \"Documentation and Record-Keeping**:\n   - Document the request for information, the process of obtaining consent, and any disclosures made to ensure compliance and provide an audit trail.\"",
+            "Obligation:5 \"Legal and Regulatory Consultation**:\n   - Consult with legal advisors or relevant regulatory authorities in cases of uncertainty regarding the disclosure of Confidential Information to ensure compliance with the FSMR and other applicable laws.\"",
+            "Obligation:6 \"Compliance with FSMR**:\n   - Ensure that all actions related to the disclosure of Confidential Information comply with the relevant sections of the FSMR.\"",
+            "Obligation:7 \"Notification** (if applicable):\n   - Notify the person from whom the information was obtained and the person to whom the duty of confidentiality is owed about the details of the disclosure, if consent is obtained and disclosure is made.\n\nEntities and individuals should familiarize themselves with the full scope of the FSMR and any other applicable regulations to ensure comprehensive compliance.\""
+        ],
+        "NamedEntities": {
+            "duty": "some obligation which exists and is imposed on some individual"
+        }
+    },
+    {
+        "ID": "843c1bd8-09ff-427b-93d7-970e0fbcc187",
+        "PassageID": "4.3.2",
+        "Passage": "The Regulator will, to the extent permitted by applicable law, provide the person whose interests are likely to be adversely affected by the proposed disclosure with the information necessary to enable the person to make submissions to the Regulator. These may include the following:\n(a)\twhether the factual and legal conditions justifying the disclosure are met;\n(b)\tthe scope of the disclosure of Confidential Information; and\n(c)\twhether any conditions should apply to the disclosure.",
+        "Obligations": [
+            "Obligation:1 \"Review the Information Provided by the Regulator**:\n   - Understand the factual and legal basis for the proposed disclosure.\n   - Assess the extent of the confidential information that may be disclosed.\"",
+            "Obligation:2 \"Make Submissions to the Regulator**:\n   - Present arguments, evidence, or other relevant information to challenge or limit the proposed disclosure.\n   - Address the conditions for disclosure, the appropriateness of the disclosure scope, and any conditions that should be attached to protect your interests.\"",
+            "Obligation:3 \"Engage with the Process**:\n   - Actively participate in any set process or timeline for making submissions.\n   - Seek legal advice to ensure submissions are robust and protect your interests.\"",
+            "Obligation:4 \"Comply with Requirements**:\n   - Follow any conditions or requirements imposed by the regulator if the disclosure proceeds.\"",
+            "Obligation:5 \"Comply with Deadlines**:\n   - Submit all responses and documentation to the regulator within the specified deadlines.\"",
+            "Obligation:6 \"Maintain Records**:\n   - Keep detailed records of all communications and submissions made to the regulator.\"",
+            "Obligation:7 \"Monitor the Process**:\n   - Stay informed about the regulator's decision-making process and be prepared for further action, such as appealing the decision if necessary.\n\nRemember to consult the relevant regulatory provisions or seek legal advice to understand the full extent of your obligations and rights in the context of the disclosure within the ADGM framework.\""
+        ],
+        "NamedEntities": {
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        }
+    },
+    {
+        "ID": "fe82ffea-4814-4eb3-b445-a80325ea0304",
+        "PassageID": "4.3.3",
+        "Passage": "If a person would be adversely affected by the proposed disclosure of Confidential Information and the purpose for the request is to use the information in civil proceedings in the ADGM Court, the person requesting the Confidential Information would be required to obtain an order of the ADGM Court compelling the Regulator to disclose the Confidential Information.",
+        "Obligations": [
+            "Obligation:1 \"Monitor Disclosure Requests**: Stay vigilant for any requests made to the Regulator for the disclosure of Confidential Information that could impact you or your business.\"",
+            "Obligation:2 \"Assert Confidentiality**: Assert the confidentiality of your information upon learning of a disclosure request that may adversely affect you.\"",
+            "Obligation:3 \"Legal Representation**: Obtain legal representation to protect your interests, particularly if the situation is complex or high-stakes.\"",
+            "Obligation:4 \"Engage with the Regulator**: Maintain communication with the Regulator to understand the nature of disclosure requests and express your concerns regarding potential disclosures.\"",
+            "Obligation:5 \"Challenge Disclosure**: Be prepared to challenge disclosure requests in the ADGM Court by filing legal objections or motions.\"",
+            "Obligation:6 \"Court Order Awareness and Participation**: Understand that a court order is required for disclosure and be ready to participate in legal proceedings to oppose the order or advocate for protective measures.\"",
+            "Obligation:7 \"Compliance with Court Orders and Legal Requirements**: Comply with any court orders for disclosure unless you successfully appeal, and ensure compliance with all legal requirements.\"",
+            "Obligation:8 \"Protective Measures and Confidentiality Agreements**: Request protective measures from the court if disclosure is ordered and consider negotiating confidentiality agreements with involved parties to limit further use or disclosure.\"",
+            "Obligation:9 \"Review Regulatory and Internal Policies**: Regularly review ADGM regulatory policies and your own internal policies to ensure compliance and understand your rights and obligations.\"",
+            "Obligation:10 \"Record Keeping**: Maintain detailed records of any disclosures and protective actions taken regarding Confidential Information for potential future legal challenges or regulatory inquiries.\n\nIt is essential to seek legal advice tailored to your specific situation to ensure full awareness of your rights and obligations under the applicable regulations and legal framework.\""
+        ]
+    },
+    {
+        "ID": "e4a121b0-40f3-4537-b691-47dd34f1d86b",
+        "PassageID": "4.3.4",
+        "Passage": "Upon receipt of such an order, the Regulator would generally notify the person adversely affected by the proposed disclosure of Confidential Information of this so that the person has an opportunity to challenge the request according to the rules of the Court.\n",
+        "Obligations": [
+            "Obligation:1 \"Respond Promptly to Notification**: Act quickly upon receiving notification from the regulator about an order to disclose your confidential information.\"",
+            "Obligation:2 \"Review the Notification Details**: Carefully examine the notification to understand the scope, reasons for disclosure, and the legal basis for the order.\"",
+            "Obligation:3 \"Seek Legal Advice**: Consult with a legal advisor who is knowledgeable in ADGM financial regulations to understand your rights and the implications of the disclosure.\"",
+            "Obligation:4 \"Challenge the Request if Necessary**: If you believe the disclosure is unwarranted, prepare a legal response or objection to challenge the request.\"",
+            "Obligation:5 \"Prepare and Submit Documentation**: Collect and ready any documentation that supports your case for keeping the information confidential.\"",
+            "Obligation:6 \"Comply with Legal and Court Requirements**: Follow the proper legal procedures and timelines for filing an objection or response, and comply with the final court order if disclosure is mandated.\"",
+            "Obligation:7 \"Attend Hearings**: Participate in any hearings scheduled to consider the matter of disclosure.\"",
+            "Obligation:8 \"Protect Sensitive Information**: Take measures to safeguard any other sensitive information not subject to the disclosure order.\"",
+            "Obligation:9 \"Maintain Detailed Records**: Keep thorough records of all communications and actions related to the disclosure request and your response.\"",
+            "Obligation:10 \"Implement Confidentiality Measures**: Request the court or regulator to implement measures to protect the confidentiality of the disclosed information as much as possible, and ensure confidentiality agreements are in place with third parties involved.\"",
+            "Obligation:11 \"Monitor the Disclosure Process**: Stay informed about the progress of the disclosure process, particularly if you have challenged the request in court.\n\nAlways ensure that you are acting in accordance with ADGM regulations and seek professional advice when necessary.\""
+        ]
+    },
+    {
+        "ID": "be12dd1d-c93a-4aba-8a2b-f9b1014339e1",
+        "PassageID": "4.4",
+        "Passage": "Disclosure to a court\n",
+        "Obligations": []
+    },
+    {
+        "ID": "8e4a92a8-b708-4f7a-9150-24ce8c6a4b0e",
+        "PassageID": "4.4.1",
+        "Passage": "Civil proceedings in the ADGM Court. The ADGM Court's enabling legislation, Abu Dhabi Law No. (4) of 2013, gives it exclusive judicial jurisdiction in the ADGM and over ADGM bodies, including the Regulator. Therefore, the Regulator may be obliged to disclose Confidential Information if it is compelled to do so under an order from the ADGM Court.",
+        "Obligations": [
+            "Obligation:1 \"Compliance with Court Orders**: Adhere to any court orders from the ADGM Court mandating the disclosure of Confidential Information to avoid legal consequences.\"",
+            "Obligation:2 \"Maintain Confidentiality**: Protect the confidentiality of information according to ADGM regulatory requirements until a court order dictates otherwise.\"",
+            "Obligation:3 \"Notification of Disclosure**:\n   - Notify the Regulator when compelled to disclose Confidential Information by the court.\n   - Inform affected parties, such as clients or partners, about the disclosure when permissible and appropriate.\"",
+            "Obligation:4 \"Consult Legal Counsel**: Seek advice from legal counsel to ensure compliance with the court order and to understand your legal obligations, which may include challenging or narrowing the scope of the order.\"",
+            "Obligation:5 \"Record-Keeping**: Document the information disclosed, the court order, and any relevant communications with the Regulator or affected parties.\"",
+            "Obligation:6 \"Minimize Disclosure**: Limit the disclosure of Confidential Information strictly to what the court order specifies.\"",
+            "Obligation:7 \"Data Protection Compliance**: Ensure that disclosures are in line with the ADGM data protection laws, such as the Data Protection Regulations.\"",
+            "Obligation:8 \"Review Internal Policies and Procedures**: Ensure internal policies and procedures are up-to-date and in accordance with the requirements for handling court-ordered disclosures of Confidential Information.\n\nRemember that these action items are based on general principles, and the specific details of your obligations may vary. Always seek professional legal advice for compliance with all applicable regulations and court orders.\""
+        ],
+        "NamedEntities": {
+            "jurisdiction": "power of a court to adjudicate cases, issue orders, and interpret and apply the law with respect to some specific geographic area",
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        }
+    },
+    {
+        "ID": "90ca182d-e2e3-451e-8a02-7f182b4e2968",
+        "PassageID": "4.4.2",
+        "Passage": "Civil proceedings in the ADGM Court. If the Regulator is required to disclose Confidential Information received from a government or Regulatory Authority (for example, information received under a Memorandum of Understanding), the Regulator will ordinarily:\n(a)\tnotify the Regulatory Authority that provided the Confidential Information of the receipt of the legally enforceable demand, in accordance with section 199(2); and\n(b)\twhere appropriate, assert any legal rights or privileges to protect the Confidential Information (for example, Public Interest Immunity \u2013 see paragraph 4.6 below).\n",
+        "Obligations": [
+            "Obligation:1 \"Notify the Regulatory Authority**: Inform the Regulatory Authority that provided the Confidential Information about any legally enforceable demand for its disclosure, in compliance with section 199(2) of the relevant regulatory framework.\"",
+            "Obligation:2 \"Assess Legal Rights or Privileges**: Evaluate any legal rights or privileges, such as Public Interest Immunity, that could be invoked to protect the confidentiality of the information.\"",
+            "Obligation:3 \"Assert Legal Protections**: If applicable, assert legal rights or privileges to prevent or limit the disclosure of Confidential Information.\"",
+            "Obligation:4 \"Maintain Confidentiality**: Ensure that the confidentiality of the information is preserved throughout the legal process, in accordance with legal obligations and the ADGM regulatory framework.\"",
+            "Obligation:5 \"Document Actions and Communications**: Keep detailed records of all measures taken, including notifications to the Regulatory Authority and any legal actions to assert rights or privileges.\"",
+            "Obligation:6 \"Consult Legal Counsel**: Engage with legal counsel for analysis and advice on the best course of action to comply with regulatory requirements and protect Confidential Information.\""
+        ],
+        "NamedEntities": {
+            "interest": "the cost of using credit, or another's money, expressed as a rate per period of time, payable by a debtor to a creditor in consideration of the credit extended to the debtor",
+            "government": "the system by which a state or community is controlled"
+        }
+    },
+    {
+        "ID": "30ca07cf-bc67-485b-9906-59ce36204bbb",
+        "PassageID": "4.4.3",
+        "Passage": "Criminal prosecutions in the UAE Courts. All activities in the ADGM remain subject to UAE criminal laws by virtue of the Federal Law No. 8 of 2004 concerning Financial Free Zones.  Accordingly, the Regulator is obliged, under Article 78, Part 2 of the UAE Penal Procedures Law (Federal Law No. 35) of 1992, to comply with any legally enforceable demand or order from a competent authority responsible for administering the criminal laws of the UAE. This includes orders or demands to disclose Confidential Information.",
+        "Obligations": [
+            "Obligation:1 \"Ensure Compliance with UAE Criminal Laws**: Verify that all operations, conduct, and transactions within the ADGM adhere to the relevant criminal statutes of the UAE.\"",
+            "Obligation:2 \"Respond to Legal Demands or Orders**: Comply with any legally enforceable demand or order issued by a competent authority, including law enforcement agencies and courts.\"",
+            "Obligation:3 \"Disclose Confidential Information When Required**: Provide confidential information if demanded by a competent authority as part of a criminal investigation or proceeding, in accordance with Article 78, Part 2 of the UAE Penal Procedures Law.\"",
+            "Obligation:4 \"Maintain Accurate Records and Report Suspicious Activities**: Keep accurate records to demonstrate compliance with UAE criminal laws and report any suspicious activities to the relevant authorities as required by ADGM regulations and UAE law.\"",
+            "Obligation:5 \"Cooperate with Authorities**: Assist UAE authorities in the investigation and prosecution of criminal activities by providing access to documents, records, and personnel as legally required.\"",
+            "Obligation:6 \"Balance Data Protection with Legal Disclosure**: While disclosing confidential information, ensure compliance with ADGM data protection regulations to ensure that any disclosure is lawful and proportionate.\"",
+            "Obligation:7 \"Develop and Maintain Internal Policies and Training**: Implement robust internal policies, procedures, and training programs to ensure staff compliance with UAE criminal laws and ADGM regulations.\"",
+            "Obligation:8 \"Stay Informed and Seek Legal Advice**: Regularly update your knowledge of changes in UAE criminal laws and ADGM regulations, and seek legal and regulatory advice to ensure compliance.\"",
+            "Obligation:9 \"Promote Training and Awareness Among Personnel**: Train employees and relevant personnel on their obligations, especially regarding the handling of confidential information and the legal implications of non-compliance.\n\nRemember that non-compliance can lead to legal consequences, including criminal prosecution, so it is essential to understand and follow these requirements diligently.\""
+        ],
+        "NamedEntities": {
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        }
+    },
+    {
+        "ID": "451ae46b-f089-426b-975d-fd32b35fe331",
+        "PassageID": "4.4.4",
+        "Passage": "Criminal prosecutions in the UAE Courts. As in the case of legally enforceable demands in civil or commercial matters discussed at paragraph 4.4.2 above, the Regulator will, where appropriate, assert any legal rights or privileges to protect the Confidential Information and resist disclosure (for example, Public Interest Immunity \u2013 see paragraph 4.6 below).\n",
+        "Obligations": [
+            "Obligation:1 \"Maintain Confidentiality**: Ensure the protection of confidential information by implementing appropriate security measures against unauthorized access, disclosure, alteration, or destruction.\"",
+            "Obligation:2 \"Assert Legal Rights**: In the face of legally enforceable demands for disclosure, assert any available legal rights or privileges, such as Public Interest Immunity, to resist such disclosure.\"",
+            "Obligation:3 \"Cooperate with the Regulator**: Comply with requests and instructions from the Regulator (FSRA) regarding the protection and potential disclosure of confidential information, and provide necessary support if the Regulator asserts legal rights or privileges.\"",
+            "Obligation:4 \"Comply with Legal Demands**: If required by a court order or other legal demands, comply with the disclosure of confidential information, ensuring coordination with the Regulator to maintain legal protections.\"",
+            "Obligation:5 \"Report to the Regulator**: Promptly report any demands for disclosure or other relevant issues concerning confidential information to the Regulator.\"",
+            "Obligation:6 \"Seek Legal Advice**: Obtain legal advice to understand the scope of obligations and appropriate actions in relation to demands for disclosure of confidential information in legal proceedings.\"",
+            "Obligation:7 \"Maintain Documentation**: Keep thorough records of actions taken to protect confidential information, disclosures made, requests received, and communications with the Regulator and legal authorities.\"",
+            "Obligation:8 \"Ensure Legal and Regulatory Compliance**: Verify that all actions related to the protection and disclosure of confidential information comply with ADGM regulations, UAE laws, and any other applicable legal frameworks.\n\nPlease note that these action items are based on the general obligations inferred from the provided responses. For specific guidance, consult the relevant ADGM regulations or seek legal advice from a professional specialized in ADGM financial regulatory compliance.\""
+        ],
+        "NamedEntities": {
+            "interest": "the cost of using credit, or another's money, expressed as a rate per period of time, payable by a debtor to a creditor in consideration of the credit extended to the debtor"
+        }
+    },
+    {
+        "ID": "e8aa6641-2d24-428c-a560-b54d58f1fe6d",
+        "PassageID": "4.5",
+        "Passage": "Compelled testimony in criminal proceedings",
+        "Obligations": []
+    },
+    {
+        "ID": "1e42ed63-f4af-4b44-9cb5-90fa843a8951",
+        "PassageID": "4.5.1",
+        "Passage": "If the Regulator receives a request from a law enforcement agency for a person's answers in an interview conducted under section 206(1)(a) of the FSMR for the purpose of criminal proceedings against the person, the Regulator will, in accordance with section 207(2) of the FSMR, generally notify the person concerned of such request (so that the person has an opportunity to either consent to the disclosure or challenge the request), unless the Regulator is required by law or court order to disclose the statement.",
+        "Obligations": [
+            "Obligation:1 \"Be Aware of Rights and Obligations**: Understand your rights to notification and the opportunity to consent or challenge the disclosure of your interview answers under section 206(1)(a) of the FSMR within ADGM.\"",
+            "Obligation:2 \"Respond to Notifications**: If notified by the Regulator of a request for your interview answers by law enforcement, decide promptly whether to consent to the disclosure or to challenge it.\"",
+            "Obligation:3 \"Understand Legal Exceptions**: Recognize that there may be legal exceptions that allow the Regulator to disclose your interview answers without prior notification, such as a court order or other legal requirements.\"",
+            "Obligation:4 \"Seek Legal Advice**: Obtain legal representation or advice to understand the implications of the disclosure request and to determine the best course of action.\"",
+            "Obligation:5 \"Comply with Legal Obligations**: Follow any legal obligations that may arise from a notification, including responding within specified timeframes or providing additional information as required.\"",
+            "Obligation:6 \"Maintain Confidentiality**: Keep the details of the interview and any related communications confidential, unless disclosure is advised by legal counsel or mandated by law.\"",
+            "Obligation:7 \"Keep Records**: Maintain a record of the interview and any subsequent communications with the Regulator or law enforcement agencies for reference and potential legal proceedings.\"",
+            "Obligation:8 \"Prepare for Legal Consequences**: If you choose to challenge the disclosure request, be prepared for potential legal consequences and engage with any necessary legal processes.\"",
+            "Obligation:9 \"Balance Privacy with Legal Requirements**: Be cognizant of the balance between your privacy rights and the requirements of law enforcement agencies as stipulated by the FSMR provisions.\""
+        ],
+        "NamedEntities": {
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        }
+    },
+    {
+        "ID": "83a8adbc-6832-436a-ac8d-ce92d84484bd",
+        "PassageID": "4.6",
+        "Passage": "Public Interest Immunity",
+        "Obligations": [],
+        "NamedEntities": {
+            "interest": "the cost of using credit, or another's money, expressed as a rate per period of time, payable by a debtor to a creditor in consideration of the credit extended to the debtor"
+        }
+    },
+    {
+        "ID": "cf9bfa39-f3b8-406e-8f4e-0aaf9b3445a4",
+        "PassageID": "4.6.1",
+        "Passage": "Public Interest Immunity (\u201cPII\u201d) is an immunity from the production of documents or information where their disclosure would be against the public interest.  PII is a common law doctrine, developed to allow the courts to reconcile any potential conflict between the following two public interests-\n(a)\tthe interest in the administration of justice which demands that relevant material is available to the parties to litigation; and\n(b)\tthe interest in maintaining the confidentiality of certain documents whose disclosure would be damaging to the public interest.",
+        "Obligations": [
+            "Obligation:1 \"Understand and Comply with Confidentiality and Data Protection**: Ensure that sensitive information is handled in accordance with ADGM's Data Protection Regulations and other relevant confidentiality laws.\"",
+            "Obligation:2 \"Assess Disclosure Requirements**: In the event of litigation or regulatory investigations, determine if the information requested for disclosure is subject to PII and if so, consider claiming PII to protect sensitive information.\"",
+            "Obligation:3 \"Seek Legal Advice**: Obtain guidance from legal professionals to validate the claim of PII and to ensure compliance with disclosure obligations while protecting sensitive information.\"",
+            "Obligation:4 \"Consult Court or Regulatory Authority**: If there is uncertainty about the application of PII to certain information or documents, seek direction from the court or relevant regulatory authority within ADGM.\"",
+            "Obligation:5 \"Maintain Accurate Records**: Keep detailed records of all information and documents that may be subject to PII to demonstrate compliance and respond effectively to legal or regulatory requests.\"",
+            "Obligation:6 \"Implement Training and Policies**: Develop internal policies and conduct training to educate staff about PII, its implications, and the correct handling of sensitive information.\"",
+            "Obligation:7 \"Balance Transparency with PII**: When involved in legal proceedings or regulatory investigations, balance the obligation to be transparent and cooperative with the need to protect information under PII.\"",
+            "Obligation:8 \"Comply with Court Orders**: Follow court orders regarding the disclosure of information that is not protected by PII, ensuring adherence to the jurisdiction and recognition by ADGM courts.\"",
+            "Obligation:9 \"Seek Legal and Regulatory Advice**: Consult with legal and regulatory advisors to understand the interplay between PII and ADGM regulations, avoiding breaches of confidentiality or non-compliance with legal requirements.\""
+        ],
+        "NamedEntities": {
+            "interest": "the cost of using credit, or another's money, expressed as a rate per period of time, payable by a debtor to a creditor in consideration of the credit extended to the debtor",
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        }
+    },
+    {
+        "ID": "ce2b4f85-4cd5-47a6-8778-b2e9e8286fb2",
+        "PassageID": "4.6.2",
+        "Passage": "When a PII claim is asserted, a court would be required to balance between whether the public interest in disclosing certain information is outweighed by the public interest in preserving the confidentiality of that information.",
+        "Obligations": [
+            "Obligation:1 \"Adhere to Data Protection Principles**: Ensure personal data is processed lawfully, fairly, transparently, and securely.\"",
+            "Obligation:2 \"Establish Lawful Basis for Processing**: Have a legitimate reason for handling personal data, such as consent or legal obligation.\"",
+            "Obligation:3 \"Respect Data Subject Rights**: Facilitate data subjects' rights to access, rectify, erase, and port their data, among others.\"",
+            "Obligation:4 \"Maintain Confidentiality and Security**: Implement technical and organizational measures to protect personal data.\"",
+            "Obligation:5 \"Notify of Data Breaches**: Report data breaches to the ADGM Office of Data Protection promptly.\"",
+            "Obligation:6 \"Appoint a Data Protection Officer (DPO)**: Designate a DPO to oversee data protection compliance if required.\"",
+            "Obligation:7 \"Keep Detailed Records**: Maintain records of processing activities and make them available to the ADGM Office of Data Protection upon request.\"",
+            "Obligation:8 \"Safeguard Data Transfers**: Ensure adequate protection for personal data transferred outside of ADGM.\"",
+            "Obligation:9 \"Train Staff**: Educate employees about their data protection responsibilities.\"",
+            "Obligation:10 \"Comply with Court Orders**: Follow court orders regarding the disclosure of personal data, balancing confidentiality with legal requirements.\"",
+            "Obligation:11 \"Notify Court of PII Claims**: Inform the court and involved parties if withholding information based on a Public Interest Immunity claim.\"",
+            "Obligation:12 \"Submit Evidence for PII Claims**: Provide the court with evidence supporting the need for confidentiality in the interest of public good.\"",
+            "Obligation:13 \"Maintain Confidentiality During PII Claims**: Keep the information in question confidential until the court makes a decision.\"",
+            "Obligation:14 \"Seek Legal Representation**: Obtain legal advice to navigate the complexities of PII claims.\"",
+            "Obligation:15 \"Maintain Accurate Records for PII**: Document information and actions related to PII claims.\"",
+            "Obligation:16 \"Cooperate with Court for PII Assessments**: Work with the court and other parties to ensure a fair evaluation of the PII claim, which may include providing redacted information.\""
+        ],
+        "NamedEntities": {
+            "balance": "amount of money available or owed",
+            "interest": "the cost of using credit, or another's money, expressed as a rate per period of time, payable by a debtor to a creditor in consideration of the credit extended to the debtor",
+            "claim": "demand or assertion made by one party on another, based on facts that, taken together, give rise to a legally enforceable right or judicial action"
+        }
+    },
+    {
+        "ID": "ea9dc697-c660-4c17-9d9f-2ad8dc3eb3ca",
+        "PassageID": "4.6.3",
+        "Passage": "A claim of PII, for example, may be appropriate in the circumstances where disclosure would prejudice or otherwise unduly interfere with the Regulator\u2019s ability to perform its functions and exercise its powers (including if the disclosure would adversely affect its ability to cooperate with and receive Confidential Information from other Regulatory Authorities).\n",
+        "Obligations": [
+            "Obligation:1 \"Maintain Confidentiality**: Ensure the confidentiality of information that could be considered PII or is deemed confidential by the FSRA.\"",
+            "Obligation:2 \"Cooperate with the Regulator**: Cooperate with the FSRA by providing information as required, while protecting PII when necessary.\"",
+            "Obligation:3 \"Restrict Disclosure**: Do not disclose PII without proper authorization from the FSRA or unless legally mandated.\"",
+            "Obligation:4 \"Report Potential Breaches**: Report to the FSRA any instances where confidentiality is breached or PII is at risk.\"",
+            "Obligation:5 \"Comply with Information Requests**: Fulfill requests for information from the FSRA in a manner that does not compromise PII, possibly through redaction or other protective measures.\"",
+            "Obligation:6 \"Adhere to Data Protection Laws**: Follow all applicable data protection laws and regulations within ADGM, ensuring lawful, fair, and transparent handling of personal data.\"",
+            "Obligation:7 \"Train and Educate Staff**: Ensure that employees or representatives are trained and aware of their obligations regarding confidentiality and the handling of PII.\"",
+            "Obligation:8 \"Implement Policies and Procedures**: Establish and maintain robust policies and procedures for identifying, protecting, and handling PII.\"",
+            "Obligation:9 \"Seek Legal Advice**: Obtain legal advice when there is uncertainty about whether information is subject to PII or to ensure compliance with regulatory requirements.\"",
+            "Obligation:10 \"Keep Accurate Records**: Maintain detailed records of decisions regarding PII and any related communications with the FSRA.\"",
+            "Obligation:11 \"Stay Informed on Regulatory Changes**: Keep up to date with any changes in the regulatory framework that could affect obligations related to PII.\"",
+            "Obligation:12 \"Ensure Legal and Regulatory Compliance**: Abide by all relevant laws and regulations concerning the protection of PII and the regulator's ability to perform its duties.\""
+        ],
+        "NamedEntities": {
+            "claim": "demand or assertion made by one party on another, based on facts that, taken together, give rise to a legally enforceable right or judicial action"
+        }
+    }
+]

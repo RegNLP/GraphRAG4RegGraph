@@ -1,0 +1,374 @@
+[
+    {
+        "ID": "5bec5fc3-c6ca-4a8a-8348-80e9ce5aded1",
+        "PassageID": "1.",
+        "Passage": "INTRODUCTION",
+        "Obligations": []
+    },
+    {
+        "ID": "2230472f-a9d4-4b81-842f-964c0653f8e7",
+        "PassageID": "1.1.",
+        "Passage": "This Guidance has been produced to help legal practitioners in ADGM to understand the intention behind the Application of English Law Regulations 2015 (the \u201cApplication Regulations\u201d) and how English law has been implemented in ADGM. ADGM\u2019s legal system is based on English common law, a number of English statutes (implemented locally and consistently with the English form) and ADGM enactments which have been primarily drafted from English statutory precedents and, partly, from those of other commercially respected common law jurisdictions. There are many advantages of ADGM\u2019s approach to implementing English law, as set out below. Practitioners and businesses operating in ADGM may find it helpful to familiarise themselves with ADGM\u2019s approach.",
+        "Obligations": [
+            "Obligation:1 \"Understand and Apply English Law**: Familiarize yourself with the Application of English Law Regulations 2015 and apply English common law principles and relevant English statutes in your legal practice within ADGM.\"",
+            "Obligation:2 \"Comply with ADGM Enactments**: Ensure compliance with ADGM-specific enactments, which may be based on English statutory precedents or those from other common law jurisdictions.\"",
+            "Obligation:3 \"Stay Informed and Engage in Continuing Learning**: Keep up to date with any changes or updates to the Application Regulations, English law, and ADGM enactments. Engage in continuing professional development to maintain a high standard of knowledge.\"",
+            "Obligation:4 \"Advise Clients Accurately**: Provide accurate advice to clients on how English law is applied within ADGM and the implications for their business operations.\"",
+            "Obligation:5 \"Practice Ethically**: Uphold ethical standards and practice in accordance with the legal and regulatory framework of ADGM, including professional conduct standards.\"",
+            "Obligation:6 \"Maintain Documentation**: Keep proper records that demonstrate compliance with ADGM regulations and the application of English law within ADGM.\"",
+            "Obligation:7 \"Conduct Due Diligence**: Perform thorough due diligence to ensure that business practices, contracts, and transactions comply with applicable laws and regulations.\"",
+            "Obligation:8 \"Training and Dissemination**: If responsible for compliance, train employees on relevant aspects of ADGM law and ensure effective dissemination of this information throughout the organization.\""
+        ],
+        "NamedEntities": {
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "Guidance": "Has the meaning given in section 15(2) of FSMR."
+        }
+    },
+    {
+        "ID": "eeb2e291-afc5-47f4-9375-4b442ea1c1c4",
+        "PassageID": "2.",
+        "Passage": "COMMON LAW",
+        "Obligations": [],
+        "NamedEntities": {
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        }
+    },
+    {
+        "ID": "b193ba18-50e6-494b-96bb-dcfaf6ba340e",
+        "PassageID": "2.1.",
+        "Passage": "English common law: Under Article 1 of the Application Regulations English common law (including the rules of equity) has direct precedential value in the ADGM courts. The Application Regulations allow the ADGM courts to refer to English common law on an \u201cevergreen\u201d basis, i.e. as the body of English case law stands from time to time. The ADGM courts are also specifically empowered to make any necessary adaptations for the specific circumstances of the ADGM.  The result is that the entire, constantly-updated corpus of English common law case law provides valuable precedent to the ADGM. While it is very unlikely that any two cases would be exactly the same, the body of precedent provides predictability to the law.  ADGM\u2019s courts will refer to relevant precedents and reason from those to determine the application of the law to the facts in front of them. They are additionally empowered to depart entirely from the common law precedents where the circumstances of ADGM require. It is envisaged that such departures will be rare given the likely commercial flavour of most disputes (where the common law\u2019s international standards are likely to be appropriate to ADGM) and because similar provisions have been applied sparingly in other jurisdictions where this sort of carve-out has been adopted.",
+        "Obligations": [
+            "Obligation:1 \"Adherence to English Common Law**: Ensure that your business activities comply with English common law principles, as they are applied within the ADGM.\"",
+            "Obligation:2 \"Stay Informed on Precedents**: Regularly update your knowledge of current and relevant English case law, as it may affect your legal position and business operations.\"",
+            "Obligation:3 \"Use Legal Predictability**: Apply the body of English common law precedent to guide your business practices and risk management strategies.\"",
+            "Obligation:4 \"Prepare for ADGM-Specific Adaptations**: Be ready for the ADGM courts to adapt common law precedents to fit local circumstances and understand how these adaptations might affect your business.\"",
+            "Obligation:5 \"Anticipate Rare Departures from Precedents**: Be aware that ADGM courts may occasionally depart from common law precedents and prepare to adapt your compliance strategy accordingly.\"",
+            "Obligation:6 \"Align Business Practices with International Standards**: Ensure that your business practices are in line with international standards as recognized by common law, particularly for commercial dispute resolution.\"",
+            "Obligation:7 \"Monitor Legal Developments**: Keep track of legal developments within the ADGM and English common law to ensure ongoing compliance.\"",
+            "Obligation:8 \"Engage with Legal Counsel**: Consult with legal professionals knowledgeable about English common law and ADGM regulations to maintain compliance and navigate the legal landscape effectively.\"",
+            "Obligation:9 \"Maintain Documentation and Records**: Keep thorough documentation and records of your business activities to support compliance and facilitate any legal proceedings.\n\nRemember, these action items are general guidelines and may need to be tailored to the specific nature of your business activities within the ADGM. Legal counsel should be consulted for advice specific to your situation.\""
+        ],
+        "NamedEntities": {
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market."
+        }
+    },
+    {
+        "ID": "014df15b-af8b-4964-9b82-a1fbcb83add3",
+        "PassageID": "2.2.",
+        "Passage": "The common law, as received under the Application Regulations, remains subject to the effect of any contrary provision of an ADGM enactment or Applicable Abu Dhabi Law.  More generally the ADGM is not subject to: (i) UAE federal civil and commercial laws;  or (ii) any other laws of the Emirate of Abu Dhabi (except where an ADGM enactment provides that an Abu Dhabi law applies to the ADGM).",
+        "Obligations": [
+            "Obligation:1 \"Comply with ADGM Enactments**: Ensure adherence to all relevant ADGM laws and regulations, including Companies Regulations, Financial Services and Markets Regulations, Insolvency Regulations, Employment Regulations, and any other relevant statutory instruments.\"",
+            "Obligation:2 \"Adhere to Common Law Principles**: Follow the principles of common law as received under the Application Regulations, except where ADGM enactments or applicable Abu Dhabi law provide otherwise.\"",
+            "Obligation:3 \"Understand Exclusions**: Recognize that UAE federal civil and commercial laws do not apply within the ADGM, and generally, neither do other Abu Dhabi laws, unless specified by ADGM enactments.\"",
+            "Obligation:4 \"Stay Informed on Legislation**: Regularly monitor and stay updated on changes in ADGM enactments and any applicable Abu Dhabi laws that might affect operations within the ADGM.\"",
+            "Obligation:5 \"Maintain Regulatory Compliance**: For financial services firms, obtain necessary licenses, adhere to AML and CFT requirements, maintain appropriate financial resources, and follow conduct of business rules.\"",
+            "Obligation:6 \"Fulfill Reporting Obligations**: Meet any reporting requirements to the ADGM Financial Services Regulatory Authority (FSRA) or other relevant bodies based on business activities.\"",
+            "Obligation:7 \"Uphold Corporate Governance Standards**: Maintain proper records, hold annual general meetings, file annual returns, and adhere to other corporate governance standards as prescribed by ADGM regulations.\"",
+            "Obligation:8 \"Comply with Employment Regulations**: Follow ADGM Employment Regulations regarding employment contracts, working hours, leave entitlements, and end-of-service benefits.\"",
+            "Obligation:9 \"Protect Data**: Comply with ADGM data protection regulations, ensuring proper processing and handling of personal data.\"",
+            "Obligation:10 \"Obtain Necessary Licensing and Authorization**: Secure and maintain all permits and authorizations required for business operations within the ADGM.\"",
+            "Obligation:11 \"Engage in Dispute Resolution**: Utilize ADGM's dispute resolution mechanisms, such as arbitration and mediation services, in the event of legal disputes.\"",
+            "Obligation:12 \"Ensure Continuous Compliance**: Continuously monitor and adjust practices to remain compliant with ADGM regulations, particularly when regulatory changes occur.\n\n**Note**: It is recommended to seek advice from a legal advisor or compliance professional familiar with ADGM regulations for tailored guidance based on specific business activities.\""
+        ],
+        "NamedEntities": {
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market."
+        }
+    },
+    {
+        "ID": "0fbf164f-3d74-4861-8687-8233dcdc71ab",
+        "PassageID": "2.3.",
+        "Passage": "All-inclusive, evergreen approach: ADGM has deliberately chosen to directly reflect English common law precedents on an evergreen basis in its legal system. This approach of adopting the common law in its entirety (subject to modifications in other ADGM legislation) has been adopted in other jurisdictions which currently directly receive English law (or which did so historically).  There are several reasons why the approach is particularly beneficial to ADGM and the businesses and legal practitioners operating in ADGM.",
+        "Obligations": [
+            "Obligation:1 \"Compliance with Common Law Principles and ADGM Regulations**: Operate in accordance with English common law principles and adhere to all relevant ADGM regulations and rules, including sector-specific regulations for financial services.\"",
+            "Obligation:2 \"Obtain Necessary Licensing and Authorization**: Secure the required licenses and authorizations from the ADGM Financial Services Regulatory Authority (FSRA) if providing financial services.\"",
+            "Obligation:3 \"Maintain Financial Reporting and Record-Keeping**: Keep accurate financial records and submit periodic financial statements and other disclosures as mandated by ADGM regulations.\"",
+            "Obligation:4 \"Implement AML and CTF Policies**: Establish and maintain effective anti-money laundering and counter-terrorist financing policies and procedures.\"",
+            "Obligation:5 \"Ensure Consumer Protection**: Conduct business practices fairly, provide clear information about products and services, and handle consumer complaints effectively.\"",
+            "Obligation:6 \"Adhere to Data Protection Laws**: Protect personal data in compliance with ADGM data protection regulations and privacy laws.\"",
+            "Obligation:7 \"Engage in Dispute Resolution**: Be prepared to resolve disputes through the ADGM Courts, adhering to common law principles.\"",
+            "Obligation:8 \"Uphold Corporate Governance Standards**: Maintain high standards of corporate governance in line with common law principles, including the duties of directors and officers.\"",
+            "Obligation:9 \"Meet Prudential and Conduct Requirements**: Fulfill ongoing prudential standards and conduct business transparently and in the best interests of clients, managing conflicts of interest and treating customers fairly.\"",
+            "Obligation:10 \"Engage in Continuous Professional Development**: Stay informed of changes in common law and regulatory expectations, ensuring knowledge and skills remain current.\"",
+            "Obligation:11 \"Regular Reporting and Disclosure**: Provide regular reports to the FSRA, including risk management reports and any other required disclosures.\n\nPlease consult the ADGM regulatory framework, FSRA rules and guidance, and consider seeking legal advice tailored to your specific circumstances to understand your exact obligations. Non-compliance can result in penalties, including fines and revocation of licenses.\""
+        ],
+        "NamedEntities": {
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market."
+        }
+    },
+    {
+        "ID": "9fc553fd-d1c4-4605-968b-6a944c5d258e",
+        "PassageID": "2.3.(i)",
+        "Passage": "Familiarity: English common law is widely regarded as one of the most sophisticated regimes governing commercial arrangements in the world and is the governing law of choice for commerce. Its inherent flexibility is especially well suited to business dealings, particularly in a financial context. It therefore facilitates the purpose underlying the formation of ADGM, which was to establish a new financial centre in Abu Dhabi. Notably, the four top financial centres in the world - London, New York, Singapore and Hong Kong \u2013 all apply common law. So the global business and legal community will be familiar with the mechanics and predictability of English common law as reflected in the ADGM as it evolves from time to time.",
+        "Obligations": [
+            "Obligation:1 \"Licensing and Authorization**: Obtain the necessary licenses and authorizations from the ADGM Financial Services Regulatory Authority (FSRA) for conducting financial services.\"",
+            "Obligation:2 \"Compliance with Regulations**: Adhere to all ADGM regulatory frameworks, including conduct of business, anti-money laundering (AML), counter-terrorist financing (CTF), data protection, and client asset protection.\"",
+            "Obligation:3 \"Reporting and Disclosure**: Maintain accurate records and report required information, such as financial statements and significant business changes, to the FSRA.\"",
+            "Obligation:4 \"Fit and Proper Test**: Ensure that individuals in certain roles within the organization meet the 'fit and proper' criteria, including background checks and competence assessments.\"",
+            "Obligation:5 \"Risk Management**: Implement effective risk management systems to identify, manage, monitor, and report business risks.\"",
+            "Obligation:6 \"Corporate Governance**: Maintain high standards of corporate governance with appropriate structures, policies, and procedures.\"",
+            "Obligation:7 \"Client Protection**: Treat customers fairly, manage conflicts of interest, and ensure the suitability of advice and products.\"",
+            "Obligation:8 \"Market Conduct**: Observe proper market conduct and avoid market abuse, such as insider trading or manipulation.\"",
+            "Obligation:9 \"Continual Professional Development**: Engage in professional development to keep knowledge and skills up to date.\"",
+            "Obligation:10 \"Data Protection**: Comply with ADGM data protection laws and international best practices.\"",
+            "Obligation:11 \"Capital Requirements**: Meet the capital adequacy and solvency requirements set by the FSRA.\"",
+            "Obligation:12 \"Audit and Financial Statements**: Prepare and submit audited financial statements in compliance with applicable accounting standards and timelines.\"",
+            "Obligation:13 \"Continuous Professional Development**: Ensure staff members are adequately trained and maintain necessary qualifications.\n\n*Note*: The specific obligations may vary depending on the nature of the business activities within ADGM. It is recommended to consult with a legal or compliance professional for tailored advice.\""
+        ],
+        "NamedEntities": {
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market."
+        }
+    },
+    {
+        "ID": "ba1492fd-03e8-473f-9a57-3540773d3a99",
+        "PassageID": "2.3.(ii)",
+        "Passage": "Certainty: ADGM\u2019s approach reduces the up front legal costs and chances of litigation. English common law already covers a wide range of scenarios, aiding commercial dealings where parties want as much detailed case law as possible. Under the Application Regulations all of this case law will have automatic precedential value in the ADGM.",
+        "Obligations": [
+            "Obligation:1 \"Compliance with English Common Law**: Ensure that business practices align with the principles and precedents of English common law as applied within ADGM.\"",
+            "Obligation:2 \"Contractual Obligations and Clarity**: Draft clear and unambiguous contracts that reflect mutual intentions, adhering to common law principles regarding offer, acceptance, consideration, and capacity to contract.\"",
+            "Obligation:3 \"Dispute Resolution Preparedness**: Be ready to resolve disputes through ADGM courts, following English common law precedents, and understand litigation processes.\"",
+            "Obligation:4 \"Governance and Risk Management**: Establish compliant governance structures and implement risk management strategies, including legal audits and compliance checks.\"",
+            "Obligation:5 \"Regulatory Compliance**: Adhere to specific ADGM regulations relevant to your business, which may include financial services, data protection, employment, and other sector-specific laws.\"",
+            "Obligation:6 \"Legal Advice and Record-Keeping**: Seek legal advice for complex common law applications and maintain detailed records of business transactions for compliance and legal certainty.\"",
+            "Obligation:7 \"Litigation and Legal Preparedness**: Prepare for potential litigation by understanding common law procedures and maintaining readiness to engage with the legal process.\"",
+            "Obligation:8 \"Continual Learning and Adaptation**: Stay informed about changes in English common law and ADGM regulations, and adapt business practices accordingly.\n\nFor tailored advice, consult with a legal expert specializing in ADGM regulations, and provide detailed information about your business activities and regulatory category within ADGM.\""
+        ],
+        "NamedEntities": {
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market."
+        }
+    },
+    {
+        "ID": "2aafc33d-3d92-4920-ad1f-7a24ecf6789c",
+        "PassageID": "2.3.(iii)",
+        "Passage": "Ongoing common law developments: ADGM has given English common law direct precedential status, thus avoiding a sui generis intermediating layer of locally codified common law. This brings with it a system based on a detailed study of a vast range of human situations, rationalised into rules and principles, whilst remaining flexible enough to be re-thought as circumstances change. ADGM will have continuous access to English common law scholarship which will ensure that there is guidance on the application of existing common law and statutory principles to the most current of situations.\n",
+        "Obligations": [
+            "Obligation:1 \"Compliance with English Common Law**: Ensure that business operations, practices, and contracts comply with English common law principles and precedents as applicable within ADGM.\"",
+            "Obligation:2 \"Continuous Legal Education**: Regularly update knowledge on English common law developments that may affect the business, including reviewing legal updates, scholarly articles, and relevant court judgments.\"",
+            "Obligation:3 \"Contract Drafting and Interpretation**: Draft contracts with clarity and in accordance with English common law principles, considering legal precedents and the implications of contractual terms.\"",
+            "Obligation:4 \"Dispute Resolution**: Prepare to resolve disputes through mechanisms consistent with English common law, such as litigation or arbitration within ADGM's legal framework.\"",
+            "Obligation:5 \"Risk Management**: Assess and manage risks associated with the application of English common law to the business, including potential changes in legal interpretation.\"",
+            "Obligation:6 \"Governance and Internal Policies**: Develop and maintain governance structures and internal policies that are compliant with English common law requirements.\"",
+            "Obligation:7 \"Legal Advisory**: Seek legal advice to ensure accurate understanding and application of English common law, especially for complex issues or novel situations.\"",
+            "Obligation:8 \"Documentation and Record-Keeping**: Maintain thorough records and documentation of business activities to demonstrate compliance with English common law and ADGM regulations.\"",
+            "Obligation:9 \"Training**: Provide training for staff, particularly in legal, compliance, and risk management roles, on the implications of English common law for business operations.\"",
+            "Obligation:10 \"Regulatory Engagement**: Proactively engage with ADGM regulatory authorities to stay informed of any specific guidance or interpretations of common law principles.\"",
+            "Obligation:11 \"Legal Due Diligence**: Conduct thorough legal due diligence before engaging in business activities to ensure compliance with ADGM statutory regulations and English common law principles.\"",
+            "Obligation:12 \"Adaptation to Changes**: Re-evaluate and potentially modify contracts, policies, and procedures to remain compliant with evolving English common law standards.\"",
+            "Obligation:13 \"Governance and Oversight**: Train boards and management on common law principles and their application to the business, ensuring responsive governance structures.\"",
+            "Obligation:14 \"Reporting and Disclosure**: Report on how common law developments affect business operations as required, particularly for listed companies or those with specific disclosure obligations.\"",
+            "Obligation:15 \"Professional Advice**: Obtain professional legal advice for interpreting common law principles and maintaining compliance with the latest legal developments.\n\n*Note: The action items have been consolidated and rephrased to avoid repetition and to encompass the obligations mentioned in both sets of responses. The specific nature of the business and regulatory requirements within ADGM should be considered, and legal professionals or ADGM regulatory authorities should be consulted for tailored advice.*\""
+        ],
+        "NamedEntities": {
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market."
+        }
+    },
+    {
+        "ID": "1cbaea87-41b2-40b6-a6a3-b8df27be7dd2",
+        "PassageID": "2.3.(iv)",
+        "Passage": "Case law volumes: For smaller legal centres such as ADGM, it is more advantageous to remain tightly integrated with common law developments in more mature jurisdictions.  ADGM will benefit directly from cases testing and reapplying common law principles in the English courts, and also from any persuasive judgments from other common law jurisdictions with commercial and financial significance which the English courts take into account (e.g. Australia, Hong Kong, New Zealand, Singapore and the United States). This means that ADGM will automatically remain at the forefront of legal precedent as it evolves in the English courts.\n",
+        "Obligations": [
+            "Obligation:1 \"Adhere to Common Law Principles**: Ensure that business practices, contracts, and legal positions align with common law principles as applied by the English courts and evolved within common law jurisdictions.\"",
+            "Obligation:2 \"Stay Informed of Legal Developments**: Regularly monitor and stay informed about relevant legal developments in the English courts and other common law jurisdictions, including Australia, Hong Kong, New Zealand, Singapore, and the United States.\"",
+            "Obligation:3 \"Integrate Legal Precedents into Practices**: Be prepared to integrate persuasive judgments from common law jurisdictions into legal arguments, compliance strategies, and business operations.\"",
+            "Obligation:4 \"Conduct Legal Research and Analysis**: Perform thorough legal research and analysis to understand the impact of new case law developments on operations or advice provided within ADGM.\"",
+            "Obligation:5 \"Update Compliance Policies and Training**: Regularly revise compliance policies and procedures to reflect the latest common law developments and provide training to staff on these changes.\"",
+            "Obligation:6 \"Manage Legal Risks**: Assess and manage risks associated with changes in legal precedents to ensure business activities or advice are not adversely affected.\"",
+            "Obligation:7 \"Provide Legal Advisory**: Advise clients on the implications of recent case law and how it may affect their business within ADGM.\"",
+            "Obligation:8 \"Maintain Documentation and Record-Keeping**: Keep comprehensive records of compliance with common law principles and relevant case law, ensuring preparedness for potential audits and regulatory reviews.\"",
+            "Obligation:9 \"Consult Regulatory Texts or Legal Professionals**: For specific compliance obligations, refer to detailed ADGM regulations and rules or seek advice from legal professionals specializing in ADGM regulatory compliance.\""
+        ],
+        "NamedEntities": {
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market."
+        }
+    },
+    {
+        "ID": "d0c0ff9e-2a46-417a-a3bd-b7ee09996a0c",
+        "PassageID": "2.3.(v)",
+        "Passage": "Adaptation for ADGM: An evergreen application of English common law means that common law developments will automatically apply in ADGM. But the Application Regulations provide ADGM courts with the ability to adapt the common law to better suit the circumstances in the event that common law developments are thought to be unsuitable for application in ADGM.\n",
+        "Obligations": [
+            "Obligation:1 \"Comply with ADGM Regulations and Rules**: Ensure that your activities align with the Financial Services and Markets Regulations (FSMR) and any relevant rules and guidance issued by the Financial Services Regulatory Authority (FSRA).\"",
+            "Obligation:2 \"Stay Informed**: Keep up to date with developments in English common law as it applies within ADGM, including any changes, judgments, and adaptations made by the ADGM courts.\"",
+            "Obligation:3 \"Adaptation Awareness**: Be aware that ADGM courts can adapt English common law to fit local needs and be prepared to comply with these adaptations.\"",
+            "Obligation:4 \"Legal and Regulatory Consultation**: Consult with legal and compliance professionals to understand the impact of common law developments and ADGM-specific adaptations on your business operations and regulatory compliance.\"",
+            "Obligation:5 \"Risk Management**: Develop and maintain a risk management framework to address the potential impact of common law developments and court adaptations on your business.\"",
+            "Obligation:6 \"Documentation and Record-Keeping**: Keep thorough records and documentation to demonstrate compliance with ADGM regulations, common law principles, and any court adaptations.\"",
+            "Obligation:7 \"Training**: Provide training to staff on compliance, legal matters, and the implications of common law developments and ADGM's adaptations.\"",
+            "Obligation:8 \"Monitor ADGM Regulations**: Regularly review the Application Regulations and any guidance from the ADGM courts or FSRA.\"",
+            "Obligation:9 \"Dispute Resolution**: Be prepared for the possibility that ADGM courts may apply or adapt English common law in legal disputes, potentially influencing outcomes.\n\nNote: These action items are general guidelines and may need to be tailored to the specific nature of your business and role within the ADGM. Always seek personalized advice from legal and compliance experts.\""
+        ],
+        "NamedEntities": {
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market."
+        }
+    },
+    {
+        "ID": "f8721039-c258-43c4-8e5d-f7b043d68529",
+        "PassageID": "3.",
+        "Passage": "STATUTE LAW",
+        "Obligations": [],
+        "NamedEntities": {
+            "statute law": "law enacted by a legislature"
+
+    }},
+    {
+        "ID": "74a9598f-2f07-49bd-b099-a955157b71ea",
+        "PassageID": "3.1.",
+        "Passage": "Two main groups of statute law have effect in the ADGM: (i) the 47 modified English statutes scheduled to the Application Regulations; and (ii) other enactments passed by ADGM. The first group includes statutes that make modifications to common law rules and other standalone commercial statutes. The second group comprises key ADGM enactments for commercial activity which are primarily based on precedent statutes from the UK and are up to date, fitting snugly with the common law. For the first group, the Application Regulations specify exactly which statutory modifications of common law rules have effect in the ADGM\u2019s legal system. Future statutory modifications passed in the UK will not have effect in ADGM. The underlying common law precedent is to be referred to disregarding them, unless another ADGM enactment has expressly stated that they shall apply in ADGM.  Existing statutory modifications have effect in ADGM only to the extent that they are included in the 47 English statutes scheduled to the Application Regulations or are included in another ADGM enactment. Key statutory modifications and other general English commercial statutes relevant to modern business have been included in the ADGM\u2019s body of statute law and were selected as a result of a review of key English commercial statutes and were publicly consulted upon.\n",
+        "Obligations": [
+            "Obligation:1 \"Comply with Modified English Statutes**: Familiarize with and adhere to the 47 modified English statutes scheduled to the Application Regulations that are applicable within the ADGM.\"",
+            "Obligation:2 \"Follow ADGM Enactments**: Understand and comply with enactments passed by the ADGM that are tailored to its legal framework and regulate commercial activity.\"",
+            "Obligation:3 \"Disregard Future UK Statutory Modifications**: Do not automatically apply future UK statutory modifications to ADGM operations unless an ADGM enactment specifies their applicability.\"",
+            "Obligation:4 \"Consult the Application Regulations**: Refer to the Application Regulations to determine the effect of statutory modifications within the ADGM.\"",
+            "Obligation:5 \"Stay Informed on Legal Updates**: Regularly monitor for any changes or updates to the ADGM's legal framework, including new enactments or amendments to existing laws.\"",
+            "Obligation:6 \"Seek Legal Advice**: Consult with legal experts or compliance professionals to ensure a thorough understanding of ADGM regulations and their implications for your business.\"",
+            "Obligation:7 \"Implement Compliance Measures**: Establish and maintain appropriate compliance measures, policies, and procedures, including staff training and regular audits.\"",
+            "Obligation:8 \"Maintain Records and Reporting**: Keep accurate records and fulfill any reporting requirements as mandated by ADGM regulations and enactments.\"",
+            "Obligation:9 \"Address Industry-Specific Regulations**: Identify and adhere to any additional industry-specific regulations and compliance requirements relevant to your business.\"",
+            "Obligation:10 \"Refer to Common Law Precedent**: In situations without specific statutory guidance within the ADGM, refer to the underlying common law precedent to inform business practices.\""
+        ],
+        "NamedEntities": {
+            "group": "collection of agents (people, organizations, software agents, etc.) that are considered as a unit",
+            "statute law": "law enacted by a legislature",
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market."
+        }
+    },
+    {
+        "ID": "af6c5af5-fe4c-45b3-80c5-c486a942b4db",
+        "PassageID": "3.2.",
+        "Passage": "The English statute law that has effect in the ADGM is based on a fixed date approach. The 47 modified English statutes have effect in the ADGM in their state as at the effective date of the Application Regulations. A fixed date approach is not unusual.  It has been adopted by other jurisdictions which have at one point received English statute law (e.g. Australia, Hong Kong and Singapore). Modifications made to those statutes after the effective date of the Application Regulations do not have effect in ADGM unless permitted by a specific ADGM enactment.  Otherwise English statute law does not have effect in the ADGM unless stated in another ADGM enactment.",
+        "Obligations": [
+            "Obligation:1 \"Compliance with Modified English Statutes**: Ensure compliance with the 47 modified English statutes as of the effective date of the Application Regulations.\"",
+            "Obligation:2 \"Monitoring ADGM Enactments**: Regularly monitor and stay informed about ADGM enactments that modify existing statutes or introduce new regulations.\"",
+            "Obligation:3 \"Adherence to ADGM-Specific Laws**: Comply with ADGM-specific laws and regulations that are not based on English statute law.\"",
+            "Obligation:4 \"Regulatory Reporting and Disclosure**: Fulfill any reporting or disclosure obligations required by the statutes or ADGM regulations.\"",
+            "Obligation:5 \"Maintaining Records**: Keep accurate records demonstrating compliance with the relevant statutes and regulations as they apply within ADGM.\"",
+            "Obligation:6 \"Implementation of Internal Policies**: Develop and maintain internal policies and procedures to ensure ongoing compliance with regulatory obligations.\"",
+            "Obligation:7 \"Seeking Legal Advice**: Obtain legal advice to interpret obligations under the ADGM regulatory framework and stay updated on legal changes.\"",
+            "Obligation:8 \"Training and Competence**: Provide adequate training to staff to ensure they understand and can comply with the ADGM regulatory requirements.\"",
+            "Obligation:9 \"Exclusion of Post-Effective Date English Law Changes**: Do not apply changes to English law made after the effective date unless adopted by ADGM.\"",
+            "Obligation:10 \"Reference to ADGM-Specific Legislation**: Refer to ADGM-specific legislation for matters not covered by the modified English statutes.\"",
+            "Obligation:11 \"Regulatory Engagement**: Engage with ADGM regulatory authorities for guidance on compliance matters related to the application of English statute law within ADGM.\""
+        ],
+        "NamedEntities": {
+            "statute law": "law enacted by a legislature",
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market."
+        }
+    },
+    {
+        "ID": "b5ac49bc-fb23-4321-a9af-bf75e32a5864",
+        "PassageID": "3.3.",
+        "Passage": "Taken with the direct reference to English common law precedent in the background, ADGM has created a thorough range of common law and statute law to support its development as a sophisticated international financial centre. While ADGM\u2019s selective approach means that there are marginal risks that an omission may at some point be identified relating to a provision which on reflection might be useful to the zone, those risks have been minimised by the approach that has been adopted and by the fact that ADGM\u2019s judges have the expertise to establish appropriate commercial evolutions to the common law as adapted for ADGM\u2019s circumstances. Future relevant statutory modifications can also be quickly implemented by ADGM enactments.",
+        "Obligations": [
+            "Obligation:1 \"Comply with ADGM Regulations and Rules**: Ensure adherence to all relevant ADGM regulations and rules, including financial services, companies, insolvency regulations, and any other applicable legislation.\"",
+            "Obligation:2 \"Obtain Necessary Licensing and Authorization**: Secure the required licenses and authorizations from the ADGM Financial Services Regulatory Authority (FSRA) if providing financial services.\"",
+            "Obligation:3 \"Maintain Accurate Reporting and Disclosure**: Adhere to reporting requirements by disclosing financial statements, risk management reports, and any significant business changes as mandated by ADGM regulations and the FSRA.\"",
+            "Obligation:4 \"Meet Fit and Proper Criteria**: Ensure all individuals performing controlled functions or in significant management roles meet the 'fit and proper' criteria, assessing integrity, competence, and financial soundness.\"",
+            "Obligation:5 \"Implement AML and CTF Measures**: Establish systems and controls for Anti-Money Laundering (AML) and Counter-Terrorist Financing (CTF), including customer due diligence, record-keeping, and reporting suspicious activities.\"",
+            "Obligation:6 \"Ensure Data Protection Compliance**: Comply with data protection laws to ensure the privacy and security of personal data.\"",
+            "Obligation:7 \"Adhere to Consumer Protection Laws**: Follow regulations that protect consumer rights and interests, including transparent pricing, fair treatment, and proper complaint handling.\"",
+            "Obligation:8 \"Engage in Fair Market Conduct**: Practice fair and transparent market practices, avoiding market abuse, manipulation, and insider trading.\"",
+            "Obligation:9 \"Establish Risk Management Policies**: Develop and maintain adequate risk management policies and procedures to manage and mitigate business risks.\"",
+            "Obligation:10 \"Maintain Good Corporate Governance**: Implement appropriate governance structures and oversee business operations to uphold corporate governance standards.\"",
+            "Obligation:11 \"Stay Informed of Regulatory Changes**: Keep updated on changes in ADGM regulations and ensure ongoing compliance with new requirements.\"",
+            "Obligation:12 \"Utilize ADGM Dispute Resolution Mechanisms**: Engage with ADGM Courts and dispute resolution mechanisms, such as mediation, arbitration, or litigation, as necessary.\"",
+            "Obligation:13 \"Engage in Continuous Professional Development**: Maintain professional knowledge and skills through continuous learning, as required by your role.\"",
+            "Obligation:14 \"Notify FSRA of Significant Business Changes**: Inform the FSRA about any substantial changes to your business operations, including changes in control, business model, or key personnel.\n\nThese action items are a general guide and may vary based on the specific nature of your activities within ADGM. It is recommended to consult with legal counsel or compliance professionals for advice tailored to your particular circumstances.\""
+        ],
+        "NamedEntities": {
+            "future": "derivative instrument that obligates the buyer to receive and the seller to deliver the assets specified at an agreed price, at some later point in time",
+            "statute law": "law enacted by a legislature",
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "Future": "Has the meaning given in paragraph 95 of Schedule 1 of FSMR."
+        }
+    },
+    {
+        "ID": "b927cb5a-ad04-4860-a935-ea1f8966688f",
+        "PassageID": "3.4.",
+        "Passage": "The manner in which ADGM has developed its statutory law, as implemented under the 47 English statutes and ADGM\u2019s regulations has these advantages:\n(i)\tGeneral approach to statute law: ADGM has not attempted to codify common law rules into statutory codes. ADGM has produced consolidated versions of the 47 English statutes as modified which are scheduled to the Application Regulations for ease of use. As these statutes have been implemented locally and consistently with their UK form, they should benefit from the existing English case law that interprets and applies analogous provisions. As ADGM\u2019s other enactments have also been drafted from precedent statutes from the UK and other commercially renowned jurisdictions they inherit the precedential value of common law cases interpreting and applying those statutes, which can usefully be considered in the ADGM courts.\n(ii)\tImprovements: ADGM has, in its individual reflection of precedent statutes from the UK and other common law jurisdictions, made useful improvements and modifications which businesses and practitioners in ADGM may find it worth familiarising themselves with. ADGM\u2019s improvements and modifications have been clearly identified in the relevant legislative consultation papers which are publicly available online. For example the following concepts have been omitted in ADGM\u2019s Companies and Insolvency Regulations: (i) memoranda of association; (ii) share nominal value; and (iii) company voluntary arrangements.  Other improvements made include the addition of \u201crestricted scope companies\u201d, \u201ccell companies\u201d and removals of restrictions on returning capital to limited partners in limited liability partnerships. ADGM intends to continue with its adopt and modify approach where this is deemed commercially useful or otherwise appropriate.",
+        "Obligations": [
+            "Obligation:1 \"Familiarize with ADGM Regulations**: Understand the 47 English statutes as modified for ADGM, including local implementations and alignment with UK versions.\"",
+            "Obligation:2 \"Understand Modifications and Improvements**: Be aware of specific changes ADGM has made to precedent statutes, such as the introduction of new concepts and the omission of others.\"",
+            "Obligation:3 \"Review Consultation Papers**: Examine legislative consultation papers to grasp the details and rationale behind ADGM's regulatory changes.\"",
+            "Obligation:4 \"Comply with ADGM Statutes and Case Law**: Ensure business operations are in line with ADGM regulations and consider English case law for guidance on common law rules not codified into ADGM's statutory codes.\"",
+            "Obligation:5 \"Stay Updated on Regulatory Changes**: Monitor for any future updates to ADGM's regulatory framework and be prepared to adapt accordingly.\"",
+            "Obligation:6 \"Seek Legal and Regulatory Advice**: Obtain professional advice to navigate the complexities of ADGM regulations and to understand the application of common law precedents.\"",
+            "Obligation:7 \"Implement Necessary Changes**: Adjust corporate governance, financial reporting, and business practices to comply with ADGM's modifications and improvements.\""
+        ],
+        "NamedEntities": {
+            "share": "financial instrument that signifies a unit of equity ownership in a corporation, or a unit of ownership in a mutual fund, or interest in a general or limited partnership, or a unit of ownership in a structured product, such as a real estate investment trust",
+            "association": "not-for-profit organization that is owned by and acts on behalf of its members",
+            "statute law": "law enacted by a legislature",
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "Insolvency Regulations": "Means the Insolvency Regulations 2022."
+        }
+    },
+    {
+        "ID": "7ceceb35-f50c-47ee-9227-2956f9be86e5",
+        "PassageID": "4.",
+        "Passage": "OVERALL",
+        "Obligations": []
+    },
+    {
+        "ID": "680a0e1c-8fea-4625-8415-e1e5380a4579",
+        "PassageID": "4.1.",
+        "Passage": "ADGM\u2019s legal system provides certainty, flexibility and sophistication. ADGM has crafted its legal framework to ensure that a comprehensive range of carefully selected laws is in place to create a robust legal environment for commercial activities. It has deliberately selected which English statutes and statutory modifications are to have effect in ADGM. As it has given legal effect to locally modified English statutes or drafted its statutes from precedent acts from other jurisdictions, it benefits from the interpretative case law which has developed around the original precedent acts. The entirety of English common law also provides a firm and constantly evolving background of worked out and readily available legal principles and precedent across a wide range of commercial relationships which will be invaluable to business in ADGM.",
+        "Obligations": [
+            "Obligation:1 \"Obtain Necessary Licensing and Registration**: Secure the appropriate licenses and registrations for conducting financial services or other regulated activities from the ADGM Financial Services Regulatory Authority (FSRA).\"",
+            "Obligation:2 \"Compliance with ADGM Regulations**: Adhere to all relevant regulations set out by ADGM, including Companies Regulations, Commercial Licensing Regulations, Insolvency Regulations, Employment Regulations, and any other applicable legal and regulatory framework.\"",
+            "Obligation:3 \"Implement AML and CTF Measures**: Establish and maintain effective anti-money laundering (AML) and counter-terrorist financing (CTF) systems and controls to prevent, detect, and report suspicious activities.\"",
+            "Obligation:4 \"Adhere to Data Protection Rules**: Comply with ADGM's data protection regulations regarding the processing and protection of personal data.\"",
+            "Obligation:5 \"Maintain Good Corporate Governance**: Uphold good corporate governance practices, including maintaining proper records, appropriate management structures, and ensuring directors and officers meet the fit and proper criteria.\"",
+            "Obligation:6 \"Ensure Financial Reporting and Auditing Compliance**: Prepare financial statements, have them audited annually if required, and submit these reports to ADGM authorities as mandated.\"",
+            "Obligation:7 \"Follow Market Conduct Rules**: Prevent market abuse and manipulation by acting in accordance with principles of fair and transparent market conduct and adhering to Market Conduct Rules.\"",
+            "Obligation:8 \"Protect Consumer Rights**: Comply with regulations designed to protect the rights and interests of consumers if your business involves consumer dealings.\"",
+            "Obligation:9 \"Manage Risks Effectively**: Develop and implement appropriate risk management policies and procedures to identify, assess, and manage business risks.\"",
+            "Obligation:10 \"Meet Prudential and Capital Requirements**: Maintain adequate capital and liquidity if applicable and comply with any prudential requirements set by the FSRA.\"",
+            "Obligation:11 \"Fulfill Reporting Obligations**: Submit periodic reports and disclosures to the FSRA, including changes in significant ownership, financial health, and other material information.\"",
+            "Obligation:12 \"Comply with International Standards**: Align with international standards and best practices related to financial stability, transparency, and cooperation with international regulatory bodies.\"",
+            "Obligation:13 \"Engage in Dispute Resolution**: Utilize ADGM's dispute resolution mechanisms, such as arbitration and mediation, in the event of a dispute.\n\nPlease note that this consolidated list is based on the general information provided and may not cover all specific obligations for your business. It is recommended to consult with a legal or compliance professional for tailored advice.\""
+        ],
+        "NamedEntities": {
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market."
+        }
+    }
+]
