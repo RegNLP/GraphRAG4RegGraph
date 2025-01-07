@@ -19,7 +19,6 @@
 
 `DocumentMap` includes ID and file names map
 
-`CombinedRegulatoryDocumentsV2.json` includes all structured json files. Can be used backbone of the knowledge graph.
 
 `AnnotatedDocuments` for each document for each passages data annotated by ADGM
   - "Obligations" -> Labelled from Barry using GPT models
@@ -57,3 +56,5 @@
     
 ]
 ```
+`crossReferenceData.csv` include connection between documents based on the reference text. (Manually, Tuba)
+
