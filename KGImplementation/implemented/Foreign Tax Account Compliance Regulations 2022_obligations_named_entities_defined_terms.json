@@ -1,0 +1,576 @@
+[
+    {
+        "ID": "52b491ef-a476-4070-8158-5a7503190eff",
+        "PassageID": "FOREIGN ACCOUNT TAX COMPLIANCE REGULATIONS 2022",
+        "Passage": "\nRegulations to make provision for the implementation of the exchange of information in relation to taxation related matters pursuant to an intergovernmental agreement between the United Arab Emirates and the United States of America regarding the Foreign Account Tax Compliance Act (FATCA).\nDate of Enactment: 14 December 2022\nThe Board of Directors of the Abu Dhabi Global Market, in exercise of its powers under Article 6(1) of Law No. 4 of 2013 concerning the Abu Dhabi Global Market issued by His Highness the Ruler of the Emirate of Abu Dhabi, hereby enacts the following Regulations\u2013",
+        "Obligations": [
+            "Obligation:1 \"Identification of Reportable Accounts:**\n   - Conduct due diligence to identify US reportable accounts or accounts held by US-owned foreign entities.\"",
+            "Obligation:2 \"Registration Requirements:**\n   - Register with the IRS and obtain a Global Intermediary Identification Number (GIIN), if applicable.\n   - Register with the ADGM's competent authority as a reporting financial institution.\"",
+            "Obligation:3 \"Reporting Obligations:**\n   - Report annually to the ADGM's competent authority the required information on US reportable accounts.\"",
+            "Obligation:4 \"Withholding Compliance:**\n   - Implement a 30% withholding tax on payments to non-participating FFIs and non-compliant account holders.\"",
+            "Obligation:5 \"Compliance Program Development:**\n   - Establish and maintain a compliance program, including appointing a responsible officer, establishing internal policies, training staff, and possibly setting up an audit mechanism.\"",
+            "Obligation:6 \"Record Keeping:**\n   - Maintain records of due diligence and reporting for the required period (typically at least six years).\"",
+            "Obligation:7 \"Account Holder Communication:**\n   - Notify account holders about the potential reporting of their information to the IRS and obtain necessary consent and documentation, such as W-8 and W-9 forms or self-certifications.\"",
+            "Obligation:8 \"Coordination with Other Laws:**\n   - Ensure FATCA compliance is coordinated with other relevant ADGM regulations and UAE laws, including data protection laws.\"",
+            "Obligation:9 \"FATCA Agreement Adherence:**\n   - If applicable, comply with the terms of the FFI agreement under the Model 1 IGA with the IRS.\"",
+            "Obligation:10 \"Notification and Certification:**\n    - Notify the ADGM's competent authority of your status as a reporting financial institution and certify compliance with the IGA and ADGM regulations.\n\nEntities should review the full text of the ADGM FATCA regulations and consult with a compliance professional or legal advisor to ensure full compliance with their specific obligations.\""
+        ],
+        "NamedEntities": {
+            "agreement": "negotiated understanding between two or more parties, reflecting the offer and acceptance of commitments on the part of either party",
+            "account": "container for records associated with a business arrangement for regular transactions and services",
+            "board of directors": "group of people comprising the governing body of an organization that has the authority to set organizational strategy and policies as well as to select and, to some degree manage, leadership",
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties",
+            "exchange": "any organization, association, or group of persons, whether incorporated or unincorporated, which constitutes, maintains, or provides a facility for bringing together purchasers and sellers of financial instruments, commodities, or other products, services, or goods, and includes the market place and facilities maintained by such exchange"
+        }
+    },
+    {
+        "ID": "999c66bc-8f2f-4d39-84cd-985e653efeea",
+        "PassageID": "Part 1",
+        "Passage": "Introduction",
+        "Obligations": []
+    },
+    {
+        "ID": "44c499fe-d4bd-4ab5-b9cf-32b9b149f2e1",
+        "PassageID": "Part 1.1.",
+        "Passage": "Definitions",
+        "Obligations": []
+    },
+    {
+        "ID": "16bc4874-b7f1-4796-9ca1-959da204519d",
+        "PassageID": "Part 1.1.(1)",
+        "Passage": "In these Regulations capitalised terms will bear the meaning given to them in the Cabinet Resolution, unless otherwise defined below or the context otherwise requires.\n\n/Table Start\nADGM\tmeans the Abu Dhabi Global Market.\nADGM Court\tmeans the Abu Dhabi Global Market court of first instance established under Abu Dhabi Law No. 4 of 2013.\nCabinet Resolution\tmeans the UAE\u2019s Cabinet of Ministers Resolution No. 63 of 2022 concerning the implementation of Federal Decree No. 9 of 2016 ratifying the IGA, as may be amended from time to time.\nDesignated Officer\tmeans any person, or delegate of that person, appointed by the Regulatory Authority pursuant to the provisions of subsection 5(3).\nGovernment \tmeans the federal government of the UAE.\nIGA\tmeans the intergovernmental Agreement entered into between the United Arab Emirates and the United States of America on 17 June 2015, as may be amended from time to time.\nRegulatory Authority\tmeans the ADGM Financial Services Regulatory Authority.\nUAE\tmeans the United Arab Emirates.\n/Table End\n",
+        "Obligations": [],
+        "NamedEntities": {
+            "agreement": "negotiated understanding between two or more parties, reflecting the offer and acceptance of commitments on the part of either party",
+            "federal government": "union of states under a central government distinct from the individual governments of the separate states",
+            "government": "the system by which a state or community is controlled",
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        }
+    },
+    {
+        "ID": "3b5c4941-a3c2-42c2-9834-48d37122a7a3",
+        "PassageID": "Part 1.2.",
+        "Passage": "Application",
+        "Obligations": []
+    },
+    {
+        "ID": "d38a6084-87a2-46f3-a038-421b1b8c50de",
+        "PassageID": "Part 1.2.(1)",
+        "Passage": "The Cabinet Resolution applies in the ADGM pursuant to these Regulations.",
+        "Obligations": []
+    },
+    {
+        "ID": "287bb8ab-b36b-4691-9afa-daa4f08feb72",
+        "PassageID": "Part 1.2.(2)",
+        "Passage": "Any Account Holder, Controlling Person, and Financial Institution subject to the supervision of the Regulatory Authority for purposes of the Cabinet Resolution and these Regulations shall comply with the Cabinet Resolution and these Regulations.",
+        "Obligations": [],
+        "NamedEntities": {
+            "account": "container for records associated with a business arrangement for regular transactions and services",
+            "account holder": "party that owns an account",
+            "financial institution": "financial service provider identified as either a government agency or privately owned entity that collects funds from the public and from other institutions, and invests those funds in financial assets, such as loans, securities, bank deposits, and income-generating property"
+        }
+    },
+    {
+        "ID": "b59795d0-ecfe-443e-b137-df7ecc34acf3",
+        "PassageID": "Part 1.2.(3)",
+        "Passage": "A contravention of the Cabinet Resolution shall constitute a contravention of these Regulations.\n\n",
+        "Obligations": [
+            "Obligation:1 \"Understand the Cabinet Resolution**: Familiarize yourself with the contents and implications of the Cabinet Resolution as it pertains to your business or activities within the ADGM.\"",
+            "Obligation:2 \"Ensure Compliance**: Align your business practices, operations, and activities with the provisions of the Cabinet Resolution to avoid contravention.\"",
+            "Obligation:3 \"Implement Necessary Changes**: Modify any current business practices that do not comply with the Cabinet Resolution to meet the required standards.\"",
+            "Obligation:4 \"Regular Monitoring and Review**: Continuously check your adherence to the Cabinet Resolution and adjust your practices as necessary to maintain compliance.\"",
+            "Obligation:5 \"Reporting**: Submit any required reports or information as mandated by the Cabinet Resolution or ADGM regulations within the specified deadlines.\"",
+            "Obligation:6 \"Maintain Accurate Records**: Keep detailed records that can verify your compliance with the Cabinet Resolution and ADGM regulations.\"",
+            "Obligation:7 \"Employee Training and Awareness**: Educate your staff about the Cabinet Resolution requirements and ensure they understand how to comply within their roles.\"",
+            "Obligation:8 \"Risk Management**: Identify and manage potential risks related to non-compliance, including legal, financial, and reputational risks.\"",
+            "Obligation:9 \"Stay Informed on Legal and Regulatory Updates**: Keep up-to-date with any amendments to the Cabinet Resolution or related regulations that could affect your compliance obligations.\"",
+            "Obligation:10 \"Seek Professional Advice**: Consult with legal or compliance experts if there is uncertainty about how to interpret or comply with the Cabinet Resolution.\"",
+            "Obligation:11 \"Conduct Due Diligence**: Perform thorough due diligence to prevent any breach of the Cabinet Resolution.\"",
+            "Obligation:12 \"Remediation Measures**: In the event of a contravention, take immediate action to correct and resolve the issue effectively.\n\nNote: These action items are based on the assumption that the Cabinet Resolution is part of the ADGM regulations. Specific obligations may vary depending on the exact nature of the Cabinet Resolution and the relevant regulatory framework within the ADGM.\""
+        ]
+    },
+    {
+        "ID": "8236cdf7-1297-417a-b9d6-4940a1028c93",
+        "PassageID": "Part 1.3.",
+        "Passage": "Status of Competent Authority publications and material",
+        "Obligations": []
+    },
+    {
+        "ID": "37fb28d2-7989-47b1-becf-e003bbee215d",
+        "PassageID": "Part 1.3.(1)",
+        "Passage": "For the purposes of these Regulations, any explanatory material and guidance issued by the Competent Authority for the purpose of assisting with the implementation of the IGA and the Cabinet Resolution is integral to giving effect to the IGA and Cabinet Resolution and accordingly forms the required rights and obligations under these Regulations.\n",
+        "Obligations": []
+    },
+    {
+        "ID": "6abf2837-1b8c-4c7a-9140-72b9ced9b70b",
+        "PassageID": "Part 2",
+        "Passage": "Role and Powers of the Regulatory Authority",
+        "Obligations": []
+    },
+    {
+        "ID": "a633ec1f-f327-4371-8af5-3686d54a8920",
+        "PassageID": "Part 2.4.",
+        "Passage": "Role and powers of the Regulatory Authority",
+        "Obligations": []
+    },
+    {
+        "ID": "e926a736-a44d-4edf-b0cb-3a3a5ea1485c",
+        "PassageID": "Part 2.4.(1)",
+        "Passage": "The Regulatory Authority is designated as the Regulatory Authority for the ADGM, for the purposes of the Cabinet Resolution, and has such functions and powers as are conferred, or expressed to be conferred, on it:\n(a)\t     by or under these Regulations;\n(b)\tby or under the Cabinet Resolution;\n(c)\tby any other instrument or enactment issued by the ADGM Board of Directors; and\n(d)\tby the Competent Authority or the Government from time to time.",
+        "Obligations": [],
+        "NamedEntities": {
+            "board of directors": "group of people comprising the governing body of an organization that has the authority to set organizational strategy and policies as well as to select and, to some degree manage, leadership",
+            "government": "the system by which a state or community is controlled"
+        }
+    },
+    {
+        "ID": "6dbdaf6f-5008-4015-b921-314be255536a",
+        "PassageID": "Part 2.4.(2)",
+        "Passage": "The Regulatory Authority has the power to do whatever it deems necessary for or in connection with, or reasonably incidental to, performing its functions and exercising its powers granted under these Regulations or the Cabinet Resolution, inclusive of but not limited to:\n(a)\tissuing guidance and directives pursuant thereto; and\n(b)\tdelegating its duties and powers under these Regulations or the Cabinet Resolution to Designated Officers.\n\n",
+        "Obligations": []
+    },
+    {
+        "ID": "81cdb0a5-b1fc-47c7-928c-43f4a08d0690",
+        "PassageID": "Part 2.5.",
+        "Passage": "Powers of inspection and investigation",
+        "Obligations": []
+    },
+    {
+        "ID": "97af8dbe-a0c4-43cf-97b7-2e6760cb9478",
+        "PassageID": "Part 2.5.(1)",
+        "Passage": "Without prejudice to the powers of inspection and investigation set out in the Cabinet Resolution, the Regulatory Authority may:\n(a)\trequire any Account Holder, Controlling Person or Financial Institution to provide records, information, explanations and particulars and to give all the required assistance which the Regulatory Authority may reasonably require in connection with the administration or enforcement of these Regulations;\n(b)\tby notice in writing, require any Account Holder, Controlling Person or Financial Institution to provide to the Regulatory Authority such information as the Regulatory Authority may reasonably require for any purpose relating to the administration or enforcement of these Regulations, such information to be provided or produced before the end of such reasonable period as may be set out in the relevant notice;\n(c)\trequest information from and, at all reasonable times, enter any premises or place of business of a Financial Institution for the purposes of:\n(i)\tassessing compliance with these Regulations;\n(ii)\tdetermining whether information included in an information return made under these Regulations is correct and complete and whether information not included in an information return was correctly not included; and/or\n(iii)\texamining the systems and internal procedures put in place by a Reporting UAE Financial Institution for the purposes of ensuring compliance with that entity\u2019s obligations under these Regulations.",
+        "Obligations": [
+            "Obligation:1 \"Provide Records and Information:**\n   - Supply the Regulatory Authority with all records, information, explanations, and particulars as required for the administration or enforcement of the regulations.\"",
+            "Obligation:2 \"Assist the Regulatory Authority:**\n   - Offer necessary assistance to the Regulatory Authority upon request.\"",
+            "Obligation:3 \"Comply with Regulatory Notices:**\n   - Respond to written notices from the Regulatory Authority by providing requested information within the specified timeframe.\"",
+            "Obligation:4 \"Allow Inspection Access:**\n   - Permit the Regulatory Authority to access your premises or place of business for compliance assessment and verification of information returns.\"",
+            "Obligation:5 \"Maintain Accurate Information Returns:**\n   - Ensure that all information returns are correct, complete, and exclude information appropriately when not required.\"",
+            "Obligation:6 \"Implement Compliance Systems and Procedures:**\n   - Establish and maintain systems and internal procedures to ensure adherence to regulatory obligations, especially if you are a Reporting UAE Financial Institution.\"",
+            "Obligation:7 \"Meet Reporting Requirements:**\n   - If applicable, comply with the specific reporting obligations set out in the regulations for Reporting UAE Financial Institutions.\n\n**Note:** Non-compliance may lead to enforcement actions, including penalties. Legal advice or consultation with a compliance professional is recommended for clarity on regulatory requirements.\""
+        ],
+        "NamedEntities": {
+            "account": "container for records associated with a business arrangement for regular transactions and services",
+            "account holder": "party that owns an account",
+            "financial institution": "financial service provider identified as either a government agency or privately owned entity that collects funds from the public and from other institutions, and invests those funds in financial assets, such as loans, securities, bank deposits, and income-generating property"
+        }
+    },
+    {
+        "ID": "27165181-5ffa-4b26-8751-443b03c543a4",
+        "PassageID": "Part 2.5.(2)",
+        "Passage": "The Regulatory Authority may request information from any Account Holder or Controlling Person including, but not limited to, Accounting Records and all other records held in connection with the information or certifications provided to a Financial Institution, and the Regulatory Authority may ask the Financial Institution to assist it to obtain such information or records from Account Holders and Controlling Persons.",
+        "Obligations": [
+            "Obligation:1 \"Provision of Information**: Provide any requested information to the Regulatory Authority, including personal identification details, account information, transaction history, and other relevant financial data.\"",
+            "Obligation:2 \"Record Keeping**: Maintain accurate and comprehensive accounting records and other relevant records, such as ledgers, journals, bank statements, invoices, receipts, correspondence, contracts, and documentation related to account opening and maintenance.\"",
+            "Obligation:3 \"Compliance with Requests**: Comply with the Regulatory Authority's requests in a timely and complete manner to avoid penalties or sanctions.\"",
+            "Obligation:4 \"Retention of Records**: Retain all relevant records for the period specified by the regulatory framework.\"",
+            "Obligation:5 \"Confidentiality and Data Protection**: Adhere to data protection and confidentiality regulations while sharing personal and financial information.\"",
+            "Obligation:6 \"Assistance in Obtaining Information**: Assist the Regulatory Authority in obtaining requested information or records from Account Holders and Controlling Persons.\"",
+            "Obligation:7 \"Reporting**: Report certain account information to the Regulatory Authority as part of regulatory obligations.\"",
+            "Obligation:8 \"Certifications**: Ensure that certifications provided to the Financial Institution regarding tax status or other regulatory matters are accurate and current.\"",
+            "Obligation:9 \"Cooperation**: Cooperate fully with both the Financial Institution and the Regulatory Authority in any investigations or requests for information.\""
+        ],
+        "NamedEntities": {
+            "account": "container for records associated with a business arrangement for regular transactions and services",
+            "account holder": "party that owns an account",
+            "financial institution": "financial service provider identified as either a government agency or privately owned entity that collects funds from the public and from other institutions, and invests those funds in financial assets, such as loans, securities, bank deposits, and income-generating property"
+        }
+    },
+    {
+        "ID": "85afa3d3-596b-4ab5-b0b9-a35e62c7de69",
+        "PassageID": "Part 2.5.(3)",
+        "Passage": "The Regulatory Authority may appoint Designated Officers to assist it in inspections performed at the premises of Financial Institutions pursuant to the provisions of subsections 5(1) and (2) and to submit such written reports in respect thereof as the Regulatory Authority may direct.",
+        "Obligations": [
+            "Obligation:1 \"Cooperation with Inspections**: Provide full cooperation during inspections by Designated Officers, including access to premises and relevant information.\"",
+            "Obligation:2 \"Record Keeping**: Maintain accurate and complete records, including financial, client, transaction, and compliance documentation, and ensure they are readily accessible for review.\"",
+            "Obligation:3 \"Reporting**: Submit required reports or information to the Regulatory Authority as directed, within the specified timeframes.\"",
+            "Obligation:4 \"Compliance with Regulations**: Ensure operations comply with ADGM's financial regulations and other applicable laws, including rules on capital adequacy, risk management, AML, and CTF.\"",
+            "Obligation:5 \"Facilitation of Inspection**: Assist Designated Officers in carrying out their duties, including providing explanations of processes, systems, and controls.\"",
+            "Obligation:6 \"Remediation**: Promptly address any deficiencies or non-compliance issues identified during inspections as directed by the Regulatory Authority.\"",
+            "Obligation:7 \"Confidentiality**: Keep information related to the inspection and its findings confidential, unless required to disclose by law or directed by the Regulatory Authority.\"",
+            "Obligation:8 \"Provision of Information**: Provide accurate and complete information as requested by Designated Officers.\"",
+            "Obligation:9 \"Follow-up Actions**: Implement corrective measures for any findings from the inspection that require remedial action.\"",
+            "Obligation:10 \"Record-Keeping of Inspection Activities**: Keep records of the inspection and communications with Designated Officers for the required period as per ADGM regulations.\n\n*Note: These action items are based on the assumption that the entity in question is a financial institution operating within the ADGM. The specific obligations may vary depending on the nature of the inspection, the type of financial institution, and the particular circumstances. It is advised to refer to the relevant ADGM regulations and guidelines for detailed requirements and to seek legal advice if necessary.*\""
+        ]
+    },
+    {
+        "ID": "eab1ccab-d538-4877-8133-fa2098c06808",
+        "PassageID": "Part 2.5.(4)",
+        "Passage": "The Regulatory Authority may require a Financial Institution to produce a report and/or appoint a skilled person to produce a report.",
+        "Obligations": [
+            "Obligation:1 \"Comply with Report Requests**:\n   - Comply with the Regulatory Authority's request to produce a report within the specified timeframe and according to the specified parameters.\"",
+            "Obligation:2 \"Report Production**:\n   - Compile necessary information and data accurately and in a timely manner.\n   - Ensure the report is accurate, complete, and a true representation of the matters reported on.\n   - Submit the report by the deadline provided by the Regulatory Authority.\"",
+            "Obligation:3 \"Appointment of a Skilled Person**:\n   - Select a qualified and expert individual or firm to produce the report as per Regulatory Authority's criteria.\n   - Provide the skilled person with access to all relevant information, documents, and resources.\n   - Facilitate communication and interaction between the skilled person, staff, management, clients, and the Regulatory Authority as necessary.\n   - Oversee the skilled person's work to ensure compliance with specifications and deadlines.\n   - Review the report for accuracy and completeness before submission.\"",
+            "Obligation:4 \"Cooperation and Transparency**:\n   - Provide full cooperation to the skilled person and the Regulatory Authority.\n   - Maintain open communication with the Regulatory Authority and provide additional information or cooperation as required.\n   - Be transparent and forthcoming with any required information.\"",
+            "Obligation:5 \"Costs and Expenses**:\n   - Bear the costs and expenses associated with producing the report and the skilled person's services unless specified otherwise by the Regulatory Authority.\"",
+            "Obligation:6 \"Compliance with Laws and Regulations**:\n   - Ensure the report production process complies with all relevant laws, regulations, and guidelines, including confidentiality and data protection.\"",
+            "Obligation:7 \"Record Keeping**:\n   - Keep records of the report production process, communications, and the final report for potential review or audit.\"",
+            "Obligation:8 \"Implementation of Recommendations**:\n   - Address and potentially implement changes based on recommendations included in the report.\"",
+            "Obligation:9 \"Notification of Issues**:\n   - Promptly notify the Regulatory Authority of any issues that may affect compliance with the report request.\n\nIt is important to refer to the relevant ADGM regulations and guidelines or consult with a compliance professional for tailored advice specific to the context of the Regulatory Authority's request and the nature of the report required.\""
+        ],
+        "NamedEntities": {
+            "financial institution": "financial service provider identified as either a government agency or privately owned entity that collects funds from the public and from other institutions, and invests those funds in financial assets, such as loans, securities, bank deposits, and income-generating property"
+        }
+    },
+    {
+        "ID": "310f5887-8a00-442b-8bd2-668271e49b41",
+        "PassageID": "Part 2.5.(5)",
+        "Passage": "For the purposes of subsection 5(4), sections 203 and 204 of the Financial Services and Markets Regulations 2015 shall apply in relation to requiring a report or appointing a skilled person to produce a report (as the case may be). A Financial Institution shall be read as falling within the scope of \u201cA\u201d for the purposes of the application of those sections.",
+        "Obligations": [],
+        "NamedEntities": {
+            "financial institution": "financial service provider identified as either a government agency or privately owned entity that collects funds from the public and from other institutions, and invests those funds in financial assets, such as loans, securities, bank deposits, and income-generating property"
+        }
+    },
+    {
+        "ID": "1c0bee8c-b66a-4706-a7bf-081ea2f55590",
+        "PassageID": "Part 2.5.(6)",
+        "Passage": "The Regulatory Authority may commence an investigation in relation to a Financial Institution.",
+        "Obligations": [
+            "Obligation:1 \"Cooperate with the Regulator**: Fully cooperate with the FSRA or regulatory authority by providing access to documents, records, and information upon request.\"",
+            "Obligation:2 \"Comply with Reporting Requirements**: Ensure all reporting obligations have been met, including continuous disclosure obligations and any specific reports related to the investigation.\"",
+            "Obligation:3 \"Preserve Documents and Records**: Maintain all relevant documents and records in an unaltered state, preventing destruction, alteration, or removal.\"",
+            "Obligation:4 \"Maintain Confidentiality**: Keep the details of the investigation confidential and refrain from unauthorized disclosure of information.\"",
+            "Obligation:5 \"Seek Legal and Regulatory Advice**: Consult with legal and compliance professionals to understand rights and obligations.\"",
+            "Obligation:6 \"Conduct an Internal Review**: Perform an internal review to identify potential issues, non-compliance, or misconduct, and take remedial actions if necessary.\"",
+            "Obligation:7 \"Comply with Directions from the Regulator**: Follow any directions or instructions issued by the FSRA promptly.\"",
+            "Obligation:8 \"Notify of Material Changes**: Inform the FSRA immediately of any material changes to previously provided information or changes in circumstances.\"",
+            "Obligation:9 \"Provide Assistance to the Regulator**: Offer reasonable assistance to FSRA staff, investigators, or appointed experts.\"",
+            "Obligation:10 \"Avoid Obstruction**: Refrain from any activities that could obstruct the investigation, such as providing false information or influencing witnesses.\"",
+            "Obligation:11 \"Ensure Ongoing Compliance**: Continue to comply with all relevant laws and regulations during the investigation.\"",
+            "Obligation:12 \"Notify Relevant Parties**: Inform the board of directors, shareholders, or other relevant parties as required by the nature of the investigation.\"",
+            "Obligation:13 \"Manage Risks**: Assess and manage any business risks that may arise as a result of the investigation.\n\nThese action items are based on the general principles of regulatory compliance and may need to be adjusted depending on the specific details of the investigation and the applicable regulations.\""
+        ],
+        "NamedEntities": {
+            "financial institution": "financial service provider identified as either a government agency or privately owned entity that collects funds from the public and from other institutions, and invests those funds in financial assets, such as loans, securities, bank deposits, and income-generating property"
+        }
+    },
+    {
+        "ID": "61509db3-f01d-4dcd-a257-9ee809dd0d32",
+        "PassageID": "Part 2.5.(7)",
+        "Passage": "For the purposes of subsection 5(6), sections 205 to 215 and section 217 of the Financial Services and Markets Regulations 2015 shall apply in relation to commencement and conduct of an investigation by the Regulatory Authority of a Financial Institution.\n",
+        "Obligations": [],
+        "NamedEntities": {
+            "financial institution": "financial service provider identified as either a government agency or privately owned entity that collects funds from the public and from other institutions, and invests those funds in financial assets, such as loans, securities, bank deposits, and income-generating property"
+        }
+    },
+    {
+        "ID": "0a453fef-49d6-4381-b83b-d3f68b66c815",
+        "PassageID": "Part 3",
+        "Passage": "Reporting and Record keeping",
+        "Obligations": []
+    },
+    {
+        "ID": "384185d5-e407-452c-a6cc-2ca91df3d960",
+        "PassageID": "Part 3.6.",
+        "Passage": "Collecting and reporting information",
+        "Obligations": []
+    },
+    {
+        "ID": "d6116d9d-4624-42de-96d9-72fad66f2e0f",
+        "PassageID": "Part 3.6.(1)",
+        "Passage": "Each Reporting UAE Financial Institution shall collect and report all information in accordance with the Cabinet Resolution and these Regulations.",
+        "Obligations": [
+            "Obligation:1 \"Due Diligence**: Implement and conduct due diligence procedures to identify reportable accounts based on the tax residency of account holders and the nature of the accounts.\"",
+            "Obligation:2 \"Collection of Information**: Collect required information from account holders, including name, address, tax identification number (TIN), date of birth (for individuals), account number, account balance or value, and certain income associated with the account.\"",
+            "Obligation:3 \"Record Keeping**: Maintain records of collected information and due diligence actions for the period specified by the regulations (often at least five years).\"",
+            "Obligation:4 \"Reporting**: Submit the collected information to the UAE's competent authority, such as the Ministry of Finance or another designated body, within the prescribed timelines and in the manner specified.\"",
+            "Obligation:5 \"Registration**: Register with the relevant UAE regulatory authority as a Reporting Financial Institution and provide necessary details about your institution.\"",
+            "Obligation:6 \"Compliance Program**: Establish and maintain a compliance program that includes staff training, regular reviews of procedures, and internal audits to ensure adherence to reporting and due diligence requirements.\"",
+            "Obligation:7 \"Data Protection**: Handle personal data in accordance with data protection laws, ensuring confidentiality and security against unauthorized access and breaches.\"",
+            "Obligation:8 \"Notification**: Inform account holders about the potential reporting of their information to UAE authorities and the exchange with tax authorities in other jurisdictions.\"",
+            "Obligation:9 \"Cooperation with Authorities**: Respond promptly to requests for additional information from the UAE competent authority.\"",
+            "Obligation:10 \"Penalties**: Understand and comply with penalties for non-compliance, which may include financial penalties, sanctions, or other measures.\n\nFor detailed and specific obligations, refer to the Cabinet Resolution and the regulations applicable to your institution, and consider consulting with legal or compliance professionals for tailored guidance.\""
+        ],
+        "NamedEntities": {
+            "financial institution": "financial service provider identified as either a government agency or privately owned entity that collects funds from the public and from other institutions, and invests those funds in financial assets, such as loans, securities, bank deposits, and income-generating property"
+        }
+    },
+    {
+        "ID": "f47c19af-9f6b-416c-b37e-737063ae6ed5",
+        "PassageID": "Part 3.6.(2)",
+        "Passage": "Each Reporting UAE Financial Institution shall establish and implement appropriate systems and internal procedures to enable its compliance with the Cabinet Resolution and these Regulations.",
+        "Obligations": [
+            "Obligation:1 \"Due Diligence**: Conduct due diligence procedures to identify reportable accounts, establishing the tax residency of account holders, and determining their reportability under CRS or FATCA.\"",
+            "Obligation:2 \"Record-Keeping**: Maintain records of due diligence and reporting activities, including documentation collected during identification and verification processes.\"",
+            "Obligation:3 \"Reporting**: Report required financial account information to the relevant UAE authority for exchange with tax authorities of the account holders' tax residency jurisdictions.\"",
+            "Obligation:4 \"Policies and Procedures**: Develop and implement written policies and procedures to comply with due diligence and reporting requirements.\"",
+            "Obligation:5 \"Training**: Provide training for staff on compliance requirements and internal procedures.\"",
+            "Obligation:6 \"Compliance Program**: Implement and monitor a compliance program to review the effectiveness of policies, procedures, and controls for ongoing compliance.\"",
+            "Obligation:7 \"Data Protection**: Protect personal data in accordance with applicable data protection laws.\"",
+            "Obligation:8 \"Internal Audit**: Conduct internal audits to assess systems and procedures and address deficiencies.\"",
+            "Obligation:9 \"Risk Assessment**: Perform risk assessments to identify and mitigate non-compliance risks.\"",
+            "Obligation:10 \"Regulatory Updates**: Stay informed about regulatory changes and update systems and procedures accordingly.\"",
+            "Obligation:11 \"Compliance Officer**: Appoint a compliance officer or responsible individual to oversee compliance efforts.\"",
+            "Obligation:12 \"Cooperation with Authorities**: Cooperate with regulatory authorities and provide requested information.\"",
+            "Obligation:13 \"Compliance Systems and Procedures**: Establish and maintain systems and internal procedures to ensure compliance with the Cabinet Resolution and relevant regulations.\"",
+            "Obligation:14 \"Monitoring and Review**: Regularly monitor and review compliance systems and procedures, adjusting as needed.\"",
+            "Obligation:15 \"Reporting Obligations**: Fulfill all specified reporting obligations, including automatic exchange of information under CRS or other standards.\"",
+            "Obligation:16 \"Regulatory Filings and Notifications**: Submit required filings or notifications to regulatory authorities within prescribed timelines. \n\nNote: Items 13 to 16 are essentially more detailed or alternative expressions of items 3, 4, 6, and 12, and have been included to ensure comprehensiveness. However, they do not represent additional unique action items beyond the first 12 listed.\""
+        ],
+        "NamedEntities": {
+            "financial institution": "financial service provider identified as either a government agency or privately owned entity that collects funds from the public and from other institutions, and invests those funds in financial assets, such as loans, securities, bank deposits, and income-generating property"
+        }
+    },
+    {
+        "ID": "409e8271-b415-4ee1-8df4-233c2712de58",
+        "PassageID": "Part 3.7.",
+        "Passage": "Record keeping",
+        "Obligations": []
+    },
+    {
+        "ID": "ce3777af-1b1f-4e88-82a2-daac5f19d77d",
+        "PassageID": "Part 3.7.(1)",
+        "Passage": "Every Reporting UAE Financial Institution shall keep records of the steps undertaken and any evidence relied upon for the performance of the due diligence procedures and the measures to obtain those records that the Reporting UAE Financial Institution obtains or creates for the purpose of complying with the Cabinet Resolution and these Regulations.",
+        "Obligations": [
+            "Obligation:1 \"Perform Due Diligence Procedures**: Implement and conduct due diligence procedures on account holders to identify reportable accounts in accordance with CRS, FATCA, and other relevant regulations.\"",
+            "Obligation:2 \"Maintain Record-Keeping**: Keep detailed records of all steps taken during the due diligence process, including methods for identifying tax residency, account classification, and verification actions.\"",
+            "Obligation:3 \"Retain Evidence**: Preserve evidence relied upon during the due diligence process, such as self-certifications and correspondence with account holders.\"",
+            "Obligation:4 \"Ensure Record Accessibility and Maintenance**: Organize and maintain records so they are up-to-date and readily accessible for regulatory review, in both electronic and physical forms if necessary.\"",
+            "Obligation:5 \"Adhere to Retention Period**: Retain records for the minimum period specified by ADGM regulations, typically at least six years after the end of the year to which they relate.\"",
+            "Obligation:6 \"Comply with Data Protection**: Follow ADGM's data protection regulations and applicable privacy laws in the collection, storage, and sharing of personal information.\"",
+            "Obligation:7 \"Document Compliance Measures and Procedures**: Document the policies and procedures established to comply with the Cabinet Resolution, ADGM regulations, and due diligence requirements.\"",
+            "Obligation:8 \"Establish a Compliance Program**: Develop a formal compliance program that includes staff training, regular reviews of due diligence procedures, and policy updates to align with regulatory changes.\"",
+            "Obligation:9 \"Conduct Reporting**: Report information on reportable accounts to the ADGM or relevant UAE authority as per prescribed timelines and formats.\"",
+            "Obligation:10 \"Training and Awareness**: Provide adequate training for staff to ensure awareness and understanding of compliance obligations.\n\nNote: Non-compliance can lead to penalties, including fines and enforcement actions by the FSRA. Always consult the latest ADGM regulations and guidance for current requirements.\""
+        ],
+        "NamedEntities": {
+            "financial institution": "financial service provider identified as either a government agency or privately owned entity that collects funds from the public and from other institutions, and invests those funds in financial assets, such as loans, securities, bank deposits, and income-generating property"
+        }
+    },
+    {
+        "ID": "072df60e-d5ac-4352-8041-8b8155d17f2b",
+        "PassageID": "Part 3.7.(2)",
+        "Passage": "Every Reporting UAE Financial Institution that is required to keep, obtain or create records under these Regulations shall retain those records for a period of at least six (6) years after the date of reporting to the Regulatory Authority.",
+        "Obligations": [
+            "Obligation:1 \"Retain Records**: Maintain all necessary records for a minimum of six years from the date of reporting to the Regulatory Authority.\"",
+            "Obligation:2 \"Types of Records**: Keep documentation and information related to financial accounts, customer due diligence, account information, due diligence procedures, reporting forms, and any reports submitted to the Regulatory Authority.\"",
+            "Obligation:3 \"Accessibility**: Ensure records are easily accessible and retrievable upon request by the Regulatory Authority, implying an efficient storage and retrieval system.\"",
+            "Obligation:4 \"Data Protection Compliance**: Adhere to applicable data protection laws while handling personal data within the records.\"",
+            "Obligation:5 \"Destruction of Records**: Implement secure destruction policies for records that are no longer required after the six-year retention period, in compliance with legal, regulatory, and operational guidelines.\"",
+            "Obligation:6 \"Demonstrate Compliance**: Maintain records in a manner that demonstrates compliance with reporting obligations and can substantiate the information reported.\"",
+            "Obligation:7 \"Regular Audits and Reviews**: Conduct regular audits or reviews of record retention policies and practices to ensure compliance.\"",
+            "Obligation:8 \"Policy Documentation**: Develop and maintain a written record retention policy that details the approach to meeting obligations, including roles and responsibilities.\"",
+            "Obligation:9 \"Stay Informed**: Keep updated with any changes to the ADGM regulations that may affect record retention requirements.\"",
+            "Obligation:10 \"Internal Policies and Procedures**: Establish and uphold internal policies and procedures for managing record retention in line with regulations.\"",
+            "Obligation:11 \"Training**: Train relevant staff on the record retention requirements to ensure awareness and compliance.\"",
+            "Obligation:12 \"Prepare for Audits**: Be ready for potential audits or compliance checks by the Regulatory Authority, which may require providing access to retained records.\n\nThese action items should be cross-referenced with current ADGM regulations and other relevant laws or guidelines. Always consult the actual regulatory texts or seek professional advice to ensure full compliance.\""
+        ],
+        "NamedEntities": {
+            "financial institution": "financial service provider identified as either a government agency or privately owned entity that collects funds from the public and from other institutions, and invests those funds in financial assets, such as loans, securities, bank deposits, and income-generating property"
+        }
+    },
+    {
+        "ID": "f1259726-ff5e-4b62-81b8-093f23f45119",
+        "PassageID": "Part 3.7.(3)",
+        "Passage": "Every Reporting UAE Financial Institution required by these Regulations to keep records that does so electronically shall retain them in an electronically readable format for the retention period of six (6) years after the date of reporting it to the Regulatory Authority.",
+        "Obligations": [
+            "Obligation:1 \"Electronic Record Retention**: Ensure that records are kept in an electronically readable format.\"",
+            "Obligation:2 \"Retention Period**: Retain records for a period of six (6) years.\"",
+            "Obligation:3 \"Commencement of Retention Period**: Start the retention period from the date of reporting the information to the Regulatory Authority.\"",
+            "Obligation:4 \"Accessibility**: Ensure that records are accessible and can be retrieved and read upon request by the Regulatory Authority during the retention period.\"",
+            "Obligation:5 \"Compliance with Reporting Requirements**: Accurately report the required information to the Regulatory Authority within the specified timelines and ensure that retained records pertain to this reported information.\"",
+            "Obligation:6 \"Data Integrity and Security**: Maintain the security and integrity of electronic records to prevent data loss, corruption, or unauthorized access throughout the retention period.\"",
+            "Obligation:7 \"Adherence to Specific Guidelines**: Follow any guidelines or standards provided by the Regulatory Authority regarding the format or method of electronic record-keeping.\"",
+            "Obligation:8 \"End of Retention Period**: Follow proper procedures for the disposal of records after the six-year retention period, in accordance with Regulatory Authority guidelines and relevant laws.\"",
+            "Obligation:9 \"Audit and Inspection Readiness**: Be prepared for audits or inspections and able to produce required records within a reasonable time frame.\"",
+            "Obligation:10 \"Notification of Changes**: Notify the Regulatory Authority if there are any changes in status as a Reporting UAE Financial Institution or in the ability to comply with record-keeping requirements.\n\nIt is also recommended to be aware of and comply with any other related obligations under the ADGM regulations or seek professional advice to ensure full compliance.\""
+        ],
+        "NamedEntities": {
+            "financial institution": "financial service provider identified as either a government agency or privately owned entity that collects funds from the public and from other institutions, and invests those funds in financial assets, such as loans, securities, bank deposits, and income-generating property"
+        }
+    },
+    {
+        "ID": "2f625184-9c70-4f6b-8134-cd72987c8a4a",
+        "PassageID": "Part 3.7.(4)",
+        "Passage": "Every Reporting UAE Financial Institution that obtains or creates records, as required under these Regulations, in a language other than English shall, upon request, provide an English translation to the Regulatory Authority.\n",
+        "Obligations": [
+            "Obligation:1 \"Record Maintenance**: Maintain records of all relevant documentation and information pertinent to reporting requirements under ADGM regulations, including documentation supporting due diligence procedures and reporting practices.\"",
+            "Obligation:2 \"Language Requirement**: Be prepared to provide an English translation for records obtained or created in a language other than English.\"",
+            "Obligation:3 \"Translation Upon Request**: Provide an English translation to the Regulatory Authority when requested, without the need for proactive translation of all non-English records.\"",
+            "Obligation:4 \"Timeliness**: Ensure translations are provided within a reasonable time frame as specified by the Regulatory Authority.\"",
+            "Obligation:5 \"Accuracy**: Guarantee that translations accurately reflect the content of the original documents and are a true and correct representation of the original records.\"",
+            "Obligation:6 \"Compliance**: Adhere to these obligations as part of overall compliance with ADGM financial regulations, and be aware that failure to comply may result in regulatory action.\"",
+            "Obligation:7 \"Documentation**: Document the process and procedures for handling translation requests to demonstrate compliance readiness and efficiency.\"",
+            "Obligation:8 \"Costs**: Bear the costs associated with the translation of documents, unless otherwise specified by the Regulatory Authority.\n\nIt is essential to integrate these action items into the broader responsibilities under ADGM regulations and to consult the full scope of the regulations or seek legal advice for comprehensive compliance.\""
+        ],
+        "NamedEntities": {
+            "financial institution": "financial service provider identified as either a government agency or privately owned entity that collects funds from the public and from other institutions, and invests those funds in financial assets, such as loans, securities, bank deposits, and income-generating property"
+        }
+    },
+    {
+        "ID": "98e8fa46-27d0-40a1-a858-109058faacdd",
+        "PassageID": "Part 4",
+        "Passage": "Penalties and contraventions",
+        "Obligations": []
+    },
+    {
+        "ID": "d075b017-5773-4ab7-a9bd-07c50977d5bd",
+        "PassageID": "Part 4.8.",
+        "Passage": "Power to prescribe penalties and procedures",
+        "Obligations": []
+    },
+    {
+        "ID": "9038392a-816d-4f0d-97a4-0ce14a152186",
+        "PassageID": "Part 4.8.(1)",
+        "Passage": "The Regulatory Authority may prescribe:\n(a)\tpenalties and administrative fees and other sanctions in addition to the penalties and administrative sanctions stipulated in the Cabinet Resolution; and\n(b)\tforms and additional procedures in relation to:\n(i)\tthe imposition and recovery of penalties and administrative fees imposed pursuant to these Regulations (including those stipulated in the Cabinet Resolution);\n(ii)\tthe enforcement of actions required by the Regulatory Authority pursuant to these Regulations; and\n(iii)\tany objection or right of appeal in respect of any penalties or administrative fees or action required or the enforcement thereof.\n\n",
+        "Obligations": [],
+        "NamedEntities": {
+            "right": "entitlement (not) to perform certain actions, or (not) to be in certain states; or entitlement that others (not) perform certain actions or (not) be in certain states"
+        }
+    },
+    {
+        "ID": "548a5ff6-d2c6-4954-8aa3-40008d11b7c2",
+        "PassageID": "Part 4.9.",
+        "Passage": "Penalties, sanctions and appeal",
+        "Obligations": []
+    },
+    {
+        "ID": "df18fc08-6c75-4467-ae55-c4ca312e2553",
+        "PassageID": "Part 4.9.(1)",
+        "Passage": "An Account Holder, Controlling Person or Financial Institution who:\n(a)\tdoes an act or thing that is prohibited under the Cabinet Resolution or these Regulations;\n(b)\tdoes not do an act or thing that is required under the Cabinet Resolution or these Regulations; or\n(c)\totherwise contravenes the Cabinet Resolution or these Regulations,\ncommits a contravention of the Cabinet Resolution and these Regulations and is liable to the penalties and administrative sanctions set out in the Cabinet Resolution, and any other penalty or administrative fee or sanction that may be imposed by the Regulatory Authority pursuant to subsection 8(1)(a).",
+        "Obligations": [
+            "Obligation:1 \"Understand and Comply with Prohibitions:**\n   - Avoid engaging in prohibited activities such as fraudulent activities, money laundering, or any other financial misconduct.\n   - Be fully aware of all prohibitions that apply to your role or business operations.\"",
+            "Obligation:2 \"Fulfill All Regulatory Requirements:**\n   - Submit accurate financial reports, conduct due diligence on customers, and maintain proper records.\n   - Ensure that all reporting obligations, due diligence requirements, and prescribed actions are fulfilled.\"",
+            "Obligation:3 \"Adhere to All Regulations:**\n   - Follow all rules and guidelines set forth by the regulatory authority to avoid contraventions.\n   - Understand and adhere to the Cabinet Resolution and the ADGM regulations.\"",
+            "Obligation:4 \"Implement Compliance Measures:**\n   - Establish internal policies and procedures to ensure compliance with regulatory requirements.\n   - Maintain a robust compliance program with policies, procedures, and controls to prevent and detect potential contraventions.\"",
+            "Obligation:5 \"Regular Review and Monitoring:**\n   - Conduct regular reviews and monitoring of your compliance status.\n   - Perform regular audits and assessments to identify and rectify potential issues.\"",
+            "Obligation:6 \"Seek Professional Advice:**\n   - Consult with legal or compliance professionals if unsure about any aspect of the regulations or obligations.\n   - Consider consulting with the ADGM Regulatory Authority for specific guidance.\"",
+            "Obligation:7 \"Training and Awareness:**\n   - Ensure that all relevant personnel are trained and aware of their compliance obligations.\"",
+            "Obligation:8 \"Stay Informed:**\n   - Regularly review and stay up-to-date with the Cabinet Resolution and the ADGM regulations relevant to your role or business.\"",
+            "Obligation:9 \"Penalties for Non-Compliance:**\n   - Be aware that failure to meet obligations could result in penalties, administrative sanctions, and additional consequences as outlined in the Cabinet Resolution and enforced by the Regulatory Authority.\n\nBy following these consolidated action items, Account Holders, Controlling Persons, or Financial Institutions within the ADGM can ensure compliance with the Cabinet Resolution and the relevant regulations, thereby avoiding legal and financial repercussions.\""
+        ],
+        "NamedEntities": {
+            "account": "container for records associated with a business arrangement for regular transactions and services",
+            "account holder": "party that owns an account",
+            "fee": "charge for services performed",
+            "financial institution": "financial service provider identified as either a government agency or privately owned entity that collects funds from the public and from other institutions, and invests those funds in financial assets, such as loans, securities, bank deposits, and income-generating property"
+        }
+    },
+    {
+        "ID": "f15220c7-2553-49a9-a04e-a8c8ac7d76f6",
+        "PassageID": "Part 4.9.(2)",
+        "Passage": "Any appeal against any penalty or fee or sanction imposed pursuant to subsection 9(1) must be raised pursuant to the relevant provisions of the Cabinet Resolution.",
+        "Obligations": [
+            "Obligation:1 \"Understand the Basis of the Penalty or Sanction**: Review the relevant regulations and the specific subsection (9(1)) that has been cited in your case to fully understand the reasons for the penalty or sanction imposed on you.\"",
+            "Obligation:2 \"Review the Cabinet Resolution**: Obtain and review the Cabinet Resolution to understand the specific rules or procedures for the appeal process within the ADGM.\"",
+            "Obligation:3 \"Timely Filing of Appeal**: File your appeal within the specified timeframe as outlined in the Cabinet Resolution or procedural guidelines.\"",
+            "Obligation:4 \"Prepare Supporting Documentation**: Gather all relevant documents, evidence, and arguments that support your case for the appeal.\"",
+            "Obligation:5 \"Follow the Prescribed Appeal Process**: Adhere to the steps outlined in the Cabinet Resolution, which may include filling out forms, submitting your appeal in writing, and attending a hearing if required.\"",
+            "Obligation:6 \"Seek Legal Advice or Representation**: Consider obtaining legal advice or securing representation to ensure your appeal is properly presented and you understand your rights and obligations.\"",
+            "Obligation:7 \"Compliance During the Appeal Process**: Remain compliant with all other regulatory requirements to avoid further penalties or sanctions while your appeal is pending.\"",
+            "Obligation:8 \"Payment of Penalty or Fee**: Determine if you are required to pay the penalty or fee upfront, even if you are appealing, and understand the conditions for refund if the appeal is successful.\"",
+            "Obligation:9 \"Maintain Communication**: Keep open lines of communication with the regulatory body and respond promptly to any requests for additional information or clarification.\"",
+            "Obligation:10 \"Attend Hearings**: Be prepared to attend any hearings as part of the appeal process and present your case effectively.\"",
+            "Obligation:11 \"Acceptance of Outcome**: Be prepared to accept the final decision of the appeal, and understand the options available if the appeal is not successful, such as further appeal or judicial review.\n\nPlease note that these action items are a consolidation of the general steps provided and may not reflect the exact requirements of the Cabinet Resolution relevant to your situation. It is essential to consult the specific provisions of the Cabinet Resolution or seek legal advice for detailed obligations and to ensure compliance with all procedural and substantive requirements of the appeal process.\""
+        ],
+        "NamedEntities": {
+            "fee": "charge for services performed"
+        }
+    },
+    {
+        "ID": "fcf3a267-c027-45ad-a081-3e90f579f56f",
+        "PassageID": "Part 4.9.(3)",
+        "Passage": "For the purposes of any further appeal to a competent court pursuant to the Cabinet Resolution, an application for judicial review of a decision of the Regulatory Authority may only be made to the ADGM Court within the timeframe set out in the Cabinet Resolution on the grounds that the decision is wrong in law.",
+        "Obligations": [],
+        "NamedEntities": {
+            "law": "rule recognized by some community as regulating the behavior of its members and that it may enforce through the imposition of penalties"
+        }
+    },
+    {
+        "ID": "3705e302-f1f8-4293-ac07-79d65809d4b6",
+        "PassageID": "Part 4.9.(4)",
+        "Passage": "Any reference to a competent court in the Cabinet Resolution shall mean the ADGM Court.\n\n",
+        "Obligations": [
+            "Obligation:1 \"Obtain and review the specific Cabinet Resolution in question to understand its content and implications.\"",
+            "Obligation:2 \"Determine the context of your activities or business within the Abu Dhabi Global Market (ADGM) to assess how the Cabinet Resolution applies.\"",
+            "Obligation:3 \"Adhere to the ADGM's regulatory framework, which may include compliance with rules related to:\n   - Anti-money laundering (AML)\n   - Countering the financing of terrorism (CFT)\n   - Data protection and privacy\n   - Licensing requirements\n   - Reporting obligations\n   - Conduct of business standards\"",
+            "Obligation:4 \"Submit to the jurisdiction of the ADGM Courts for any legal disputes, enforcement actions, or judicial proceedings that arise under the Cabinet Resolution.\"",
+            "Obligation:5 \"Cooperate with the ADGM Courts and the Financial Services Regulatory Authority (FSRA) during investigations or in response to any orders or judgments.\"",
+            "Obligation:6 \"Provide additional information as needed for a more precise analysis, including:\n   - The specific Cabinet Resolution number or title\n   - The nature of your business or activities within ADGM\n   - Whether you are a financial or non-financial entity\n   - Any other relevant context related to the resolution\""
+        ]
+    },
+    {
+        "ID": "d7e61b52-b47b-4e39-a035-342c3d8bb98f",
+        "PassageID": "Part 4.10.",
+        "Passage": "Directions to comply",
+        "Obligations": []
+    },
+    {
+        "ID": "59204b3a-1452-4d2f-a5c0-2f105316dfcb",
+        "PassageID": "Part 4.10.(1)",
+        "Passage": "Where the Regulatory Authority, or its delegate, considers that an Account Holder, Controlling Person or Financial Institution has contravened the Cabinet Resolution or these Regulations it may by written notice to such person order that certain action be taken to comply with these Regulations.\n\n",
+        "Obligations": [
+            "Obligation:1 \"Review the written notice from the Regulatory Authority to understand the specific nature of the alleged contravention and the full scope of your obligations.\"",
+            "Obligation:2 \"Assess the accuracy of the alleged contravention and identify areas of non-compliance.\"",
+            "Obligation:3 \"Take immediate corrective action to rectify the breach, which may include revising compliance procedures, re-filing incorrect reports, amending processes, or other corrective measures as directed.\"",
+            "Obligation:4 \"Implement measures specified in the notice to ensure ongoing compliance, such as enhancing internal controls, training staff, conducting internal audits, and revising internal policies.\"",
+            "Obligation:5 \"Keep detailed records and documentation of the steps taken to comply with the notice.\"",
+            "Obligation:6 \"Provide regular updates and report back to the Regulatory Authority on your progress and actions taken to address non-compliance, if required by the notice.\"",
+            "Obligation:7 \"Cooperate fully with the Regulatory Authority by providing access to records, information, and personnel as necessary.\"",
+            "Obligation:8 \"Respond within any deadlines provided in the notice to avoid further regulatory action.\"",
+            "Obligation:9 \"Maintain open lines of communication with the Regulatory Authority for clarifications or discussions regarding the actions being taken.\"",
+            "Obligation:10 \"Seek legal or professional advice to ensure an appropriate response and full understanding of obligations under the regulations.\"",
+            "Obligation:11 \"Implement and monitor procedures or systems to prevent future breaches, and review the effectiveness of these measures regularly.\"",
+            "Obligation:12 \"Be aware of potential penalties for failure to take ordered action, which could include fines, restrictions on business activities, or other enforcement actions.\""
+        ],
+        "NamedEntities": {
+            "account": "container for records associated with a business arrangement for regular transactions and services",
+            "account holder": "party that owns an account",
+            "financial institution": "financial service provider identified as either a government agency or privately owned entity that collects funds from the public and from other institutions, and invests those funds in financial assets, such as loans, securities, bank deposits, and income-generating property"
+        }
+    },
+    {
+        "ID": "adca861f-707e-41ad-8d61-eab3ac2f277b",
+        "PassageID": "Part 4.11.",
+        "Passage": "Anti-Avoidance",
+        "Obligations": []
+    },
+    {
+        "ID": "ec2dba31-9fb0-4505-9577-398b8941ba3f",
+        "PassageID": "Part 4.11.(1)",
+        "Passage": "If a Reporting UAE Financial Institution, person or intermediary enters into any arrangements or engages in a practice, the main purpose or one of the main purposes, of which can reasonably be considered to be to avoid an obligation imposed pursuant to these Regulations , the Reporting UAE Financial Institution, person or intermediary is subject to the obligation as if the Reporting Financial Institution, person or intermediary had not entered into the arrangement or engaged in the practice.",
+        "Obligations": [],
+        "NamedEntities": {
+            "financial institution": "financial service provider identified as either a government agency or privately owned entity that collects funds from the public and from other institutions, and invests those funds in financial assets, such as loans, securities, bank deposits, and income-generating property"
+        }
+    },
+    {
+        "ID": "57d8a137-67cf-41fa-9785-3605b2a5195c",
+        "PassageID": "Part 5",
+        "Passage": "Indemnity and effective date",
+        "Obligations": []
+    },
+    {
+        "ID": "d27dacf2-a143-40c9-9dbf-27f7a289b896",
+        "PassageID": "Part 5.12.",
+        "Passage": "Indemnity",
+        "Obligations": []
+    },
+    {
+        "ID": "14da642d-d664-485b-8dc1-83675d846f00",
+        "PassageID": "Part 5.12.(1)",
+        "Passage": "Unless it can be shown that it acted in bad faith, neither the Regulatory Authority, its delegate, nor any Designated Officer can be held liable for any act, attempted act or omission in the performance, purported non-performance or non-performance of its functions in connection with these Regulations.",
+        "Obligations": [
+            "Obligation:1 \"Compliance with Regulations**: Adhere to all relevant ADGM regulations and rules, including those related to financial services, AML, CTF, data protection, and any other applicable areas.\"",
+            "Obligation:2 \"Implementation of Policies**: Develop and implement appropriate policies and procedures to ensure compliance with the aforementioned regulations.\"",
+            "Obligation:3 \"Regular Reporting**: Submit regular reports to the Regulatory Authority on various aspects of your operations, as required by the regulations.\"",
+            "Obligation:4 \"Cooperation with Authority**: Cooperate with the Regulatory Authority and its officers during inspections, investigations, or any other supervisory activities, providing accurate information and facilitating audits.\"",
+            "Obligation:5 \"Employee Training**: Ensure that your employees are aware of and trained in compliance with relevant ADGM regulations.\"",
+            "Obligation:6 \"Acting in Good Faith**: Engage honestly and transparently with the Regulatory Authority, avoiding any intent to defraud or engage in activities that could be considered bad faith.\"",
+            "Obligation:7 \"Risk Management**: Establish and maintain appropriate risk management systems to identify, assess, monitor, and manage business-related risks.\"",
+            "Obligation:8 \"Record Keeping**: Maintain accurate and complete records of business activities and ensure they are accessible for review by the Regulatory Authority when required.\"",
+            "Obligation:9 \"Professional Conduct**: Conduct business in a manner that upholds the integrity of the ADGM and the financial markets, avoiding conflicts of interest and ensuring fair treatment of customers.\n\nFor specific guidance, it is recommended to consult the relevant ADGM regulations or seek advice from a compliance professional or legal advisor.\""
+        ]
+    },
+    {
+        "ID": "42bdd4cf-e29e-4976-b5e5-998552380d34",
+        "PassageID": "Part 5.12.13.",
+        "Passage": "Effective date",
+        "Obligations": []
+    },
+    {
+        "ID": "63bb032a-b548-45a1-8ede-78118e8b87d2",
+        "PassageID": "Part 5.12.13.(1)",
+        "Passage": "These Regulations become effective on date of enactment.",
+        "Obligations": []
+    }
+]

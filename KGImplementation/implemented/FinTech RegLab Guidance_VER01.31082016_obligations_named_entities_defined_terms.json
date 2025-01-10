@@ -1,0 +1,705 @@
+[
+    {
+        "ID": "2d798dd5-9bb2-4e2f-8714-4f584c7cdcf2",
+        "PassageID": "1.",
+        "Passage": "INTRODUCTION",
+        "Obligations": []
+    },
+    {
+        "ID": "252a393e-8698-4378-b189-144a7904a9a6",
+        "PassageID": "1.1",
+        "Passage": "This Guidance is issued under section 15(2) of the Financial Services and Markets Regulations 2015 (\u201cFSMR\u201d).  It should be read in conjunction with the FSMR and the relevant FSRA Rulebooks where applicable.",
+        "Obligations": []
+    },
+    {
+        "ID": "af9039ad-e12e-4718-8bb5-2e43ae601d95",
+        "PassageID": "1.2",
+        "Passage": "The Guidance is applicable to the following Persons:\n(a)\tan applicant for a Financial Services Permission to carry on the Regulated Activity of Developing Financial Technology Services within the RegLab in or from ADGM; and/or\n(b)\ta FinTech Participant.",
+        "Obligations": [
+            "Obligation:1 \"Submit Application**: Provide a complete application to the ADGM FSRA, including all required forms, supporting documents, and information.\"",
+            "Obligation:2 \"Develop Business Plan**: Outline the nature and objectives of the FinTech services, target market, and operational details within the RegLab framework.\"",
+            "Obligation:3 \"Comply with Regulatory Framework**: Ensure activities align with ADGM regulations, including RegLab-specific requirements.\"",
+            "Obligation:4 \"Risk Management**: Establish systems and controls to manage risks associated with FinTech development activities.\"",
+            "Obligation:5 \"Consumer Protection Measures**: Implement clear terms of service, privacy policies, and complaint handling procedures.\"",
+            "Obligation:6 \"AML/CFT Compliance**: Follow AML/CFT regulations, including due diligence, transaction monitoring, and reporting suspicious activities.\"",
+            "Obligation:7 \"Reporting Obligations**: Meet all reporting requirements to the FSRA, including progress updates and changes to business operations or risk profile.\"",
+            "Obligation:8 \"Exit Strategy**: Prepare a clear plan for exiting the RegLab if necessary.\"",
+            "Obligation:9 \"Fit and Proper Test**: Ensure that senior management meets the 'fit and proper' criteria set by the FSRA.\"",
+            "Obligation:10 \"Maintain Ongoing Compliance**: Adhere to the terms of the Financial Services Permission and any conditions imposed by the FSRA.\"",
+            "Obligation:11 \"Innovation and Testing**: Develop and test innovative FinTech services within the controlled environment as permitted.\"",
+            "Obligation:12 \"Data Protection**: Protect customer data and comply with data protection laws and regulations.\"",
+            "Obligation:13 \"Engage with FSRA**: Keep open lines of communication with the FSRA, including timely reporting of significant events or changes.\"",
+            "Obligation:14 \"Promote Market Integrity**: Conduct activities in a manner that ensures market integrity and fairness.\"",
+            "Obligation:15 \"Record Keeping**: Maintain accurate and complete records of all business activities related to FinTech services.\"",
+            "Obligation:16 \"Cooperate with Supervision and Enforcement**: Provide full cooperation to the FSRA during supervision or enforcement actions.\"",
+            "Obligation:17 \"Compliance with AML/CTF and Data Protection**: Continue to comply with AML/CTF requirements and data protection laws.\"",
+            "Obligation:18 \"Testing and Reporting**: Conduct and report on testing of FinTech services as per the RegLab framework.\"",
+            "Obligation:19 \"Consumer Protection**: Protect consumer interests with clear communication of terms, risks, and costs.\"",
+            "Obligation:20 \"Adhere to Terms of Permission**: Operate within the scope of approved activities and adhere to any limitations or restrictions.\"",
+            "Obligation:21 \"Exit Strategy**: Have a clear exit strategy for the conclusion of participation in the RegLab.\n\n**Note**: These action items are based on the provided lists and should be cross-referenced with the latest ADGM regulations and guidelines or professional advice for accuracy and completeness.\""
+        ]
+    },
+    {
+        "ID": "6cf863af-89b9-4f9e-aa97-08bcccac115c",
+        "PassageID": "1.3",
+        "Passage": "This Guidance sets out the Financial Services Regulatory Authority\u2019s (\u201cFSRA\u2019s\u201d or the \u201cRegulator\u2019s\u201d) approach to the Regulatory Laboratory (\u201cRegLab\u201d) framework.  In particular, this Guidance includes the eligibility and authorisation criteria applicants must satisfy to be authorised as FinTech Participants, the authorisation process, the types of restrictions that the Regulator may impose on the FinTech Participants\u2019 conduct, as well as the information that FinTech Participants may be required to produce to the Regulator.",
+        "Obligations": []
+    },
+    {
+        "ID": "36da3626-92e8-4c9c-9837-9524587b93a5",
+        "PassageID": "1.4",
+        "Passage": "This Guidance is not an exhaustive source of the Regulator\u2019s policy on the exercise of its statutory powers and discretions.  In the discharge of its regulatory mandate, the Regulator may impose other parameters to address any specific risks posed by the proposed activities of the applicant to carry on the Regulated Activity of Developing Financial Technology Services within the RegLab.",
+        "Obligations": [],
+        "NamedEntities": {
+            "policy": "system of principles, rules and guidelines, adopted by an organization to guide decision making with respect to particular situations and implemented via procedures or protocols to achieve stated goals"
+        }
+    },
+    {
+        "ID": "272df79e-b99b-4d96-bdff-4cf5ae8a2d73",
+        "PassageID": "1.5",
+        "Passage": "The Regulator is not bound by the requirements set out in this Guidance and may waive or modify these requirements at its discretion where appropriate.",
+        "Obligations": [
+            "Obligation:1 \"Obtain and maintain the appropriate license for your financial services activities.\"",
+            "Obligation:2 \"Ensure adequate capital to manage business risks.\"",
+            "Obligation:3 \"Implement appropriate risk management systems and controls.\"",
+            "Obligation:4 \"Establish and maintain effective Anti-Money Laundering (AML) and Counter-Terrorist Financing (CTF) systems and controls.\"",
+            "Obligation:5 \"Adhere to principles and rules governing business conduct, including treating customers fairly.\"",
+            "Obligation:6 \"Fulfill all reporting and disclosure requirements accurately and on time.\"",
+            "Obligation:7 \"Prevent market abuse and comply with market conduct rules.\"",
+            "Obligation:8 \"Comply with relevant data protection laws and regulations.\"",
+            "Obligation:9 \"Maintain a sound and prudent management structure.\"",
+            "Obligation:10 \"Comply with the Financial Services and Markets Regulations (FSMR) and any relevant rulebooks.\"",
+            "Obligation:11 \"Conduct business with integrity and in the best interests of clients.\"",
+            "Obligation:12 \"Review relevant ADGM regulations and rules applicable to your activities.\"",
+            "Obligation:13 \"Consult with compliance professionals or legal advisors for clarity on obligations.\"",
+            "Obligation:14 \"Stay informed about updates or changes to the regulatory framework.\"",
+            "Obligation:15 \"Engage proactively with the regulator for potential waivers or modifications to requirements.\"",
+            "Obligation:16 \"Follow regulatory guidance as a benchmark for best practices unless there is a justified reason to deviate, supported by regulatory consent.\""
+        ]
+    },
+    {
+        "ID": "e9b3d1ab-aa23-445a-8dfe-c09167fc12c2",
+        "PassageID": "1.6",
+        "Passage": "Unless otherwise defined or the context otherwise requires, the terms contained in this Guidance have the same meaning as defined in the FSMR and the GLO Rulebook.",
+        "Obligations": []
+    },
+    {
+        "ID": "fdc86704-5252-4786-aecb-9cbbc9b0c6d7",
+        "PassageID": "2.",
+        "Passage": "OBJECTIVES OF THE REGLAB FRAMEWORK",
+        "Obligations": []
+    },
+    {
+        "ID": "84d96891-f7b7-4cef-a79e-0a016b36e888",
+        "PassageID": "2.1",
+        "Passage": "FinTech allows the use of new technologies in the financial services industry to improve operational and customer engagement capabilities by leveraging analytics, data management and digital functions.",
+        "Obligations": [
+            "Obligation:1 \"Obtain the appropriate financial services license from the Financial Services Regulatory Authority (FSRA) for conducting financial services within ADGM.\"",
+            "Obligation:2 \"Comply with the ADGM Financial Services and Markets Regulations (FSMR) and any relevant rules and guidance issued by the FSRA.\"",
+            "Obligation:3 \"Establish and maintain effective anti-money laundering (AML) and counter-terrorist financing (CTF) systems and controls, including customer due diligence, ongoing monitoring, and reporting suspicious transactions.\"",
+            "Obligation:4 \"Manage personal data lawfully and securely in accordance with the ADGM Data Protection Regulations, ensuring data accuracy and implementing appropriate security measures.\"",
+            "Obligation:5 \"Treat customers fairly, ensuring that products and services are suitable for the target market, with clear communication and proper disclosure of risks.\"",
+            "Obligation:6 \"Implement robust technology governance, including cybersecurity measures to protect against unauthorized access, data breaches, and other cyber threats.\"",
+            "Obligation:7 \"Ensure operational resilience with business continuity and disaster recovery plans to maintain operations during disruptions.\"",
+            "Obligation:8 \"Make regular reports to the FSRA on various aspects of the business, such as financial performance, risk management, and significant operational events.\"",
+            "Obligation:9 \"Meet capital adequacy and liquidity requirements to ensure financial stability and the ability to withstand business shocks.\"",
+            "Obligation:10 \"Adhere to conduct of business rules specific to trading, investment management, advising, and other financial services.\"",
+            "Obligation:11 \"Implement robust risk management policies and procedures to identify, assess, monitor, and manage risks.\"",
+            "Obligation:12 \"Ensure that all persons undertaking controlled functions meet the 'fit and proper' criteria set out by the FSRA.\"",
+            "Obligation:13 \"If part of the ADGM's Regulatory Laboratory (RegLab), comply with the specific requirements and conditions of the RegLab license.\n\nPlease note that this consolidated list is a general guide and specific obligations may vary based on the details of the FinTech business. It is recommended to seek professional advice for a tailored analysis of regulatory obligations.\""
+        ]
+    },
+    {
+        "ID": "be71e5ea-7fd1-4685-9b6a-901e0717a42a",
+        "PassageID": "2.2",
+        "Passage": "The fast evolving FinTech landscape where new and emerging FinTech solutions are becoming more diverse and sophisticated requires a responsive and progressive regulatory framework to facilitate the development, testing and adoption of promising FinTech innovations.  In particular, the FinTech regulatory framework should encourage, rather than front-run innovation, should be tailored and proportionate to the materiality of the risks posed, and should be responsive to support time-to-market of new FinTech solutions in a cost-efficient environment.",
+        "Obligations": [
+            "Obligation:1 \"Engage with FSRA**: Initiate early engagement with the ADGM Financial Services Regulatory Authority to understand the regulatory framework and expectations for your FinTech solution.\"",
+            "Obligation:2 \"Apply for Regulatory Sandbox**: If applicable, apply for the ADGM's Regulatory Laboratory (RegLab) to test your innovative FinTech solution in a controlled environment with regulatory relaxations.\"",
+            "Obligation:3 \"Conduct Risk Assessment**: Perform a comprehensive risk assessment for your FinTech solution, focusing on cybersecurity, data protection, financial crimes, and compliance with AML/CFT requirements.\"",
+            "Obligation:4 \"Develop a Compliance Framework**: Create and implement a compliance framework that is proportionate to the risks, nature, scale, and complexity of your FinTech operations, including internal policies and controls.\"",
+            "Obligation:5 \"Obtain Licensing and Authorization**: Determine the need for and obtain any required financial services license or authorization from the FSRA before starting operations.\"",
+            "Obligation:6 \"Implement Consumer Protection Measures**: Establish measures to protect consumers, such as transparent disclosure, privacy policies, fair treatment, and effective complaint resolution mechanisms.\"",
+            "Obligation:7 \"Adopt AML/CTF Procedures**: Implement and maintain AML/CTF procedures in compliance with ADGM regulations and international standards, including CDD, transaction monitoring, and reporting of suspicious activities.\"",
+            "Obligation:8 \"Ensure Data Protection Compliance**: Adhere to ADGM's data protection regulations by handling personal data securely and respecting data protection principles.\"",
+            "Obligation:9 \"Maintain Technology Governance**: Govern your technology effectively, ensuring robust IT systems, data integrity, and business continuity planning.\"",
+            "Obligation:10 \"Fulfill Reporting Obligations**: Stay informed of and comply with ongoing reporting requirements to the FSRA, including financial, regulatory, and significant event disclosures.\"",
+            "Obligation:11 \"Monitor Regulatory Updates**: Keep abreast of regulatory changes and maintain proactive engagement with the FSRA to ensure ongoing compliance as regulations evolve.\"",
+            "Obligation:12 \"Assess Cost-Efficiency**: Evaluate the cost implications of regulatory compliance and strive for efficient processes that support timely market entry without compromising regulatory responsibilities.\n\nIt is recommended to consult with legal and compliance professionals specializing in ADGM regulations for detailed guidance tailored to your specific FinTech activities.\""
+        ]
+    },
+    {
+        "ID": "6ef203f0-9cb1-4cb0-b04b-c94618de81bf",
+        "PassageID": "2.3",
+        "Passage": "In light of these considerations, FSRA has created the RegLab, which is a specially tailored regulatory framework that provides a controlled environment for FinTech Participants to develop and test innovative FinTech solutions without immediately being subject to all the regulatory requirements that would otherwise apply to Authorised Persons.",
+        "Obligations": [
+            "Obligation:1 \"Application and Admission**:\n   - Apply to the FSRA for admission into the RegLab.\n   - Submit a detailed application/proposal demonstrating the business model, innovative nature, benefits, target market, and testing objectives of the FinTech solution.\"",
+            "Obligation:2 \"Regulatory Requirements**:\n   - Comply with a tailored regulatory framework set by the FSRA, which may be less onerous than for fully authorized entities but still designed to protect consumers and market integrity.\"",
+            "Obligation:3 \"Testing Parameters**:\n   - Define and adhere to clear testing parameters, including scope, duration, customer types, volume of business, and safeguards for participants.\"",
+            "Obligation:4 \"Consumer Protection**:\n   - Ensure customers are adequately informed about the product/service and associated risks.\n   - Implement measures to protect customer data and privacy.\"",
+            "Obligation:5 \"Data Protection**:\n   - Comply with data protection laws and regulations, ensuring secure handling of customer data with proper consent.\"",
+            "Obligation:6 \"Exit Strategy**:\n   - Develop a clear exit strategy for post-testing phase, which could include applying for full authorization, winding down, or other outcomes.\"",
+            "Obligation:7 \"Reporting and Communication**:\n   - Regularly report to the FSRA on test progress, findings, and compliance.\n   - Maintain open communication with the regulator.\"",
+            "Obligation:8 \"Risk Management**:\n   - Effectively manage risks associated with the FinTech solution, including financial, operational, cybersecurity, and reputational risks.\"",
+            "Obligation:9 \"Financial Crime Prevention**:\n   - Implement measures to prevent financial crimes such as money laundering and terrorist financing.\"",
+            "Obligation:10 \"Compliance with Other Laws**:\n    - Comply with all other applicable laws and regulations, including AML and CFT requirements.\n\n**Note**: These obligations are general guidelines. Specific obligations may vary based on the product or service, testing scope, and FSRA conditions. Direct engagement with the FSRA is essential to understand the full extent of obligations under the RegLab program.\""
+        ]
+    },
+    {
+        "ID": "73d702ab-f51c-4bc5-a241-c48903bcf1f4",
+        "PassageID": "3.",
+        "Passage": "THE REGLAB\u2019S INTENDED PARTICIPANTS",
+        "Obligations": []
+    },
+    {
+        "ID": "7956afe0-f99d-4e78-b955-198f192b7bdb",
+        "PassageID": "3.1",
+        "Passage": "FSRA\u2019s RegLab framework may apply to two categories of FinTech Participants:-\n(a)\tthose who have a FinTech product that is untested in the UAE market, to enable the FinTech Participants to live-test the product in a clearly demarcated environment in ADGM with controlled scope and scale, without attracting the full suite of regulatory requirements; and\n(b)\tthose who may already be offering their FinTech product in the market, but wish to continue researching and developing it, and to live-test and offer any product enhancements, variations or new features on a limited rollout basis within the confines of the RegLab.",
+        "Obligations": [
+            "Obligation:1 \"Application and Admission**: Apply for admission into the RegLab with a detailed business proposal and plan.\"",
+            "Obligation:2 \"Compliance with Tailored Regulations**: Adhere to the specific regulatory requirements set by the FSRA for the duration of the live test.\"",
+            "Obligation:3 \"Consumer Protection**: Ensure measures are in place to protect the interests of consumers and address any risks from the testing.\"",
+            "Obligation:4 \"Data Protection and Privacy**: Comply with data protection laws and ensure the security and privacy of customer data.\"",
+            "Obligation:5 \"Reporting**: Regularly report to the FSRA on the progress, findings, outcomes, and performance of the live test.\"",
+            "Obligation:6 \"Exit Strategy**: Have a clear exit strategy for the conclusion of the live test or if the product does not proceed to full market launch.\"",
+            "Obligation:7 \"Engagement with FSRA**: Maintain open communication with the FSRA throughout the application and testing process.\"",
+            "Obligation:8 \"Testing Parameters**: Define the scope, scale, and duration of the live test, including customer types and business volume.\"",
+            "Obligation:9 \"Risk Management**: Implement appropriate risk management frameworks to identify, manage, and mitigate risks.\"",
+            "Obligation:10 \"Notification and Approval**: Notify the FSRA of the intention to test enhancements or new features and seek approval.\"",
+            "Obligation:11 \"Limited Rollout**: Conduct the live test on a limited basis with clear parameters for scale and scope.\"",
+            "Obligation:12 \"Ongoing Compliance and Market Conduct**: Continue to adhere to existing regulatory requirements and market conduct rules.\"",
+            "Obligation:13 \"Innovation and Development**: Demonstrate that the live test aims to innovate or improve the product for consumer benefit.\"",
+            "Obligation:14 \"Customer Consent and Disclosure**: Obtain explicit consent from participants and provide clear disclosure of the test's scope and risks.\"",
+            "Obligation:15 \"Monitoring and Evaluation**: Closely monitor and evaluate the enhancements or new features against objectives.\"",
+            "Obligation:16 \"Amendments**: Seek FSRA approval for any further changes to the product identified during the testing.\""
+        ],
+        "NamedEntities": {
+            "offering": "The process step of offering a security for issue. This is the making available of a new securities issue through an underwriting."
+        }
+    },
+    {
+        "ID": "b0f46f80-055e-4a0f-912d-fbeb57f866ba",
+        "PassageID": "3.2",
+        "Passage": "The RegLab is not intended to be a platform for firms to launch an established FinTech product which complies with all relevant regulatory requirements to a wider market.  Financial institutions wishing to pilot and launch their complying technological innovations can do so in the ADGM under the existing authorisation and supervisory regime under the FSMR, without the need for the RegLab authorisation.",
+        "Obligations": []
+    },
+    {
+        "ID": "9fad637e-441d-41ba-8e3e-eac244b6bae2",
+        "PassageID": "4.",
+        "Passage": "FEATURES OF THE REGLAB\n",
+        "Obligations": []
+    },
+    {
+        "ID": "c3dd258f-6849-4ca8-8a8d-57a7b23e6434",
+        "PassageID": "4.1",
+        "Passage": "Developing Financial Technology Services within the RegLab . FinTech Participants that qualify for authorisation under the RegLab framework will be granted an FSRA Financial Services Permission (\u201cFSP\u201d) in accordance with section 30 of the FSMR to carry on the Regulated Activity of Developing Financial Technology Services within the RegLab.",
+        "Obligations": [
+            "Obligation:1 \"Obtain Financial Services Permission (FSP):**\n   - Apply for and secure an FSP from the FSRA.\"",
+            "Obligation:2 \"Compliance with FSMR and FSRA Rules:**\n   - Adhere to the FSMR, FSRA rules, and guidance, including section 30 of the FSMR.\n   - Fulfill any conditions or restrictions attached to the FSP.\"",
+            "Obligation:3 \"Adherence to RegLab Terms and Conditions:**\n   - Follow specific terms and conditions of the RegLab, including service limitations and operational scale.\"",
+            "Obligation:4 \"Regulatory Reporting:**\n   - Submit periodic reports to the FSRA on activities, progress, and findings.\"",
+            "Obligation:5 \"Risk Management:**\n   - Develop and maintain risk management policies and procedures.\"",
+            "Obligation:6 \"Consumer Protection Measures:**\n   - Implement measures to protect consumer interests, including transparent information disclosure and fair treatment.\"",
+            "Obligation:7 \"AML/CFT Compliance:**\n   - Comply with AML/CFT regulations, including customer due diligence, record-keeping, and reporting suspicious activities.\"",
+            "Obligation:8 \"Data Protection:**\n   - Ensure confidentiality and integrity of customer information in compliance with data protection laws.\"",
+            "Obligation:9 \"Operational Resilience:**\n   - Maintain systems and controls for operational resilience, including cybersecurity and business continuity plans.\"",
+            "Obligation:10 \"Financial Resources:**\n    - Maintain adequate financial resources as required by the FSRA.\"",
+            "Obligation:11 \"Fit and Proper Criteria:**\n    - Ensure that key personnel meet the FSRA's fit and proper criteria.\"",
+            "Obligation:12 \"Notification of Changes:**\n    - Inform the FSRA of any material changes to the business, such as changes in control, business model, or operations.\"",
+            "Obligation:13 \"Exit Strategy:**\n    - Prepare a clear exit strategy for the end of the RegLab term or if ceasing operations is necessary.\"",
+            "Obligation:14 \"Cooperation with the FSRA:**\n    - Cooperate fully with the FSRA during inspections, investigations, or information requests.\n\nParticipants should consult the full FSMR, relevant FSRA guidelines, and any other regulatory communications for comprehensive compliance obligations.\""
+        ]
+    },
+    {
+        "ID": "44050a69-481f-4884-bef5-11df861ea280",
+        "PassageID": "4.2",
+        "Passage": "Developing Financial Technology Services within the RegLab . Developing Financial Technology Services within the RegLab means the Regulated Activity specified in paragraph 73A of Schedule 1 to the FSMR.",
+        "Obligations": [
+            "Obligation:1 \"Application Process**:\n   - Submit a detailed application to the FSRA, demonstrating the business model, innovation, and eligibility for the RegLab.\n   - Outline proposed financial technology services, target market, and testing plans within the sandbox.\"",
+            "Obligation:2 \"Regulatory Compliance**:\n   - Adhere to the regulatory framework and conditions set by the FSRA, including the Financial Services and Markets Regulations (FSMR).\n   - Comply with any specific conditions or limitations imposed on the RegLab license.\"",
+            "Obligation:3 \"Testing Plan and Parameters**:\n   - Develop and adhere to a testing plan with clear objectives, parameters, and success criteria.\n   - Follow agreed-upon testing parameters, including scope, customer types, and financial exposure limits.\"",
+            "Obligation:4 \"Risk Management**:\n   - Establish and maintain appropriate risk management policies and procedures.\n   - Mitigate risks associated with the financial technology service, including customer protection and data security.\"",
+            "Obligation:5 \"Reporting Obligations**:\n   - Provide regular reports to the FSRA on progress, findings, and any issues encountered.\n   - Include financial reporting and any other specific reporting requirements mandated by the FSRA.\"",
+            "Obligation:6 \"Consumer Protection Measures**:\n   - Implement measures to protect the interests of consumers participating in testing.\n   - Clearly communicate the risks involved and the measures taken to mitigate those risks.\n   - Ensure customers are adequately informed about the nature of the test and any risks involved.\"",
+            "Obligation:7 \"Exit Strategy**:\n   - Have a clear exit strategy for the conclusion of the testing period.\n   - Plan for transitioning customers out of the test environment or ceasing operations if necessary.\"",
+            "Obligation:8 \"Data Protection**:\n   - Ensure compliance with data protection laws and regulations.\n   - Safeguard the confidentiality and integrity of customer data.\"",
+            "Obligation:9 \"AML/CFT Compliance**:\n   - Maintain robust systems and controls to prevent money laundering and the financing of terrorism.\n   - Adhere to ADGM's AML/CFT requirements.\"",
+            "Obligation:10 \"Capital and Financial Resources**:\n    - Meet any capital requirements or financial resources stipulated by the FSRA for the duration of the testing period.\n\n**Note**: The specific obligations for participation in the RegLab may vary based on the nature of the financial technology service and the conditions of participation. Always refer to the relevant FSRA guidelines and regulations or consult directly with the FSRA for the most accurate and detailed understanding of obligations.\""
+        ]
+    },
+    {
+        "ID": "1e804253-bbda-4a13-8900-ebaf168a39f1",
+        "PassageID": "4.3",
+        "Passage": "Developing Financial Technology Services within the RegLab . The FinTech Participant authorised under the RegLab will be required to establish a commercial presence in ADGM.\n",
+        "Obligations": []
+    },
+    {
+        "ID": "cf48ab8a-20ef-4c3e-b5b4-b044713215cd",
+        "PassageID": "4.4",
+        "Passage": "Blank-Sheet Approach . The legislative requirements applicable to FinTech Participants under the RegLab framework will be tailored according to the specific characteristics and risks associated with the FinTech Proposal. This approach is consistent with the Regulator\u2019s objective to offer a responsive and risk-appropriate regulatory framework.",
+        "Obligations": [
+            "Obligation:1 \"Engage with FSRA**: Initiate direct engagement with the Financial Services Regulatory Authority to understand the specific regulatory requirements tailored to your FinTech Proposal.\"",
+            "Obligation:2 \"Conduct Risk Assessment**: Collaborate with the FSRA to identify and assess the specific risks associated with your FinTech Proposal, including technology, cybersecurity, data protection, customer protection, AML, CFT, and market integrity.\"",
+            "Obligation:3 \"Customize Regulatory Framework**: Work with the FSRA to tailor a regulatory framework based on the risk assessment, which may include a combination of existing regulations and bespoke requirements.\"",
+            "Obligation:4 \"Develop Compliance Plan**: Create and submit a comprehensive compliance plan detailing the policies, procedures, and controls to meet the tailored regulatory requirements.\"",
+            "Obligation:5 \"Implement Compliance Obligations**: Ensure compliance with the tailored regulatory framework, including but not limited to:\n   - AML and CFT systems and controls\n   - Data protection and privacy standards\n   - Consumer protection measures\n   - Reporting and disclosure requirements\n   - Capital and liquidity requirements (if applicable)\n   - Operational resilience measures\n   - Cybersecurity measures\n   - Governance and internal controls\"",
+            "Obligation:6 \"Maintain Ongoing Reporting and Monitoring**: Establish processes for ongoing reporting to the FSRA on various operational aspects and compliance, and be prepared for FSRA's monitoring activities.\"",
+            "Obligation:7 \"Ensure Consumer Protection**: Provide services fairly and transparently, ensuring clear communication about products, services, and associated risks.\"",
+            "Obligation:8 \"Develop an Exit Strategy**: Prepare a clear exit strategy for scenarios where the FinTech Proposal does not proceed as planned or a transition out of the RegLab is necessary.\"",
+            "Obligation:9 \"Seek Professional Advice**: Consult with legal and compliance professionals specializing in ADGM regulations to ensure full understanding and compliance with your obligations.\"",
+            "Obligation:10 \"Maintain Open Dialogue with FSRA**: Keep a continuous and proactive communication channel with the FSRA, including periodic reporting, milestone assessments, and disclosures of significant events.\""
+        ]
+    },
+    {
+        "ID": "3b8026ec-8353-49e6-907f-52f16d65d048",
+        "PassageID": "4.5",
+        "Passage": "Blank-Sheet Approach . The requirements that will apply to FinTech participants under the RegLab framework may be adapted from existing regulations (including but not limited to the FSMR) and the FSRA Rules, as applicable.",
+        "Obligations": [
+            "Obligation:1 \"Compliance with Tailored Requirements**: Adhere to the regulatory requirements specifically adapted or developed by the FSRA for your activities within the RegLab.\"",
+            "Obligation:2 \"Testing Parameters**: Follow the testing parameters set by the FSRA, including limitations on customer engagement, transaction volume, and testing duration.\"",
+            "Obligation:3 \"Risk Management**: Implement appropriate processes to identify, manage, and mitigate risks related to your FinTech activities.\"",
+            "Obligation:4 \"Reporting Obligations**: Provide regular reports to the FSRA on progress, findings, and any issues during the testing phase.\"",
+            "Obligation:5 \"Consumer Protection**: Ensure that consumers are adequately informed and protected, including clear communication about the nature and risks of the test.\"",
+            "Obligation:6 \"Exit Strategy**: Develop a clear plan for the conclusion of the testing period, including transitioning to a full license or orderly wind-down.\"",
+            "Obligation:7 \"Data Protection and Privacy**: Comply with data protection and privacy laws, ensuring secure handling of customer data.\"",
+            "Obligation:8 \"AML/CTF Compliance**: Adhere to AML and CTF requirements, including customer due diligence, transaction monitoring, and reporting suspicious activities.\n\nParticipants should engage directly with the FSRA for tailored guidance and consult with legal and compliance professionals specializing in ADGM financial regulations to ensure full understanding and compliance with the regulatory framework.\""
+        ]
+    },
+    {
+        "ID": "593e6381-da9f-4e39-a7fe-5ba0184e8f89",
+        "PassageID": "4.6",
+        "Passage": "Blank-Sheet Approach . As such, generally, the regulatory requirements applicable to all Persons to whom the FSMR applies would initially apply to each applicant for an FSP to carry on the Regulated Activity of Developing Financial Technology Services within the RegLab.",
+        "Obligations": [
+            "Obligation:1 \"Licensing and Registration**: Apply for and obtain a Financial Services Permission (FSP) from the FSRA.\"",
+            "Obligation:2 \"Business Plan Submission**: Submit a comprehensive business plan detailing the proposed FinTech services, target market, risk assessment, development, and testing plans.\"",
+            "Obligation:3 \"Risk Management Implementation**: Establish and maintain robust risk management systems and controls.\"",
+            "Obligation:4 \"Compliance Framework Establishment**: Develop a compliance framework to adhere to all relevant laws and regulations, including AML and CTF requirements.\"",
+            "Obligation:5 \"Consumer Protection Measures**: Implement measures to protect consumer interests, including transparent information disclosure and a complaints handling process.\"",
+            "Obligation:6 \"Data Protection Compliance**: Ensure compliance with data protection laws and regulations for managing personal and sensitive data.\"",
+            "Obligation:7 \"Reporting Obligations**: Fulfill any reporting requirements set by the FSRA, including updates on development progress, test results, and issues encountered.\"",
+            "Obligation:8 \"Exit Strategy Development**: Formulate a clear exit strategy for the end of the testing phase within the RegLab.\"",
+            "Obligation:9 \"Financial Resources Maintenance**: Secure adequate financial resources as required by the FSRA for the development and testing phase.\"",
+            "Obligation:10 \"Fit and Proper Criteria Compliance**: Verify that all individuals involved in the firm meet the 'fit and proper' criteria set by the FSRA.\"",
+            "Obligation:11 \"Engagement with the FSRA**: Maintain ongoing engagement with the FSRA, including regular updates and consultations.\"",
+            "Obligation:12 \"Compliance with FSMR**: Adhere to the Financial Services and Markets Regulations (FSMR) and any other relevant regulations, rules, and guidance issued by the FSRA.\"",
+            "Obligation:13 \"AML and CTF Adherence**: Comply with anti-money laundering and counter-terrorist financing regulations, including due diligence and transaction monitoring.\"",
+            "Obligation:14 \"Reporting and Notification**: Report operational aspects and significant changes to the FSRA, and notify them of any breaches or incidents.\n\n**Note**: It is important to engage with the FSRA early and consult with legal and compliance professionals specializing in ADGM regulations to ensure full compliance with all regulatory obligations. The specific requirements may vary based on the nature of the proposed activities and discussions with the FSRA.\""
+        ]
+    },
+    {
+        "ID": "44b9732a-9570-4c87-aaf0-c6f2c3f43d09",
+        "PassageID": "4.7",
+        "Passage": "Blank-Sheet Approach . On receipt of the RegLab application, the Regulator will work with the applicant to identify those Rules (or Rulebooks, as the case may be) that are not relevant to the applicant\u2019s FinTech Proposal.  The Regulator may then waive or modify any of these Rules or Rulebooks (in part or entirely, as appropriate) by way of a waiver or a modification notice.",
+        "Obligations": []
+    },
+    {
+        "ID": "7fae4f73-f02a-415f-88c1-6b1aa4936e19",
+        "PassageID": "4.8",
+        "Passage": "Blank-Sheet Approach . As certain Rules will be waived or modified for the FinTech Participant under the RegLab, the Regulator will, among other things:-\n(a)\tset client and exposure limits to limit the scope and scale of the FinTech Participant\u2019s test activities; and\n(b)\timpose boundaries/geographical restrictions to ensure that client impact is controlled and the clients\u2019 interests are protected.\nPlease refer to section 5.2 below titled Authorisation Requirements for further details of the requirements that the Regulator may impose.",
+        "Obligations": [],
+        "NamedEntities": {
+            "exposure": "the extent to which an individual or organization is unprotected and open to damage, danger, risk of suffering a loss, or uncertainty"
+        }
+    },
+    {
+        "ID": "599aa26e-732f-4025-afd6-b631af09d5ec",
+        "PassageID": "4.9",
+        "Passage": "Blank-Sheet Approach . The Regulator may vary the applicable waivers and modifications as the FinTech Participants progress through different stages of testing of their FinTech solution. Variations will be subject to the changing risks that the FinTech Proposal may pose at any point.",
+        "Obligations": []
+    },
+    {
+        "ID": "3e0df402-2a68-434b-a5ab-a86dc4558d9b",
+        "PassageID": "4.10",
+        "Passage": "Blank-Sheet Approach . The RegLab is not intended to create a risk-free FinTech environment \u2013 an acceptable degree of risk is unavoidable in all innovation and entrepreneurial endeavours.  What the RegLab aims to achieve is a controlled environment that promotes FinTech innovation, yet minimises the risks of poor client outcomes posed by these innovative solutions.\n\n",
+        "Obligations": [
+            "Obligation:1 \"Compliance with RegLab Terms**: Adhere to the terms and conditions set by the FSRA, including activity scope, testing duration, and client engagement limitations.\"",
+            "Obligation:2 \"Risk Management**: Implement risk management processes to identify, assess, and mitigate risks to clients and ensure they are within FSRA's acceptable levels.\"",
+            "Obligation:3 \"Client/Consumer Protection**: Protect client interests by clearly communicating the nature of the test, associated risks, and the regulatory testing environment status.\"",
+            "Obligation:4 \"Data Protection**: Handle client data in compliance with data protection laws, ensuring confidentiality and security.\"",
+            "Obligation:5 \"Reporting and Monitoring**: Provide regular reports to the FSRA on testing progress, findings, outcomes, and address issues promptly.\"",
+            "Obligation:6 \"Exit Strategy**: Develop a clear strategy for concluding the test, including transitioning clients to a full regulatory environment or winding down the test.\"",
+            "Obligation:7 \"Regulatory Compliance and Engagement**: Ensure full compliance with ADGM's financial regulations post-testing, obtain necessary licenses, and maintain engagement with the FSRA for guidance and feedback.\"",
+            "Obligation:8 \"Financial Crime Prevention**: Establish systems to prevent financial crimes such as money laundering and terrorist financing within the testing environment.\"",
+            "Obligation:9 \"Consumer Outcomes**: Focus on achieving positive consumer outcomes and avoid practices that could lead to poor client experiences.\n\nParticipants should refer to the official FSRA documentation and seek legal advice to ensure full compliance with all regulatory requirements.\""
+        ]
+    },
+    {
+        "ID": "f88e4421-72fc-4108-8301-d719c494a17e",
+        "PassageID": "4.11",
+        "Passage": "Two-year validity period. The FSP granted under the RegLab will have a validity period of up to two years for the FinTech Participant to test its FinTech solution.",
+        "Obligations": [
+            "Obligation:1 \"Conduct Testing Within Two Years**: Ensure that the testing of the FinTech solution is initiated and completed within the two-year validity period of the FSP.\"",
+            "Obligation:2 \"Adhere to FSP Terms and Conditions**: Comply with all terms, conditions, and limitations set by the FSRA, including the scope of services, customer types, transaction limits, and operational constraints.\"",
+            "Obligation:3 \"Submit Regular Reports**: Provide periodic reports to the FSRA detailing progress, findings, customer feedback, issues, and outcomes of the testing.\"",
+            "Obligation:4 \"Implement Risk Management**: Identify, monitor, and mitigate potential risks to consumers and the financial system throughout the testing period.\"",
+            "Obligation:5 \"Protect Consumers**: Establish measures to protect consumer interests, including clear communication of risks, terms, and conditions, complaint handling, and compensation mechanisms for losses.\"",
+            "Obligation:6 \"Develop an Exit Strategy**: Have a clear plan for winding down the test in an orderly manner at the end of the testing period or if termination is necessary, ensuring all obligations to customers are met.\"",
+            "Obligation:7 \"Prepare for Transition**: If planning to continue offering the solution post-testing, prepare for the transition out of the RegLab, which may include applying for a full FSP.\"",
+            "Obligation:8 \"Ensure Data Protection**: Comply with data protection laws and maintain the confidentiality and security of customer information.\"",
+            "Obligation:9 \"Maintain Regulatory Communication**: Keep open lines of communication with the FSRA, including prompt notification of significant issues or changes to the testing process.\"",
+            "Obligation:10 \"Maintain Adequate Financial Resources**: Ensure sufficient financial resources are available to conduct the test and cover potential liabilities.\"",
+            "Obligation:11 \"Plan for End of Test Period**: Decide on ceasing tested activities, applying for a full FSP, or winding down operations in line with the exit strategy at the conclusion of the two-year period.\n\nIt is crucial to consult the specific terms and conditions of the FSP and engage with the FSRA or a legal advisor for a complete understanding of all obligations.\""
+        ]
+    },
+    {
+        "ID": "9ef742ce-d0e8-4ca6-badc-ec8621ca0d96",
+        "PassageID": "4.12",
+        "Passage": "Two-year validity period. At the end of the two-year validity period (or earlier if the size, scale or progress of the FinTech Proposal warrants), the FinTech Participant will exit the RegLab and, if eligible, migrate to the full authorisation and supervisory regime under the FSMR.",
+        "Obligations": []
+    },
+    {
+        "ID": "2887fcf4-09c4-43d4-96f7-91fd9b5aa1c8",
+        "PassageID": "4.13",
+        "Passage": "Two-year validity period. To be eligible to migrate to the full authorisation and supervisory regime, the FinTech Participant will be required to demonstrate to the Regulator that it:-\n(a)\thas achieved its intended test outcomes under the RegLab so as to deploy the FinTech product on a broader scale, and\n(b)\tcontinues to be fit and proper to be an Authorised Person in the ADGM.",
+        "Obligations": [
+            "Obligation:1 \"Complete Testing Phase Successfully:**\n   - Successfully complete the testing phase within the RegLab.\n   - Demonstrate that the FinTech product or service has met its intended outcomes as proposed in the initial application.\n   - Provide evidence of the product or service's readiness for a broader scale deployment, including data on performance, customer feedback, risk management, and any issues encountered.\"",
+            "Obligation:2 \"Maintain 'Fit and Proper' Status:**\n   - Continue to meet the ADGM's 'fit and proper' criteria for an Authorised Person.\n   - Maintain high standards of honesty, integrity, reputation, competence, and capability.\n   - Ensure financial soundness and have adequate financial resources.\n   - Maintain a clear organizational structure with effective governance, systems, and controls.\n   - Comply with all applicable regulatory requirements, including AML and CFT regulations.\"",
+            "Obligation:3 \"Prepare for Full Authorisation:**\n   - Submit an application for full authorisation to the FSRA, including detailed business information and plans for meeting ongoing regulatory requirements.\n   - Provide a plan or evidence for scalability and operational readiness for broader deployment of the FinTech product.\n   - Provide evidence of ongoing compliance with 'fit and proper' criteria, which may include background checks, financial statements, and compliance records.\"",
+            "Obligation:4 \"Compliance with ADGM Regulations Post-Authorisation:**\n   - Comply with all relevant ADGM financial regulations and guidelines post-authorisation, including AML, CFT, data protection, consumer protection, and other applicable requirements.\"",
+            "Obligation:5 \"Engage with Regulators:**\n   - Maintain open communication with the FSRA throughout the process.\n   - Stay informed about any changes in the regulatory framework.\n   - Seek clarification on any specific requirements or steps needed.\n   - Consult with the FSRA or professional advisors for guidance on compliance.\n\nBy following these consolidated action items, you can work towards a successful transition from the ADGM's RegLab to full authorisation and supervision within the ADGM's regulatory framework.\""
+        ]
+    },
+    {
+        "ID": "b9c2a532-09b8-4cb8-960c-39847c2128e7",
+        "PassageID": "4.14",
+        "Passage": "Two-year validity period. If the FinTech Participant is unable to satisfy the above criteria, it will be required to cease carrying on the Regulated Activity of Developing Financial Technology Services within the RegLab.  The deadline for ceasing the Regulated Activity will be upon the expiry of its RegLab FSP, or at such time as the Regulator varies or cancels the FSP in accordance with section 33 of the FSMR.  Please refer to section 8 below for more details.",
+        "Obligations": [
+            "Obligation:1 \"Monitor Two-Year Validity Period**: Keep track of the two-year validity period of your Financial Services Permission (FSP) and ensure compliance with all relevant deadlines and requirements.\"",
+            "Obligation:2 \"Comply with Criteria**: Understand and meet the criteria set by the FSRA throughout the validity period of your FSP, as detailed in the RegLab framework or the terms of your FSP.\"",
+            "Obligation:3 \"Prepare to Cease Regulated Activity**: Develop a plan to wind down your regulated activities in an orderly manner if you cannot meet the necessary criteria.\"",
+            "Obligation:4 \"Adhere to Deadline for Ceasing Activity**: Ensure that you cease all regulated activities by the expiry of your RegLab FSP unless an extension or a new FSP is granted.\"",
+            "Obligation:5 \"Respond to Regulatory Actions**: Be prepared to comply with any decision made by the Regulator to vary or cancel your FSP in accordance with section 33 of the FSMR.\"",
+            "Obligation:6 \"Review Section 8 and Relevant Documents**: Thoroughly review section 8 of the relevant document and any other sections that detail your obligations to ensure full understanding and compliance.\"",
+            "Obligation:7 \"Maintain Open Communication**: Keep a line of communication open with the FSRA for updates on regulatory changes or additional obligations and seek clarification when needed.\"",
+            "Obligation:8 \"Seek Legal Advice**: Consider consulting with legal experts to ensure ongoing compliance with the FSMR and other relevant regulations.\"",
+            "Obligation:9 \"Stay Informed**: Regularly review the FSMR, any specific guidance or rules issued by the ADGM for RegLab participants, and any conditions attached to your FSP to stay informed about your obligations.\n\nBy following these consolidated action items, you will be better positioned to maintain compliance with the ADGM RegLab's regulatory requirements.\""
+        ]
+    },
+    {
+        "ID": "b4f95255-59a3-41c6-ba20-9fe40abc791d",
+        "PassageID": "4.15",
+        "Passage": "Two-year validity period. During the two-year validity period, the Regulator will engage with and support the FinTech Participant and ensure the FinTech Participant operates within the parameters as set and agreed to prior to the grant of the FSP.",
+        "Obligations": [
+            "Obligation:1 \"Compliance with Agreed Parameters**: Operate within the agreed-upon parameters, including the scope of services, customer types, and transaction limits.\"",
+            "Obligation:2 \"Engagement with the Regulator**: Maintain active engagement with the Financial Services Regulatory Authority (FSRA), including participating in meetings, responding to inquiries, and providing updates on business activities.\"",
+            "Obligation:3 \"Reporting Obligations**: Submit all required reports to the regulator, such as financial reports, risk management disclosures, customer feedback, incidents, and breaches.\"",
+            "Obligation:4 \"Risk Management**: Implement and maintain effective risk management practices for data protection, cybersecurity, operational risks, and other relevant areas.\"",
+            "Obligation:5 \"Consumer Protection**: Adhere to consumer protection principles by ensuring transparency, fairness, and clarity in communications about services and risks.\"",
+            "Obligation:6 \"Exit Strategy**: Develop and be prepared to execute a clear exit strategy for the end of the FSP period or in case of early termination.\"",
+            "Obligation:7 \"Compliance with Applicable Laws**: Comply with all relevant laws and regulations, including AML, CFT, data protection, and financial services laws.\"",
+            "Obligation:8 \"Adherence to Changes in Regulation**: Stay updated and comply with any changes in the regulatory framework or conditions of the FSP.\"",
+            "Obligation:9 \"Feedback to the Regulator**: Provide feedback on the regulatory framework and sandbox experience as required.\"",
+            "Obligation:10 \"Renewal of FSP**: Prepare for and initiate the renewal process for the FSP before its expiration, demonstrating ongoing compliance and suitability.\"",
+            "Obligation:11 \"Operational Resilience**: Ensure operational resilience with adequate systems, controls, and business continuity plans.\"",
+            "Obligation:12 \"Regulatory Notifications**: Notify the regulator of any material changes to the business, such as changes in control or significant operational issues.\n\n**Note**: These action items are based on general principles and may not cover all specific obligations. It is important to refer to the actual terms of the FSP, ADGM regulations, and consult with the FSRA or a compliance professional for detailed requirements.\""
+        ]
+    },
+    {
+        "ID": "cc29a417-633b-4be1-8690-a62050934861",
+        "PassageID": "4.16",
+        "Passage": "Two-year validity period. The two-year validity period of the authorisation granted under the RegLab may be extended in exceptional circumstances only, determined at the Regulator\u2019s discretion on a case-by-case basis.\n\n",
+        "Obligations": [
+            "Obligation:1 \"Compliance with Timeframe and Validity Period**: Ensure that all testing and operations within the RegLab are conducted within the authorized two-year period.\"",
+            "Obligation:2 \"Monitoring and Reporting**: Regularly monitor activities, including the expiry date of the authorization, and report to the FSRA as required by the terms of participation in the RegLab.\"",
+            "Obligation:3 \"Exit Strategy and Transition Planning**: Develop and be ready to implement an exit strategy for when the two-year period ends, or if required to exit the RegLab earlier, and manage the transition to minimize disruption to customers and the market.\"",
+            "Obligation:4 \"Application for Extension (if applicable)**: If there are exceptional circumstances that warrant an extension beyond the two-year period, apply in advance with a detailed explanation and supporting evidence.\"",
+            "Obligation:5 \"Engagement with the Regulator**: Maintain open communication with the FSRA, respond promptly to inquiries, and engage with the regulator as necessary throughout participation in the RegLab.\"",
+            "Obligation:6 \"Compliance with Conditions and Continued Compliance**: Adhere to any specific conditions or limitations imposed by the FSRA as part of the RegLab authorization and continue to comply with all regulatory requirements set forth by the ADGM.\"",
+            "Obligation:7 \"Record Keeping**: Maintain accurate and up-to-date records of all activities related to the RegLab authorization, including correspondence with the Regulator and documentation related to the extension application.\n\nIt is recommended to consult the full ADGM RegLab framework and seek advice from a compliance professional or legal advisor to ensure full compliance with all regulatory requirements.\""
+        ]
+    },
+    {
+        "ID": "9fbe6007-caf2-4024-9e6f-05e2bd6a12b8",
+        "PassageID": "4.17",
+        "Passage": "Dedicated FinTech supervisory team. The Regulator\u2019s dedicated FinTech supervisory team will provide tailored guidance and support to applicants interested in applying to the RegLab and guide them in, among other things:-\n(a)\tunderstanding the RegLab regulatory framework;\n(b)\tpreparing their RegLab application;\n(c)\tdrawing up a risk-appropriate testing parameters; and\n(d)\tmeeting their ongoing regulatory requirements.\n",
+        "Obligations": [
+            "Obligation:1 \"Understand the RegLab Regulatory Framework:**\n   - Familiarize with ADGM FSRA rules, guidelines, and principles.\n   - Ensure business model and activities comply with the regulatory framework.\"",
+            "Obligation:2 \"Prepare the RegLab Application:**\n   - Complete the application process with detailed business and product/service information.\n   - Provide a clear testing plan with objectives, milestones, and expected outcomes.\n   - Demonstrate understanding of risks and mitigation strategies.\"",
+            "Obligation:3 \"Develop Risk-Appropriate Testing Parameters:**\n   - Create a testing plan with scope, duration, limits, and customer protection measures.\n   - Identify key performance indicators and success criteria.\n   - Set up monitoring and reporting mechanisms for the test.\"",
+            "Obligation:4 \"Comply with Ongoing Regulatory Requirements:**\n   - Adhere to reporting obligations, consumer protection standards, and data protection regulations.\n   - Engage with the FinTech supervisory team for guidance and support.\n   - Adapt compliance measures based on feedback and testing findings.\"",
+            "Obligation:5 \"Maintain Communication with the Regulator:**\n   - Keep open communication with the FinTech supervisory team.\n   - Be responsive to inquiries and information requests.\n   - Report significant changes or issues affecting compliance.\"",
+            "Obligation:6 \"Establish an Exit Strategy:**\n   - Plan for the conclusion of the testing phase, including transitioning to full authorization or winding down.\n\n**Note:** These action items are a summary and participants should refer to the detailed ADGM FSRA regulations or seek professional advice for full compliance.\""
+        ]
+    },
+    {
+        "ID": "9a70fb2e-bcea-4667-826f-f3f1b98fad0d",
+        "PassageID": "5.",
+        "Passage": "REGLAB AUTHORISATION CRITERIA\n",
+        "Obligations": []
+    },
+    {
+        "ID": "b0a538e2-7295-4f33-8d3d-07a7ffe15642",
+        "PassageID": "5.1",
+        "Passage": "Evaluation Criteria. To qualify for authorisation under the RegLab framework, the applicant must demonstrate how it satisfies the following evaluation criteria:\n(a)\tthe FinTech Proposal promotes FinTech innovation, in terms of the business application and deployment model of the technology.\n(b)\tthe FinTech Proposal has the potential to:\ni.\tpromote significant growth, efficiency or competition in the financial sector;\nii.\tpromote better risk management solutions and regulatory outcomes for the financial industry; or\niii.\timprove the choices and welfare of clients.\n(c)\tthe FinTech Proposal is at a sufficiently advanced stage of development to mount a live test.\n(d)\tthe FinTech Proposal can be deployed in the ADGM and the UAE on a broader scale or contribute to the development of ADGM as a financial centre, and, if so, how the applicant intends to do so on completion of the validity period.\n\n",
+        "Obligations": []
+    },
+    {
+        "ID": "40054dfa-768b-4ece-ac91-c15c83f4f16d",
+        "PassageID": "5.2",
+        "Passage": "Authorisation Requirements  In order to become authorised under the RegLab framework, the applicant must also demonstrate to the satisfaction of the Regulator that it:\n(a)\tsatisfies, and will continue to satisfy, any Threshold Conditions made under section 7(2) of the FSMR, including but not limited to the following:\ni.\tthe applicant has adequate and appropriate resources, including financial resources, to develop and test its FinTech Proposal;\nii.\tthe applicant is fit and proper; and\niii.\tthe applicant has relevant technical and business knowledge and experience to develop and test the FinTech Proposal;\n(b)\tis able to clearly define the FinTech Proposal\u2019s test parameters, control boundaries, key milestones and intended outcomes;\n(c)\tis able to propose an acceptable reporting schedule to report to the Regulator on the status and progress of development and testing of its FinTech Proposal;\n(d)\tis able to satisfactorily detail the safeguards that have been put in place, and demonstrate how they are appropriate to the FinTech Proposal being tested, the risks that are posed and the type of clients that are likely to be affected by the proposed innovation;\n(e)\tis able to set out a fair and proper exit strategy for clients should the FinTech Proposal be discontinued, completed or deployed on a broader scale outside the RegLab; and\n(f)\tis able to satisfy all applicable ADGM Regulations, Rules, conditions and/or limitations that the Regulator may prescribe.\n\n",
+        "Obligations": [
+            "Obligation:1 \"Maintain Adequate and Appropriate Resources**:\n   - Ensure adequate financial and other resources are available for the development and testing of the FinTech Proposal.\n   - Maintain these resources throughout the testing phase.\"",
+            "Obligation:2 \"Ensure Fit and Proper Management**:\n   - Demonstrate that the business and its management are fit and proper, with integrity, competence, financial soundness, and a clean legal and professional background.\"",
+            "Obligation:3 \"Possess Relevant Knowledge and Experience**:\n   - Prove possession of the necessary technical and business knowledge and experience relevant to the development and testing of the FinTech Proposal.\"",
+            "Obligation:4 \"Define FinTech Proposal Parameters and Control Boundaries**:\n   - Clearly define test parameters, control boundaries, key milestones, and intended outcomes for the FinTech Proposal.\"",
+            "Obligation:5 \"Adhere to a Reporting Schedule**:\n   - Propose and commit to an acceptable reporting schedule to the Regulator for the status and progress of the FinTech Proposal's development and testing.\"",
+            "Obligation:6 \"Implement Risk Safeguards**:\n   - Detail and demonstrate the appropriateness of safeguards in place for the FinTech Proposal, considering the risks and the type of clients affected.\"",
+            "Obligation:7 \"Develop a Fair Exit Strategy**:\n   - Set out a fair and proper exit strategy for clients if the FinTech Proposal is discontinued, completed, or deployed on a broader scale.\"",
+            "Obligation:8 \"Comply with ADGM Regulations and Rules**:\n   - Satisfy all applicable ADGM Regulations, Rules, conditions, and/or limitations, including ongoing compliance with Threshold Conditions.\"",
+            "Obligation:9 \"Maintain Open Communication and Seek Guidance**:\n   - Keep open lines of communication with the Regulator and seek guidance or clarification when necessary to ensure compliance with the RegLab framework.\"",
+            "Obligation:10 \"Establish a Compliance Framework**:\n   - Have documentation, systems, and procedures in place to demonstrate compliance with each requirement.\n   - Regularly monitor, report, and update policies and procedures as necessary.\n   - Consider seeking professional advice or consulting with the Regulator for clarifications on obligations under the RegLab framework.\""
+        ],
+        "NamedEntities": {
+            "control": "situation in which some party has the power to direct or strongly influence the direction of the management and policies related to something"
+        }
+    },
+    {
+        "ID": "7c6b0bbe-f5e9-46db-a92e-af0851b6f6c3",
+        "PassageID": "6.",
+        "Passage": "APPLICATION PROCESS FOR AUTHORISATION",
+        "Obligations": []
+    },
+    {
+        "ID": "3f7ea34d-4b79-4791-9556-07a37bc44c0e",
+        "PassageID": "6.1",
+        "Passage": "If the applicant is suitable participant for the FSRA\u2019s RegLab framework (refer to section 3) and meets the authorisation criteria (set out in section 5 above), it can proceed to complete and submit the RegLab Application Form.  A copy of the RegLab Application Form is attached at Appendix A to this Guidance and can be submitted to the Regulator by email at FinTech@adgm.com.",
+        "Obligations": []
+    },
+    {
+        "ID": "db8bf0a5-d517-4f1e-89d1-59b6089c5789",
+        "PassageID": "6.2",
+        "Passage": "Once the applicant has submitted its RegLab application form, the Regulator will review the application and inform the applicant whether the FinTech Proposal potentially qualifies for the RegLab.",
+        "Obligations": [
+            "Obligation:1 \"Await Regulator's Assessment**: After submitting your application, wait for the Regulator to review it and be available to respond to any queries or requests for additional information.\"",
+            "Obligation:2 \"Provide Additional Information**: If requested, supply further details or clarifications about your FinTech Proposal to the Regulator promptly and accurately.\"",
+            "Obligation:3 \"Maintain Communication**: Keep open lines of communication with the Regulator, responding quickly to correspondence or inquiries.\"",
+            "Obligation:4 \"Adhere to Guidelines**: Ensure your application and FinTech Proposal comply with ADGM's guidelines and requirements for RegLab applicants, including legal, regulatory, or procedural guidelines.\"",
+            "Obligation:5 \"Prepare for Qualification**: If informed of potential qualification for the RegLab, be ready to engage with the Regulator, comply with the regulatory framework, test your solution, report on findings, and develop an exit strategy.\"",
+            "Obligation:6 \"Protect Confidentiality and Data**: Handle any data shared with the Regulator in accordance with ADGM's data protection regulations and confidentiality requirements.\"",
+            "Obligation:7 \"Stay Informed on Regulatory Changes**: Keep updated on regulatory changes that may affect your participation in the RegLab and adjust operations as necessary.\"",
+            "Obligation:8 \"Ensure Application Accuracy**: Make sure your application is complete and accurate, including all required information such as your business plan and risk assessment.\"",
+            "Obligation:9 \"Comply with Laws**: Adhere to all applicable laws and regulations, including data protection, anti-money laundering (AML), and countering the financing of terrorism (CFT).\"",
+            "Obligation:10 \"Notify Regulator of Changes**: Inform the Regulator of any significant changes to your business model or operations that deviate from your initial application.\""
+        ]
+    },
+    {
+        "ID": "466f1f62-935b-4858-9a7d-c24291a597b1",
+        "PassageID": "6.3",
+        "Passage": "The Regulator will work with the applicant to determine the specific regulatory requirements and conditions (including test parameters and control boundaries) to be applied to the FinTech solution in question. The applicant will then assess if it is able to meet these requirements.",
+        "Obligations": [
+            "Obligation:1 \"Engage with the Regulator:**\n   - Participate actively in discussions with the regulator.\n   - Provide complete, accurate, and necessary information about your FinTech solution.\"",
+            "Obligation:2 \"Understand and Assess Regulatory Requirements:**\n   - Review and comprehend the regulatory requirements and conditions applicable to your FinTech solution.\n   - Understand the test parameters and control boundaries set by the regulator.\n   - Conduct an internal assessment to determine your ability to meet these requirements.\"",
+            "Obligation:3 \"Compliance Planning and Evaluation:**\n   - Develop and implement a plan to address any gaps identified during your self-assessment.\n   - Evaluate operational capabilities, systems, and controls for compliance.\"",
+            "Obligation:4 \"Implementation and Training:**\n   - Implement necessary changes to systems, controls, and procedures to meet regulatory requirements.\n   - Train your team on regulatory obligations and how to operate within established control boundaries.\"",
+            "Obligation:5 \"Testing, Reporting, and Communication:**\n   - Participate in testing phases as required and adhere to agreed parameters and conditions.\n   - Maintain open communication with the regulator.\n   - Report testing results, issues, breaches, or significant findings promptly.\"",
+            "Obligation:6 \"Ongoing Compliance and Monitoring:**\n   - Continuously monitor compliance with regulatory requirements.\n   - Regularly review and adjust operations as necessary to maintain compliance.\n   - Be prepared to make changes in response to regulator feedback or findings during testing.\"",
+            "Obligation:7 \"Documentation:**\n   - Keep thorough documentation of engagements, assessments, compliance efforts, and any changes made.\n   - Ensure documentation is organized and available for regulator review upon request.\n\nAlways refer to the official guidance and regulations provided by the ADGM, and seek legal advice if necessary to ensure full compliance. The actual obligations may vary depending on the specifics of your FinTech solution and the regulatory environment.\""
+        ],
+        "NamedEntities": {
+            "control": "situation in which some party has the power to direct or strongly influence the direction of the management and policies related to something"
+        }
+    },
+    {
+        "ID": "b008ffb7-c805-4cd7-bae0-94e54abc2254",
+        "PassageID": "6.4",
+        "Passage": "If the applicant is able and willing to meet the proposed regulatory requirements and conditions, the applicant will be granted an FSP in accordance with section 30 of the FSMR to carry on the Regulated Activity of \u201cDeveloping Financial Technology Services within the RegLab\u201d.",
+        "Obligations": []
+    },
+    {
+        "ID": "fd16cd2a-2fef-46c7-9cfd-37d365dd9d87",
+        "PassageID": "6.5",
+        "Passage": "Once the Regulator grants the FSP, the FinTech Participant will be able to develop and test its FinTech product within the parameters and control boundaries agreed upon with the Regulator.",
+        "Obligations": [
+            "Obligation:1 \"Operate Within Agreed Parameters**: Ensure operations are strictly within the agreed control boundaries, including service types, clientele, and transaction volume.\"",
+            "Obligation:2 \"Comply with Regulatory Requirements**: Adhere to all relevant FSRA regulations, including AML, CTF, data protection, and financial services laws.\"",
+            "Obligation:3 \"Fulfill Reporting Obligations**: Submit periodic reports to the FSRA on financial condition, customer activity, and FinTech product testing results.\"",
+            "Obligation:4 \"Implement Risk Management**: Establish processes to identify, manage, monitor, and report risks associated with the FinTech product.\"",
+            "Obligation:5 \"Ensure Consumer Protection**: Provide transparent disclosure of terms, privacy policies, and establish customer grievance mechanisms.\"",
+            "Obligation:6 \"Maintain Operational Resilience**: Have business continuity and disaster recovery plans in place.\"",
+            "Obligation:7 \"Notify Regulator of Material Changes**: Inform the FSRA of significant changes in the product, business model, key personnel, or ownership.\"",
+            "Obligation:8 \"Conduct Responsible Testing**: Test the FinTech product responsibly, ensuring test clients are aware of the experimental nature and risks.\"",
+            "Obligation:9 \"Develop an Exit Strategy**: Prepare for the possibility of exiting if the product is not viable or regulatory requirements are not met.\"",
+            "Obligation:10 \"Engage with the Regulator**: Maintain communication with the FSRA, respond to inquiries, and discuss the FinTech product's performance and compliance.\"",
+            "Obligation:11 \"Provide Feedback on Regulatory Framework**: Offer insights to the Regulator on the effectiveness of the regulatory environment and any challenges encountered.\"",
+            "Obligation:12 \"Plan for Transition**: If testing is successful, collaborate with the Regulator for a smooth transition to full-scale operations and secure any additional permissions needed.\n\nIt is essential to review the specific terms and conditions of the FSP, along with ADGM regulations and guidance notes, and consult with compliance professionals or legal advisors to ensure complete understanding and compliance with all regulatory obligations.\""
+        ],
+        "NamedEntities": {
+            "control": "situation in which some party has the power to direct or strongly influence the direction of the management and policies related to something"
+        }
+    },
+    {
+        "ID": "58a37943-78ad-4f65-b530-303fcf1efbbe",
+        "PassageID": "6.6",
+        "Passage": "Figure 1 overleaf depicts the RegLab application process.\nFigure 1: RegLab Application Process\n/Figure Start\nThis figure is a flowchart that represents the application process for a FinTech proposal within a Regulatory Laboratory (RegLab) environment as overseen by the Financial Services Regulatory Authority (FSRA). The process flows as follows:\n\nThe process begins with \"RegLab application submitted to FSRA.\"\n\nFSRA then \"reviews application to determine applicant\u2019s preliminary eligibility.\"\n\nA decision diamond follows, asking, \"Does the applicant potentially qualify?\"\n\nIf \"No,\" the flowchart leads to a process end where \"RegLab application is rejected and applicant is informed.\"\n\nIf \"Yes,\" the process continues to the next step.\n\nFSRA \"informs applicant that its FinTech Proposal will potentially qualify for the RegLab.\"\n\nFSRA \"works with the applicant to determine specific regulatory requirements and conditions that will be applied*\". An asterisk indicates a footnote that reads: \"*The time required for this stage depends on various factors such as the nature of the product.\"\n\nAnother decision diamond follows, \"Can applicant meet the regulatory requirements and conditions?\"\n\nIf \"No,\" the flow leads to an exit point stating, \"Exit from RegLab within 2 years.\"\n\nIf \"Yes,\" the process progresses to the next step.\n\n\"RegLab application is approved.\"\n\nThis leads to \"FSRA issues applicant with FSP for 'Developing Financial Technology Services within the RegLab'.\"\n\nThe final step in the flowchart is that \"FinTech Participant may develop and test its FinTech solution.\"\n\nThe flowchart has a logical progression from application submission to approval or rejection, with clear decision points and outcomes based on the applicant\u2019s ability to meet FSRA\u2019s requirements. The decision points are represented by diamond shapes, indicating where a choice must be made, while rectangles represent steps in the process. Arrows indicate the direction of the workflow, with blue arrows specifically indicating a negative outcome leading to either a rejection notification or an exit from the process. The green rectangular shapes represent the positive progression through the application process.\n/Figure End\n\n",
+        "Obligations": []
+    },
+    {
+        "ID": "9bfaaab2-7b8c-482e-971e-154fb7934476",
+        "PassageID": "7.",
+        "Passage": "CONDITIONS / LIMITATIONS ON THE FINTECH PARTICIPANTS",
+        "Obligations": []
+    },
+    {
+        "ID": "2ab073ac-5815-4b31-9686-7b49809deef0",
+        "PassageID": "7.1",
+        "Passage": "On being granted the FSP to carry on the Regulated Activity of Developing Financial Technology Services within the RegLab, the Regulator may impose limitations or conditions on the FinTech Participant in accordance with sections 30(4) and 35 of the FSMR.  These may include, but are not limited to, any of the following:\n(a)\tthe number and type of Clients with or for whom the FinTech Participant carries on, or intends to carry on the Regulated Activity of Developing Financial Technology Services within the RegLab;\n(b)\tthe type and size of Client transactions that the FinTech Participant is permitted to enter into;\n(c)\tthe suitability assessment and Clients\u2019 written consent required prior to carrying on the Regulated Activity of Developing Financial Technology Services within the RegLab;\n(d)\tthe FinTech Participant\u2019s ability (if any) to hold or control Client Money and Client Investments;\n(e)\tthe requirements surrounding the FinTech Participant\u2019s handling and protection of Client information;\n(f)\tthe manner and type of financial promotion that the FinTech Participant may undertake and the associated disclosures that the FinTech Participant is required to make to Clients ;\n(g)\tthe key information required to be contained in a Client Agreement;\n(h)\tthe prevention of money laundering and countering the financing of terrorism measures that the FinTech Participant is required to implement ;\n(i)\tthe FinTech Participant\u2019s capital requirements (if any) ;\n(j)\tthe FinTech Participant\u2019s financial and other reporting requirements;\n(k)\tany other safeguards to protect the interests of Clients or maintain the safety and soundness of the financial system as the Regulator may prescribe.",
+        "Obligations": [
+            "Obligation:1 \"Adhere to Client Limitations**: Comply with restrictions on the number and type of clients you can serve, including categories and total number allowed.\"",
+            "Obligation:2 \"Comply with Transaction Limitations**: Follow limitations on the type and size of transactions you can conduct with clients.\"",
+            "Obligation:3 \"Conduct Suitability Assessments and Obtain Consent**: Perform suitability assessments for clients before providing services and obtain their written consent.\"",
+            "Obligation:4 \"Manage Client Money and Investments Appropriately**: If applicable, handle client money and investments according to regulations, ensuring their safety and segregation from company funds.\"",
+            "Obligation:5 \"Protect Client Information**: Implement measures to secure client information and maintain confidentiality and data security.\"",
+            "Obligation:6 \"Follow Financial Promotion and Disclosure Rules**: Comply with regulations on financial promotions and ensure clients receive all necessary disclosures.\"",
+            "Obligation:7 \"Include Key Information in Client Agreements**: Ensure client agreements contain all required terms, fees, risks, and rights and obligations as prescribed by the regulator.\"",
+            "Obligation:8 \"Implement AML and CFT Measures**: Establish and maintain anti-money laundering and counter-financing of terrorism measures in accordance with regulatory requirements.\"",
+            "Obligation:9 \"Maintain Capital Requirements**: Meet any capital requirements set by the regulator to manage risks effectively.\"",
+            "Obligation:10 \"Fulfill Reporting Requirements**: Submit financial statements, risk management reports, compliance assessments, and other required reports to the regulator as scheduled.\"",
+            "Obligation:11 \"Comply with Additional Safeguards**: Follow any other safeguards imposed by the regulator to protect client interests and ensure the stability and integrity of the financial system.\n\n**Note**: Regularly review and stay informed about the conditions and limitations attached to your FSP, and maintain open communication with the Regulator to ensure ongoing compliance. Non-compliance can lead to regulatory action, including the revocation of your FSP.\""
+        ],
+        "NamedEntities": {
+            "agreement": "negotiated understanding between two or more parties, reflecting the offer and acceptance of commitments on the part of either party",
+            "control": "situation in which some party has the power to direct or strongly influence the direction of the management and policies related to something"
+        }
+    },
+    {
+        "ID": "2cfb4533-5bb8-448e-8668-1e7aec11a330",
+        "PassageID": "7.2",
+        "Passage": "FSRA may, at any time through the life-cycle of the FinTech Proposal, by notice in writing to the FinTech Participant, cancel or vary any condition or restriction imposed on the FinTech Participant or impose such further condition or restriction as it may think fit in accordance with sections 33, 35 and 36 of the FSMR.",
+        "Obligations": [
+            "Obligation:1 \"Compliance with Conditions and Restrictions:** Adhere to all existing and any modified conditions or restrictions imposed by the FSRA on your FinTech proposal.\"",
+            "Obligation:2 \"Notification and Communication:** Promptly acknowledge and respond to FSRA notices regarding changes to conditions or restrictions, and adjust business practices accordingly.\"",
+            "Obligation:3 \"Implementation of Changes:** Implement any changes to conditions or restrictions as directed by the FSRA within the specified timeline.\"",
+            "Obligation:4 \"Record-Keeping:** Maintain detailed records of all FSRA communications and changes made to operations in response to FSRA notices for compliance verification and future reference.\"",
+            "Obligation:5 \"Ongoing Monitoring:** Continuously monitor compliance with the FSMR and any specific conditions or restrictions imposed by the FSRA, potentially through regular internal reviews or audits.\"",
+            "Obligation:6 \"Reporting Obligations:** Submit required information or reports to the FSRA within the specified timeframe, ensuring accuracy and completeness.\"",
+            "Obligation:7 \"Risk Management:** Evaluate and manage risks resulting from changes in conditions or restrictions to maintain the viability and compliance of your FinTech proposal.\"",
+            "Obligation:8 \"Legal and Regulatory Advice:** Seek legal and regulatory advice for any uncertainties regarding the FSRA's notices or the implementation of required changes.\"",
+            "Obligation:9 \"Engagement with the FSRA:** Maintain an open and cooperative relationship with the FSRA, including prompt responses to inquiries and active participation in discussions about your FinTech proposal.\"",
+            "Obligation:10 \"Stay Informed:** Regularly review relevant sections of the FSMR (sections 33, 35, and 36) and stay updated on the latest regulatory requirements and guidelines issued by the FSRA.\"",
+            "Obligation:11 \"Seek Assistance if Needed:** Consider obtaining legal or compliance advice to effectively navigate changes in the regulatory environment.\""
+        ]
+    },
+    {
+        "ID": "6e71417a-9a69-408e-a71a-c7eb5f30ac0f",
+        "PassageID": "8.",
+        "Passage": "EXITING THE REGLAB",
+        "Obligations": []
+    },
+    {
+        "ID": "b185f211-61a5-45e8-a6b4-f5f698e323db",
+        "PassageID": "8.1",
+        "Passage": "At the end of the two-year validity period, the FSP for the RegLab will expire.",
+        "Obligations": [
+            "Obligation:1 \"Assess Business Status**: Evaluate whether to transition to full ADGM authorization or cease operations based on testing results.\"",
+            "Obligation:2 \"Notify FSRA**: Inform the FSRA of your intentions regarding the expiration of your RegLab FSP.\"",
+            "Obligation:3 \"Prepare Transition or Wind-Down Plan**: Develop a plan outlining steps for either applying for a full FSP or winding down operations, and submit it to the FSRA for approval.\"",
+            "Obligation:4 \"Apply for Full FSP**: If continuing operations, submit a detailed application for a full FSP demonstrating compliance with regulatory requirements.\"",
+            "Obligation:5 \"Ensure Compliance**: Remain compliant with all regulatory requirements, including reporting obligations, AML/CFT requirements, and any other conditions set by the FSRA.\"",
+            "Obligation:6 \"Communicate with Stakeholders**: Inform customers, clients, and other stakeholders about the status of your FSP and any operational changes.\"",
+            "Obligation:7 \"Submit Final Reports/Data**: Provide the FSRA with final reports or data regarding activities conducted under the RegLab FSP, including testing results and feedback.\"",
+            "Obligation:8 \"Engage with FSRA**: Maintain open communication with the FSRA for guidance and clarification throughout the transition or wind-down process.\"",
+            "Obligation:9 \"Fulfill Obligations to Customers**: Ensure all obligations to customers are met, particularly if ceasing operations.\"",
+            "Obligation:10 \"Maintain Records**: Keep appropriate records during the transition period and cooperate with the FSRA as required.\n\nIt is crucial to refer to the specific terms of your FSP, ADGM regulations, and guidelines, and engage with the FSRA directly to ensure compliance and a smooth transition or wind-down process.\""
+        ]
+    },
+    {
+        "ID": "c58f02e6-0701-4d82-899f-a693d180b776",
+        "PassageID": "8.2",
+        "Passage": "Unless an application to extend the two-year validity period is made at least three months before its expiry, or at such time as is otherwise agreed by the Regulator , the FinTech Participant will have to exit the RegLab and choose to either:\n(a)\tmigrate to the full authorisation and supervisory regime under the FSMR and deploy its FinTech solution on a broader scale; or\n(b)\temploy an exit strategy.",
+        "Obligations": [
+            "Obligation:1 \"Monitor Expiry Date**:\n   - Keep a close watch on the expiry date of your RegLab participation.\"",
+            "Obligation:2 \"Application for Extension (if desired)**:\n   - Submit an application for extending the RegLab participation at least three months before the current period ends, or as otherwise agreed with the Regulator.\"",
+            "Obligation:3 \"Decide on Post-RegLab Activity**:\n   - Choose between migrating to full authorisation or employing an exit strategy before the end of the two-year validity period.\"",
+            "Obligation:4 \"Migration to Full Authorisation**:\n   - If opting for migration, apply for the necessary licenses and approvals under the FSMR.\n   - Ensure compliance with all regulatory requirements for fully authorised entities.\"",
+            "Obligation:5 \"Employ an Exit Strategy**:\n   - If not seeking full authorisation, develop and communicate an exit strategy to the Regulator, clients, and stakeholders.\n   - The strategy should facilitate an orderly wind-down of operations and minimize risk to consumers and the financial system.\"",
+            "Obligation:6 \"Communication with the Regulator**:\n   - Maintain open communication with the Regulator regarding intentions, compliance, and any required procedures.\"",
+            "Obligation:7 \"Compliance with Transition Requirements**:\n   - Fulfill all transition requirements set by the Regulator, including submitting documents and completing procedures for either migration or exit.\"",
+            "Obligation:8 \"Consultation and Professional Advice**:\n   - Consult the FSMR, accompanying guidance, and specific terms of RegLab participation for complete understanding of obligations.\n   - Engage with the Regulator directly or seek professional advice to ensure full compliance with regulatory requirements.\""
+        ]
+    },
+    {
+        "ID": "bfba419d-b62a-45e8-b5e3-1973398a7ebf",
+        "PassageID": "8.3",
+        "Passage": "The exit strategy of a FinTech Participant may vary according to its commercial needs.  For example, the FinTech Participant may choose to cease its business at the end of the validity period, or it may transfer its FinTech product and any clients to other authorised financial institutions.",
+        "Obligations": [
+            "Obligation:1 \"Notify Regulator**: Inform the Financial Services Regulatory Authority (FSRA) in advance of your intended cessation of business, providing a timeline and wind-down plan.\"",
+            "Obligation:2 \"Communicate with Clients**: Clearly and fairly inform clients about the cessation of operations, including details on service termination and necessary client actions.\"",
+            "Obligation:3 \"Handle Client Funds and Assets**: Return or transfer client funds and assets in an orderly and transparent manner, ensuring clients' best interests.\"",
+            "Obligation:4 \"Data Protection Compliance**: Securely transfer or destroy client records in accordance with data protection regulations, maintaining confidentiality and security.\"",
+            "Obligation:5 \"Business Transfer Procedures**: If transferring business to another institution, ensure it is authorized by the FSRA, obtain client consent, conduct due diligence, and communicate clearly about the transfer.\"",
+            "Obligation:6 \"Settle Obligations**: Fulfill all outstanding regulatory, financial, and contractual obligations, including fees, charges, penalties, and any other dues.\"",
+            "Obligation:7 \"Submit Final Regulatory Reports**: Provide the FSRA with final regulatory reports, financial statements, or closure reports detailing the business wind-down.\"",
+            "Obligation:8 \"Retain Records**: Keep business records for the period specified by ADGM regulations to address any post-closure inquiries or investigations.\"",
+            "Obligation:9 \"Comply with AML Requirements**: Fulfill all Anti-Money Laundering obligations and ensure relevant information is passed to the receiving institution if clients are transferred.\"",
+            "Obligation:10 \"Adhere to Laws and Regulations**: Maintain compliance with all applicable laws and regulations, including AML and CFT, throughout the exit process.\"",
+            "Obligation:11 \"Develop a Wind-down Plan**: Create a plan that outlines the management of business cessation, minimizing risks to clients and the market (if required by the scale and complexity of operations).\n\nFor specific guidance, consult the FSRA's rules and guidelines, and consider seeking advice from compliance professionals or legal advisors.\""
+        ]
+    },
+    {
+        "ID": "2c5b3842-314d-4593-b2cf-969e6e0a6673",
+        "PassageID": "8.4",
+        "Passage": "The two-year validity period of the authorisation granted under the RegLab may only be extended in exceptional circumstances.",
+        "Obligations": [
+            "Obligation:1 \"Operate Within Authorization Validity**:\n   - Conduct activities within the two-year authorization period provided by the RegLab framework.\n   - Ensure all activities comply with the scope and regulatory requirements of the authorization.\"",
+            "Obligation:2 \"Plan for Authorization Expiry**:\n   - Develop a strategy for the end of the two-year authorization period, which may include applying for a full ADGM license, winding down operations, or other appropriate steps.\"",
+            "Obligation:3 \"Apply for Extension (if applicable)**:\n   - Identify and document any exceptional circumstances that may justify an extension of the authorization period.\n   - Prepare and submit a formal extension request with supporting evidence to the ADGM FSRA, following the regulatory procedures.\"",
+            "Obligation:4 \"Maintain Communication with Regulator**:\n   - Engage in ongoing communication with the FSRA, especially as the end of the authorization period approaches.\n   - Notify the FSRA of any material changes to business or operations that could affect regulatory status.\"",
+            "Obligation:5 \"Adhere to RegLab Terms and Conditions**:\n   - Comply with all terms and conditions of the RegLab program, including reporting requirements and consumer protection standards.\"",
+            "Obligation:6 \"Prepare for Transition**:\n   - If not extending the authorization or if an extension is not granted, prepare for a transition out of the RegLab by applying for a full license or ceasing regulated activities as necessary.\"",
+            "Obligation:7 \"Documentation and Record-Keeping**:\n   - Keep detailed records to support any claims of exceptional circumstances for extension applications or regulatory reviews.\"",
+            "Obligation:8 \"Stay Informed on Regulatory Updates**:\n   - Regularly update knowledge on any changes to the RegLab framework or ADGM regulations that could impact authorization or the extension application process.\n\nIt is crucial to consult the specific terms of your RegLab authorization and relevant ADGM regulations and guidelines for a complete understanding of your obligations. Additionally, seek professional advice if necessary to ensure full compliance.\""
+        ]
+    },
+    {
+        "ID": "18ff9cbe-be5f-45ef-b5e5-3e26fb9509c5",
+        "PassageID": "8.5",
+        "Passage": "In applying for an extension of the validity period, the FinTech Participant shall provide the justifications for extension to the Regulator in such form and manner as FSRA may prescribe.",
+        "Obligations": [
+            "Obligation:1 \"Provide Justifications for Extension**:\n   - Present clear, compelling, and well-founded reasons for the necessity of an extension.\n   - Demonstrate progress, explain delays, and how they will be addressed.\n   - Show how the extension aligns with business goals and regulatory objectives.\"",
+            "Obligation:2 \"Form and Manner Prescribed by FSRA**:\n   - Submit the extension request in the format and through the channels specified by the FSRA.\n   - This may include completing specific forms, providing documentation in writing, or using an online submission portal.\"",
+            "Obligation:3 \"Timely Submission and Compliance with Timelines**:\n   - Submit the extension request well before the current validity period expires.\n   - Adhere to any deadlines set by the FSRA for submission.\"",
+            "Obligation:4 \"Compliance with Ongoing Regulatory Requirements and Ensure Ongoing Compliance**:\n   - Continue to comply with all existing regulatory requirements during the extension process.\n   - This includes reporting obligations, maintaining financial resources, and adhering to conduct of business rules.\"",
+            "Obligation:5 \"Engagement and Maintain Open Communication with the Regulator**:\n   - Maintain open and transparent communication with the FSRA.\n   - Be responsive to inquiries and provide additional information or clarification as requested.\"",
+            "Obligation:6 \"Monitoring Regulatory Updates**:\n   - Stay informed about any changes to the regulatory framework or the process for requesting extensions.\"",
+            "Obligation:7 \"Record Keeping and Provision of Supporting Documentation**:\n   - Keep detailed records of the extension request and all related communications.\n   - Provide any additional documentation required by the FSRA, such as business plans, financial statements, or progress reports.\n\nIt is crucial to follow the FSRA's guidelines precisely and consult the relevant ADGM regulations or the FSRA directly for comprehensive advice if there are any uncertainties.\""
+        ]
+    },
+    {
+        "ID": "8d4a0abe-8569-4cfd-aea9-2cffd8a09dff",
+        "PassageID": "8.6",
+        "Passage": "All applications for an extension of the validity period are to be determined at the Regulator\u2019s discretion on a case-by-case basis.   The Regulator reserves the right to refuse an application for an extension of the validity period if it is of the view that it is desirable to do so in order to further one or more of its regulatory objectives.\n\n",
+        "Obligations": [
+            "Obligation:1 \"Submit a Timely Application**: Apply for the extension before the current validity period expires to avoid any lapses in authorization.\"",
+            "Obligation:2 \"Provide Complete and Accurate Information**: Ensure the application includes all required information, is accurate, and contains relevant details for the Regulator to make an informed decision.\"",
+            "Obligation:3 \"Justify the Need for Extension**: Provide a clear and compelling reason for the extension, aligning with business needs and not contravening regulatory objectives.\"",
+            "Obligation:4 \"Compliance with Regulatory Objectives**: Demonstrate that the operation under the extended validity period will comply with the Regulator's objectives, such as market integrity, consumer protection, and financial stability.\"",
+            "Obligation:5 \"Cooperate and Engage with the Regulator**: Be responsive to requests for additional information or clarification, and consider engaging with the Regulator proactively to understand any concerns or expectations.\"",
+            "Obligation:6 \"Prepare for Possible Refusal**: Have contingency plans in case the extension is not granted, which may include winding down activities or seeking alternative arrangements.\"",
+            "Obligation:7 \"Maintain Compliance**: Continue to comply with all regulatory requirements during the application process and after the extension is granted, if applicable.\"",
+            "Obligation:8 \"Pay Regulatory Fees**: Be prepared to pay any fees associated with the application for an extension.\"",
+            "Obligation:9 \"Monitoring and Reporting**: If the extension is granted, continue to monitor compliance and report to the Regulator as necessary.\"",
+            "Obligation:10 \"Seek Professional Advice**: If unsure about the process or obligations, seek professional advice or consult directly with the Regulator for guidance.\n\nRemember that the Regulator has discretion in these matters, and it is crucial to align your application with their objectives and be prepared for any outcome.\""
+        ],
+        "NamedEntities": {
+            "right": "entitlement (not) to perform certain actions, or (not) to be in certain states; or entitlement that others (not) perform certain actions or (not) be in certain states"
+        }
+    },
+    {
+        "ID": "a196fe29-bdce-4820-ad63-7fbde525c991",
+        "PassageID": "8.7",
+        "Passage": "Cancellation of the FSP. FSRA may cancel the FSP on the application of the FinTech Participant, in accordance with section 32 of the FSMR, or on the initiative of the Regulator, in accordance with section 33 of the FSMR, if it appears to the Regulator that:\n(a)\tthe FinTech Participant is failing, or is likely to fail, to satisfy the Threshold Conditions made under section 7(2) of the FSMR and set out in paragraph 5.2(a) of this Guidance;\n(b)\tit is desirable to exercise this power to further one or more of the Regulator\u2019s objectives, including, for example, if:\ni.\tthe FinTech Participant is failing, or is likely to fail, to satisfy the authorisation requirements set out in section 5.2(b) \u2013 (f) of this Guidance; or\nii.\tthe FinTech Participant is failing, or is likely to fail, to satisfy the limitations or conditions set out in section 7.1 of this Guidance; or\n(c)\tthe FinTech Participant has committed a contravention of the FSMR or any Rules made under the FSMR.\n\n\n\n\n\n\n\n",
+        "Obligations": [
+            "Obligation:1 \"Continuously Satisfy Threshold Conditions:**\n   - Maintain ongoing compliance with the Threshold Conditions as per section 7(2) of the FSMR and paragraph 5.2(a) of the Guidance.\"",
+            "Obligation:2 \"Comply with Authorisation Requirements:**\n   - Adhere to the authorisation requirements detailed in section 5.2(b) \u2013 (f) of the Guidance, including maintaining the competence and integrity of your staff and the adequacy of your financial resources.\"",
+            "Obligation:3 \"Adhere to Limitations or Conditions:**\n   - Respect any limitations or conditions on your FSP as specified in section 7.1 of the Guidance, including client types, services provided, and transaction limitations.\"",
+            "Obligation:4 \"Avoid Contraventions:**\n   - Ensure full compliance with the FSMR and any Rules made under it, avoiding any contraventions.\"",
+            "Obligation:5 \"Conduct Regular Reviews:**\n   - Perform regular reviews of your operations to ensure alignment with the Threshold Conditions, authorisation requirements, and adherence to any limitations or conditions.\"",
+            "Obligation:6 \"Stay Informed and Compliant:**\n   - Keep updated on changes to the FSMR and related Rules, and adjust business practices to remain compliant.\"",
+            "Obligation:7 \"Implement Robust Internal Policies:**\n   - Develop and maintain internal policies and procedures to monitor compliance with the regulatory framework.\"",
+            "Obligation:8 \"Train Staff:**\n   - Educate your staff about their compliance obligations and the importance of regulatory adherence.\"",
+            "Obligation:9 \"Take Corrective Actions:**\n   - Address potential or actual non-compliance issues promptly and report to the FSRA if necessary.\"",
+            "Obligation:10 \"Engage with the FSRA:**\n    - Proactively communicate with the FSRA, especially if anticipating difficulties in meeting obligations, and submit required reports or notifications accurately and on time.\"",
+            "Obligation:11 \"Seek Professional Advice:**\n    - If uncertain about obligations or compliance, seek professional legal advice or consult directly with the FSRA.\""
+        ]
+    }
+]

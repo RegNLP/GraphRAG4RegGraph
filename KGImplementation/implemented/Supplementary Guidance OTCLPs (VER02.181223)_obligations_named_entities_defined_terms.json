@@ -1,0 +1,213 @@
+[
+    {
+        "ID": "e100791f-d4ea-40cd-8940-bc2882fed03a",
+        "PassageID": "1.",
+        "Passage": "Introduction",
+        "Obligations": []
+    },
+    {
+        "ID": "aa3611c9-b763-4027-bde8-1e5725036ede",
+        "PassageID": "1.1",
+        "Passage": "The FSRA has formalised the conditions that Authorised Persons dealing in over-the-counter leveraged products (\u201cOTC Leveraged Products\u201d) in relation to Retail Clients are subject to, in order to provide transparency and clarity around those requirements.  These conditions and a small number of additional ones have been translated into Rules via chapter 23 of the Conduct of Business Rulebook (\u201cCOBS 23\u201d) and associated guidance therein.  In addition, we are issuing this supplementary guidance to inform Authorised Persons and potential applicants of the further criteria that we expect those firms to meet in order to be allowed to offer these products to Retail Clients.",
+        "Obligations": [
+            "Obligation:1 \"Ensure Compliance with COBS 23**: Adhere to all rules and requirements specified in Chapter 23 of the Conduct of Business Rulebook (COBS 23) for offering OTC Leveraged Products to Retail Clients.\"",
+            "Obligation:2 \"Understand and Follow FSRA Guidance**: Be familiar with and adhere to the supplementary guidance issued by the Financial Services Regulatory Authority (FSRA).\"",
+            "Obligation:3 \"Provide Clear and Transparent Information**: Communicate with Retail Clients in a manner that is clear, fair, and not misleading, especially regarding the risks and costs associated with OTC Leveraged Products.\"",
+            "Obligation:4 \"Disclose All Relevant Risks**: Offer comprehensive risk disclosures to Retail Clients to ensure they understand the potential risks involved in trading OTC Leveraged Products.\"",
+            "Obligation:5 \"Conduct Suitability Assessments**: Perform suitability assessments for Retail Clients to determine whether OTC Leveraged Products are appropriate for them based on their investment profile, experience, financial situation, and investment objectives.\"",
+            "Obligation:6 \"Accurate Client Categorization**: Classify clients accurately and ensure that the products offered are suitable for the category under which the client falls, particularly for Retail Clients.\"",
+            "Obligation:7 \"Implement Product Governance Procedures**: Have robust product governance procedures to ensure that products are designed to meet the needs of the identified client category and are distributed accordingly.\"",
+            "Obligation:8 \"Maintain Comprehensive Records**: Keep detailed records of all transactions, interactions, risk disclosures, suitability assessments, client classifications, and marketing materials.\"",
+            "Obligation:9 \"Ensure Staff Training and Competency**: Ensure that staff are adequately trained and competent to understand and explain the nature and risks of OTC Leveraged Products to Retail Clients.\"",
+            "Obligation:10 \"Monitor Compliance and Report to FSRA**: Implement robust monitoring systems to oversee compliance with obligations and report any relevant information to the FSRA as required.\"",
+            "Obligation:11 \"Maintain Adequate Capital and Financial Resources**: Comply with capital adequacy requirements as mandated by the FSRA to manage risks associated with offering OTC Leveraged Products.\"",
+            "Obligation:12 \"Protect Client Assets**: Ensure that Retail Clients' funds and assets are protected and segregated in accordance with ADGM's client money and assets rules.\"",
+            "Obligation:13 \"Establish a Compliance Function**: Have a robust compliance function to monitor adherence to these obligations and the broader regulatory framework.\"",
+            "Obligation:14 \"Conduct Regular Reviews**: Perform regular reviews of policies, procedures, and practices to ensure ongoing compliance with FSRA's requirements.\"",
+            "Obligation:15 \"Notify FSRA of Significant Business Changes**: Inform the FSRA of any significant changes to business activities, especially those related to the offering of OTC Leveraged Products to Retail Clients.\"",
+            "Obligation:16 \"Avoid Misleading Marketing and Promotions**: Ensure that marketing materials and promotions are fair, clear, and not misleading, and do not exploit the client's lack of experience or knowledge.\"",
+            "Obligation:17 \"Ensure Client Understanding and Informed Consent**: Take reasonable steps to ensure that Retail Clients understand the nature and risks of the products and have given informed consent to engage in transactions.\n\nPlease note that this is a general consolidation and the specific details of the obligations may vary based on the full content of COBS 23 and any additional guidance provided by the FSRA. It is crucial to review the complete rules and guidance to ensure full compliance. If uncertain about any aspect of the obligations, seek further clarification from the FSRA or consult with a compliance professional specializing in ADGM regulations.\""
+        ],
+        "DefinedTerms": {
+            "COBS": "Means the Conduct of Business module of the Rulebook.",
+            "Rulebook": "Means the ADGM financial services rulebooks comprising GLO, GEN, PRU, PIN, MIR, AML, MKT, COBS, FUNDS, CIB, IFR and FEES."
+        }
+    },
+    {
+        "ID": "8fd1fad9-d327-4b42-b09d-89ac3f737ddc",
+        "PassageID": "1.2",
+        "Passage": "Unless otherwise defined or the context otherwise requires, the terms contained in this Guidance have the same meanings as defined in the Financial Services Markets Regulations 2015 (\u201cFSMR\u201d) or the Glossary Rulebook (\u201cGLO\u201d), or as they appear in proposed COBS 23.2.",
+        "Obligations": [],
+        "DefinedTerms": {
+            "COBS": "Means the Conduct of Business module of the Rulebook.",
+            "FSMR": "Means the Financial Services and Markets Regulations 2015.",
+            "GLO": "Means the Glossary module of the Rulebook.",
+            "Guidance": "Has the meaning given in section 15(2) of FSMR.",
+            "Rulebook": "Means the ADGM financial services rulebooks comprising GLO, GEN, PRU, PIN, MIR, AML, MKT, COBS, FUNDS, CIB, IFR and FEES."
+        }
+    },
+    {
+        "ID": "eb394780-fbf2-4763-a9a4-e1c23eebb385",
+        "PassageID": "2.",
+        "Passage": "Licensing conditions",
+        "Obligations": []
+    },
+    {
+        "ID": "dc148249-96fa-40ed-9e68-f6266af8d983",
+        "PassageID": "2.1",
+        "Passage": "The FSRA is conscious that losses for most Retail Clients exposed to OTC Leveraged Products are likely to be substantial, and the requirements contained in COBS 23 are aimed at providing protection for them from excessive losses.",
+        "Obligations": [
+            "Obligation:1 \"Risk Disclosure**: Provide comprehensive, clear, and understandable information about the risks associated with OTC leveraged products to retail clients.\"",
+            "Obligation:2 \"Suitability and Appropriateness Assessments**: Conduct thorough assessments to ensure that OTC leveraged products are suitable and appropriate for each retail client based on their knowledge, experience, financial situation, investment objectives, and risk tolerance.\"",
+            "Obligation:3 \"Leverage Limits**: Implement appropriate leverage limits to protect retail clients from excessive risk and potential losses.\"",
+            "Obligation:4 \"Margin Requirements**: Set and maintain suitable margin requirements to manage the risks of the positions taken by retail clients.\"",
+            "Obligation:5 \"Negative Balance Protection/Loss Limits**: Offer negative balance protection and implement tools such as stop-loss orders or guaranteed stop-loss limits to protect retail clients from substantial losses.\"",
+            "Obligation:6 \"Product Governance**: Ensure that OTC leveraged products are designed with the retail client's best interests in mind and meet the needs of an identified target market of end clients.\"",
+            "Obligation:7 \"Marketing and Communications**: Ensure all marketing materials and communications are fair, clear, and not misleading, particularly regarding the risks and potential outcomes of investing in OTC leveraged products.\"",
+            "Obligation:8 \"Monitoring and Reporting**: Regularly monitor retail clients' positions and performance and report to the FSRA as required by the regulatory framework.\"",
+            "Obligation:9 \"Client Education**: Provide educational resources to help retail clients understand OTC leveraged products and the associated risks.\"",
+            "Obligation:10 \"Compliance Policies and Procedures**: Maintain and enforce internal policies and procedures to ensure ongoing compliance with COBS 23 and other relevant regulations.\"",
+            "Obligation:11 \"Client Categorization**: Properly categorize clients as Retail Clients, Professional Clients, or Market Counterparties, and apply the appropriate level of protection.\"",
+            "Obligation:12 \"Training and Competency**: Ensure that staff advising on or managing OTC leveraged products have the necessary skills, knowledge, and expertise.\"",
+            "Obligation:13 \"Complaints Handling**: Establish effective and transparent procedures for the reasonable and prompt handling of complaints from retail clients.\n\nTo ensure full compliance with the FSRA's requirements, it is crucial to consult the actual regulatory text of COBS 23 or seek professional advice.\""
+        ],
+        "DefinedTerms": {
+            "COBS": "Means the Conduct of Business module of the Rulebook."
+        }
+    },
+    {
+        "ID": "22bf7395-7459-45ae-a1bb-15ae1e9933cd",
+        "PassageID": "2.2",
+        "Passage": "In addition, it must be noted that the FSRA is not minded to grant relevant approvals to start-up operations seeking to provide OTC Leveraged Products to Retail Clients, given their lack of a track record.  The criteria that the FSRA would look at before granting any such licence is the extent to which the Applicant and its officers meets the Principles for Authorised Persons as stated in section 2.2 of the General Rulebook (\u201cGEN\u201d).  Qualitative criteria the FSRA would examine are the experience and qualifications of the individuals proposed for the following positions.\na)\tSenior Executive Officer - a minimum of ten years\u2019 experience in dealing with Retail Clients in respect of similar products in an equivalently regulated environment and holding a directly relevant qualification and membership of appropriate professional body.\nb)\tLicensed Director, whether executive or non-executive - a minimum of seven years\u2019 experience in dealing with Retail Clients in respect of similar products in an equivalently regulated environment and holding a directly relevant qualification and membership of appropriate professional body.\nc)\tSenior Managers - a minimum of five years\u2019 experience in dealing with Retail Clients in respect of similar products in an equivalently regulated environment and holding a directly relevant qualification and membership of appropriate professional body.\nd)\tCompliance Officer, Money Laundering Reporting Officer - a minimum of five years\u2019 experience in dealing with Retail Clients in respect of similar products in an equivalently regulated environment and holding a directly relevant qualification and membership of an appropriate professional body.",
+        "Obligations": [
+            "Obligation:1 \"Senior Executive Officer (SEO) Requirements:**\n   - Obtain a minimum of ten years' experience in dealing with Retail Clients in similar products.\n   - Ensure the experience is in an environment equivalently regulated to the ADGM.\n   - Acquire a directly relevant qualification.\n   - Secure membership in an appropriate professional body.\"",
+            "Obligation:2 \"Licensed Director (Executive or Non-Executive) Requirements:**\n   - Obtain a minimum of seven years' experience in dealing with Retail Clients in similar products.\n   - Ensure the experience is in an environment equivalently regulated to the ADGM.\n   - Acquire a directly relevant qualification.\n   - Secure membership in an appropriate professional body.\"",
+            "Obligation:3 \"Senior Managers Requirements:**\n   - Obtain a minimum of five years' experience in dealing with Retail Clients in similar products.\n   - Ensure the experience is in an environment equivalently regulated to the ADGM.\n   - Acquire a directly relevant qualification.\n   - Secure membership in an appropriate professional body.\"",
+            "Obligation:4 \"Compliance Officer and Money Laundering Reporting Officer (MLRO) Requirements:**\n   - Obtain a minimum of five years' experience in dealing with Retail Clients in similar products.\n   - Ensure the experience is in an environment equivalently regulated to the ADGM.\n   - Acquire a directly relevant qualification.\n   - Secure membership in an appropriate professional body.\"",
+            "Obligation:5 \"General Compliance:**\n   - Ensure that the application and overall operations align with the Principles for Authorised Persons as stated in section 2.2 of the General Rulebook (GEN) of the FSRA.\n   - Demonstrate the ability to conduct business with integrity, due skill, care, and diligence.\n   - Maintain adequate financial resources.\"",
+            "Obligation:6 \"Application Submission:**\n   - Before submitting the application, verify that all individuals proposed for the specified positions meet the outlined criteria.\n   - Be aware that meeting these obligations does not guarantee approval, but is necessary to avoid immediate disqualification.\"",
+            "Obligation:7 \"Ongoing Compliance:**\n   - Maintain compliance with the FSRA's obligations to ensure the continued validity of the license once obtained.\n   - Be prepared for the FSRA to conduct a comprehensive assessment of your application, which may include additional requirements or expectations based on your specific business model.\""
+        ],
+        "NamedEntities": {
+            "executive": "person appointed and given the responsibility to manage the affairs of an organization and the authority to make decisions within specified role-specific boundaries",
+            "holding": "real or personal property (assets), including but not limited to financial assets, to which one holds title and of which one has possession"
+        },
+        "DefinedTerms": {
+            "Applicant": "Has the meaning given in section 258 of FSMR.",
+            "Compliance Officer": "Means in relation to an Authorised Person, the Controlled Function described in GEN 5.3.6.",
+            "Director": "In relation to:\n(a)\tGEN, means:\n(i)\tin relation to an undertaking established under the Companies Regulations 2015, a Person who appears on the register maintained by the ADGM Registration Bureau pursuant to section 153 of those Regulations; and\n(ii)\tin relation to all other undertakings, a Person who has been admitted to a register which has a corresponding meaning to the ADGM register of Directors or performs the function of acting in the capacity of a Director, by whatever name called;\n(b)\tMKT, includes, in relation to a Body Corporate:\n(i)\ta person occupying in relation to it the position of a director (by whatever name called); and\n(ii)\ta person in accordance with whose directions or instructions (not being advice given in a professional capacity) the directors of that body are accustomed to act; and\n(c)\tAML, means:\n(i)\tIn relation to an undertaking established under the ADGM Companies Regulations 2015, a Person who appears on the Register of Directors maintained by the ADGM Registrar of Companies; and\n(ii)\tIn relation to all other undertakings, a Person who has been admitted to a register which has a corresponding meaning to the Register of Directors or performs the function of acting in the capacity of a Director, by whatever name called;\n(iii)\twho is employed or appointed by a Person in connection with that Person's business, whether under a contract of service or for services or otherwise; or\n(iv)\twhose services, under an arrangement between that Person and a third party, are placed at the disposal and under the control of that Person.",
+            "GEN": "Means the General module of the Rulebook.",
+            "Licensed Director": "Means the Controlled Function described in GEN 5.3.3.",
+            "Money": "Means any form of money, including banknotes, coins, cheques, Electronic Money and any other non-cash form, such as payable orders.",
+            "Money Laundering Reporting Officer": "Means, for the purposes of an Authorised Person other than a Credit Rating Agency, the Controlled Function described in GEN 5.3.8.",
+            "Officer": "Means:\n(a)\tin relation to a limited liability partnership, a member of the limited liability partnership; and\n(b)\tin relation to a Body Corporate:\n(i)\ta Director, member of the committee of management, Chief Executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity; and\n(ii)\tan individual who is a Controller of the body.",
+            "Rulebook": "Means the ADGM financial services rulebooks comprising GLO, GEN, PRU, PIN, MIR, AML, MKT, COBS, FUNDS, CIB, IFR and FEES.",
+            "Senior Executive Officer": "Means, in relation to an Authorised Person, the Controlled Function described in GEN 5.3.2."
+        }
+    },
+    {
+        "ID": "aeb987dd-b0b9-4108-925a-b0e5651bae04",
+        "PassageID": "2.3",
+        "Passage": "Authorised Persons or Applicants, as applicable, should only propose individuals for approved positions who in their opinion are fit and proper persons and meet the above criteria, alongside the Principles for Approved Persons in accordance with GEN 2.4.  The FSRA expects such entities to carry out their own due diligence and assessment of such persons, not only prior to proposing such persons to the FSRA, but also on an ongoing basis.  The checks which should be conducted by the Authorised Person or Applicant do not replace those conducted by the FSRA, but should be considered as a first filter and a primary safeguard.",
+        "Obligations": [
+            "Obligation:1 \"Conduct Due Diligence**: Perform thorough due diligence on individuals proposed for approved positions, assessing qualifications, experience, integrity, and reputation.\"",
+            "Obligation:2 \"Fit and Proper Assessment**: Ensure that proposed individuals meet the 'fit and proper' criteria, evaluating their honesty, integrity, reputation, competence, capability, and financial soundness.\"",
+            "Obligation:3 \"Adherence to Principles for Approved Persons**: Ensure compliance with the Principles for Approved Persons as outlined in GEN 2.4 of the ADGM regulations.\"",
+            "Obligation:4 \"Ongoing Assessment**: Continuously monitor and assess the suitability of approved persons to ensure they remain fit and proper for their roles.\"",
+            "Obligation:5 \"Act as Primary Safeguard**: Recognize the due diligence process as a primary safeguard in the appointment of individuals to approved positions.\"",
+            "Obligation:6 \"Record-Keeping**: Maintain comprehensive records of due diligence and ongoing assessments for potential review by the FSRA.\"",
+            "Obligation:7 \"Reporting Changes to FSRA**: Report promptly to the FSRA any material changes or findings that may affect an individual's fit and proper status.\"",
+            "Obligation:8 \"Compliance with Laws and Regulations**: Ensure all processes align with relevant ADGM laws, regulations, and guidance.\"",
+            "Obligation:9 \"Implement Training and Policies**: Develop and enforce policies, procedures, and training to support the due diligence and assessment process.\"",
+            "Obligation:10 \"Cooperate with FSRA**: Work in conjunction with the FSRA's checks, providing necessary information and understanding that their checks are supplementary to your own due diligence.\n\nBy adhering to these action items, you will fulfill your regulatory obligations as an Authorised Person or Applicant in the ADGM, contributing to the governance, integrity, and stability of the financial system.\""
+        ],
+        "NamedEntities": {
+            "opinion": "judgement, appraisal, or view about something"
+        },
+        "DefinedTerms": {
+            "Applicant": "Has the meaning given in section 258 of FSMR.",
+            "Authorised Person": "Means a Person, other than a Recognised Body, who is authorised under the FSMR.",
+            "GEN": "Means the General module of the Rulebook.",
+            "Person": "Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state."
+        }
+    },
+    {
+        "ID": "5b5ac1ac-e421-4868-819f-24964ce498cf",
+        "PassageID": "2.4",
+        "Passage": "Other considerations will include, but not be limited to, the track record, reputation and financial resources of an Applicant.  The FSRA would discourage Applicants seeking to provide OTC Leveraged Products to Retail Clients where they fail to meet any of the above criteria.",
+        "Obligations": [
+            "Obligation:1 \"Demonstrate Track Record**: Provide evidence of past performance, stability, and prudent business conduct in financial services, particularly with OTC Leveraged Products.\"",
+            "Obligation:2 \"Maintain Good Reputation**: Ensure no significant past regulatory breaches or reputational issues exist. Demonstrate integrity, good conduct, and a commitment to fair dealing.\"",
+            "Obligation:3 \"Verify Financial Resources**: Prove financial stability and capital adequacy to manage risks associated with providing OTC Leveraged Products to Retail Clients.\"",
+            "Obligation:4 \"Implement Client Protection Measures**: Establish risk disclosures, leverage limits, margin requirements, and client education programs to protect retail clients.\"",
+            "Obligation:5 \"Ensure Compliance with Regulatory Requirements**: Obtain necessary licenses and adhere to all relevant FSRA regulations, including AML and CFT rules.\"",
+            "Obligation:6 \"Establish Effective Risk Management**: Develop policies and procedures to identify, manage, monitor, and report business risks.\"",
+            "Obligation:7 \"Self-assess Suitability Before Applying**: If the criteria for track record, reputation, and financial resources are not met, reconsider applying to provide OTC Leveraged Products to Retail Clients.\"",
+            "Obligation:8 \"Prepare Detailed Records**: Maintain records that showcase industry track record and compliance with regulatory requirements.\"",
+            "Obligation:9 \"Develop Good Reputation Policies**: Implement policies and procedures for customer complaint handling and resolution to promote a good reputation.\"",
+            "Obligation:10 \"Ensure Financial Prudence**: Keep financial statements in order and maintain sufficient capital buffers as per FSRA's prudential regulations.\"",
+            "Obligation:11 \"Engage with FSRA**: Proactively communicate with the FSRA to understand additional requirements and seek guidance on meeting obligations effectively.\""
+        ],
+        "DefinedTerms": {
+            "Applicant": "Has the meaning given in section 258 of FSMR."
+        }
+    },
+    {
+        "ID": "98a547d9-cd77-4a67-9df1-4fdb8c45a4d7",
+        "PassageID": "3.",
+        "Passage": "Operational considerations\n",
+        "Obligations": []
+    },
+    {
+        "ID": "08ab4cc9-0538-4d2c-ac9a-ce9929f5c2a8",
+        "PassageID": "3.1",
+        "Passage": "Copy trading and mirror trading. An Authorised Person must not offer or arrange for Retail Clients to subscribe to \u201ccopy trading,\u201d \u201cmirror trading,\u201d or similar services unless it holds a Financial Services Permission to undertake the Regulated Activity of Managing Assets and has implemented, to the satisfaction of the FSRA, effective systems and controls and governance to identify and manage any related risks.\n",
+        "Obligations": [
+            "Obligation:1 \"Obtain the Necessary Financial Services Permission (FSP):**\n   - Ensure you hold an FSP that includes the Regulated Activity of Managing Assets.\"",
+            "Obligation:2 \"Implement and Maintain Robust Systems and Controls:**\n   - Develop systems and controls to identify and manage risks associated with copy and mirror trading, including operational, market, credit, and liquidity risks.\n   - Monitor and mitigate risks of clients copying or mirroring unsuitable trading strategies.\n   - Conduct due diligence to ensure strategies are appropriate for Retail Clients.\n   - Ensure trades are executed fairly and in the best interest of Retail Clients.\"",
+            "Obligation:3 \"Establish and Review Governance Framework:**\n   - Create a governance framework that ensures fair and transparent service conduct.\n   - Regularly review and audit policies, procedures, and systems to ensure compliance and effectiveness.\n   - Train staff to be competent in managing and overseeing the services.\"",
+            "Obligation:4 \"Ensure Regulatory Compliance and Satisfy FSRA Requirements:**\n   - Adhere to all ADGM regulations and FSRA requirements, including reporting obligations.\n   - Ensure marketing materials and client communications are clear, fair, and not misleading.\n   - Maintain records as per regulatory standards.\"",
+            "Obligation:5 \"Conduct Ongoing Monitoring and Periodic Reviews:**\n   - Regularly monitor the effectiveness of systems, controls, and governance.\n   - Review processes to ensure they remain fit for purpose and compliant with regulations.\"",
+            "Obligation:6 \"Communicate Clearly with Clients:**\n   - Provide Retail Clients with clear, accurate, and timely information about the services and associated risks.\n   - Ensure clients are aware of the risks and the service's suitability based on their knowledge, experience, and risk tolerance.\"",
+            "Obligation:7 \"Maintain Adequate Record-Keeping:**\n   - Keep comprehensive records of all activities related to the services to demonstrate compliance and facilitate FSRA reviews or investigations.\"",
+            "Obligation:8 \"Assess Client Suitability:**\n   - Ensure the service is suitable for Retail Clients, considering their individual circumstances.\"",
+            "Obligation:9 \"Seek Professional Advice:**\n   - Consult with legal or professional advisors to ensure full compliance with regulations.\"",
+            "Obligation:10 \"Address Compliance Deficiencies:**\n    - Take immediate action to rectify any non-compliance issues to avoid regulatory penalties such as fines, suspension, or revocation of FSP.\n\nBy following these consolidated action items, Authorised Persons can ensure they meet their obligations under ADGM financial regulations when offering copy trading or mirror trading services to Retail Clients.\""
+        ],
+        "DefinedTerms": {
+            "Assets": "Means, unless specified otherwise, collateral held to cover positions and includes the right to the transfer of assets equivalent to that collateral or the proceeds of the realisation of any collateral, but does not include Default Fund Contributions.",
+            "Authorised Person": "Means a Person, other than a Recognised Body, who is authorised under the FSMR.",
+            "Financial Services Permission": "Means a permission given, or having effect as if so given, by the Regulator in accordance with \u200ePart 4 of FSMR.",
+            "Managing Assets": "Has the meaning given in paragraph 56 of Schedule 1 of FSMR.",
+            "Person": "Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state.",
+            "Regulated Activity": "Has the meaning given in section 19 of FSMR."
+        }
+    },
+    {
+        "ID": "21e29cbe-d378-43f2-9d5a-37e722f331b3",
+        "PassageID": "3.2",
+        "Passage": "Anti-money laundering measures. An Authorised Person must ensure that it satisfies all the requirements that it is subject to in relation to anti-money laundering, as specified in the Anti-Money Laundering and Sanctions Rules and Guidance Rulebook (\u201cAML\u201d).",
+        "Obligations": [
+            "Obligation:1 \"Conduct Risk Assessment:**\n   - Identify potential vulnerabilities to money laundering and terrorist financing within your business.\"",
+            "Obligation:2 \"Implement Customer Due Diligence (CDD):**\n   - Identify and verify the identity of customers and beneficial owners before establishing a business relationship or conducting transactions.\n   - Keep CDD information current and review it regularly.\"",
+            "Obligation:3 \"Apply Enhanced Due Diligence (EDD):**\n   - Perform additional checks for higher-risk customers, including understanding their source of funds or wealth and increasing monitoring.\"",
+            "Obligation:4 \"Apply Simplified Due Diligence (SDD) When Appropriate:**\n   - Use SDD for lower-risk situations, ensuring it is justified and suitable for the level of risk.\"",
+            "Obligation:5 \"Conduct Ongoing Monitoring:**\n   - Monitor business relationships and transactions continuously to detect any unusual or suspicious activities.\n   - Update customer information and risk profiles regularly.\"",
+            "Obligation:6 \"Report Suspicious Activities:**\n   - Report any suspicious transactions or activities to the Financial Intelligence Unit (FIU) in ADGM promptly.\"",
+            "Obligation:7 \"Maintain Records:**\n   - Keep records of all CDD information, account files, and business correspondence for at least five years after the end of the business relationship or the date of the transaction.\"",
+            "Obligation:8 \"Establish Internal Controls and Compliance Program:**\n   - Develop and maintain policies, procedures, and controls to prevent money laundering and terrorist financing.\n   - Appoint a Money Laundering Reporting Officer (MLRO) for oversight and reporting.\n   - Provide regular employee training on AML regulations and the identification and reporting of suspicious activities.\n   - Conduct independent audits to assess the effectiveness of the AML compliance program.\"",
+            "Obligation:9 \"Ensure Sanctions Compliance:**\n   - Screen against relevant sanctions lists to avoid dealings with sanctioned individuals, entities, or countries.\"",
+            "Obligation:10 \"Fulfill Reporting Obligations:**\n    - Submit any required reports, such as an annual AML return, to the ADGM Financial Services Regulatory Authority (FSRA).\"",
+            "Obligation:11 \"Cooperate with Authorities:**\n    - Respond to requests for information and cooperate with regulatory authorities concerning anti-money laundering measures.\"",
+            "Obligation:12 \"Notify of Compliance Failures:**\n    - Inform the FSRA of any significant compliance failures or breaches.\n\nRemember to refer to the AML Rulebook for detailed requirements and tailor your policies and procedures to your firm's specific risks and activities. Non-compliance can result in penalties, including fines and revocation of authorization to operate within ADGM.\""
+        ],
+        "DefinedTerms": {
+            "Authorised Person": "Means a Person, other than a Recognised Body, who is authorised under the FSMR.",
+            "Guidance": "Has the meaning given in section 15(2) of FSMR.",
+            "Money": "Means any form of money, including banknotes, coins, cheques, Electronic Money and any other non-cash form, such as payable orders.",
+            "Person": "Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state.",
+            "Rulebook": "Means the ADGM financial services rulebooks comprising GLO, GEN, PRU, PIN, MIR, AML, MKT, COBS, FUNDS, CIB, IFR and FEES.",
+            "Sanctions": "Means any law executing foreign policy, security, sanction, trade embargo, or anti terrorism objectives or similar restrictions imposed, administered or enforced from time to time by: (i) the U.A.E.; (ii) the United Nations Security Council; (iii) the European Union; (iv) H.M.  Treasury of the United Kingdom; (v) the Office of Foreign Assets Control (OFAC) of the U.S. Department of the Treasury; (vi) any other relevant governmental authority; or (vii) any of their successors."
+        }
+    }
+]
