@@ -1,0 +1,907 @@
+[
+    {
+        "ID": "19eb0406-621a-4302-aea9-c8dba477a672",
+        "PassageID": "1)",
+        "Passage": "INTRODUCTION\nThis Guidance is issued under section 15(2) of the Financial Services and Markets Regulations 2015 (“FSMR”). It should be read in conjunction with FSMR, the relevant Rulebooks of the Financial Services Regulatory Authority (“the Regulator”), and the Guidance & Policies Manual of the Regulator.\n",
+        "Obligations": []
+    },
+    {
+        "ID": "7d400734-d32d-44d1-8f92-e467ae681e49",
+        "PassageID": "2)",
+        "Passage": "INTRODUCTION\nThis Guidance is applicable to those considering developing or using “Application Programming Interfaces (APIs)”, including applicants for a Financial Services Permission in ADGM, financial services firms located outside ADGM, and participants in FinTech, RegTech, SupTech , amongst others.\n",
+        "Obligations": []
+    },
+    {
+        "ID": "45907542-cc2c-4e54-8c39-1bd3a821954a",
+        "PassageID": "3)",
+        "Passage": "INTRODUCTION\nADGM encourages Financial Service firms to adopt and promote the use of standardised, “interoperable”  and trusted Application Programming Interfaces (APIs) in order to create the means to adapt and update in the context of an increasingly complex and changing business environment, and the rapidly evolving needs of customers.\n",
+        "Obligations": [
+            "Obligation:1 \"Assess Current API Infrastructure**: Evaluate existing API usage and infrastructure for standardization, interoperability, and trustworthiness.\"",
+            "Obligation:2 \"Adopt and Promote Standardized APIs**: Integrate APIs that adhere to industry standards to facilitate compatibility and ease of use by other parties.\"",
+            "Obligation:3 \"Ensure Interoperability**: Design APIs to work seamlessly with other systems, enabling efficient data exchange and communication.\"",
+            "Obligation:4 \"Implement Robust Security Measures**: Secure APIs by implementing encryption, access controls, and conducting regular security audits to protect customer data and maintain trust.\"",
+            "Obligation:5 \"Continuous Adaptation and Updates**: Regularly review and update API infrastructure to align with technological advancements, changing business environments, and evolving customer needs.\"",
+            "Obligation:6 \"Compliance with ADGM Regulations**: Remain compliant with all relevant ADGM financial regulations, including data protection, privacy laws, and any specific requirements related to electronic transactions and technology use.\"",
+            "Obligation:7 \"Risk Management**: Assess and manage risks associated with API usage, including cybersecurity and operational risks, and integrate into the firm's risk management framework.\"",
+            "Obligation:8 \"Obtain Customer Consent and Maintain Transparency**: Secure proper consent for the use of customer data through APIs and ensure customers are informed about how their data is being used.\"",
+            "Obligation:9 \"Documentation and Reporting**: Maintain documentation regarding API usage and strategy, and be prepared to report to ADGM as required.\"",
+            "Obligation:10 \"Governance and Oversight**: Establish governance structures to oversee the development, implementation, and management of APIs.\"",
+            "Obligation:11 \"Staff Training and Awareness**: Educate staff on the importance of APIs, secure implementation practices, and compliance requirements.\"",
+            "Obligation:12 \"Promotion of API Use**: Actively encourage the use of APIs within the organization and among clients and partners to highlight benefits such as efficiency and improved service.\"",
+            "Obligation:13 \"Consult with ADGM's FSRA**: For precise understanding of obligations, review specific regulations or consult directly with ADGM's Financial Services Regulatory Authority.\"",
+            "Obligation:14 \"Stay Informed**: Keep abreast of formal guidance or regulations issued by ADGM regarding the use of APIs to ensure full compliance.\"",
+            "Obligation:15 \"Competitive Positioning**: Recognize that while API adoption is not mandatory, it is a best practice that can prevent competitive disadvantage and align with regulatory expectations.\""
+        ]
+    },
+    {
+        "ID": "65549b87-a7ff-407d-903e-4c2afc0c859c",
+        "PassageID": "4)",
+        "Passage": "INTRODUCTION\nThe FSRA encourages a standardised approach to creating, maintaining and governing APIs that will allow the development of innovative financial products and approaches in ADGM that will benefit customers and financial institutions throughout the UAE, the region and further afield. It is the intention of the FSRA to promote experimentation, accelerate implementation of cutting-edge technologies, and speed up industry adoption of customer-focused disruptive ideas, in order to help drive financial inclusion and realise the API economy.\n",
+        "Obligations": [
+            "Obligation:1 \"Adopt standardized APIs to ensure compatibility and interoperability within the financial sector.\"",
+            "Obligation:2 \"Implement and maintain robust security measures to protect sensitive financial data accessed or transmitted through APIs, complying with data protection regulations and ensuring customer privacy.\"",
+            "Obligation:3 \"Establish clear governance structures for the use and management of APIs, including policies for access control, monitoring, and auditing.\"",
+            "Obligation:4 \"Engage in experimentation with new technologies and approaches, potentially through regulatory sandboxes, to test innovative financial products and services in a controlled environment.\"",
+            "Obligation:5 \"Ensure that API development and implementation prioritize customer needs and benefits, aiming to improve customer experience and financial inclusion.\"",
+            "Obligation:6 \"Adhere to all regulatory requirements set forth by the FSRA, including compliance with AML, CFT, prudential, and conduct regulations.\"",
+            "Obligation:7 \"Report on API initiatives and disclose relevant information to the FSRA to demonstrate compliance and contribute to knowledge sharing within the ADGM community.\"",
+            "Obligation:8 \"Collaborate with other financial institutions, FinTech companies, and stakeholders to promote the API economy and ensure system and service interoperability.\""
+        ]
+    },
+    {
+        "ID": "b27b4bf8-abed-4f82-bfbb-939f4104f1d4",
+        "PassageID": "5)",
+        "Passage": "INTRODUCTION\nOrganisations that create APIs will be able to pivot, adopt new ideas and discard old ones quickly. They will be able to iterate their products to keep up with changes in customer behaviour in a timely manner. Investing in the agile development mind-set, and therefore APIs, can give an organisation a competitive edge. Organisations who commit to building a marketplace to trade and settle discrete, understandable, and valuable APIs will be able to accelerate their realisation of the API economy’s dividends.\n",
+        "Obligations": [
+            "Obligation:1 \"Registration and Licensing**: Obtain the necessary licenses from the ADGM Financial Services Regulatory Authority (FSRA) if your activities are classified as financial services.\"",
+            "Obligation:2 \"Compliance with Applicable Laws**: Ensure adherence to all relevant ADGM financial services laws, including the Financial Services and Markets Regulations (FSMR).\"",
+            "Obligation:3 \"Data Protection and Privacy**: Comply with ADGM's data protection regulations for handling personal and sensitive financial data.\"",
+            "Obligation:4 \"Cybersecurity Measures**: Implement and maintain strong cybersecurity measures to safeguard your APIs and the data they process.\"",
+            "Obligation:5 \"Anti-Money Laundering (AML) and Counter-Terrorist Financing (CTF)**: Establish AML and CTF controls for customer due diligence, transaction monitoring, and reporting suspicious activities.\"",
+            "Obligation:6 \"Reporting Obligations**: Fulfill any reporting requirements to the FSRA, including changes to business operations or the nature of your APIs.\"",
+            "Obligation:7 \"Consumer Protection**: Ensure that your APIs provide clear, fair, and transparent information to customers without being misleading.\"",
+            "Obligation:8 \"Technology Governance**: Develop a governance framework for the lifecycle of your APIs, ensuring compliance with regulatory requirements.\"",
+            "Obligation:9 \"Operational Resilience**: Maintain operational resilience with incident response plans and business continuity strategies for your API infrastructure.\"",
+            "Obligation:10 \"Market Conduct**: Uphold fair and transparent market conduct, preventing market abuse or manipulation through the use of your APIs.\"",
+            "Obligation:11 \"Record Keeping**: Keep comprehensive records of API development, deployment, and usage in compliance with regulatory standards.\n\nIt is advised to consult with a compliance professional or legal advisor for tailored advice based on the specific nature of your business operations within the ADGM.\""
+        ]
+    },
+    {
+        "ID": "04afbcdf-ed29-46a1-ba57-0772622628b2",
+        "PassageID": "6)",
+        "Passage": "INTRODUCTION\nTo that end this Guidance takes a high level overview of the fundamental elements, standards and considerations that the FSRA deems necessary in providing safe and robust APIs. This Guidance should not restrict the use of APIs; rather, it is there to promote standardised approaches to building and providing APIs, which will be promoted in the ADGM Digital Sandbox.\n",
+        "Obligations": [
+            "Obligation:1 \"Ensure Safety and Robustness**: Design and implement APIs with a focus on security and reliability to prevent unauthorized access and handle intended load.\"",
+            "Obligation:2 \"Adhere to Standardization**: Follow industry standards for API development, including RESTful APIs, OAuth, and data formats like JSON or XML.\"",
+            "Obligation:3 \"Comply with FSRA Guidance**: Understand and implement the specific standards and considerations set by the FSRA.\"",
+            "Obligation:4 \"Engage with ADGM Digital Sandbox**: Use the ADGM Digital Sandbox for testing and developing APIs, if applicable.\"",
+            "Obligation:5 \"Implement Risk Management Processes**: Identify, assess, and mitigate risks associated with API usage.\"",
+            "Obligation:6 \"Protect Data and Ensure Privacy**: Comply with data protection laws, secure sensitive data, and obtain necessary consents for data processing.\"",
+            "Obligation:7 \"Monitor and Report**: Monitor API performance and report issues or breaches to the FSRA in a timely manner.\"",
+            "Obligation:8 \"Provide Documentation and Transparency**: Offer clear documentation for APIs to ensure effective use by third parties and transparency of functionality.\"",
+            "Obligation:9 \"Ensure Interoperability**: Strive for APIs to be interoperable with other systems for an efficient and integrated financial ecosystem.\"",
+            "Obligation:10 \"Protect Consumers**: Ensure API usage does not negatively impact consumers and provide clear information about API functionality and usage.\"",
+            "Obligation:11 \"Prepare for Future Regulations**: Be ready to comply with any future regulations or standards introduced by the FSRA regarding API use.\""
+        ]
+    },
+    {
+        "ID": "3d168e4f-86de-47aa-ad72-d9718579a7e9",
+        "PassageID": "7)",
+        "Passage": "INTRODUCTION\nThis Guidance is not an exhaustive source of the Regulator’s policy on the exercise of its statutory powers and discretions. The FSRA is not bound by the requirements set out in this Guidance and may impose additional requirements to address any specific risks posed by APIs/ API developers. The Regulator is not bound by the requirements set out in this Guidance and may modify this Guidance at its discretion where appropriate.\n",
+        "Obligations": []
+    },
+    {
+        "ID": "c6a2f3d1-e3fd-4b3c-95e5-7b3196fc7fb3",
+        "PassageID": "8)",
+        "Passage": "INTRODUCTION\nUnless otherwise defined or the context otherwise requires, the terms contained in this Guidance have the same meanings as defined in FSMR and the Glossary (GLO).\n",
+        "Obligations": []
+    },
+    {
+        "ID": "e3c5b3a6-2faa-4ab0-9f80-96101e058b7a",
+        "PassageID": "9)",
+        "Passage": "INTRODUCTION\nFor more information please contact the FSRA at FinTech@adgm.com\n\n",
+        "Obligations": [
+            "Obligation:1 \"Determine the nature of your business within the Abu Dhabi Global Market (ADGM) to understand specific regulatory obligations.\"",
+            "Obligation:2 \"Identify the financial services you provide, such as banking, asset management, intermediaries, insurance, capital markets, or cryptocurrency activities.\"",
+            "Obligation:3 \"Assess whether your business model requires adherence to regulations concerning capital adequacy, risk management, AML/CFT, conduct of business, and reporting requirements.\"",
+            "Obligation:4 \"Obtain the appropriate financial services license to operate legally within the ADGM.\"",
+            "Obligation:5 \"Implement robust Anti-Money Laundering (AML) and Counter-Terrorist Financing (CTF) systems and controls.\"",
+            "Obligation:6 \"Adhere to data protection regulations to safeguard personal data.\"",
+            "Obligation:7 \"Maintain high standards of conduct, including treating customers fairly.\"",
+            "Obligation:8 \"Meet the capital requirements appropriate for the nature and scale of the business.\"",
+            "Obligation:9 \"Submit regular reports to the FSRA on various aspects of the business.\"",
+            "Obligation:10 \"Ensure compliance with market conduct rules to promote fairness and transparency.\"",
+            "Obligation:11 \"Review the relevant FSRA regulations that apply to your specific business activities, especially if engaging in FinTech activities.\"",
+            "Obligation:12 \"Reach out directly to the FSRA at FinTech@adgm.com for tailored guidance and to obtain necessary regulatory information or guidance specific to your situation.\"",
+            "Obligation:13 \"Provide detailed information about your business model and the financial services you intend to offer when contacting the FSRA for guidance.\""
+        ]
+    },
+    {
+        "ID": "10dbbfe3-65da-41d0-91d4-d8ea43460aca",
+        "PassageID": "10)",
+        "Passage": "BACKGROUND\nAdvances in new technologies, and maturity of others, have provided opportunities for significant change and disruption to financial services and other related activities globally. Powering this innovation are APIs. APIs can fuel internal innovation, reach new customers, extend products and create vibrant partner ecosystems. APIs by their very nature allow for rapid prototyping, agile development and a fail fast, learn quick culture. They provide a way to share, move and access information previously ring fenced within isolated systems.\n",
+        "Obligations": []
+    },
+    {
+        "ID": "17e71d01-9780-4224-a70e-100ff3d9a78c",
+        "PassageID": "11)",
+        "Passage": "BACKGROUND\n“Big Tech” companies  are opening up access to vast resources and computing power providing access to cutting edge technology, such as machine learning neural networks, blockchain development tools and even quantum computing, that were previously unavailable to the wider market. Additionally, in recent years there has been wide adoption of open-sourced technologies, giving developers suites of tools to create new programmes, systems and networks.\n",
+        "Obligations": []
+    },
+    {
+        "ID": "18bcfcec-19a8-4d66-a92b-31409055fa0c",
+        "PassageID": "12)",
+        "Passage": "BACKGROUND\nCombined with the ever growing surge of the use of smart phones, consumers are now expecting seamless digital interactions tailored to their own specific needs. Which in turn is giving rise to the ‘Challenger’ or ‘Neo’ banks who are focused on providing customers with personalised ‘experiences’ rather than standard financial products.\n",
+        "Obligations": []
+    },
+    {
+        "ID": "3ad5114a-ad3a-422c-9a05-a08c63aa87aa",
+        "PassageID": "13)",
+        "Passage": "BACKGROUND\nThese new business models represent a fundamental step in the evolution of the financial services industry and have already disrupted more traditional ways of offering financial services. For example, ‘marketplace banking’ business models, i.e. exposing internal digital business assets or services in the form of APIs to external counterparties, is creating an entirely new ecosystem of banking services predicated on intelligent data management and agility in developing new products. The creation of and broadening of access to new data assets are in turn creating many new opportunities for both incumbent and start-up organisations. Fundamental to the development of this new paradigm is the “API economy ” which facilitates efficient and secure access to data and processes held at different actors within the financial services sector.\n",
+        "Obligations": []
+    },
+    {
+        "ID": "e433485e-ce50-4673-b5a7-18e46a06671a",
+        "PassageID": "14)",
+        "Passage": "BACKGROUND\nHowever in order to realise an efficient API economy, APIs must be able to ‘talk’ the same language. In recognition of this, several open banking initiatives such as in the UK , the EU , Singapore , Hong Kong , Australia  and New Zealand have taken this one step further to maximise interoperability and collaboration, by mandating certain Financial Institutions (FIs) to make data available (in the banking sector, often termed “Open Banking” or “Open Data” in a broader context) according to strict standards, predicated upon API usage.\n",
+        "Obligations": []
+    },
+    {
+        "ID": "530c3e9a-7097-4bfc-b75e-6cfaeccffced",
+        "PassageID": "15)",
+        "Passage": "BACKGROUND\nWhile the FSRA does not propose that Open Data or APIs are made mandatory it does see them as an integral part of any FIs digital strategy and as such will look to align with international best practices so as to maintain a safe and trusted digital environment.\n\nObjectives of the API Guidance\nThe high level objectives of the API guidance are to promote:\n\na.\tInteroperability - to promote the adoption of globally recognised and accepted standards, to ensure the sustainable growth of the digital economy, interoperability across sectors and connectivity to global markets\n\nb.\tSecurity & Trust – to promote the use of internationally recognised security and governance practices in order to safeguard consumers and the financial services market.\n\nc.\tInnovation - to drive and encourage a culture of innovation and competitiveness.\n\nd.\tCollaboration - to advance and foster collaboration amongst the financial services and technology ecosystems.\n",
+        "Obligations": []
+    },
+    {
+        "ID": "512572de-004d-4303-af82-1b54ada10dc7",
+        "PassageID": "16)",
+        "Passage": "BACKGROUND\nWhat is an API\nAn API can be seen as a user interface just with different users in mind. Rather than an individual interacting with an application on their smart phone, it is a computer application interacting with another, over the internet or within a private network, using predefined rules described in the API.\n",
+        "Obligations": []
+    },
+    {
+        "ID": "5a928a52-6ac4-4908-9482-71b3f949da05",
+        "PassageID": "17)",
+        "Passage": "BACKGROUND\nWhat is an API\nSome APIs are designed to enable the query or update of a database, other APIs simply enable a process that has been exposed by one system to be initiated by another. In each API interaction there are the ‘providers’ of the API and the ‘consumers’ of the API:\n\n•\t‘API Provider’ refers to an organisation that exposes their data or services through APIs;\n\n•\t‘API Consumer’ refers to any organisation or person who uses an exposed API to access and consume the data or information.\n",
+        "Obligations": []
+    },
+    {
+        "ID": "87c01bb6-26b8-4e1f-897d-a8dc1c5579b0",
+        "PassageID": "18)",
+        "Passage": "BACKGROUND\nWhat is an API\nIn order for a successful interaction between the API Provider and API Consumer, the terms of their engagement (protocols) have to be pre-defined. Once both parties have agreed this so-called ‘API Contract’, thereby establishing the relevant permissions to connect, then interactions and interoperability can be instantaneous and potentially limitless.\n\n",
+        "Obligations": []
+    },
+    {
+        "ID": "5dd9dbe1-d926-4aaa-bba0-c1d58dc18764",
+        "PassageID": "19)",
+        "Passage": "BACKGROUND\nThe types of APIs\nAPIs can be classified into to the following three types (although many methodologies for classification exist):\n\n•\tPrivate APIs – used within an organisation to provide interoperability between internal applications in order to help automation and provide flexibility.\n\n•\tPartner APIs - used to integrate software between a company and its partner, often for a very specific purpose like providing a product or service.\n\n•\tOpen APIs - an interface that has been designed to be easily accessible by the wider population where a business relationship is not necessary.\n",
+        "Obligations": []
+    },
+    {
+        "ID": "726a7480-0a44-4882-a575-f9ca33fc0117",
+        "PassageID": "20)",
+        "Passage": "BACKGROUND\nThe types of APIs\nIn terms of design and governing rules there are currently two widely-used types of API methodologies in the financial services industry (although as of the date of this Guidance, newer approaches such as GraphQL are emerging and should be considered if they are relevant):\n\n•\tRepresentational State Transfer (REST); and\n\n•\tSimple Object Access Protocol (SOAP).\n",
+        "Obligations": []
+    },
+    {
+        "ID": "24412314-6eed-45de-965c-9977a65e97b5",
+        "PassageID": "21)",
+        "Passage": "BACKGROUND\nThe types of APIs\nTo connect different systems and networks, both approaches can leverage the Hypertext Transfer Protocol (HTTP ), which defines how messages are formatted and transmitted over the internet, and encryption techniques so that the information being passed cannot be read by anyone other than the originator and the intended recipient. However, the two types differ in terms of structure and approach and as such have different applications in mind.",
+        "Obligations": []
+    },
+    {
+        "ID": "4dd6b438-fd5b-4261-98ea-5ba22d8fc47a",
+        "PassageID": "22)",
+        "Passage": "BACKGROUND\nThe types of APIs\nREST is a framework which provides a specific methodology for how to design, build and operate an API which allows an application to use certain commonly-used and standard HTTP operations . These operations enable one application to retrieve, send, update and remove data from another application . RESTful APIs can output data in various different formats. These attributes make RESTful APIs easy to adopt, and flexible in connecting systems of different types.\n",
+        "Obligations": []
+    },
+    {
+        "ID": "9be2f74f-f6c7-44a9-b1c4-93b872e79b07",
+        "PassageID": "23)",
+        "Passage": "BACKGROUND\nThe types of APIs\nSOAP is another methodology and differs from REST especially in that it only uses one format, XML. SOAP also allows an application to programme another application directly using a wide degree of functions. Given these attributes, and the wide use of the XML standard in financial services, SOAP is like REST a commonly-used API methodology in the industry.\n",
+        "Obligations": []
+    },
+    {
+        "ID": "8f11a15f-3da6-4329-8f50-d99a6aefe4b7",
+        "PassageID": "24)",
+        "Passage": "BACKGROUND\nThe types of APIs\nSOAP is often used for transactional operations such as in payment gateways. It was developed in order to enable the API Provider to expose business logic to approved API Consumers so that they could interact safely over any communication protocol being used, usually the internet, in order to initiate a specific automated process.\n",
+        "Obligations": []
+    },
+    {
+        "ID": "469cbb7c-7367-450a-911b-c338703d595d",
+        "PassageID": "25)",
+        "Passage": "BACKGROUND\nThe types of APIs\nREST is often used in situations where rapid, wide-scale adoption is a goal, for example mobile apps for social networks or web chat services. It was developed in order to facilitate simpler information sharing in a fast and efficient manner over HTTP only.\n\n",
+        "Obligations": []
+    },
+    {
+        "ID": "25132708-9986-407f-80e2-94d758574d3e",
+        "PassageID": "26)",
+        "Passage": "BACKGROUND\nThe types of APIs\nThe most appropriate type of API style to use will depend on the environment, the project scope, the processes required and the type of information being shared.\n",
+        "Obligations": []
+    },
+    {
+        "ID": "33322bed-c1cd-438d-ae7d-9524e2b8c228",
+        "PassageID": "27)",
+        "Passage": "BACKGROUND\nThe types of APIs\nA more detailed comparison between the two API design styles can be found in Appendix A.\n\n",
+        "Obligations": []
+    },
+    {
+        "ID": "3fb4e73e-1062-4fe6-8b72-147d0986b2f9",
+        "PassageID": "28)",
+        "Passage": "REGULATORY REQUIREMENTS\nDue to the very nature of collaboration and innovation that an API economy encourages amongst the financial services sector and others, the FSRA’s expectations regarding API Consumers and Providers and maintaining a safe, sound and trusted financial services ecosystem are set out in this Guidance.\n",
+        "Obligations": [
+            "Obligation:1 \"Data Protection and Privacy**: Handle personal or sensitive data accessed or transmitted through APIs in accordance with data protection laws and regulations, including the ADGM Data Protection Regulations.\"",
+            "Obligation:2 \"Cybersecurity**: Implement robust cybersecurity measures to protect against unauthorized access, data breaches, and other cyber threats.\"",
+            "Obligation:3 \"Operational Resilience**: Maintain systems and controls to ensure the continued functionality and resilience of APIs, especially during technical disruptions.\"",
+            "Obligation:4 \"Third-Party Risk Management**: Conduct due diligence on third-party API Providers or Consumers to assess and manage risks, ensuring they meet security and compliance standards.\"",
+            "Obligation:5 \"Compliance with Standards**: Adhere to technical and operational standards set by the FSRA for the development, deployment, and maintenance of APIs.\"",
+            "Obligation:6 \"Consumer Protection**: Ensure that the use of APIs does not negatively impact consumers and that their rights and interests are protected.\"",
+            "Obligation:7 \"Transparency and Disclosure**: Provide clear information to users about the functionalities of the APIs, any associated risks, and the terms of use.\"",
+            "Obligation:8 \"Record-Keeping**: Keep accurate records of API transactions and activities for monitoring and regulatory reporting purposes.\"",
+            "Obligation:9 \"Monitoring and Reporting**: Monitor the use of APIs for suspicious activities and report any incidents or anomalies to the FSRA as required.\"",
+            "Obligation:10 \"Regulatory Compliance**: Ensure all activities related to the use of APIs comply with relevant financial regulations and guidance issued by the FSRA, including AML and CFT requirements.\"",
+            "Obligation:11 \"Monitoring and Testing**: Regularly monitor API performance and conduct testing to ensure proper functionality and security.\"",
+            "Obligation:12 \"Regulatory Notifications**: Notify the FSRA of any significant changes to API-related activities that could affect risk profiles or compliance status.\n\nTo ensure full compliance, review the full FSRA guidance document on API usage in the financial services sector and seek legal or compliance advice if necessary.\""
+        ]
+    },
+    {
+        "ID": "7fffbe0b-d6f0-44ad-b35a-e10ea8db3eec",
+        "PassageID": "29)",
+        "Passage": "REGULATORY REQUIREMENTS\nAnti-Money Laundering\nMoney Laundering (ML) and Terrorist Financing (TF) are two major risks that threaten economic growth and social stability through the illicit flow of funds and illegal activities. ML and TF pose significant negative impacts on the financial system.\n",
+        "Obligations": [
+            "Obligation:1 \"Risk Assessment**: Conduct a risk assessment to understand the money laundering/terrorist financing (ML/TF) risks associated with your business.\"",
+            "Obligation:2 \"Customer Due Diligence (CDD)**: Implement procedures for identifying and verifying the identity of your customers and beneficial owners, and understand the nature of their business.\"",
+            "Obligation:3 \"Enhanced Due Diligence (EDD)**: For higher-risk customers, conduct enhanced due diligence to obtain additional information and monitor their transactions more closely (if applicable).\"",
+            "Obligation:4 \"Ongoing Monitoring**: Continuously monitor customer transactions to ensure they are consistent with the customer's business profile and risk assessment.\"",
+            "Obligation:5 \"Suspicious Activity Reporting**: Report any suspicious transactions to the Financial Intelligence Unit (FIU) of ADGM without delay.\"",
+            "Obligation:6 \"Record Keeping**: Maintain records of customer identification, transactions, and business correspondence for at least five years after the termination of the business relationship or after the date of the occasional transaction.\"",
+            "Obligation:7 \"Internal Controls and Compliance**: Establish and maintain an effective AML compliance program, including the development of internal policies, procedures, controls, and an independent audit function to test these controls.\"",
+            "Obligation:8 \"Compliance Officer**: Appoint a designated Money Laundering Reporting Officer (MLRO) responsible for oversight of the AML compliance program and reporting suspicious activities.\"",
+            "Obligation:9 \"Employee Training**: Provide regular training to employees on AML/CTF obligations to recognize and handle potential money laundering or terrorist financing activities.\"",
+            "Obligation:10 \"Independent Audit**: Conduct an independent audit to review and verify the effectiveness of the AML compliance program.\"",
+            "Obligation:11 \"Sanctions Compliance**: Ensure compliance with applicable sanctions regimes within the ADGM.\"",
+            "Obligation:12 \"Reporting**: Submit periodic reports to the ADGM Financial Services Regulatory Authority (FSRA) as required.\"",
+            "Obligation:13 \"International Cooperation**: Respond to requests for information from foreign regulatory authorities in relation to AML/CFT matters.\n\n*Note*: These action items are based on the general obligations outlined in the provided responses. Specific requirements may vary depending on the type of financial institution, services offered, and other factors. It is important to consult the ADGM AML rules and regulations or seek legal advice to ensure full compliance with the applicable laws and regulations.\""
+        ]
+    },
+    {
+        "ID": "a387265a-16c8-4b5e-9e34-e217b6e1b244",
+        "PassageID": "30)",
+        "Passage": "REGULATORY REQUIREMENTS\nAnti-Money Laundering\nAs such the FSRA expects organisations providing or consuming APIs to adhere to the FSRA’s Anti Money Laundering and Countering Financing of Terrorism “AML/CFT” framework at all times and put the appropriate measures in place to mitigate these risks, as well as:\n\na)\tUAE AML/CFT Federal Laws, including the UAE Cabinet Resolution No. (38) of 2014 Concerning the Executive Regulation of the Federal Law No. 4 of 2002 concerning Anti-Money Laundering and Combating Terrorism Financing;\n\nb)\tthe FSRA AML and Sanctions Rules and Guidance (“AML Rules”) or such other AML rules as may be applicable in ADGM from time to time;\n\nc)\tthe adoption of international best practices (including FATF Recommendations); and\n\nd)\tmonitoring national and international sanctions lists.\n",
+        "Obligations": [
+            "Obligation:1 \"Ensure Compliance with FSRA AML/CFT Framework**: Maintain adherence to the AML/CFT framework set by the FSRA, including effective systems and controls to prevent money laundering and terrorist financing.\"",
+            "Obligation:2 \"Comply with UAE AML/CFT Federal Laws**: Understand and implement the requirements of the UAE Cabinet Resolution No. (38) of 2014 and Federal Law No. 4 of 2002 concerning Anti-Money Laundering and Combating Terrorism Financing.\"",
+            "Obligation:3 \"Stay Updated with FSRA AML Rules**: Regularly review and adjust your compliance program in accordance with the FSRA AML and Sanctions Rules and Guidance, as well as any other applicable AML rules in ADGM.\"",
+            "Obligation:4 \"Adopt International Best Practices**: Integrate the Financial Action Task Force (FATF) Recommendations and other international standards into your operations to combat money laundering and terrorist financing.\"",
+            "Obligation:5 \"Monitor Sanctions Lists**: Screen transactions and business relationships against national and international sanctions lists to avoid dealings with sanctioned individuals, entities, or countries.\"",
+            "Obligation:6 \"Conduct Risk Assessments**: Perform regular risk assessments to identify potential AML/CFT risks, particularly those associated with API services.\"",
+            "Obligation:7 \"Develop AML/CFT Policies and Procedures**: Create and implement robust AML/CFT policies, procedures, and controls tailored to the size and nature of your business.\"",
+            "Obligation:8 \"Establish a Compliance Program**: Set up a comprehensive AML/CFT compliance program that includes customer due diligence (CDD), enhanced due diligence (EDD), ongoing monitoring, record-keeping, and reporting of suspicious activities.\"",
+            "Obligation:9 \"Provide Staff Training**: Offer regular AML/CFT training to employees to ensure they understand regulatory requirements and can identify and report suspicious activities.\"",
+            "Obligation:10 \"Appoint a Compliance Officer**: Designate an AML/CFT compliance officer responsible for overseeing the implementation of AML/CFT measures and reporting to the FSRA as required.\"",
+            "Obligation:11 \"Audit and Review**: Continuously audit and review your AML/CFT measures for effectiveness and compliance with the latest regulations and best practices.\"",
+            "Obligation:12 \"Report Suspicious Activities**: Establish a process for reporting suspicious activities to the relevant authorities as required by law.\"",
+            "Obligation:13 \"Seek Professional Advice**: Consult with professionals or the FSRA for guidance if there are uncertainties regarding compliance obligations to avoid penalties and reputational damage.\""
+        ]
+    },
+    {
+        "ID": "2b420f4a-4042-48fc-aa16-0fedc5f597fd",
+        "PassageID": "31)",
+        "Passage": "REGULATORY REQUIREMENTS\nData Protection\nProtecting confidentiality and security of customer data is vital for the stability and reputation of any financial services institution and should not be compromised. As such, organisations are required to comply with the ADGM Data Protection Regime  and to apply best-practice safeguards for the security and protection of sensitive customer data during transit, processing and storage.\n",
+        "Obligations": [
+            "Obligation:1 \"Implement Data Protection Policies**: Develop and maintain comprehensive data protection policies in line with ADGM Data Protection Regulations, addressing collection, use, disclosure, and management of customer data.\"",
+            "Obligation:2 \"Adhere to Data Processing Principles**: Ensure data processing complies with ADGM principles such as lawfulness, fairness, transparency, purpose limitation, data minimization, accuracy, storage limitation, integrity, and confidentiality.\"",
+            "Obligation:3 \"Uphold Data Subject Rights**: Facilitate data subjects' rights to access, correct, delete, transfer their data, object to processing, and withdraw consent.\"",
+            "Obligation:4 \"Establish Robust Data Security Measures**: Implement technical and organizational measures to protect personal data from unauthorized or unlawful processing, loss, destruction, or damage, including encryption, access controls, and secure storage.\"",
+            "Obligation:5 \"Create a Data Breach Response Plan**: Set up procedures to detect, report, and investigate data breaches, notifying the ADGM Office of Data Protection and affected individuals when necessary.\"",
+            "Obligation:6 \"Comply with Data Transfer Restrictions**: Ensure transfers of personal data outside ADGM meet regulatory requirements, possibly including adequate protection levels or specific contractual clauses.\"",
+            "Obligation:7 \"Maintain Accurate Record Keeping**: Keep detailed records of data processing activities, including processing purposes, data sharing, and retention periods.\"",
+            "Obligation:8 \"Appoint a Data Protection Officer (DPO)**: If required, appoint a DPO to oversee data protection compliance and serve as a contact for the ADGM Office of Data Protection.\"",
+            "Obligation:9 \"Conduct Training and Awareness Programs**: Provide regular training to employees on data protection responsibilities and the importance of protecting customer data.\"",
+            "Obligation:10 \"Monitor Compliance and Conduct Audits**: Regularly review compliance with data protection policies and perform audits to address any issues.\"",
+            "Obligation:11 \"Conduct Data Protection Impact Assessments (DPIAs)**: Perform DPIAs for high-risk processing activities, especially when introducing new technologies.\"",
+            "Obligation:12 \"Notify ADGM of Processing Activities**: Inform the ADGM Office of Data Protection about certain processing activities as required.\"",
+            "Obligation:13 \"Implement Privacy by Design and Default**: Integrate data protection into processing activities and business practices from the outset and throughout their lifecycle.\""
+        ]
+    },
+    {
+        "ID": "8dea0a46-7626-4354-b59a-8433ae65c8c5",
+        "PassageID": "32)",
+        "Passage": "REGULATORY REQUIREMENTS\nData Protection\nThere are also a number of secure hosting standards, e.g. ISO27001, which organisations should adhere to. This standard aids organisations in securing their information and helps implementation of an information security framework that is appropriate to the scale and maturity of the relevant organisation, the services they provide, and the third party suppliers they contract with.\n",
+        "Obligations": [
+            "Obligation:1 \"Implement an Information Security Management System (ISMS):**\n   - Establish, implement, maintain, and continually improve an ISMS.\"",
+            "Obligation:2 \"Conduct Risk Assessments:**\n   - Identify potential security threats and vulnerabilities to information systems.\"",
+            "Obligation:3 \"Develop Risk Mitigation Strategies:**\n   - Implement controls to address identified risks.\"",
+            "Obligation:4 \"Develop and Enforce Security Policies and Procedures:**\n   - Ensure policies and procedures comply with ISO 27001 and ADGM Data Protection Regulations.\"",
+            "Obligation:5 \"Employee Training and Awareness:**\n   - Train all employees on information security and their role in maintaining it.\"",
+            "Obligation:6 \"Implement Access Control Measures:**\n   - Restrict data access to authorized individuals only.\"",
+            "Obligation:7 \"Protect Data:**\n   - Secure personal and sensitive information against unauthorized access, disclosure, alteration, and destruction.\"",
+            "Obligation:8 \"Manage Third-Party Suppliers:**\n   - Ensure third-party suppliers comply with security standards and include data protection in contracts.\"",
+            "Obligation:9 \"Monitor and Continuously Improve ISMS:**\n   - Regularly review and update security practices to address new threats and ensure ongoing compliance.\"",
+            "Obligation:10 \"Maintain Compliance with Legal and Regulatory Requirements:**\n    - Adhere to all relevant legal, regulatory, and contractual requirements.\"",
+            "Obligation:11 \"Consider ISO 27001 Certification:**\n    - Obtain certification if applicable, which may involve an external audit.\"",
+            "Obligation:12 \"Develop an Incident Response Plan:**\n    - Prepare for and address security breaches or incidents promptly.\"",
+            "Obligation:13 \"Maintain Documentation:**\n    - Keep records of all aspects of the ISMS, including risk assessments, policies, procedures, and training records.\"",
+            "Obligation:14 \"Conduct Internal Audits:**\n    - Assess the ISMS and compliance with ISO 27001 regularly.\"",
+            "Obligation:15 \"Perform Management Reviews:**\n    - Ensure the ISMS's continuing suitability, adequacy, and effectiveness through periodic reviews.\n\nBy following these action items, your organization will be better positioned to manage information security risks and demonstrate a commitment to data protection.\""
+        ]
+    },
+    {
+        "ID": "5089fbb3-aebd-4a9d-a3a6-d628759cd136",
+        "PassageID": "33)",
+        "Passage": "REGULATORY REQUIREMENTS\nData Protection\nFor a list of technical standards that should be considered when providing and consuming APIs, please see Appendices B and C.\n",
+        "Obligations": [
+            "Obligation:1 \"Comply with ADGM Data Protection Regulations**: Understand and adhere to the regulations, ensuring lawful, fair, and transparent processing of personal data.\"",
+            "Obligation:2 \"Implement Data Security Measures**: Establish technical and organizational measures to protect data against unauthorized access, loss, destruction, or damage.\"",
+            "Obligation:3 \"Handle Data Breaches Appropriately**: Notify the ADGM Office of Data Protection and affected individuals promptly in case of a data breach.\"",
+            "Obligation:4 \"Respect Data Subject Rights**: Facilitate the rights of individuals to access, correct, delete, or transfer their data, and to object to processing.\"",
+            "Obligation:5 \"Maintain Accurate Records**: Keep detailed records of data processing activities, including purposes, data sharing, and retention periods.\"",
+            "Obligation:6 \"Adhere to Technical Standards for APIs**: Follow the standards outlined in the relevant appendices for encryption, authentication, access control, and data integrity.\"",
+            "Obligation:7 \"Ensure API Security**: Implement robust security for APIs, including secure authentication and encryption in transit.\"",
+            "Obligation:8 \"Practice Data Minimization**: Limit data processing through APIs to only what is necessary.\"",
+            "Obligation:9 \"Incorporate Privacy by Design**: Embed data protection principles in the design and lifecycle of APIs.\"",
+            "Obligation:10 \"Manage Third-Party Compliance**: Ensure that third-party partners adhere to ADGM data protection regulations and have contractual safeguards.\"",
+            "Obligation:11 \"Document API Details**: Keep comprehensive documentation of API data protection features and data flows.\"",
+            "Obligation:12 \"Conduct Regular Audits**: Perform audits and assessments to ensure compliance and address potential risks.\"",
+            "Obligation:13 \"Appoint a Data Protection Officer (DPO)**: If necessary, appoint a DPO to oversee data protection compliance and serve as a contact point.\"",
+            "Obligation:14 \"Control Cross-Border Data Transfer**: Ensure that data is not transferred to jurisdictions without adequate protections unless conditions are met.\"",
+            "Obligation:15 \"Conduct Data Protection Impact Assessments (DPIA)**: Carry out DPIAs for high-risk processing activities.\"",
+            "Obligation:16 \"Provide Training and Awareness**: Train staff on data protection principles and technical standards related to API usage.\n\nThese action items are derived from the general obligations under the ADGM Data Protection Regulations and specific requirements related to providing and consuming APIs within the ADGM jurisdiction. It is essential to review the full text of the regulations and any relevant appendices for complete compliance and, if necessary, seek legal advice tailored to your specific circumstances.\""
+        ]
+    },
+    {
+        "ID": "b423f325-8fad-4ce6-add4-0a3bc730fd64",
+        "PassageID": "34)",
+        "Passage": "REGULATORY REQUIREMENTS\nThird Party Outsourcing\nFor organisations regulated by the FSRA any issues that may result from the outsourcing including the failure of any third party to meet its obligations are the responsibility of the regulated organisation (GEN 3.3.31, PRU 6.8).\n",
+        "Obligations": []
+    },
+    {
+        "ID": "5b3a854f-5d27-461a-aa10-bb198a96ba1e",
+        "PassageID": "35)",
+        "Passage": "REGULATORY REQUIREMENTS\nThird Party Outsourcing\nIn its assessment of a potential third party service provider, the regulated firm must therefore satisfy itself that the service provider maintains robust processes and procedures regarding the relevant service (including, for example, in relation to the testing and security required in this section on Technology Governance).\n\n\n",
+        "Obligations": [
+            "Obligation:1 \"Due Diligence**: Conduct thorough due diligence on potential third-party service providers to evaluate their capabilities, reputation, financial stability, and experience.\"",
+            "Obligation:2 \"Assessment of Processes and Procedures**: Assess and ensure that the third-party has robust operational processes, risk management procedures, and compliance with relevant laws and regulations.\"",
+            "Obligation:3 \"Technology Governance**: Ensure appropriate technology governance, including regular security assessments, penetration testing, incident response plans, and data protection measures.\"",
+            "Obligation:4 \"Contractual Agreements**: Establish clear contractual agreements outlining rights and responsibilities, SLAs, confidentiality clauses, audit rights, and regulatory compliance.\"",
+            "Obligation:5 \"Ongoing Monitoring**: Continuously monitor the third-party's performance and compliance with agreed processes and procedures, maintaining required standards.\"",
+            "Obligation:6 \"Risk Management**: Integrate the third-party relationship into the firm's overall risk management framework, managing associated risks.\"",
+            "Obligation:7 \"Regulatory Compliance**: Ensure the outsourcing arrangement complies with all ADGM regulations and guidelines, and that the service provider adheres to these requirements.\"",
+            "Obligation:8 \"Documentation**: Maintain comprehensive documentation of due diligence, assessments, agreements, and ongoing monitoring activities.\"",
+            "Obligation:9 \"Responsibility**: Remain accountable for ensuring that all outsourced activities comply with regulatory requirements, despite the outsourcing.\"",
+            "Obligation:10 \"Reporting**: Report outsourcing arrangements to the ADGM FSRA as required and provide updates on the third-party's effectiveness.\"",
+            "Obligation:11 \"Contingency Planning**: Develop and maintain contingency plans for service disruptions or failures, including exit strategies if necessary.\"",
+            "Obligation:12 \"Data Protection and Privacy**: Ensure compliance with data protection and privacy laws, and secure handling of customer data.\"",
+            "Obligation:13 \"Notification to Regulator**: Notify the FSRA of outsourcing arrangements when required and provide relevant information.\n\nRemember to always refer to the latest ADGM regulations and guidelines for the most accurate and up-to-date information.\""
+        ]
+    },
+    {
+        "ID": "bf2421d8-cc26-4ce8-a7b4-4026f947b77d",
+        "PassageID": "36)",
+        "Passage": "API REQUIREMENTS\nThis section is intended to provide guidance on industry best practices around the design, security, maintenance and use of APIs in order to ensure interoperability, resilience and scalability of the API economy that we wish to encourage in ADGM and with other international API implementations.\n",
+        "Obligations": [
+            "Obligation:1 \"Design APIs in Accordance with Best Practices**\n   - Ensure APIs are user-friendly, well-documented, and structured for ease of use and integration.\n   - Adhere to RESTful design principles, clear naming conventions, versioning strategies, and appropriate HTTP methods.\"",
+            "Obligation:2 \"Implement Robust Security Measures**\n   - Use secure communication protocols and authentication mechanisms like OAuth.\n   - Encrypt data in transit and at rest.\n   - Conduct regular security audits and penetration testing.\"",
+            "Obligation:3 \"Maintain and Update APIs Regularly**\n   - Perform regular updates and patches for vulnerabilities.\n   - Provide support to API users.\n   - Establish a clear deprecation policy for outdated API versions.\"",
+            "Obligation:4 \"Ensure API Interoperability**\n   - Design APIs to work with other systems, adhering to common standards and protocols.\n   - Provide comprehensive documentation and sandbox environments for testing.\"",
+            "Obligation:5 \"Build Resilient APIs**\n   - Implement rate limiting, circuit breakers, redundancy, and failover mechanisms.\n   - Conduct performance testing to prevent system failures.\"",
+            "Obligation:6 \"Plan for API Scalability**\n   - Prepare for potential growth and ensure APIs can handle increased traffic.\n   - Utilize efficient resource use, horizontal scaling, and performance monitoring.\"",
+            "Obligation:7 \"Comply with ADGM Regulations and International Standards**\n   - Ensure API usage is in line with all applicable laws, including data protection and privacy laws.\n   - Adhere to financial regulations and sector-specific requirements.\"",
+            "Obligation:8 \"Monitor API Usage and Report Metrics**\n   - Track API performance, security incidents, and report to ADGM authorities as required.\"",
+            "Obligation:9 \"Provide Clear Documentation and Communication**\n   - Offer detailed API documentation.\n   - Communicate changes, updates, or issues to users promptly.\"",
+            "Obligation:10 \"Uphold Consumer Protection Principles**\n    - Maintain transparency, fairness, and data privacy in services provided through the API.\n\nFor a comprehensive understanding of your obligations, consult the specific ADGM regulations or guidelines applicable to your situation and seek advice from a legal or compliance professional.\""
+        ]
+    },
+    {
+        "ID": "87cead5c-d4f4-470d-8bbe-078edfd06b79",
+        "PassageID": "37)",
+        "Passage": "API REQUIREMENTS\nIt is recommended that an organisation should first identify why it wants to develop and provide (or consume) an API, who the stakeholders within the organisation are, who the audience for the API will be, the systems and business processes involved and the actors/system that the API will interact with or replace.\n",
+        "Obligations": [
+            "Obligation:1 \"Data Protection Compliance**: Ensure API development and usage comply with ADGM Data Protection Regulations, including securing personal data and obtaining necessary consents for data sharing.\"",
+            "Obligation:2 \"Cybersecurity Measures**: Implement robust cybersecurity measures to protect the API from unauthorized access, cyber threats, and data breaches, in accordance with ADGM's cybersecurity regulations.\"",
+            "Obligation:3 \"Outsourcing and Third-Party Risk Management**: Conduct due diligence and ongoing monitoring of third-party service providers if the API is developed or managed by them, ensuring compliance with ADGM regulations on outsourcing.\"",
+            "Obligation:4 \"Operational Resilience**: Develop the API with operational resilience in mind, with plans to handle disruptions and maintain the integrity and availability of financial services.\"",
+            "Obligation:5 \"Record-Keeping**: Maintain accurate records of API development, maintenance, changes, testing, incidents, decisions, and third-party interactions, in line with ADGM's record-keeping requirements.\"",
+            "Obligation:6 \"Compliance Monitoring and Testing**: Regularly monitor and test the API for compliance with relevant laws, regulations, and performance standards, and address any compliance or functionality issues.\"",
+            "Obligation:7 \"Notification and Reporting**: Notify the ADGM FSRA and affected individuals of any security incidents or data breaches in a timely manner, and report significant incidents or breaches as required.\"",
+            "Obligation:8 \"Consumer Protection**: Ensure the API provides clear, fair, and non-misleading information to consumers, and complies with regulations related to consumer protection.\"",
+            "Obligation:9 \"Compliance with Financial Regulations**: Ensure the API complies with all relevant financial regulations, including AML, CFT, market conduct rules, and sector-specific requirements.\"",
+            "Obligation:10 \"Transparency with Regulators**: Be transparent with the FSRA about the API's purpose, functionality, risks, and any significant incidents or breaches.\"",
+            "Obligation:11 \"Approval from Regulators**: Seek approval from the ADGM FSRA before implementing the API, if required, depending on the nature and impact of the API on financial services.\n\nIt is recommended to consult with the ADGM FSRA or a compliance professional to ensure that all relevant regulatory obligations are identified and met.\""
+        ]
+    },
+    {
+        "ID": "bca95d4a-065b-42d3-b964-feb109b0322c",
+        "PassageID": "38)",
+        "Passage": "API REQUIREMENTS\nDesign\nAll APIs should:\n\na.\tHave platform independence – any web or mobile client should be able to call and interact with the API, regardless of how the API has been implemented internally.\n\nb.\tAllow for unhindered API evolution – APIs should flexibly evolve and be able to add functionality independently from other applications using them. As the APIs evolve, the existing applications using them should be unaffected and can continue to function without having to update to the latest version of the API.\n\nc.\tUse appropriate data standards – APIs should be using the most relevant data standard that are applicable for the type of data being transacted and the use case it is being applied to. Where there is no fit within an existing data standard organisations may decide their own data specification. However, it should publish the associated definitions using a ‘data dictionary’ in line with industry practices such as those outlined in the Open API Specification or Web Service Definition Language.\n\nd.\tHave good data security - It is important to have stringent information security, cyber security and other data related policies/guidelines.\n\ne.\tBe complete and concise – an API should be easy to understand and work with, as should be the API contract. Implementing and integrating with it should be a straight forward process.\n",
+        "Obligations": [
+            "Obligation:1 \"Platform Independence**:\n   - Ensure APIs are compatible with different platforms (web and mobile).\n   - Design APIs to avoid restriction to a specific technology stack.\"",
+            "Obligation:2 \"API Evolution**:\n   - Design APIs for backward compatibility to prevent forcing clients to upgrade with new features.\n   - Implement versioning strategies for managing API changes and communicating with consumers.\"",
+            "Obligation:3 \"Data Standards**:\n   - Adopt relevant data standards for the APIs' data types.\n   - Create and publish a custom data specification and data dictionary if no existing standard fits, following industry practices like OAS or WSDL.\"",
+            "Obligation:4 \"Data Security**:\n   - Establish and maintain information security and cybersecurity policies in line with ADGM regulations and international best practices.\n   - Implement security measures in APIs, including authentication, authorization, encryption, and conduct regular security audits.\"",
+            "Obligation:5 \"Completeness and Conciseness**:\n   - Design user-friendly APIs with clear, comprehensive, yet concise documentation.\n   - Provide straightforward API contracts for ease of integration and developer use.\""
+        ]
+    },
+    {
+        "ID": "83c7b8e4-dc1c-44e6-a801-7c10e7b1cd76",
+        "PassageID": "39)",
+        "Passage": "API REQUIREMENTS\nAPI Documentation\nThe API documentation (or ‘contract’) describes all aspects of the API in order to enable successful interaction between the API provider and API consumer. As such it should be a concise reference manual containing all the information required to work with the API, with details about the functions, classes, return types, and arguments. The API contract should, where relevant, be supported by tutorials and examples.\n",
+        "Obligations": [
+            "Obligation:1 \"Documentation**: Maintain clear, comprehensive, and accurate API documentation that enables users to effectively interact with the API.\"",
+            "Obligation:2 \"Data Protection and Privacy**: Comply with ADGM Data Protection Regulations 2021 and ensure lawful processing of personal data, along with robust security measures to protect data.\"",
+            "Obligation:3 \"Risk Management**: Implement governance and risk management processes to assess and manage risks associated with the API, including operational and data security risks.\"",
+            "Obligation:4 \"Security Measures**: Implement and regularly update security measures to protect the API from unauthorized access and ensure data integrity and confidentiality.\"",
+            "Obligation:5 \"Third-Party Management**: If using third-party services or providers, ensure compliance with ADGM regulations and manage risks introduced by third parties.\"",
+            "Obligation:6 \"Regulatory Reporting and Record Keeping**: Maintain records of API documentation, changes, and usage, and provide reports to the ADGM FSRA as required.\"",
+            "Obligation:7 \"Client and Consumer Protection**: Ensure information provided through the API is clear, fair, not misleading, and that the API functions as intended to avoid consumer harm.\"",
+            "Obligation:8 \"Notification of Changes**: Notify users and relevant stakeholders of significant changes to the API in a timely manner.\"",
+            "Obligation:9 \"Licensing and Intellectual Property**: Ensure all necessary licenses and authorizations are in place and that the API does not infringe on intellectual property rights.\"",
+            "Obligation:10 \"Compliance with International Standards and Regulations**: Ensure the API adheres to relevant international standards, best practices, and financial services regulations, including AML and CFT requirements.\"",
+            "Obligation:11 \"Testing and Updates**: Regularly test the API and provide updates or patches as necessary to maintain functionality and enhance security.\"",
+            "Obligation:12 \"SOC Reporting**: If applicable, provide SOC reports to demonstrate appropriate controls are in place, especially for transaction processing or sensitive data handling.\n\nIt is important to consult with a compliance professional or legal advisor familiar with ADGM regulations for tailored advice specific to your situation.\""
+        ]
+    },
+    {
+        "ID": "e612adf0-0551-4426-9ebd-3630d448340b",
+        "PassageID": "40)",
+        "Passage": "API REQUIREMENTS\nAPI Documentation\nAt a high level the fundamentals that need to be documented in the API contract in order for both parties to be able to interact are:\n\na.\tThe business rules and service agreed between the API Providers and Consumers.\n\nb.\tThe rules around how each party authenticates themselves before gaining access to the API.\n\nc.\tThe standards that the API is adhering to including the change management and version control information that the consumer must be aware of.\n\nd.\tThe design of the API i.e. its structure, the resources (data) that it provides access to and how to interact with the API to obtain them.\n\ne.\tThe certification, on-boarding and acceptance of the API consumer from the API.\n",
+        "Obligations": [
+            "Obligation:1 \"Document Business Rules and Service Agreements:**\n   - Define and document the business rules and service agreements between the API Provider and Consumer.\n   - Make sure the documentation is clear, understandable, and accessible to both parties.\"",
+            "Obligation:2 \"Authentication Protocols:**\n   - Establish and document the authentication process for accessing the API, including security measures and types of authentication (e.g., API keys, OAuth tokens).\"",
+            "Obligation:3 \"Adherence to Standards:**\n   - Document the standards to which the API conforms, including industry standards, data formats, and communication protocols.\n   - Include change management and version control information.\"",
+            "Obligation:4 \"API Design:**\n   - Provide comprehensive documentation on the API's design, structure, and resources it offers.\n   - Detail how to interact with the API, including request/response formats, endpoints, and methods.\"",
+            "Obligation:5 \"Certification and Onboarding:**\n   - Outline the certification and onboarding process for new API Consumers, including testing, validation, and acceptance criteria.\"",
+            "Obligation:6 \"Compliance with ADGM Regulations:**\n   - Ensure documentation and processes adhere to ADGM financial regulations, data protection laws, cybersecurity requirements, and any other relevant guidelines.\n   - Stay updated on regulatory changes and adjust documentation and processes as necessary.\"",
+            "Obligation:7 \"Record-Keeping and Reporting:**\n   - Keep records of all API documentation, changes, and Consumer interactions.\n   - Be prepared to provide these records to ADGM regulatory authorities upon request.\"",
+            "Obligation:8 \"Risk Management:**\n   - Implement strategies to identify, assess, and mitigate risks associated with the API's use.\"",
+            "Obligation:9 \"Consumer Due Diligence:**\n   - Conduct due diligence on API Consumers to verify their authorization and suitability.\"",
+            "Obligation:10 \"Monitoring and Review:**\n    - Regularly monitor API usage and review documentation for accuracy, relevance, and compliance with regulations.\"",
+            "Obligation:11 \"Data Protection and Privacy:**\n    - If applicable, comply with data protection laws and implement measures to protect personal data accessed through the API.\n\nIt is recommended to consult with a compliance officer or legal advisor within the ADGM to ensure all regulatory requirements are fully understood and met.\""
+        ]
+    },
+    {
+        "ID": "74dfe440-54e6-449d-9228-b935774ec64c",
+        "PassageID": "41)",
+        "Passage": "API REQUIREMENTS\nAPI Documentation\nAs such the API contract should also include the following content (but not be limited to):\n\n•\tsampling code and example responses\n•\trules on information handling, incident management and risk management\n•\tmethod of authentication (and how it impacts service interoperability, single sign-on, and rate-limiting)\n•\tdesign changes (recent and planned) and versioning information\n•\tavailability, latency, ownership, depreciation policies and status capability\n•\tapproach to backwards compatibility\n•\tguidance on configuring the API to make sure any relevant governance frameworks are followed\n•\tthe open data standards used\n•\tsecurity information\n•\tcost of use of the APIs, if applicable\n•\tsupport that will be provided to the consumer of the API\n",
+        "Obligations": [
+            "Obligation:1 \"API Documentation**: Maintain comprehensive, up-to-date, and easily accessible documentation for your API, including:\n   - Sample code and example responses.\n   - Information handling, incident and risk management procedures.\n   - Authentication methods and their impact on interoperability, single sign-on, and rate-limiting.\n   - Design changes, versioning, and status capability updates.\n   - Availability, latency, ownership, depreciation policies.\n   - Backwards compatibility approach.\"",
+            "Obligation:2 \"Governance Framework Compliance**: Ensure the API complies with relevant governance frameworks, including financial regulations, data protection laws, and industry standards within ADGM.\"",
+            "Obligation:3 \"Open Data Standards**: Utilize open data standards to ensure seamless interaction with other systems and services.\"",
+            "Obligation:4 \"Security Information**: Provide detailed security information, including measures to protect the API and its data against unauthorized access and cyber threats.\"",
+            "Obligation:5 \"Cost Information**: Clearly disclose any costs associated with using the API, including pricing structure and conditions.\"",
+            "Obligation:6 \"Support**: Offer support to API consumers, including implementation assistance, troubleshooting, resolving issues, and providing contact information for technical support staff.\"",
+            "Obligation:7 \"Regulatory Compliance**: Regularly review and comply with ADGM regulations, including the Data Protection Regulations 2021, the Financial Services and Markets Regulations 2015, and FSRA guidelines. Stay updated with changes in regulations and best practices.\"",
+            "Obligation:8 \"Additional Financial Services Compliance**: If applicable, adhere to regulations related to financial reporting, anti-money laundering (AML), counter-terrorism financing (CTF), and other financial compliance obligations.\n\nBy addressing these action items, you will be working towards ensuring that your API is reliable, secure, and compliant with the regulatory environment of the Abu Dhabi Global Market (ADGM).\""
+        ]
+    },
+    {
+        "ID": "376e168d-c2f4-4089-a6e6-71ac5ec4dfaf",
+        "PassageID": "42)",
+        "Passage": "API REQUIREMENTS\nSecurity\nMost important of all the considerations for organisations providing and consuming APIs is the security measures that are deployed, which must comply with network security best practices. Updates and patches to all systems, particularly security systems, should be performed as soon as safely feasible after such updates and patches have been released. The following sections set out the main risk areas and mitigations for these that, in the opinion of the FSRA, need to be taken into account.\n\n\n",
+        "Obligations": [
+            "Obligation:1 \"Compliance with Network Security Best Practices:**\n   - Align API security measures with industry-standard best practices for network security, covering all aspects of the API lifecycle.\n   - Secure data in transit and at rest, and implement proper authentication and authorization mechanisms.\"",
+            "Obligation:2 \"Timely Updates and Patches:**\n   - Keep all systems, particularly security systems, updated with the latest security patches.\n   - Establish a process for monitoring, rapid implementation, and safe deployment of updates and patches.\"",
+            "Obligation:3 \"Risk Area Identification and Mitigation:**\n   - Identify main risk areas related to API provision and consumption, including authentication, authorization, data privacy, integrity, and service availability.\n   - Implement appropriate mitigations, such as secure authentication methods, proper authorization checks, data encryption, data integrity verification, and rate limiting.\"",
+            "Obligation:4 \"Documentation and Compliance Evidence:**\n   - Maintain thorough documentation of security practices, risk assessments, and mitigation measures.\n   - Be ready to provide evidence of compliance with security requirements to the FSRA upon request.\"",
+            "Obligation:5 \"Regular Security Audits and Assessments:**\n   - Conduct regular security audits, assessments, or penetration tests to verify compliance and identify new risks or vulnerabilities.\n   - Address identified vulnerabilities or gaps promptly.\"",
+            "Obligation:6 \"Incident Response Plan:**\n   - Develop and maintain an incident response plan with procedures for containment, eradication, recovery, and notification of incidents.\n   - Include incident detection, reporting, and recovery processes in the plan.\"",
+            "Obligation:7 \"Training and Awareness:**\n   - Train staff involved in API management on security requirements and best practices.\n   - Promote a culture of security awareness within the organization.\"",
+            "Obligation:8 \"Continuous Improvement:**\n   - Implement a process for the continuous improvement of API security measures based on new threats, vulnerabilities, and advancements in security technologies and practices.\n\n**Note:** These action items are based on the provided information and assume FSRA's guidelines are authoritative. It is recommended to consult the full FSRA guidelines or a compliance professional for a comprehensive understanding of all regulatory obligations.\""
+        ]
+    },
+    {
+        "ID": "2cce8d49-5ff4-46b7-8076-c728a901ad6d",
+        "PassageID": "43)",
+        "Passage": "API REQUIREMENTS\nSecurity\nAs a general rule organisations providing and using APIs should also ensure that all parties that they are engaging with:\n\n•\tUse access tokens to establish trusted identities and control access to the services and resources.\n\n•\tEncryption and signatures are employed as standard.\n\n•\tQuotas and throttling are in place that determine how often APIs can be called. For example, more calls on an API may indicate that there is a Denial-of-Service attack. Or it could also be a programming mistake such as calling the API in an endless loop.\n\n•\tAPI traffic is enforced using an API gateway that allows authentication as well as control.\n",
+        "Obligations": [
+            "Obligation:1 \"Implement a system that uses access tokens to establish trusted identities and control access to services and resources, ensuring secure management and storage of these tokens.\"",
+            "Obligation:2 \"Employ encryption to protect data both in transit and at rest, and use digital signatures to ensure the integrity and non-repudiation of transactions. Ensure that these mechanisms meet industry standards and best practices.\"",
+            "Obligation:3 \"Establish quotas to limit the number of API calls from a given source within a specified time frame and implement throttling mechanisms to control the rate of API requests. Monitor API usage to detect and respond to unusual patterns that may indicate abuse or system overload.\"",
+            "Obligation:4 \"Utilize an API gateway to manage and enforce API traffic, including authentication and access control to API endpoints. Configure the gateway for logging, monitoring, and reporting API traffic for security and compliance purposes.\"",
+            "Obligation:5 \"Review and update current API security measures to align with regulatory requirements and ensure that the technical team is aware of and implements necessary security controls.\"",
+            "Obligation:6 \"Regularly audit and test API security to ensure compliance and identify potential vulnerabilities.\"",
+            "Obligation:7 \"Stay informed about updates or changes to the regulatory framework within ADGM that may affect API security requirements.\"",
+            "Obligation:8 \"Establish clear policies for API usage, including quotas and throttling limits, and communicate these to API consumers.\"",
+            "Obligation:9 \"Regularly review and update security measures to address new threats and vulnerabilities.\"",
+            "Obligation:10 \"Monitor API usage to detect and prevent potential security threats or misuse.\n\nRemember, compliance with these regulations is crucial for legal adherence, maintaining client trust, and protecting your organization from cyber threats. Non-compliance could lead to regulatory action, fines, or reputational damage.\""
+        ]
+    },
+    {
+        "ID": "af6240c3-32bc-4aae-9750-ce7c7b346bc0",
+        "PassageID": "44)",
+        "Passage": "API REQUIREMENTS\nSecurity\nFor more detailed technology standards that should be employed please see Appendix B.\n",
+        "Obligations": [
+            "Obligation:1 \"Data Protection and Encryption**: \n   - Implement measures to protect personal and sensitive data transmitted, processed, or stored via the API.\n   - Ensure that data in transit and at rest is encrypted using industry-standard protocols.\"",
+            "Obligation:2 \"Authentication and Authorization**: \n   - Use robust authentication mechanisms like OAuth, API keys, or JWT tokens.\n   - Implement authorization controls to ensure users can only access data and actions they are permitted to.\"",
+            "Obligation:3 \"Access Controls**: \n   - Define and enforce strict access controls to limit API access and user permissions.\"",
+            "Obligation:4 \"Monitoring, Logging, and Rate Limiting**: \n   - Establish comprehensive logging of all API interactions for monitoring and audit trails.\n   - Implement rate limiting to prevent denial-of-service attacks.\"",
+            "Obligation:5 \"Vulnerability and Patch Management**: \n   - Regularly scan for vulnerabilities and apply necessary patches or updates.\n   - Keep all systems up to date with the latest security patches.\"",
+            "Obligation:6 \"Incident Response Plan**: \n   - Develop and maintain a plan for responding to security incidents affecting the API.\"",
+            "Obligation:7 \"Compliance with Standards and Regular Assessments**: \n   - Adhere to relevant industry standards and best practices for API security.\n   - Conduct regular security audits, assessments, and testing, including penetration tests and vulnerability assessments.\"",
+            "Obligation:8 \"Risk and Input Management**: \n   - Implement a risk management framework to identify and mitigate API risks.\n   - Ensure all input received via the API is properly validated to prevent common web vulnerabilities.\"",
+            "Obligation:9 \"Error Handling and API Gateway**: \n   - Implement secure error handling practices.\n   - Use an API gateway to manage, monitor, and secure API traffic.\n\nPlease note that these action items are based on general regulatory expectations and the specific requirements of Appendix B should be reviewed for a more detailed and tailored set of obligations.\""
+        ]
+    },
+    {
+        "ID": "04be0d77-e1fb-4a47-aa6a-75acb97b5605",
+        "PassageID": "45)",
+        "Passage": "API REQUIREMENTS\nCyber security\nAs APIs are another entry or exit point for an attack on an organisation, the API security strategy must include the following cybersecurity mitigations (but not be limited to):\n\n•\tStrong firewall defences\n•\tVulnerability and threat management\n•\tAntivirus and malware protection\n•\tDenial of Service (DoS) or Distributed Denial of Service (DDoS) protection\n•\tPatch management\n•\tEmail filtering\n•\tWeb filtering\n•\tAdministration privileges\n•\tAccess control\n•\tIntelligence and information sharing\n",
+        "Obligations": [
+            "Obligation:1 \"Implement and maintain **Strong Firewall Defenses** to protect the network and monitor for suspicious activities.\"",
+            "Obligation:2 \"Conduct regular **Vulnerability and Threat Management** activities, including penetration tests and security assessments, to identify and address security weaknesses.\"",
+            "Obligation:3 \"Deploy **Antivirus and Malware Protection** solutions to safeguard systems against malicious software.\"",
+            "Obligation:4 \"Establish **DoS/DDoS Protection** measures to ensure API and service availability is not disrupted by attacks.\"",
+            "Obligation:5 \"Create and follow a **Patch Management** process to keep software and systems updated with the latest security patches.\"",
+            "Obligation:6 \"Utilize **Email Filtering** solutions to guard against phishing, spam, and malicious email threats.\"",
+            "Obligation:7 \"Implement **Web Filtering** controls to restrict access to harmful websites and content.\"",
+            "Obligation:8 \"Manage **Administration Privileges** to ensure only authorized personnel have administrative access, with controlled and monitored usage.\"",
+            "Obligation:9 \"Enforce **Access Control** mechanisms, including strong authentication methods, to allow only authorized access to sensitive data and systems.\"",
+            "Obligation:10 \"Engage in **Intelligence and Information Sharing** to remain informed about cybersecurity threats and best practices, collaborating with relevant parties.\n\nAdditional Compliance Steps:\n\n- Develop, document, and enforce a cybersecurity policy covering the above areas.\n- Conduct regular training for staff on cybersecurity best practices.\n- Perform ongoing monitoring and reporting to promptly detect and respond to security incidents.\n- Regularly review and update cybersecurity measures to adapt to new threats and technology.\n- Document cybersecurity efforts and be prepared to demonstrate compliance to regulatory authorities.\n- Consult with a compliance officer or legal advisor to ensure full compliance with all applicable regulations, including ADGM-specific guidelines and industry standards.\""
+        ]
+    },
+    {
+        "ID": "97e4ee67-e387-4bd5-ab29-8c1aeefe9a43",
+        "PassageID": "46)",
+        "Passage": "API REQUIREMENTS\nEncryption\nThe encryption of data, both at rest and in transit, should be included in the security policy. In particular, encryption and decryption of private keys should utilise encryption protocols, or use alternative algorithms that have broad acceptance with cyber security professionals. Critical cryptographic functions such as encryption, decryption, generation of private keys, and the use of digital signatures should only be performed within cryptographic modules complying with the highest, and ideally internationally recognised, applicable security standards.\n",
+        "Obligations": [
+            "Obligation:1 \"Incorporate Encryption in Security Policy**:\n   - Include protocols for encrypting data at rest and in transit within your security policy, detailing implementation and management.\"",
+            "Obligation:2 \"Adopt Widely Accepted Encryption Protocols**:\n   - Use encryption protocols or alternative algorithms for encrypting and decrypting private keys that are widely accepted and known to be secure by cybersecurity professionals.\"",
+            "Obligation:3 \"Secure Cryptographic Functions**:\n   - Perform critical cryptographic functions, including encryption, decryption, private key generation, and digital signature use, within secure cryptographic modules.\"",
+            "Obligation:4 \"Maintain Compliance with Security Standards**:\n   - Ensure cryptographic modules comply with the highest and internationally recognized security standards, such as FIPS 140-2 or 140-3 or equivalent.\"",
+            "Obligation:5 \"Document Practices and Maintain Evidence**:\n   - Keep thorough documentation of encryption protocols and practices, and be ready to provide evidence of compliance, including security policies, procedures, and audit records.\"",
+            "Obligation:6 \"Regularly Review and Update Encryption Methods**:\n   - Continuously review and update encryption methods to align with current standards and counteract emerging threats.\"",
+            "Obligation:7 \"Educate and Train Staff**:\n   - Conduct training for staff on encryption policies and procedures to ensure understanding and compliance with data security responsibilities.\"",
+            "Obligation:8 \"Implement an Incident Response Plan**:\n   - Develop and uphold an incident response plan that outlines procedures for addressing breaches involving encrypted data.\"",
+            "Obligation:9 \"Perform Risk Assessments**:\n   - Routinely carry out risk assessments to spot potential vulnerabilities in encryption processes and implement measures to mitigate any risks found.\"",
+            "Obligation:10 \"Audit and Monitor Compliance**:\n    - Execute regular audits and compliance monitoring to ensure adherence to encryption requirements.\"",
+            "Obligation:11 \"Regulatory Reporting of Security Incidents**:\n    - Report significant security incidents to the appropriate regulatory authorities as per ADGM regulations and guidelines.\n\nBy following these action items, you will fulfill the regulatory requirements for encryption and maintain compliance with the ADGM's regulatory framework. It's crucial to stay informed about any regulatory changes and adjust your practices accordingly.\""
+        ]
+    },
+    {
+        "ID": "71d97732-a8a8-40e1-9f32-f565732d6de9",
+        "PassageID": "47)",
+        "Passage": "API REQUIREMENTS\nTwo-factor authentication\nAs well as ensuring that architecture supporting the API and the API itself is secure, organisations should also consider the use of two-factor authentication (2FA) when APIs are initiated by a consumer accessing online service. 2FA is an extra layer of security designed to ensure that the only person who can access an account is the individual who owns it, even if the individual’s password has been compromised. The process involves the user providing two different authentication factors to verify themselves.\n",
+        "Obligations": [
+            "Obligation:1 \"Implement 2FA**: Ensure two-factor authentication is in place for consumer-initiated API access, requiring two distinct forms of identification.\"",
+            "Obligation:2 \"Secure API Architecture**: Integrate 2FA into the API's architecture and supporting infrastructure securely, and conduct regular security assessments, including penetration testing.\"",
+            "Obligation:3 \"Verification Process**: Establish a robust verification process for 2FA, confirming the identity of the user before granting access.\"",
+            "Obligation:4 \"Multiple Authentication Factors**: Use at least two different categories of authentication factors: something the user knows, has, and/or is (like biometrics).\"",
+            "Obligation:5 \"Consumer Protection and Education**: Educate consumers on the importance and usage of 2FA, ensuring it is user-friendly and does not introduce additional risks.\"",
+            "Obligation:6 \"Compliance Documentation and Monitoring**: Maintain and monitor documentation of 2FA implementation, policies, and procedures for regulatory review and compliance verification.\"",
+            "Obligation:7 \"Regular Updates and Maintenance**: Keep the 2FA system and security measures up to date to counteract new threats and vulnerabilities.\"",
+            "Obligation:8 \"Incident Response Plan**: Have a plan in place for responding to security breaches or failures in the 2FA system.\"",
+            "Obligation:9 \"Regulatory Reporting**: Report on the implementation and effectiveness of 2FA to the relevant authorities as required by ADGM regulations.\"",
+            "Obligation:10 \"Review and Update Compliance**: Periodically review and update compliance measures to align with the latest security threats and regulatory changes. Consult the ADGM's regulatory framework or seek legal advice for comprehensive obligations.\""
+        ]
+    },
+    {
+        "ID": "dbc9bf18-710d-4e3f-8ae1-382025d89ac3",
+        "PassageID": "48)",
+        "Passage": "API REQUIREMENTS\nTwo-factor authentication\nHowever, it is worth noting that whilst this reduces the chance of being hacked, 2FA is not completely secure and still relies on the vigilance of the individual. For example, phishing attacks purportedly coming from trusted services login page can result in users giving away their credentials. In some extreme cases, hackers have been able to negate 2FA by spoofing an individual’s SIM card and intercepting the unencrypted message as it is sent over the network.\n",
+        "Obligations": [
+            "Obligation:1 \"Implement Two-Factor Authentication (2FA)**: Integrate 2FA into your API access controls to enhance security.\"",
+            "Obligation:2 \"Conduct Risk Assessments**: Regularly evaluate potential vulnerabilities and the effectiveness of 2FA in mitigating these risks.\"",
+            "Obligation:3 \"Educate Users**: Inform users about the importance of maintaining the confidentiality of their authentication credentials and how to recognize and avoid phishing attacks and other security threats.\"",
+            "Obligation:4 \"Monitor for Breaches and Anomalies**: Set up systems to detect unauthorized access attempts or security incidents in real-time.\"",
+            "Obligation:5 \"Maintain Incident Response Plan**: Develop and keep an updated response plan to address security breaches or incidents promptly.\"",
+            "Obligation:6 \"Ensure Compliance with ADGM Regulations**: Verify that your 2FA and other security measures adhere to ADGM's data protection laws, cybersecurity guidelines, and financial services regulations.\"",
+            "Obligation:7 \"Protect Sensitive Data**: Encrypt and safeguard any sensitive data involved in the 2FA process.\"",
+            "Obligation:8 \"Regular Review and Testing of Security Measures**: Continuously test and update the 2FA system and other security measures to respond to new threats.\"",
+            "Obligation:9 \"Documentation**: Keep thorough records of your 2FA systems, risk assessments, user education programs, incident response plans, and compliance efforts.\"",
+            "Obligation:10 \"Regulatory Reporting**: Report any significant security incidents to the ADGM Financial Services Regulatory Authority (FSRA) as required.\"",
+            "Obligation:11 \"Continuous Improvement**: Stay updated on advancements in authentication technologies and security best practices to continually enhance API security.\""
+        ]
+    },
+    {
+        "ID": "a78ae91a-2d10-4f59-838d-6ef5cf97ceca",
+        "PassageID": "49)",
+        "Passage": "API REQUIREMENTS\nPenetration testing\nIt is recommended that all systems and infrastructure should be regularly tested for vulnerabilities by an external penetration testing expert who is professionally accredited (such as CREST, IISP, TIGER scheme or OSCP Offensive Security).\n",
+        "Obligations": [
+            "Obligation:1 \"Engage an external penetration testing expert with professional accreditation from recognized bodies such as CREST, IISP, TIGER scheme, or OSCP certification.\"",
+            "Obligation:2 \"Schedule regular penetration tests to identify and address vulnerabilities, with the frequency based on the nature of your business, data sensitivity, and the evolving threat landscape.\"",
+            "Obligation:3 \"Ensure the scope of penetration testing includes all critical systems and infrastructure that could impact operations or client data security.\"",
+            "Obligation:4 \"Promptly remediate any vulnerabilities found during penetration tests by patching software, updating systems, and modifying security policies.\"",
+            "Obligation:5 \"Document and report all penetration tests, including methodologies, findings, and remediation actions, for regulatory reviews and audits.\"",
+            "Obligation:6 \"Use findings from penetration tests to continuously improve cybersecurity posture, including updating risk assessments, security policies, and incident response plans.\"",
+            "Obligation:7 \"Notify regulators of significant security incidents discovered during penetration testing if required by regulations.\"",
+            "Obligation:8 \"Keep records of penetration tests, including scope, tester accreditation, findings, and remediation actions.\"",
+            "Obligation:9 \"Stay informed about changes in penetration testing standards and regulatory expectations to ensure alignment with current best practices and guidance.\"",
+            "Obligation:10 \"Consider follow-up testing after remediation to verify the effectiveness of the actions taken.\""
+        ]
+    },
+    {
+        "ID": "2ae65d90-d6b3-4302-b933-7b9a7d00ea63",
+        "PassageID": "50)",
+        "Passage": "API REQUIREMENTS\nCredentials management\nAuthentication, authorisation and encryption are fundamental to the security of APIs. In terms of authentication, as far as possible, API providers should have a well-defined process to help ensure that individuals or organisations are robustly authenticated.\n",
+        "Obligations": []
+    },
+    {
+        "ID": "c0785a8a-91e9-481f-a071-2816649a5f9e",
+        "PassageID": "51)",
+        "Passage": "API REQUIREMENTS\nCredentials management\nAuthorisation should only allow the authorised/accredited organisations and people to have access to the right API resources.\n",
+        "Obligations": [
+            "Obligation:1 \"Implement Secure Authentication Mechanisms**: \n   - Establish secure methods to verify identities (e.g., API keys, OAuth tokens).\n   - Use robust authentication to ensure only authorized access to the API.\"",
+            "Obligation:2 \"Enforce Authorization Controls**: \n   - Implement controls to restrict API access based on roles and the need to know.\n   - Define and enforce permissions for different users and organizations.\"",
+            "Obligation:3 \"Manage Credentials Securely**: \n   - Have a secure process for issuing, storing, rotating, and revoking credentials.\n   - Ensure credentials are stored using encryption where appropriate.\n   - Regularly review and update credentials management policies.\"",
+            "Obligation:4 \"Monitor and Audit Access**: \n   - Continuously monitor API usage and maintain detailed logs of access requests and activities.\n   - Regularly review access logs for unauthorized attempts or anomalies.\"",
+            "Obligation:5 \"Maintain Compliance**: \n   - Ensure practices comply with relevant data protection regulations (e.g., GDPR, ADGM).\n   - Be prepared to demonstrate compliance during audits or regulatory reviews.\"",
+            "Obligation:6 \"Develop Security Policies and Incident Response**: \n   - Create and maintain comprehensive security policies and procedures.\n   - Train staff on these policies and their roles in maintaining API security.\n   - Have an incident response plan for security breaches, including mitigation and reporting steps.\"",
+            "Obligation:7 \"Regularly Update and Patch Systems**: \n   - Keep the API and its security features up-to-date against vulnerabilities.\n   - Ensure third-party components are also updated regularly.\"",
+            "Obligation:8 \"Ensure Data Protection**: \n   - Implement measures to protect personal and sensitive data in line with relevant privacy laws.\"",
+            "Obligation:9 \"Secure Data Transmission**: \n   - Use encryption (e.g., TLS/SSL) for secure transmission of credentials and API data.\"",
+            "Obligation:10 \"Promote Training and Awareness**: \n    - Provide training to staff on the importance of credentials management and authorization controls.\n\nBy following these consolidated action items, you will be able to manage your API in compliance with ADGM's expectations and other relevant regulations, ensuring the integrity, confidentiality, and availability of your API resources.\""
+        ]
+    },
+    {
+        "ID": "d4617897-881a-4d27-86cb-ca2050245080",
+        "PassageID": "52)",
+        "Passage": "API REQUIREMENTS\nCredentials management\nOrganisations must therefore ensure that they have the appropriate infrastructure in place for secure storage and management of relevant access credentials. These credentials include (but not limited to):\n\n•\tIdentity keys\n•\tSigning keys\n•\tOAuth client IDs and secrets\n•\tUsernames and passwords\n•\tAccess tokens\n",
+        "Obligations": [
+            "Obligation:1 \"Secure Storage of Credentials**: Implement secure storage solutions for all sensitive credentials, including encryption and protection against unauthorized access, disclosure, alteration, and destruction.\"",
+            "Obligation:2 \"Access Control**: Establish and maintain robust access control mechanisms, including defining user roles, permissions, and implementing multi-factor authentication where necessary.\"",
+            "Obligation:3 \"Credential Lifecycle Management**: Develop processes for the issuance, rotation, update, and safe decommissioning of credentials, along with handling lost or compromised credentials.\"",
+            "Obligation:4 \"Monitoring and Auditing**: Continuously monitor credential usage and maintain comprehensive audit logs to track access and changes, ensuring the ability to identify and respond to unauthorized access or anomalies.\"",
+            "Obligation:5 \"Incident Response Plan**: Create and update an incident response plan detailing procedures for security breaches involving compromised credentials, including notification protocols for internal and external stakeholders.\"",
+            "Obligation:6 \"Compliance with Data Protection Regulations**: Ensure that credential management practices are compliant with relevant data protection laws and regulations, including GDPR where applicable.\"",
+            "Obligation:7 \"Regular Assessments and Compliance Checks**: Conduct regular security assessments of the credential management infrastructure to ensure regulatory compliance and identify vulnerabilities.\"",
+            "Obligation:8 \"Training and Awareness**: Provide ongoing training to staff on secure credentials management practices, policies, and procedures.\"",
+            "Obligation:9 \"Policy Development and Maintenance**: Formulate and keep up-to-date comprehensive policies and procedures for credentials management that comply with regulatory requirements and best practices.\"",
+            "Obligation:10 \"Reporting Obligations**: Understand and adhere to any reporting obligations to regulatory authorities in the event of a security incident or breach involving credentials.\"",
+            "Obligation:11 \"Infrastructure Security**: Secure the infrastructure used for managing credentials against cyber threats with appropriate security measures like firewalls and intrusion detection/prevention systems.\"",
+            "Obligation:12 \"Documentation and Record-Keeping**: Keep detailed records of all credential management activities, including the issuance, rotation, and revocation of credentials, to support compliance during audits or regulatory reviews.\"",
+            "Obligation:13 \"Risk Management**: Integrate credential management into the organization's risk management framework to assess and mitigate risks associated with credential compromise.\""
+        ]
+    },
+    {
+        "ID": "d0b4386e-8a8d-4df7-bea0-2587f9156c1e",
+        "PassageID": "53)",
+        "Passage": "API REQUIREMENTS\nCredentials management\nWhere authentication processes are handed off or redirected to other sites or apps, the technical processes should avoid the potential for disclosure or interception of the credentials. The organisation should also maintain the ability for the user to verify the authenticity of the site into which they are entering their credentials such as displaying the relevant URL and lock icon that they are interacting with.\n",
+        "Obligations": [
+            "Obligation:1 \"Secure Authentication Handling:**\n   - Implement secure methods for handling authentication during handoffs or redirections to other sites or apps, using secure communication protocols such as HTTPS and OAuth.\"",
+            "Obligation:2 \"Protection Against Interception:**\n   - Employ encryption and secure communication protocols to protect against the interception of credentials.\"",
+            "Obligation:3 \"User Verification:**\n   - Enable users to verify the authenticity of the site or app by displaying the correct URL and ensuring a visible security indicator, such as a lock icon for SSL/TLS connections.\"",
+            "Obligation:4 \"User Education:**\n   - Inform and educate users on verifying the authenticity of the site or app and the security of their credentials, potentially through user guides, FAQs, or during the authentication process.\"",
+            "Obligation:5 \"Monitoring, Testing, and Security Assessments:**\n   - Regularly monitor and test authentication processes for vulnerabilities.\n   - Conduct security assessments and audits to ensure compliance with regulations.\"",
+            "Obligation:6 \"Compliance with Standards and Regulations:**\n   - Adhere to relevant security standards and best practices, such as OWASP, ISO/IEC 27001, and ADGM's data protection regulations.\n   - Stay updated with regulatory changes to ensure ongoing compliance.\"",
+            "Obligation:7 \"Incident Response Plan:**\n   - Develop and maintain an incident response plan for security incidents, particularly those involving the exposure of user credentials.\"",
+            "Obligation:8 \"Documentation and Record-Keeping:**\n   - Maintain detailed records of authentication processes, security measures, and any changes made for auditing and compliance demonstration purposes.\"",
+            "Obligation:9 \"Regulatory Reporting:**\n   - Comply with reporting obligations to regulatory bodies like ADGM in the event of security incidents or breaches involving user credentials.\n\nBy following these consolidated action items, your organization will be better equipped to protect user credentials and meet the regulatory requirements related to API credential management within the ADGM framework.\""
+        ]
+    },
+    {
+        "ID": "d0bdb6d8-5e2a-4f92-a273-01293b86e47e",
+        "PassageID": "54)",
+        "Passage": "API REQUIREMENTS\nMonitor API activity\nThe security of an API is only as good as the organisation’s day-to-day security processes. All APIs should be monitored for unusual behaviour such as changes in IP addresses or users using APIs at unusual times of the day.\n",
+        "Obligations": [
+            "Obligation:1 \"Implement Monitoring Systems**: Set up real-time systems to monitor API usage, detect, and log activities such as request numbers, access patterns, and response times.\"",
+            "Obligation:2 \"Analyze Access Patterns and Logs**: Regularly review and analyze access patterns and logs for anomalies, including new or unexpected IP addresses and atypical usage times.\"",
+            "Obligation:3 \"Set Up Alerts**: Configure automated alerts for unusual activities, such as traffic spikes, failed login attempts, or requests from blacklisted IPs.\"",
+            "Obligation:4 \"Maintain Logs and Records**: Keep detailed logs of all API activities, including timestamps, user IDs, IP addresses, endpoints accessed, and request nature, as well as maintain records for monitoring data and incident reports.\"",
+            "Obligation:5 \"Conduct Regular Audits and Analysis**: Perform audits of the API monitoring logs and analyze the logs to identify security issues, policy violations, or repeated security incidents.\"",
+            "Obligation:6 \"User Authentication and Authorization**: Implement and verify strong authentication and authorization mechanisms to ensure only legitimate users can access the API.\"",
+            "Obligation:7 \"Develop and Maintain an Incident Response Plan**: Create and update an incident response plan for addressing security incidents from API misuse or attacks, including notification procedures and mitigation steps.\"",
+            "Obligation:8 \"Compliance Reporting and Documentation**: Report on monitoring activities and incidents as required by regulatory authorities and document processes and incidents for compliance verification.\"",
+            "Obligation:9 \"Review and Update Security Measures and Processes**: Continuously assess and enhance API security measures and processes to address new threats and ensure compliance with best practices and regulatory requirements.\"",
+            "Obligation:10 \"Staff Training and Awareness**: Train staff responsible for API security on the latest threats, mitigation strategies, and monitoring procedures, ensuring they recognize signs of unusual activity and know how to respond appropriately.\n\nRemember to tailor these action items to fit the specific regulatory framework of the Abu Dhabi Global Market (ADGM) or any other relevant jurisdiction and consult with the ADGM Financial Services Regulatory Authority (FSRA) or a compliance professional to ensure all regulatory requirements are met.\""
+        ]
+    },
+    {
+        "ID": "93a52fcc-2f92-4654-852c-15fb3d5a2e46",
+        "PassageID": "55)",
+        "Passage": "API REQUIREMENTS\nMonitor API activity\nIt is recommended that the ability to write audit logs before and after security related events is in place as this increases the potential to monitor and detect attacks.\n",
+        "Obligations": [
+            "Obligation:1 \"Implement Audit Logging:**\n   - Develop and deploy mechanisms to create audit logs for security-related events, capturing both successful and unsuccessful API access attempts, changes to API configurations, and other relevant security events.\n   - Ensure that logs are generated both before and after such events to capture the full context.\"",
+            "Obligation:2 \"Monitor API Activity:**\n   - Regularly review the audit logs to monitor for any unusual or unauthorized API activity.\n   - Use automated tools to help detect patterns that may indicate a security incident or attack.\n   - Set up alerts for certain types of events or anomalies that could indicate security issues.\"",
+            "Obligation:3 \"Incident Detection and Response:**\n   - Establish a process for identifying and classifying security incidents that may be detected through API activity monitoring.\n   - Create an incident response plan that includes procedures for responding to security events detected through API monitoring.\n   - Ensure that there is a clear reporting line for escalating security incidents within your organization.\"",
+            "Obligation:4 \"Compliance Documentation and Reporting:**\n   - Maintain records of your monitoring activities and incident response procedures to demonstrate compliance with relevant ADGM regulations.\n   - Maintain these logs in a secure and compliant manner, adhering to any relevant data protection and privacy laws.\n   - Be prepared to provide these logs to regulatory authorities if required during an investigation or as part of regular compliance checks.\"",
+            "Obligation:5 \"Continuous Improvement:**\n   - Regularly review and update your monitoring and audit log practices to ensure they remain effective and compliant with evolving regulations and standards.\n   - Conduct regular audits of your API monitoring and logging practices to ensure they are effective and to identify areas for improvement.\"",
+            "Obligation:6 \"Regulatory Alignment:**\n   - Consider the relevant ADGM regulations such as the Data Protection Regulations and other cybersecurity guidelines that may indirectly require such monitoring practices.\n   - Always ensure to stay updated with the latest ADGM regulations and guidelines as they may evolve to include more explicit requirements regarding API monitoring and cybersecurity.\"",
+            "Obligation:7 \"Retention Policy and Access Control:**\n   - Establish a log retention policy that specifies how long audit logs will be kept, balancing the need for historical data with storage considerations and compliance with legal or regulatory requirements.\n   - Restrict access to the audit logs to authorized personnel only to maintain the integrity and confidentiality of the logged data.\""
+        ]
+    },
+    {
+        "ID": "8e35f640-5755-424a-93d3-d2520620dd5c",
+        "PassageID": "56)",
+        "Passage": "API REQUIREMENTS\nMonitor API activity\nLarger organisations should also look to create a Security Operations Centre (SOC) dedicated to monitoring, assessing and defending enterprise information systems such as APIs, web sites, applications, data servers, networks, hardware and software.\n",
+        "Obligations": [
+            "Obligation:1 \"Implement API Activity Monitoring:**\n   - Set up systems and processes for continuous monitoring of API activities.\n   - Track and log all API calls, including authentication attempts, data access, changes, and anomalies.\n   - Detect unauthorized access, data breaches, and security incidents in real-time.\n   - Maintain detailed logs for auditing and investigation.\"",
+            "Obligation:2 \"Establish a Security Operations Centre (SOC):**\n   - Create a SOC for larger organizations to handle security issues.\n   - Equip the SOC with technology and staff to monitor, assess, and defend against cybersecurity threats.\n   - Ensure SOC oversees the security of the entire digital infrastructure, including APIs, websites, applications, servers, networks, and hardware/software components.\"",
+            "Obligation:3 \"Develop and Maintain an Incident Response Plan:**\n   - Outline procedures for responding to security incidents.\n   - Include containment and mitigation actions, recovery strategies, and post-incident analysis.\n   - Establish notification procedures for internal and external parties as required by regulations.\"",
+            "Obligation:4 \"Ensure Compliance with ADGM Regulations:**\n   - Align monitoring activities and SOC operations with ADGM's data protection and cybersecurity regulations.\n   - Prepare to demonstrate compliance through documentation and evidence of monitoring activities.\"",
+            "Obligation:5 \"Conduct Regular Audits and Assessments:**\n   - Perform audits and assessments of API monitoring systems and SOC.\n   - Address identified gaps or weaknesses promptly.\"",
+            "Obligation:6 \"Train Staff and Promote Awareness:**\n   - Educate staff on API security and monitoring procedures.\n   - Ensure SOC personnel are capable of identifying and responding to cybersecurity incidents.\"",
+            "Obligation:7 \"Fulfill Reporting Obligations:**\n   - Understand and comply with reporting requirements to the ADGM Financial Services Regulatory Authority (FSRA) in case of significant incidents or breaches.\"",
+            "Obligation:8 \"Engage in Continuous Improvement:**\n   - Regularly review and update monitoring strategies, SOC capabilities, and incident response plans.\n   - Adapt to new threats and evolving regulatory requirements.\"",
+            "Obligation:9 \"Seek Legal or Compliance Advice:**\n   - Consult the ADGM regulations or a compliance professional for tailored advice to ensure full compliance with regulatory obligations.\""
+        ]
+    },
+    {
+        "ID": "99cecdd7-af58-4fd5-817c-49d5f54c938e",
+        "PassageID": "57)",
+        "Passage": "API REQUIREMENTS\nError handling\nAll responses to errors should use the commonly used HTTP codes and should not reveal details of the failure unnecessarily as this may provide unintended attack vectors for bad actors.\n\n",
+        "Obligations": [
+            "Obligation:1 \"Implement Standard HTTP Status Codes**: Ensure that your API uses standard HTTP status codes to indicate the nature of errors (e.g., 400, 401, 403, 404, 500).\"",
+            "Obligation:2 \"Avoid Disclosing Sensitive Information**: Error messages should not reveal sensitive details that could aid potential attackers.\"",
+            "Obligation:3 \"Maintain Security Measures**: Implement and maintain robust security measures to protect your API from cyber threats.\"",
+            "Obligation:4 \"Establish Logging Practices**: Set up secure logging mechanisms to record errors for internal review while safeguarding sensitive information.\"",
+            "Obligation:5 \"Adhere to Data Protection Laws**: Ensure that error handling complies with data protection regulations, avoiding the exposure of personal data.\"",
+            "Obligation:6 \"Develop an Incident Response Plan**: Create and maintain a plan for managing incidents resulting from API errors, including communication and mitigation strategies.\"",
+            "Obligation:7 \"Conduct Regular Audits and Testing**: Perform routine security testing and compliance audits for your API's error handling processes.\"",
+            "Obligation:8 \"Provide Clear Documentation**: Offer comprehensive documentation for developers regarding your API's error handling procedures, emphasizing the non-disclosure of unnecessary details.\"",
+            "Obligation:9 \"Ensure Consistency in Error Responses**: Standardize the format of error responses across your API for predictable client-side handling.\"",
+            "Obligation:10 \"Implement Monitoring and Alerting Systems**: Set up monitoring for error occurrences and establish alerting protocols for timely response by relevant personnel.\"",
+            "Obligation:11 \"Maintain Compliance Documentation**: Keep thorough documentation demonstrating adherence to error handling regulations, including design and policy documents.\"",
+            "Obligation:12 \"Align with ADGM Regulations**: Verify that all error handling practices comply with the Abu Dhabi Global Market (ADGM) Financial Services Regulatory Authority (FSRA) guidelines and regulations.\n\nRemember to consult the full ADGM regulations or seek advice from a compliance professional to ensure comprehensive compliance with all relevant requirements.\""
+        ]
+    },
+    {
+        "ID": "8f2d6ed9-f3a0-4c87-9abc-93c720355393",
+        "PassageID": "58)",
+        "Passage": "API REQUIREMENTS\nData\nTo enable the interoperability of APIs at all levels (whether among systems, sectors, or geographies), the adoption of common data standards is necessary. Open data standards and ontologies provide a reference point that enables two parties to share data and information in a way that ensures understanding is preserved and the meaning can be conveyed.\nTo that end organisations should adopt international open data standards and ontologies when providing an API in order to ensure maximum interoperability.\n",
+        "Obligations": [
+            "Obligation:1 \"Adopt and Implement Open Data Standards**: Ensure that the data shared through your APIs adheres to widely recognized open data standards for consistency and predictability in data sharing.\"",
+            "Obligation:2 \"Utilize Ontologies**: Implement structured frameworks for data, defining the relationships between different data elements to preserve the meaning of data when shared.\"",
+            "Obligation:3 \"Ensure API Interoperability**: Design APIs to be compatible with other systems, sectors, or geographies, allowing for seamless communication and operation.\"",
+            "Obligation:4 \"Align with International Best Practices**: Adopt open data standards and ontologies that are in accordance with standards set by international bodies such as W3C, ISO, or other relevant organizations.\"",
+            "Obligation:5 \"Provide Clear Documentation**: Offer accessible and clear documentation for your APIs that outlines the implementation of open data standards and ontologies.\"",
+            "Obligation:6 \"Conduct Regular Updates and Maintenance**: Keep your API and its documentation current with the latest open data standards and ontologies to maintain interoperability.\"",
+            "Obligation:7 \"Implement Data Governance and Security**: Manage and secure data appropriately through data governance policies and comply with relevant data protection regulations.\"",
+            "Obligation:8 \"Monitor Compliance**: Regularly monitor your API's adherence to these requirements and be prepared to demonstrate compliance to regulatory authorities.\"",
+            "Obligation:9 \"Adhere to Regulatory Frameworks**: Ensure that your practices are in line with ADGM regulations or other relevant authorities, including technical standards, privacy regulations, and security protocols.\"",
+            "Obligation:10 \"Facilitate Training and Awareness**: Educate your team on the importance of open data standards and ontologies and how to implement them in API development and maintenance.\"",
+            "Obligation:11 \"Establish Monitoring and Reporting Mechanisms**: Set up systems to continuously check for compliance with these standards and report to regulatory bodies as necessary.\n\n*Note: It is crucial to consult the full regulatory framework or guidelines issued by the ADGM or seek legal advice to ensure comprehensive compliance with all relevant requirements.*\""
+        ]
+    },
+    {
+        "ID": "fe6b58fc-14fb-46e4-a790-902c6dae6498",
+        "PassageID": "59)",
+        "Passage": "API REQUIREMENTS\nData\nTo enable the interoperability of APIs at all levels (whether among systems, sectors, or geographies), the adoption of common data standards is necessary. Open data standards and ontologies provide a reference point that enables two parties to share data and information in a way that ensures understanding is preserved and the meaning can be conveyed.\nFor more detailed information on appropriate data standards please see Appendix D.\n",
+        "Obligations": [
+            "Obligation:1 \"Adopt Common Data Standards**: Implement common data standards in API development to ensure data can be shared and understood across different systems, sectors, or geographies.\"",
+            "Obligation:2 \"Ensure Interoperability**: Design APIs to be interoperable, allowing for effective communication and functionality with other systems.\"",
+            "Obligation:3 \"Reference Open Data Standards and Ontologies**: Utilize open data standards and ontologies to maintain the meaning and understanding of shared data.\"",
+            "Obligation:4 \"Consult Appendix D**: Review Appendix D of the regulatory document for detailed information on the data standards required.\"",
+            "Obligation:5 \"Implement Standards**: Apply the standards and requirements outlined in Appendix D within your API development and data sharing processes.\"",
+            "Obligation:6 \"Ensure Compliance**: Verify that your API and data handling practices are in line with the standards set out in the regulatory framework and Appendix D.\"",
+            "Obligation:7 \"Maintain Documentation**: Keep clear and thorough documentation of API specifications and adherence to the prescribed data standards.\"",
+            "Obligation:8 \"Conduct Ongoing Reviews and Updates**: Periodically review and update your API and data standards practices to align with any changes in regulatory requirements.\"",
+            "Obligation:9 \"Training and Awareness**: Educate your team on the importance of these standards and the correct implementation within your systems.\n\nNote: The above action items are based on the assumption that you are operating under the jurisdiction of the ADGM or a similar regulatory body. Always refer to the full regulatory text for complete and accurate obligations and consider consulting with a compliance officer or legal advisor for full compliance.\""
+        ]
+    },
+    {
+        "ID": "80da3194-e8d1-4571-a0d2-1c3f89d69349",
+        "PassageID": "60)",
+        "Passage": "API REQUIREMENTS\nAPI Governance\nBusiness failures have often arisen as a result of the lack of adequate technology-related procedures, including, for example, lack of security measures, systems development methodologies, limited system penetration testing for operating a robust business, and lack of technical leadership and management. The FSRA has therefore included specific Guidance regarding expected controls and processes to help mitigate these issues.\n",
+        "Obligations": [
+            "Obligation:1 \"Implement Adequate Security Measures**: Establish and maintain security protocols for systems and APIs, including encryption, access controls, secure authentication mechanisms, and regular security audits.\"",
+            "Obligation:2 \"Adopt Systems Development Methodologies**: Utilize established frameworks and best practices for systems and API development life cycle management.\"",
+            "Obligation:3 \"Conduct System Penetration Testing**: Perform regular penetration testing to identify and address vulnerabilities in systems and APIs.\"",
+            "Obligation:4 \"Ensure Technical Leadership and Management**: Have competent technical leadership to oversee technology functions and make informed decisions regarding technology risks and alignment with business strategy.\"",
+            "Obligation:5 \"Maintain Documentation and Records**: Develop, maintain, and regularly review comprehensive documentation of technology-related procedures, controls, and governance practices.\"",
+            "Obligation:6 \"Compliance with Relevant Regulations and Guidance**: Adhere to FSRA guidance, data protection laws, AML requirements, and any other relevant industry standards and regulations.\"",
+            "Obligation:7 \"Risk Management Framework**: Implement and maintain a risk management framework to regularly assess and mitigate technology risks.\"",
+            "Obligation:8 \"Reporting and Accountability**: Establish clear reporting lines and define roles and responsibilities for technology governance, including managing and reporting on technology-related risks and controls.\"",
+            "Obligation:9 \"Business Continuity and Disaster Recovery**: Have business continuity plans and disaster recovery procedures in place for maintaining operations during technology failures or cyber incidents.\"",
+            "Obligation:10 \"Regulatory Engagement**: Maintain open communication with the FSRA, report significant technology-related issues, and stay informed about regulatory changes.\"",
+            "Obligation:11 \"Regular Review and Update**: Continuously review and update technology and API governance practices to reflect changes in technology, threats, and regulatory expectations.\"",
+            "Obligation:12 \"Training and Awareness**: Provide training to staff on the importance of technology and API governance and their roles in compliance.\"",
+            "Obligation:13 \"Incident Response Plan**: Develop and maintain an incident response plan for addressing security breaches or failures in systems and APIs.\""
+        ]
+    },
+    {
+        "ID": "336cc6b9-d8a5-4dd9-9c65-16440a184add",
+        "PassageID": "61)",
+        "Passage": "API REQUIREMENTS\nVersion control\nVersioning and change control is very important and needs to be managed effectively. As such, organisations should have formalised policies and procedures in respect of the following where relevant:\n-\trelease numbers for all major and minor releases\n-\tbackwards compatibility for all API changes\n-\tsupport for technology developers for major API versions for a specified period\n-\tescalation path for when vulnerabilities come to light\n-\tmake a new endpoint available for significant changes\n",
+        "Obligations": [
+            "Obligation:1 \"Establish Formalized Policies and Procedures**: Document and maintain formal policies and procedures for versioning and change control of APIs as part of the organization's governance framework.\"",
+            "Obligation:2 \"Assign Version Release Numbers**: Assign and document release numbers for all major and minor API releases to track changes and manage versions effectively.\"",
+            "Obligation:3 \"Maintain Backwards Compatibility**: Ensure that updates or modifications to APIs do not disrupt existing integrations, maintaining compatibility with previous versions.\"",
+            "Obligation:4 \"Provide Defined Support for Technology Developers**: Offer support for major API versions for a specified period, including documentation, technical assistance, bug fixes, and security patches.\"",
+            "Obligation:5 \"Create an Escalation Path for Vulnerabilities**: Develop a clear process for reporting, assessing, and addressing security vulnerabilities in APIs in a timely manner.\"",
+            "Obligation:6 \"Introduce New Endpoints for Significant Changes**: Make new endpoints available when significant changes to the API are implemented, allowing for a smooth transition and reduced service disruption.\"",
+            "Obligation:7 \"Integrate Requirements into Risk Management and IT Governance**: Ensure that these obligations are part of the overall risk management and IT governance frameworks to maintain compliance with regulatory expectations.\"",
+            "Obligation:8 \"Stay Informed on Regulatory Requirements**: Keep up to date with the latest regulatory requirements and best practices in API management within the relevant jurisdiction.\""
+        ]
+    },
+    {
+        "ID": "651f0ae4-2893-4edc-85c4-b86a7b8f7b98",
+        "PassageID": "62)",
+        "Passage": "API REQUIREMENTS\nVersion control\nIf, however, for some reason the change is not backwards compatible, then the organisation must consider:\n•\tIncrementing a version number in the URL (start with /v1/ and increment with whole numbers).\n\n•\tSupporting both old and new endpoints in parallel for a suitable time period before discontinuing the old one.\n",
+        "Obligations": [
+            "Obligation:1 \"Incrementing Version Number**:\n   - Increment the API version number in the URL when introducing non-backwards compatible changes, starting with /v1/ and moving to /v2/, /v3/, etc., for major versions.\"",
+            "Obligation:2 \"Supporting Multiple Endpoints**:\n   - Maintain support for both old and new API endpoints simultaneously for a suitable transition period.\"",
+            "Obligation:3 \"Transition Period**:\n   - Provide a reasonable transition period for users to adapt to the new API version, with the duration determined using sound judgment.\"",
+            "Obligation:4 \"Communication and Transition Planning**:\n   - Communicate upcoming API changes, new version releases, and old version deprecation schedules to users in advance.\n   - Offer clear documentation and migration guides to facilitate user transition.\n   - Inform users about the discontinuation of old endpoints following the transition period.\"",
+            "Obligation:5 \"Documentation**:\n   - Keep API documentation up to date, clearly indicating the relevant version for each set of documentation.\"",
+            "Obligation:6 \"Compliance and Monitoring**:\n   - Monitor the usage of both API versions during the transition to ensure users are migrating as expected.\n   - Ensure all changes and version control practices comply with ADGM regulations and other relevant guidelines.\n   - Consult with a compliance officer or legal advisor to ensure full compliance with ADGM regulations.\"",
+            "Obligation:7 \"Version Control System**:\n   - Implement a version control system to manage API changes and maintain service continuity.\n\nRemember to cross-reference these action items with ADGM's actual regulatory requirements and consult with the ADGM Financial Services Regulatory Authority (FSRA) or a compliance professional for a comprehensive understanding of regulatory obligations.\""
+        ]
+    },
+    {
+        "ID": "51125120-d2b1-43f9-8e10-93e3514dc002",
+        "PassageID": "63)",
+        "Passage": "API REQUIREMENTS\nDepreciation policies\nClear API depreciation policies should be in place so old client applications are not unnecessarily supported.\n",
+        "Obligations": [
+            "Obligation:1 \"Policy Development**: \n   - Formulate and document a clear policy that outlines the criteria and process for API deprecation.\n   - Ensure the policy is comprehensive, understandable, and includes criteria such as economic viability, security standards, and replacement by newer versions.\"",
+            "Obligation:2 \"Communication**:\n   - Develop a communication strategy to inform all stakeholders about the policy and any planned deprecations.\n   - Provide advance notice to clients to allow for necessary adjustments.\"",
+            "Obligation:3 \"Version Management**:\n   - Implement and maintain a versioning strategy that clearly labels current and deprecated API versions.\n   - Ensure documentation is up to date and accessible.\"",
+            "Obligation:4 \"Support and Transition**:\n   - Define a reasonable support period for older API versions.\n   - Provide tools, documentation, and direct support to assist clients in migrating to newer versions.\"",
+            "Obligation:5 \"Impact Assessment and Risk Management**:\n   - Assess the impact of API deprecation on clients and your own operations.\n   - Include API deprecation in the risk management framework.\"",
+            "Obligation:6 \"Monitoring Compliance**:\n   - Monitor adherence to the API deprecation policy within the organization.\n   - Ensure deprecated APIs are not supported beyond communicated timelines.\"",
+            "Obligation:7 \"Regulatory Notifications and Compliance**:\n   - Notify relevant authorities, such as ADGM, of significant API infrastructure changes.\n   - Ensure API deprecation policies comply with ADGM regulations and broader operational risk management requirements.\"",
+            "Obligation:8 \"Record-Keeping**:\n   - Maintain records of API deprecations, communications, and decision-making processes.\"",
+            "Obligation:9 \"Review and Update**:\n   - Regularly review and update the API deprecation policy to reflect technological advancements, changes in regulatory requirements, and stakeholder feedback.\"",
+            "Obligation:10 \"Consultation**:\n    - Consult with the ADGM Financial Services Regulatory Authority (FSRA) or a compliance professional to ensure alignment with regulatory expectations and requirements.\""
+        ]
+    },
+    {
+        "ID": "1ae5b062-1853-4106-a22c-9c6eae782a88",
+        "PassageID": "64)",
+        "Passage": "API REQUIREMENTS\nDepreciation policies\nThe time by which users/consumers have to upgrade, and how they will be notified of these deadlines should be clearly stated.\n\n",
+        "Obligations": [
+            "Obligation:1 \"Develop and Document Depreciation Policies:**\n   - Create formal policies outlining the lifecycle, conditions for obsolescence, and support end for APIs.\"",
+            "Obligation:2 \"Set and Communicate Notification Period:**\n   - Define a reasonable timeframe for users to upgrade or migrate and clearly communicate this period.\"",
+            "Obligation:3 \"Establish Notification Methods:**\n   - Determine how users will be informed about deadlines, such as through emails, API service alerts, website announcements, or customer service channels.\"",
+            "Obligation:4 \"Provide Documentation and Support:**\n   - Make depreciation policies, timelines, and migration guides easily accessible. Offer technical support and resources to assist users during the transition.\"",
+            "Obligation:5 \"Monitor Compliance:**\n   - Implement procedures to ensure adherence to depreciation policies by both your organization and the users.\"",
+            "Obligation:6 \"Implement Feedback Mechanisms:**\n   - Set up channels for users to provide feedback or ask questions regarding the depreciation process.\"",
+            "Obligation:7 \"Plan for Non-Compliance Contingencies:**\n   - Prepare for scenarios where users fail to upgrade before the deadline, such as offering temporary extended support or limited functionality.\"",
+            "Obligation:8 \"Ensure Regulatory Alignment:**\n   - Verify that depreciation policies are in line with relevant regulations, such as those from the ADGM, and update them as necessary to remain compliant.\"",
+            "Obligation:9 \"Maintain Records:**\n   - Keep detailed records of all communications and actions related to the API depreciation policy for compliance and auditing purposes.\"",
+            "Obligation:10 \"Review and Update Policies Regularly:**\n    - Periodically reassess and revise the depreciation policy to reflect technological, business, and regulatory changes.\""
+        ]
+    },
+    {
+        "ID": "89dcb03c-8bfd-4187-8b07-1a7ea8fae436",
+        "PassageID": "APPENDIX",
+        "Passage": "",
+        "Obligations": []
+    },
+    {
+        "ID": "62841d16-8143-4093-b229-4fdbcb6f8a01",
+        "PassageID": "APPENDIX.Appendix A:",
+        "Passage": "API Design Comparison",
+        "Obligations": []
+    },
+    {
+        "ID": "3d8739a4-cb1c-4166-bde2-947b01877ea5",
+        "PassageID": "APPENDIX.Appendix A:.65)",
+        "Passage": "The following table describes the main differences between the SOAP and REST API design styles.\n\n/Table Start\nSOAP\tREST\nSOAP is function driven and focuses on exporting pieces of application ‘logic’ rather than data. It relies exclusively on XML to provide messaging services.\tREST is data driven and is focused on accessing named ‘resources’ (which represent data or an object) through a single consistent interface.\nSOAP uses a Web Service Definition Language (WSDL) that describes the functionality offered by a web service for communication between the consumer and provider.\tMost Web services using REST can obtain the needed information using a URL.\n\nREST uses four standard HTTP operations (GET, POST, PUT, and DELETE) to perform tasks on the resources.\nSOAP only permits output in XML.\tREST can output data in many different data formats e.g. XML, Comma Separated Values (CSV and JavaScript Object Notation (JSON).\nSOAP has successful/retry logic built in.\tThere is no inbuilt ‘re-try’; the client has to re-try if the process fails, as REST is stateless.\nSOAP is good for:\n•\tEnterprise services\n•\tHigh reliability and security\n•\tAsynchronous processing\n•\tLarge data sets\n•\tInteracting with legacy systems\tREST is good for:\n•\tWeb services\n•\tLimited bandwidth (smaller messaging sizes)\n•\tLimited resources (no XML parsing required)\n•\tExposing data over the internet\n•\tCombining content from many different sources\nCommon use cases:\n•\tFinancial services\n•\tPayment gateways\n•\tTelecommunication services\tCommon use cases:\n•\tSocial media services\n•\tSocial networks\n•\tWeb chat services\n•\tMobile service\n\n/Table End\n",
+        "Obligations": []
+    },
+    {
+        "ID": "16b46b22-7a38-477a-b2af-aca84f33d5ff",
+        "PassageID": "APPENDIX.Appendix B:",
+        "Passage": "API Standards",
+        "Obligations": []
+    },
+    {
+        "ID": "5a9976c3-ba32-4119-b214-1d33fef24b04",
+        "PassageID": "APPENDIX.Appendix B:.66)",
+        "Passage": "The following describes the standards that should be applied when building APIs.\n/Table Start\nArea/Subject\tStandard\nPublishing of technical, engagement details and data dictionary\tAt a high level the API provider should provide the API documentation and a data dictionary. Code samples, tutorials and a software development kit (SDKs) should also be provided. Documentation and definitions should be in line with industry practices outlined in the Open API Specification (Swagger), the RESTful API Modelling Language specifications (RAML), or the Web Service Definition Language (WSDL) for SOAP APIs.\nAPI architecture/Communication Protocols\n(i.e. the code to call the API)\tRESTful (Representational State Transfer) or SOAP (Simple Object Access Protocol) depending on the use case. Firms should provide for conversion of SOAP to REST or vice versa if relevant.\nMessage/Data format\n(i.e. how the API response/payload will be provided)\tJSON (JavaScript Object Notation) or XML (eXtensible Markup Language) depending on the use case.\nWith field names based on ISO 20022 where relevant.\nTransmission of data\tHTTPS & TLS v1.2 (Transport Layer Security)\nOnboarding of customer onto service\tusername/password and two-factor authentication where appropriate\nAuthorisation\tOAuth 2.0\nN.B RESTful API calls with the HTTPS protocol should use a session-based authentication using OAuth 2.0 and JSON web tokens (JWT)\nAuthentication\tSAML 2.0 or  OpenID\n\nEncryption\tAES, RS, SHA 256-bit where relevant depending on the use case\n\n/Table End\n",
+        "Obligations": []
+    },
+    {
+        "ID": "3a463226-f0a6-41fe-9079-ab2854ec5c3b",
+        "PassageID": "APPENDIX.Appendix C:",
+        "Passage": "Technology Standards",
+        "Obligations": []
+    },
+    {
+        "ID": "8e312de5-ac99-4afd-b9b1-1b48f5404d09",
+        "PassageID": "APPENDIX.Appendix C:.67)",
+        "Passage": "The following is a list of European and International standards, where available, that should be considered when building APIs.\n/Figure Start\nThis is a complex table that appears to be a framework or reference guide mapping various standards and regulations across multiple domains in the technology and business process landscape. The table is organized into three main sections: CoE Domains, Cross-Domain Services, and Base Technology Domain.\n\nIn the CoE Domains section, specific areas like RegTech, Trading, Infrastructure, Business/Process Domain (subdivided into Payments, Finance, Funding, Insurance), Identity, Asset, Integration/Management Domain, Reporting, Predictive Analytics, and Immutable Contract are listed, each with associated standards like various ISO/IEC numbers, EN standards, and CEN/TS identifiers.\n\nThe Cross-Domain Services section includes IT Security Techniques, IT Security and Data protection, Security, Anti-Fraud, Risk, Operation, Governance, and IT Governance, along with corresponding standards and best practice references.\n\nLastly, the Base Technology Domain section encompasses Data/Analysis, Cloud-based, Programming Language, Instrumentation and IOT, and Robotics/AI, with their relevant standards listed below each.\n\nThe table is color-coded to differentiate between the domains, and the standards are detailed with a mixture of ISO, EN, CEN/TS, and CWA numbers. Some cells contain dashes, indicating either the absence of a standard or that the field is not applicable.\n\nThis table serves as a comprehensive index for professionals to navigate through a variety of standards applicable to different aspects of their work in technology and business processes.\n/Figure End\n",
+        "Obligations": []
+    },
+    {
+        "ID": "966e38bd-88cf-4e05-9411-3ff3764b5c0c",
+        "PassageID": "APPENDIX.Appendix D:",
+        "Passage": "Data Standards",
+        "Obligations": []
+    },
+    {
+        "ID": "18ab23fa-10bc-4f3b-adbe-18383f43ba9d",
+        "PassageID": "APPENDIX.Appendix D:.68)",
+        "Passage": "The following describes some of the international data standards that should be applied where relevant for APIs in order to ensure interoperability.\n/Table Start\nOpen data standard/Ontology\tArea/Use\nFinancial Industry Business Ontology (FIBO) https://www.omg.org/hot-topics/finance.htm\nDefines financial industry terms, definitions and synonyms using semantic web principles such as OWL/RDF and widely adopted OMG modeling standards such as UML. Providing a means for integrating disparate technical systems and message formats, and aid in regulatory reporting by providing clear and unambiguous meaning of data from authoritative sources.\nFinancial Industry Regulatory Ontology (FIRO) https://github.com/GRCTC/FIRO\nFIRO is a series of interlinked Ontologies based on industry standards to capture regulatory imperatives and rules in formal semantics. It will enable efficient access to, and smarter consumption of, the wide and complex spectrum of financial services industry regulations.\nFinancial Regulatory Data Format (FIRE) https://github.com/SuadeLabs/fire\nThe Financial Regulatory data format defines a common specification for the transmission of granular data between regulatory systems (in finance)\nInternational Financial Reporting Standards (IFRS) https://www.ifrs.org/\nProvide a common global language for business affairs so that company accounts are understandable and comparable across international boundaries.\nISO20022\nhttps://www.iso20022.org/\nStandard for electronic data interchange between financial institutions. It describes a metadata repository containing descriptions of messages and business processes, and a maintenance process for the repository content. The standard covers financial information transferred between financial institutions that includes payment transactions, securities trading and settlement information, credit and debit card transactions and other financial information.\neXtensible Business Reporting Language (xBRL) https://www.xbrl.org\nBusiness documents, such as financial statements, performance reports, or compliance reports. The standard formats allow the documents to be transmitted and parsed between entities easily\nStatistical Data and Metadata eXchange (SDMX) https://sdmx.org\nDesigned to describe statistical data and metadata, normalise their exchange, and improve their efficient sharing across statistical and similar organisations.\nOpen Financial Exchange (OFX) http://www.ofx.net\nOpen Financial Exchange is a reference data standard used for exchanging financial data, and performing transactions between financial institutions and underlying applications.\nAssociation for Cooperative Operations Research and Development (ACORD)\nhttps://www.acord.org/standards-architecture/acord-data-standards\nACORD is the global standards-setting body for the insurance and related financial services industries.\nFinancial products Markup Language (FpML) http://www.fpml.org\nFpML is a standard based on XML and used for data exchange for electronic dealing and processing of derivatives instruments like interest rate derivatives, inflation swaps, dividend derivatives and other structured products.\nFinancial Information eXchange (FIX) http://www.fixtradingcommunity.org\nFIX is the standard used for pre-trade and trade messaging across Financial Markets globally. It describes trade-related messages, and used for automated trading of securities, derivative, and other financial instruments.\nMarket Data Definition Language (MDDL) http://xml.coverpages.org/mddl.html\nMDDL enables the exchange of information necessary to account, analyse, and trade financial instruments.\n\n/Table End",
+        "Obligations": []
+    }
+]

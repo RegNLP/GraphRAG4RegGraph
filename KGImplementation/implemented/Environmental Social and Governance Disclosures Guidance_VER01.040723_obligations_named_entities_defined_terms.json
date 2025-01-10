@@ -1,0 +1,285 @@
+[
+    {
+        "ID": "60f3d71d-a67e-48ae-b737-154ebcc69c97",
+        "PassageID": "Definitions",
+        "Passage": "\n\nUnless otherwise defined or the context otherwise requires, the terms contained in this Guidance have the same meanings as defined in the ADGM Companies Regulations 2020.\n\nIn this Guidance, these terms have the following meaning:\n/Table Start\nDefined Term\tMeaning\nADGM\tAbu Dhabi Global Market.\nAUM\tAssets under management.\nCR\tADGM Companies Regulations 2020 as amended or updated from time to time.\nESG\tEnvironmental, social and governance.\nESG Disclosures Framework\tThe ESG disclosures framework set out under Sections 399A to 399D of the CR.\nFSRA\tThe Financial Services Regulatory Authority of the ADGM.\nGuidance\tThis Environmental, Social and Governance Disclosures Guidance, unless the context requires otherwise.\nIAS\t \u2018International accounting standards\u2019 as that term is defined in the Companies Regulations (International Accounting Standards) Rules 2015.\n\nMKT Rulebook\tThe Markets Rulebook issued by the FSRA, as may be amended from time to time.\nRA\tThe Registration Authority of the ADGM.\nThreshold Conditions\tThe conditions in section 399A(2) of the CR that, if satisfied, require compliance with the ESG Disclosures Framework, as further detailed in section 5 below.\n/Table End\n",
+        "Obligations": []
+    },
+    {
+        "ID": "0487a271-74a6-46d7-807c-3eab39adc217",
+        "PassageID": "1.",
+        "Passage": "Introduction\nGuidance overview and application\n\nThis Guidance provides information about the obligations of ADGM limited companies concerning the ESG Disclosures Framework.\nLegal framework\n\nThe relevant ADGM legislation regarding accounts for limited companies is the CR.\n\nThe ADGM\u2019s Regulations and Rules are available on the ADGM website by following this link (https://en.adgm.thomsonreuters.com/).\nImportant information\n\nThe RA cannot give technical or legal advice, it can only give general guidance. Questions concerning a specific company which arise following a review of this Guidance should be directed to appropriately skilled legal or accounting professionals.\n",
+        "Obligations": [
+            "Obligation:1 \"Review Legal and Regulatory Frameworks**:\n   - Familiarize yourself with the ADGM Companies Regulations (CR) and ESG Disclosures Framework.\n   - Regularly review updates to ADGM Regulations and Rules on the ADGM website.\"",
+            "Obligation:2 \"Understand ESG Disclosure Requirements**:\n   - Determine the specific ESG information that must be disclosed, including environmental impact, social responsibility, and governance practices.\"",
+            "Obligation:3 \"Prepare and File ESG Reports**:\n   - Compile necessary ESG information and prepare reports in accordance with the ADGM\u2019s ESG Disclosures Framework.\n   - Submit ESG disclosures and reports to the appropriate ADGM authorities by the required deadlines.\"",
+            "Obligation:4 \"Seek Professional Advice**:\n   - Consult with legal or accounting professionals for assistance in interpreting regulations and preparing disclosures.\"",
+            "Obligation:5 \"Implement Internal Controls and Risk Management**:\n   - Establish internal controls, procedures, and risk management strategies for ongoing compliance and to manage ESG-related risks.\n   - Train staff and set up reporting systems to support these controls.\"",
+            "Obligation:6 \"Maintain Records**:\n   - Keep accurate and comprehensive records of ESG disclosures and related documents.\"",
+            "Obligation:7 \"Ensure Transparency and Accountability**:\n   - Operate transparently regarding ESG matters and be accountable for ESG disclosures.\"",
+            "Obligation:8 \"Stay Informed and Responsive**:\n   - Keep abreast of any changes to the ESG Disclosures Framework or related regulations.\n   - Monitor company activities and update disclosures as necessary to reflect changes or developments.\"",
+            "Obligation:9 \"Promote Training and Awareness**:\n   - Ensure that management and staff understand ESG disclosure obligations and provide training as needed.\n\nBy following these consolidated action items, ADGM limited companies can work towards ensuring compliance with the ESG Disclosures Framework and managing their legal and reputational risks effectively.\""
+        ]
+    },
+    {
+        "ID": "29e455a6-4550-4a6e-a2d7-94ada2de47ac",
+        "PassageID": "2.",
+        "Passage": "Purpose of the ESG Disclosures Framework\n\nThe RA\u2019s ESG Disclosures Framework seeks to encourage good practice by ADGM companies in disclosing applicable information on ESG factors in line with a globally recognised disclosures standard.\n\nThe ESG Disclosures Framework may be applied by all ADGM entities on a voluntary basis.  For in-scope ADGM companies \u2013 being ADGM companies meeting one or more of the Threshold Conditions - the RA has adopted a flexible \u2018comply or explain\u2019 approach to applicable disclosures.  In doing so, ADGM wishes to foster an ecosystem of companies which seek to help play a part in meeting the UAE\u2019s net zero by 2050 strategic initiative by disclosing the impact of their company\u2019s operations on ESG factors.\n\nThe RA will monitor whether the \u2018comply or explain\u2019 approach is effective in achieving the stated outcomes of the ESG Disclosures Framework.  In the future, the RA may decide to impose a mandatory ESG disclosures framework for in-scope entities. Nothing in this Guidance should be interpreted as an assurance that the \u2018comply or explain\u2019 approach will continue in the future.\n\n",
+        "Obligations": [
+            "Obligation:1 \"Assess In-Scope Status**: Determine if your company meets the Threshold Conditions to be classified as an in-scope entity under the ADGM's ESG Disclosures Framework.\"",
+            "Obligation:2 \"Disclosure of ESG Information**: If in-scope, disclose relevant ESG information in accordance with a globally recognized disclosure standard or provide a reasoned explanation if you choose not to disclose.\"",
+            "Obligation:3 \"Adopt Comply or Explain Approach**: For in-scope companies, decide whether to:\n   - **Comply**: Prepare and publish ESG disclosures as per the framework's guidelines.\n   - **Explain**: Provide a transparent explanation detailing the reasons for not disclosing certain ESG information.\"",
+            "Obligation:4 \"Contribute to UAE\u2019s Strategic Initiative**: Participate in the UAE\u2019s net zero by 2050 strategic initiative by disclosing ESG impacts, if applicable.\"",
+            "Obligation:5 \"Monitor Regulatory Changes**: Stay informed about the ADGM RA's monitoring activities and be prepared for potential changes to the ESG Disclosures Framework, including the possibility of mandatory disclosures in the future.\"",
+            "Obligation:6 \"Prepare for Future Requirements**: Understand that the 'comply or explain' approach may not be permanent and anticipate potential mandatory ESG disclosure requirements.\"",
+            "Obligation:7 \"Voluntary Adoption**: If not in-scope, consider voluntarily adopting the ESG Disclosures Framework to enhance your company's reputation and commitment to sustainability.\"",
+            "Obligation:8 \"Stay Informed**: Regularly review updates to the ESG Disclosures Framework and any changes in the Threshold Conditions to ensure ongoing compliance.\""
+        ],
+        "NamedEntities": {
+            "future": "derivative instrument that obligates the buyer to receive and the seller to deliver the assets specified at an agreed price, at some later point in time"
+        }
+    },
+    {
+        "ID": "4b126980-12f0-4e22-a36a-bfcfe99855f3",
+        "PassageID": "3.",
+        "Passage": "Scope of the ESG Disclosures Framework\n\nCompanies established in or continued into ADGM may be within the scope of the ESG Disclosures Framework.  The following entities do not fall within the scope of the ESG Disclosures Framework, either by virtue of not being governed by the CR, or by being expressly exempted from the scope of the ESG Disclosures Framework.\na.\tFoundations.\nb.\tLimited Liability Partnerships.\nc.\tGeneral and Limited Partnerships.\nd.\tRestricted Scope Companies.\ne.\tPublicly listed companies that already make equivalent disclosures in accordance with listing requirements.  For the avoidance of doubt, entities considered \u2018Listed Entities\u2019 or \u2018Reporting Entities\u2019 for the purposes of the FSRA\u2019s MKT Rulebook remain subject to the ESG disclosures requirements set out therein.\nf.\tInvestment Companies.\ng.\tBranches of foreign companies.\n\nHowever, the ESG Disclosures Framework may be applied by all ADGM entities on a voluntary basis.\n",
+        "Obligations": [
+            "Obligation:1 \"Determine Company Scope**: Assess whether your company falls within the exempt categories of the ADGM ESG Disclosures Framework:\n   - Foundations\n   - Limited Liability Partnerships\n   - General and Limited Partnerships\n   - Restricted Scope Companies\n   - Publicly listed companies with equivalent disclosures\n   - Investment Companies\n   - Branches of foreign companies\"",
+            "Obligation:2 \"ESG Disclosures**: If not exempt, prepare and disclose ESG information as per the ADGM requirements.\"",
+            "Obligation:3 \"Compliance with Framework Requirements**: Ensure that your ESG disclosures are in line with the ADGM ESG Disclosures Framework's guidelines.\"",
+            "Obligation:4 \"Record-Keeping**: Maintain accurate records supporting your ESG disclosures for verification and compliance demonstration.\"",
+            "Obligation:5 \"Transparency**: Provide clear and understandable ESG disclosures to stakeholders.\"",
+            "Obligation:6 \"Regular Updates**: Update your ESG disclosures regularly according to the framework's requirements.\"",
+            "Obligation:7 \"Monitoring and Review**: Establish processes for monitoring and reviewing ESG activities and disclosure effectiveness.\"",
+            "Obligation:8 \"Voluntary Application**: If exempt, consider voluntary compliance with the ESG Disclosures Framework.\"",
+            "Obligation:9 \"Review Specific Provisions**: Examine the ADGM's ESG Disclosures Framework for full compliance requirements.\"",
+            "Obligation:10 \"Implement Reporting Mechanisms**: If applicable, set up appropriate mechanisms for ESG reporting.\"",
+            "Obligation:11 \"Listed or Reporting Entities**: If your company is a 'Listed Entity' or 'Reporting Entity' as per the FSRA\u2019s MKT Rulebook, comply with the ESG disclosures requirements regardless of other exemptions.\""
+        ]
+    },
+    {
+        "ID": "6963b293-a008-46b6-b229-09eff7283ebe",
+        "PassageID": "4.",
+        "Passage": "Time to comply\n\nA company incorporated in or continued into ADGM will be required to comply with the ESG Disclosures Framework in the third year following its incorporation or continuance if it satisfies the Threshold Conditions.  The three-year grace period applies from the date of incorporation or continuance as opposed to the date of amendment of the CR to include the ESG Disclosures Framework. This means an existing company may be required to comply in 2023.\n",
+        "Obligations": [
+            "Obligation:1 \"Assess Threshold Conditions**: Verify if your company meets the ADGM's Threshold Conditions for the ESG Disclosures Framework by referring to the relevant regulations or guidelines.\"",
+            "Obligation:2 \"Understand the Framework**: Familiarize yourself with the ESG Disclosures Framework to grasp the disclosure requirements, including environmental, social, and governance information, disclosure formats, and compliance standards.\"",
+            "Obligation:3 \"Prepare for Compliance**: Set up internal processes for data collection, analysis, and reporting, and consider engaging external consultants or auditors if necessary.\"",
+            "Obligation:4 \"Implement ESG Practices**: Integrate necessary ESG practices into your company's operations to ensure accurate and reflective disclosures of your ESG performance.\"",
+            "Obligation:5 \"Disclosure and Reporting**: Compile and present ESG disclosures in accordance with the ADGM's framework guidelines, ensuring completeness and accuracy.\"",
+            "Obligation:6 \"Maintain Records**: Keep detailed records of all data and information that support your ESG disclosures for internal review and potential regulatory audits or inquiries.\"",
+            "Obligation:7 \"Monitor Regulatory Changes**: Stay updated on any changes to the ESG Disclosures Framework and adjust your company's practices and disclosures as needed.\"",
+            "Obligation:8 \"Train Staff**: Ensure that relevant employees are educated about the ESG disclosure requirements through training sessions, workshops, or internal policy development.\"",
+            "Obligation:9 \"Adhere to Deadlines**: Comply with all reporting and disclosure deadlines specified by the ADGM, particularly noting the start of the obligation in the third year after incorporation or continuance.\"",
+            "Obligation:10 \"Seek Professional Advice**: If there is any uncertainty regarding the ESG Disclosures Framework or compliance obligations, obtain professional advice from legal or compliance experts with ADGM specialization.\"",
+            "Obligation:11 \"Continuous Compliance**: Ensure ongoing compliance with the ESG Disclosures Framework by regularly monitoring, updating, and reporting on ESG matters as mandated by ADGM regulations.\"",
+            "Obligation:12 \"Stay Informed**: Keep abreast of any updates or changes to the ESG Disclosures Framework or related guidance issued by ADGM to ensure continued compliance.\""
+        ]
+    },
+    {
+        "ID": "f7c0996c-0cfc-48f2-92f4-a486ce9745cf",
+        "PassageID": "5.",
+        "Passage": "Threshold conditions\n\nA company incorporated in or continued into ADGM will be required to comply with the ESG Disclosures Framework if it satisfies the Threshold Conditions, being either a \u2018turnover\u2019 threshold or an \u2018AUM\u2019 threshold.\n\nThe turnover threshold is reached when a company achieves more than US$ 68 million turnover in a financial year.  The AUM threshold only applies to FSRA-licensed asset management companies which manage funds and/or portfolios with an aggregate value exceeding US$ 6 billion at any time during such financial year.\n\nThe ESG Disclosures Framework does not apply to companies who no longer meet the threshold conditions for two consecutive years or more.  Should the company subsequently meet the threshold conditions in a given year, the ESG Disclosures Framework will once again apply.\n",
+        "Obligations": [
+            "Obligation:1 \"Determine if your company meets the ESG Disclosures Framework thresholds:\n   - Check if the company's turnover exceeds US$ 68 million in a financial year.\n   - Check if the company, as an FSRA-licensed asset management firm, manages funds or portfolios exceeding US$ 6 billion at any point in a financial year.\"",
+            "Obligation:2 \"Prepare and disclose ESG information:\n   - Compile an ESG report detailing the company's environmental impact, social practices, and governance structures.\n   - Ensure ESG disclosures are accurate, comprehensive, clear, and understandable.\n   - Follow the ESG Disclosures Framework's specific reporting standards or guidelines.\"",
+            "Obligation:3 \"Make ESG disclosures publicly available:\n   - Publish ESG disclosures on the company's website or in its annual report.\"",
+            "Obligation:4 \"Maintain records:\n   - Keep documentation that supports the ESG disclosures made.\"",
+            "Obligation:5 \"Submit ESG disclosures to authorities:\n   - Provide the required ESG disclosures to the relevant ADGM authorities within the stipulated timeframes.\"",
+            "Obligation:6 \"Monitor compliance status:\n   - If the company does not meet the thresholds for two consecutive years, note the exemption from the ESG Disclosures Framework.\n   - If the company subsequently meets the thresholds after a period of exemption, resume compliance with the ESG Disclosures Framework.\"",
+            "Obligation:7 \"Report to stakeholders:\n   - Communicate ESG information to stakeholders as required by the framework.\"",
+            "Obligation:8 \"Consult with legal or regulatory advisors:\n   - For a complete understanding of obligations, refer to the actual ESG Disclosures Framework and consider seeking legal advice or consulting with the FSRA.\""
+        ],
+        "NamedEntities": {
+            "funds": "artificial currency used as calculation basis for another currency(s) and accounting purposes"
+        }
+    },
+    {
+        "ID": "db9ea280-81a0-4c21-8c3e-7a2578de44ae",
+        "PassageID": "6.",
+        "Passage": "ESG disclosures by companies - turnover threshold\n\nFor the purposes of the CR, \u2018turnover\u2019 is defined as: the amounts derived from the provision of goods and services falling within a company\u2019s ordinary activities, after the deduction of:\na.\ttrade discounts;\nb.\tvalue added tax; and\nc.\tany other taxes based on the amounts so derived.\n",
+        "Obligations": [],
+        "NamedEntities": {
+            "trade": "situation that realizes an agreement between parties participating in a voluntary action of buying and selling goods and services"
+        }
+    },
+    {
+        "ID": "f3b3380a-cddb-4596-afa3-bb08935ed017",
+        "PassageID": "7.",
+        "Passage": "ESG disclosures by FSRA fund and asset managers \u2013 AUM threshold\n\nThe ESG disclosures by FSRA-licensed fund and asset managers are entity-level disclosures relating to how the FSRA company takes ESG-related risks and opportunities into account in managing or administering assets on behalf of clients.\n",
+        "Obligations": [
+            "Obligation:1 \"Disclose ESG Integration**: Clearly articulate how ESG factors are incorporated into investment decisions and risk management, including strategies, decision-making criteria, and asset management processes.\"",
+            "Obligation:2 \"Develop and Document Policies and Procedures**: Establish and maintain written policies and procedures for identifying, assessing, and managing ESG risks and opportunities.\"",
+            "Obligation:3 \"Ensure Transparency**: Provide clear, understandable, and accessible information to clients about ESG practices, including methods, objectives, and outcomes.\"",
+            "Obligation:4 \"Conduct Regular Reporting**: Periodically update clients and the regulator on ESG-related performance, goals, and any changes in ESG strategies or risk assessments.\"",
+            "Obligation:5 \"Perform Due Diligence**: Carry out due diligence on the ESG performance of managed assets and share findings with clients.\"",
+            "Obligation:6 \"Engage with Clients**: Interact with clients to understand and align with their ESG preferences and investment mandates.\"",
+            "Obligation:7 \"Monitor Compliance**: Implement systems to monitor adherence to ESG policies and procedures.\"",
+            "Obligation:8 \"Provide Training**: Educate staff on ESG issues to ensure effective implementation of ESG strategies.\"",
+            "Obligation:9 \"Maintain Records**: Keep detailed records of ESG risk assessments and decision-making processes.\"",
+            "Obligation:10 \"Ensure Oversight and Governance**: Involve senior management or the board in overseeing ESG risk management.\"",
+            "Obligation:11 \"Align with Standards**: Ensure disclosures and practices comply with recognized ESG reporting standards or frameworks.\"",
+            "Obligation:12 \"Make Regulatory Filings**: Submit necessary filings to the FSRA related to ESG disclosures and practices.\"",
+            "Obligation:13 \"Commit to Continuous Improvement**: Regularly review and update ESG practices and disclosures to stay current with evolving standards and regulations.\"",
+            "Obligation:14 \"Seek Professional Advice or FSRA Guidance**: Consult relevant FSRA regulations, guidelines, or professionals to ensure full compliance with ESG disclosure requirements.\""
+        ],
+        "NamedEntities": {
+            "account": "container for records associated with a business arrangement for regular transactions and services"
+        }
+    },
+    {
+        "ID": "d57cc00c-1000-42c7-95ca-8de08e92bd88",
+        "PassageID": "8.",
+        "Passage": "Calculation of AUM by asset managers and fund managers\n\nAUM should be calculated in accordance with applicable IAS, or such other international accounting standards as may be applicable to such portfolios or funds.\n",
+        "Obligations": [
+            "Obligation:1 \"Adherence to Accounting Standards**: Familiarize with and apply the International Accounting Standards (IAS) or other applicable international accounting standards accurately when calculating AUM.\"",
+            "Obligation:2 \"Consistency**: Apply the same accounting standards and calculation methods consistently over time. Justify and disclose any changes to stakeholders if the method or standards are altered.\"",
+            "Obligation:3 \"Valuation of Assets**: Include all managed assets in the AUM calculation, valuing them fairly and in accordance with the relevant accounting standards, including both realized and unrealized gains and losses.\"",
+            "Obligation:4 \"Reporting**: Periodically report the calculated AUM to the ADGM Financial Services Regulatory Authority (FSRA) as required, ensuring accuracy and compliance with the standards.\"",
+            "Obligation:5 \"Accuracy and Integrity**: Ensure the AUM calculation is accurate and reflects the true value of the assets managed. Exercise due diligence in the calculation process.\"",
+            "Obligation:6 \"Audit and Compliance**: Be prepared for audits or reviews by external auditors or the FSRA, and provide supporting documentation for compliance with accounting standards.\"",
+            "Obligation:7 \"Training and Competence**: Train staff involved in AUM calculations to be competent in applying the relevant accounting standards.\"",
+            "Obligation:8 \"Internal Controls and Risk Management**: Implement robust internal controls, procedures, and risk management practices to ensure accurate AUM calculation and to identify and mitigate associated risks.\"",
+            "Obligation:9 \"Record-Keeping**: Maintain accurate and complete records of AUM calculations and supporting data for the required regulatory period or for audit purposes.\"",
+            "Obligation:10 \"Disclosure and Transparency**: Disclose the AUM calculation methodology to clients or potential clients as necessary and maintain transparency in the calculation process.\"",
+            "Obligation:11 \"Regulatory Updates**: Stay informed about changes in the regulatory framework or accounting standards that could affect AUM calculation and adjust processes accordingly.\n\nBy adhering to these consolidated action items, asset managers and fund managers operating within the ADGM will comply with the regulatory requirements related to the calculation of Assets Under Management.\""
+        ],
+        "NamedEntities": {
+            "funds": "artificial currency used as calculation basis for another currency(s) and accounting purposes"
+        }
+    },
+    {
+        "ID": "193dbd37-bf5c-4598-a3e4-8e75f2577364",
+        "PassageID": "9.",
+        "Passage": "Group annual accounts\n\nA parent company that prepares group accounts should prepare ESG disclosures on the basis of the turnover of the group for the purposes of the company turnover threshold in Section 399A(2)(a) of the CR, and also with reference to provisions in Section 398 of the CR on preparation of group accounts by a parent company.\n",
+        "Obligations": [
+            "Obligation:1 \"Prepare ESG Disclosures**: Compile ESG disclosures that report on environmental, social, and governance matters relevant to the group.\"",
+            "Obligation:2 \"Ensure Turnover Compliance**: Verify that the group's turnover meets the threshold specified in Section 399A(2)(a) of the Companies Regulations (CR) for ESG disclosure requirements.\"",
+            "Obligation:3 \"Adhere to Group Accounts Preparation Standards**: Follow the requirements outlined in Section 398 of the CR for the preparation of group accounts, ensuring ESG disclosures are incorporated as mandated.\"",
+            "Obligation:4 \"Follow Reporting Standards/Frameworks**: Utilize appropriate reporting standards or frameworks, such as the Global Reporting Initiative (GRI) or Sustainability Accounting Standards Board (SASB), as recognized by the ADGM or other relevant authorities.\"",
+            "Obligation:5 \"Cover All ESG Aspects**: Ensure ESG disclosures include information on environmental impact, social responsibilities, employee relations, human rights, anti-corruption and bribery issues, governance structure, energy use, diversity and inclusion, and supply chain management.\"",
+            "Obligation:6 \"Audit and Assurance**: Arrange for the ESG disclosures to be audited or assured to confirm their accuracy and completeness, either as part of the statutory audit or through a separate engagement.\"",
+            "Obligation:7 \"Public Filing and Disclosure**: File the ESG disclosures with the relevant authorities and make them available to the public, shareholders, and other stakeholders as required.\"",
+            "Obligation:8 \"Maintain Accurate Records**: Keep detailed and accurate records to support the ESG disclosures, ensuring they are readily available for review.\"",
+            "Obligation:9 \"Monitor Regulatory Changes**: Regularly monitor for any changes in regulatory requirements pertaining to ESG disclosures and update practices accordingly.\"",
+            "Obligation:10 \"Implement Training and Policies**: Provide staff training on ESG matters and establish internal policies and controls to accurately capture and report ESG information.\"",
+            "Obligation:11 \"Seek Legal or Compliance Advice**: Consult the full text of the relevant CR sections or seek advice from legal or compliance professionals within the ADGM jurisdiction to ensure full compliance with all regulatory requirements.\""
+        ],
+        "NamedEntities": {
+            "group": "collection of agents (people, organizations, software agents, etc.) that are considered as a unit"
+        }
+    },
+    {
+        "ID": "d4f9c0a0-72a5-4e4b-b8a1-19c1369611a9",
+        "PassageID": "10.",
+        "Passage": "Disclosures standard\n\nA company which is required to prepare and submit ESG disclosures must prepare its submissions consistent with a standard which is globally recognised in the reasonable opinion of the company\u2019s directors.  The following is a non-exhaustive list of examples of globally recognised standards:\n\n\u2022\tCarbon Disclosure Project (CDP)\n\u2022\tGlobal Reporting Initiative (GRI)\n\u2022\tHigg Index\n\u2022\tInternational Sustainability Standards Board (ISSB)\n\u2022\tTask Force on ESG Financial Disclosures (TCFD)\n\u2022\tUnited Nations Sustainable Development Goals (UNSDG)\n\nA company may change the applicable disclosures standard at its discretion.\n",
+        "Obligations": [
+            "Obligation:1 \"Select a Globally Recognized Standard**: Choose an ESG disclosure standard that is globally recognized. The board of directors must determine what constitutes such a standard.\"",
+            "Obligation:2 \"Ensure Consistency with the Chosen Standard**: Align your ESG disclosures with the principles, metrics, and guidelines of the selected standard.\"",
+            "Obligation:3 \"Consider Listed Standards**: Review the provided list of globally recognized standards (e.g., CDP, GRI, Higg Index, ISSB, TCFD, UNSDG) and select the most appropriate one for your company.\"",
+            "Obligation:4 \"Maintain Flexibility to Change Standards**: Be aware that you can change the ESG disclosure standard if necessary, but consider the implications on comparability and stakeholder trust.\"",
+            "Obligation:5 \"Document and Keep Records**: Document the rationale for selecting a particular standard and any changes made. Maintain records of how disclosures were prepared, including assumptions and methodologies.\"",
+            "Obligation:6 \"Submit ESG Disclosures Timely**: Submit your ESG disclosures as required by the regulatory framework within the ADGM, adhering to any specified deadlines and guidelines.\"",
+            "Obligation:7 \"Review and Update Policies Regularly**: Continuously review and update your ESG disclosure policies and procedures to comply with the chosen standard and regulatory changes.\"",
+            "Obligation:8 \"Board Oversight**: Ensure that the board of directors oversees the ESG disclosure process, verifying that disclosures accurately represent the company's ESG performance.\"",
+            "Obligation:9 \"Engage with Stakeholders**: Communicate with stakeholders to ensure that the ESG disclosures meet their information needs and expectations.\"",
+            "Obligation:10 \"Monitor for Compliance**: Keep abreast of updates or changes to the chosen standard to ensure that your company's disclosures remain compliant.\"",
+            "Obligation:11 \"Seek Further Guidance**: If there are uncertainties regarding the application of these standards, consider seeking further guidance or legal advice.\n\nNote: The action items are derived from the provided responses and are intended to guide companies in fulfilling their obligations related to ESG disclosures. It is important to consult the full regulatory texts or seek professional advice for comprehensive compliance.\""
+        ],
+        "NamedEntities": {
+            "opinion": "judgement, appraisal, or view about something",
+            "index": "indirect shortcut derived from and pointing into, a greater volume of values, data, information or knowledge"
+        }
+    },
+    {
+        "ID": "dbbeb429-5f7a-48dc-8bae-2ce8d0f21e76",
+        "PassageID": "11.",
+        "Passage": "Review of ESG disclosures reporting process\n\nAn internal review of the ESG disclosures reporting process should be undertaken periodically as part of a company\u2019s internal audit framework.\n",
+        "Obligations": [
+            "Obligation:1 \"Integration into Internal Audit**: Incorporate the ESG disclosures review into the company's internal audit charter and plan, ensuring it is a part of the regular audit cycle.\"",
+            "Obligation:2 \"Periodic Review**: Schedule and conduct regular reviews based on the company's risk assessment, the evolving nature of ESG issues, and changes in reporting requirements.\"",
+            "Obligation:3 \"Scope of Review**: Clearly define the review to encompass all elements of ESG disclosure, including data collection, accuracy, analysis, reporting processes, and adherence to disclosure standards and frameworks.\"",
+            "Obligation:4 \"Compliance with Regulations and Standards**: Verify that ESG disclosures are in line with ADGM regulations, international standards (e.g., GRI, SASB, TCFD), and any other relevant guidelines.\"",
+            "Obligation:5 \"Documentation**: Keep detailed records of the review process, findings, corrective actions, and recommendations for improvement.\"",
+            "Obligation:6 \"Corrective Actions and Action Plan**: Develop and execute an action plan with specific timelines and responsibilities to address deficiencies found during the review.\"",
+            "Obligation:7 \"Reporting Findings**: Communicate the outcomes of the review to key stakeholders such as the audit committee, board of directors, senior management, and any other governance bodies.\"",
+            "Obligation:8 \"Continuous Improvement**: Utilize the insights from the review to enhance the ESG disclosures reporting process continually.\"",
+            "Obligation:9 \"Training and Competence**: Provide training to staff involved in the ESG reporting process to ensure they possess the necessary skills and knowledge.\"",
+            "Obligation:10 \"Stakeholder Engagement**: Actively involve stakeholders to gather their expectations and address any concerns related to ESG disclosures, and inform them about how the company is managing ESG issues.\""
+        ]
+    },
+    {
+        "ID": "fa3ae4b1-565b-4afe-a2df-ce37fd52511a",
+        "PassageID": "12.",
+        "Passage": "Non-submission of ESG disclosures by in-scope companies\n\nThe ESG Disclosures Framework offers flexibility through its \u2018comply or explain\u2019 approach, which is designed to encourage companies to develop governance processes and practices that are the most suitable for their particular circumstances and to report them in a meaningful way.\n\nWhile the Registrar expects all in-scope companies to submit ESG disclosures, it is acknowledged that it may take time for such companies to develop necessary systems and controls.  The Registrar encourages companies to embrace the flexibility offered by the ESG Disclosures Framework, consider their circumstances carefully and choose what is best for them, while clearly explaining any determination not to make ESG disclosures.\n\nWhen informing the Registrar of its decision not to submit ESG disclosures in accordance with subsection 399B(5) of the CR, a company should submit correspondence to monitoring@adgm.com, including a description of the reasons for its determination.\n",
+        "Obligations": [
+            "Obligation:1 \"Assess Company Scope**: Determine whether your company is within the scope of entities required to make ESG disclosures under ADGM regulations.\"",
+            "Obligation:2 \"Develop Governance Processes**: Establish governance processes and practices for ESG that are appropriate for your company's specific circumstances.\"",
+            "Obligation:3 \"Make ESG Disclosures or Provide Explanation**: Choose to either:\n   - Submit ESG disclosures in accordance with the framework's requirements.\n   - Provide a clear and detailed explanation if ESG disclosures are not suitable for your company at this time.\"",
+            "Obligation:4 \"Communicate Non-disclosure to the Registrar**: If not disclosing ESG information:\n   - Inform the Registrar of the decision not to make ESG disclosures.\n   - Include a detailed explanation of the reasons for non-disclosure.\n   - Reference subsection 399B(5) of the Companies Regulations (CR) in your correspondence.\n   - Send the correspondence to the designated email address: monitoring@adgm.com.\"",
+            "Obligation:5 \"Monitor Regulatory Updates**: Keep abreast of any changes to the ESG Disclosures Framework and update your company's practices as necessary.\"",
+            "Obligation:6 \"Record-Keeping**: Maintain documentation of your governance processes, practices, and any communications with the Registrar regarding ESG disclosures or explanations for non-disclosure.\"",
+            "Obligation:7 \"Engage with the Registrar**: Be ready to interact with the Registrar for any follow-up queries or requests for additional information about your ESG disclosures or explanations for non-disclosure.\"",
+            "Obligation:8 \"Develop Systems and Controls**: If necessary, work on establishing the systems and controls required to make ESG disclosures, understanding that this may be a gradual process.\n\nRemember that the 'comply or explain' approach requires a balance between flexibility, transparency, and accountability. Make informed decisions and ensure that any explanations for non-disclosure are thorough and justifiable. Stay compliant with ADGM regulations and maintain open communication with the Registrar.\""
+        ]
+    },
+    {
+        "ID": "fb38f8a9-a084-4d8c-ab1e-ad18fa6af740",
+        "PassageID": "13.",
+        "Passage": "Exemption for a company included in the group annual accounts of a larger group\n\nA company may consider ESG disclosures made in applicable consolidated group annual accounts to satisfy subsection 399C(2)(a) of the CR where those disclosures are broadly equivalent to those required by the ESG Disclosures Framework.\n",
+        "Obligations": [
+            "Obligation:1 \"Assess Equivalence of Disclosures**: Ensure that the ESG disclosures made in the consolidated group annual accounts are equivalent to those required by the ADGM's ESG Disclosures Framework in terms of content, scope, and quality.\"",
+            "Obligation:2 \"Reference Group Disclosures**: If the group's ESG disclosures are equivalent, reference these in your company's reporting to satisfy the ADGM requirements.\"",
+            "Obligation:3 \"Documentation and Record-Keeping**: Maintain documentation that supports the assessment of the equivalence of the group's ESG disclosures, including a mapping against the ADGM's requirements.\"",
+            "Obligation:4 \"Disclosure in Your Own Reports**: Clearly state in your company's reports that you are relying on the group's ESG disclosures and provide information on where these can be found.\"",
+            "Obligation:5 \"Compliance with Updates**: Stay informed about updates to the ADGM's ESG Disclosures Framework and adjust your approach to remain in compliance.\"",
+            "Obligation:6 \"Regulatory Notifications**: Notify the ADGM regulatory authorities if required, that your company is relying on the group's ESG disclosures.\"",
+            "Obligation:7 \"Independent Assurance**: Ensure that the group's ESG disclosures have been independently assured or verified if required by the ADGM's standards.\"",
+            "Obligation:8 \"Regular Review**: Regularly review the group's ESG disclosures to ensure ongoing equivalence with the ADGM's requirements.\"",
+            "Obligation:9 \"Compliance with Additional Requirements**: Comply with any additional requirements or conditions imposed by the ADGM FSRA related to the use of the group's ESG disclosures.\"",
+            "Obligation:10 \"Transparency to Stakeholders**: Be transparent with stakeholders about your approach to ESG disclosures and the relationship between your company and the larger group.\"",
+            "Obligation:11 \"Preparedness for Regulatory Inquiry**: Be prepared to respond to inquiries from the ADGM FSRA and provide evidence of the equivalence of the group's ESG disclosures.\n\nIt is recommended to seek legal or professional advice to ensure full compliance with the regulatory requirements.\""
+        ],
+        "NamedEntities": {
+            "group": "collection of agents (people, organizations, software agents, etc.) that are considered as a unit"
+        }
+    },
+    {
+        "ID": "bd5f4aab-6c37-4c15-81ce-91887886c4a1",
+        "PassageID": "14.",
+        "Passage": "Publication of ESG disclosures\n\nThe ADGM encourages companies to make their ESG disclosures publicly available in the spirit of transparency and advancing the UAE\u2019s net zero by 2050 strategic initiative.\n",
+        "Obligations": [
+            "Obligation:1 \"Review ADGM Regulations and Guidelines**: Regularly check for updates to ADGM regulations or guidelines that may impose ESG disclosure requirements.\"",
+            "Obligation:2 \"Assess Company's ESG Impact**: Determine how ESG factors affect your company and identify relevant disclosures.\"",
+            "Obligation:3 \"Voluntary ESG Disclosure**: Consider voluntarily disclosing ESG information to demonstrate commitment to sustainability and transparency.\"",
+            "Obligation:4 \"Adopt Best Practices for Reporting**: Use international standards for ESG reporting, such as GRI, SASB, or TCFD, as a guide.\"",
+            "Obligation:5 \"Communicate with Stakeholders**: Keep stakeholders informed about your company's ESG approach and actions.\"",
+            "Obligation:6 \"Stay Informed on Regulatory Changes**: Monitor any changes in the ADGM's stance on ESG disclosures to ensure future compliance.\"",
+            "Obligation:7 \"Prepare for Potential Future Requirements**: Proactively prepare for possible future ESG disclosure obligations.\"",
+            "Obligation:8 \"Consult with ADGM or Professionals**: Seek clarification from ADGM or compliance experts on your company's ESG disclosure obligations.\"",
+            "Obligation:9 \"Develop an ESG Disclosure Framework**: Create a framework for ESG disclosures that aligns with recognized standards.\"",
+            "Obligation:10 \"Ensure Transparency**: Provide accurate and complete ESG information that fairly represents your company's practices and performance.\"",
+            "Obligation:11 \"Make Disclosures Accessible**: Publish ESG disclosures on your company's website or other public channels for easy access.\"",
+            "Obligation:12 \"Maintain Consistency**: Disclose ESG information regularly to offer stakeholders consistent and comparable data.\"",
+            "Obligation:13 \"Align with UAE's Environmental Goals**: Ensure ESG disclosures support the UAE\u2019s net zero by 2050 initiative and reflect company commitments.\"",
+            "Obligation:14 \"Engage with Stakeholders**: Understand and address stakeholder ESG interests and concerns in disclosures.\"",
+            "Obligation:15 \"Monitor and Review Practices**: Continuously evaluate the relevance and effectiveness of your ESG disclosure practices.\""
+        ]
+    },
+    {
+        "ID": "5ddbd51e-f584-4c08-8214-27c81cdabf01",
+        "PassageID": "Disclaimer",
+        "Passage": "\nNote: The Registration Authority cannot give technical or legal advice on a company\u2019s accounts or the accounts obligations in individual company circumstances. The Registration Authority can only give general guidance. A company\u2019s accounts are subject to legal requirements, and a company may wish to consider consulting a professional if technical or legal advice is required.\nThis Guidance is a non-binding indicative guide and should be read together with the relevant legislation, in particular the CR and any other relevant regulations and enabling rules, which may change over time without notice.  Information in this Guidance is not to be deemed, considered or relied upon as legal advice and should not be treated as a substitute for a specific advice concerning any individual situation.  Any action taken upon the information provided in this Guidance is strictly at the company\u2019s risk and the Registration Authority will not be liable for any losses and damages in connection with the use of or reliance on information provided in this Guidance. The Registration Authority makes no representations as to the accuracy, completeness, correctness or suitability of any information provided in this Guidance.\n\n\n",
+        "Obligations": [
+            "Obligation:1 \"Ensure Compliance with Legal Requirements**: Maintain accounts in accordance with the legal requirements applicable within the ADGM, including the Companies Regulations (CR) and any other relevant regulations and enabling rules.\"",
+            "Obligation:2 \"Seek Professional Advice**: Consult with professional advisors for technical or legal assistance with company accounts to ensure specific compliance.\"",
+            "Obligation:3 \"Conduct Due Diligence**: Perform due diligence to ensure actions taken based on general guidance are in compliance with relevant legislation.\"",
+            "Obligation:4 \"Stay Informed of Regulatory Changes**: Regularly review regulations and stay updated on any changes to ensure ongoing compliance.\"",
+            "Obligation:5 \"Manage Risks**: Assume responsibility for risks associated with compliance and reliance on general guidance provided by the Registration Authority.\"",
+            "Obligation:6 \"Verify Information**: Do not rely solely on the guidance for accuracy, completeness, or suitability; verify information and ensure it is appropriate for the company's specific situation.\"",
+            "Obligation:7 \"Maintain Accurate Records**: Keep accurate and complete records of financial transactions to support compliance with legal requirements.\"",
+            "Obligation:8 \"Complete Reporting Requirements**: Accurately complete and submit required financial reporting or disclosures within stipulated deadlines.\"",
+            "Obligation:9 \"Assume Responsibility**: Take ultimate responsibility for ensuring the company operates in compliance with ADGM financial regulations and any other applicable laws.\""
+        ]
+    }
+]

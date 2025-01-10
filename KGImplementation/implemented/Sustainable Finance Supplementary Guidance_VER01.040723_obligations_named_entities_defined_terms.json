@@ -1,0 +1,1385 @@
+[
+    {
+        "ID": "3c072050-d273-4555-a2de-70572e8be73d",
+        "PassageID": "1.",
+        "Passage": "INTRODUCTION",
+        "Obligations": []
+    },
+    {
+        "ID": "f6ab2eab-91b3-43c8-b241-6c146cf50897",
+        "PassageID": "1.1",
+        "Passage": "This Supplementary Guidance is issued under section 15(2) of the Financial Services and Markets Regulations 2015 (\u201cFSMR\u201d). It should be read in conjunction with FSMR, the relevant Rulebooks of the Financial Services Regulatory Authority (the \u201cRegulator\u201d) and the Guidance & Policies Manual (\u201cGPM\u201d) of the Regulator. Unless otherwise defined or the context otherwise requires, the terms contained in this Guidance have the same meanings as defined in FSMR and the Glossary Rulebook (\u201cGLO\u201d).",
+        "Obligations": [],
+        "DefinedTerms": {
+            "Authority": "Means the Securities and Commodities Authority, the Financial Services Regulatory Authority or the Dubai Financial Services Authority.",
+            "FSMR": "Means the Financial Services and Markets Regulations 2015.",
+            "GLO": "Means the Glossary module of the Rulebook.",
+            "GPM": "Means the Guidance and Policies Manual, once published by the Regulator.",
+            "Guidance": "Has the meaning given in section 15(2) of FSMR.",
+            "Regulator": "Means the Financial Services Regulatory Authority.",
+            "Rulebook": "Means the ADGM financial services rulebooks comprising GLO, GEN, PRU, PIN, MIR, AML, MKT, COBS, FUNDS, CIB, IFR and FEES."
+        }
+    },
+    {
+        "ID": "18fe0f1f-849f-460f-b7c6-5a53d64daed3",
+        "PassageID": "1.2",
+        "Passage": "This Guidance is not an exhaustive source of the Regulator\u2019s policies. The Regulator is not bound by the statements contained in this Guidance and may impose further, specific conditions to address any additional risks posed by the activities of an Authorised Person.",
+        "Obligations": [],
+        "DefinedTerms": {
+            "Authorised Person": "Means a Person, other than a Recognised Body, who is authorised under the FSMR.",
+            "Guidance": "Has the meaning given in section 15(2) of FSMR.",
+            "Person": "Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "517f4669-26f8-44ca-8e4f-921a7e2ce198",
+        "PassageID": "1.3",
+        "Passage": "This Supplementary Guidance provides guidance, additional to that appearing in the relevant Rulebooks, on the Rules for the granting of designations and use of the associated designation marks in relation to:\n\u2022\tADGM Green Funds and ADGM Climate Transition Funds;\n\u2022\tADGM Green Portfolios and ADGM Climate Transition Portfolios;\n\u2022\tADGM Green Bonds and ADGM Sustainability-Linked Bonds; and\n\u2022\tADGM Green Sukuks and ADGM Sustainability-Linked Sukuks.",
+        "Obligations": [
+            "Obligation:1 \"Compliance with Designation Criteria**: Ensure that financial products meet the specific criteria for being designated as Green or Climate Transition Funds, Portfolios, Bonds, or Sukuks as set out by ADGM.\"",
+            "Obligation:2 \"Disclosure and Reporting**: Provide accurate, transparent information to investors and regulators about the environmental credentials, use of funds, expected benefits, methodologies for impact assessment, objectives, strategies, and performance against environmental standards.\"",
+            "Obligation:3 \"Due Diligence**: Conduct thorough due diligence to ensure investments align with stated environmental objectives and do not undermine those objectives.\"",
+            "Obligation:4 \"Monitoring and Assessment**: Continuously monitor and assess the environmental impact and performance of the financial products to ensure they achieve their intended outcomes.\"",
+            "Obligation:5 \"Use of Designation Marks**: Adhere to guidelines for the correct and non-misleading use of designation marks associated with green and climate transition financial products.\"",
+            "Obligation:6 \"Regulatory Filings and Notifications**: Make all required filings and notifications with the ADGM, including those related to the designation of financial products and any other periodic reporting.\"",
+            "Obligation:7 \"Training and Competency**: Ensure staff managing and promoting these products are adequately trained and competent to understand and explain their environmental aspects and implications.\"",
+            "Obligation:8 \"Risk Management**: Implement risk management strategies to address specific risks associated with green and climate transition financial products, including ESG risks.\"",
+            "Obligation:9 \"Marketing and Promotional Materials**: Ensure all marketing materials and communications accurately reflect the environmental attributes of the products and do not mislead investors.\"",
+            "Obligation:10 \"Ongoing Compliance**: Regularly review and update internal policies and procedures to maintain compliance with ADGM regulations and guidance, and stay informed of any changes to these regulations.\n\nIt is crucial to review the specific Rules and Supplementary Guidance provided by the ADGM for each type of financial product and consult with a compliance professional to understand the full scope of obligations.\""
+        ],
+        "NamedEntities": {
+            "funds": "artificial currency used as calculation basis for another currency(s) and accounting purposes"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "Guidance": "Has the meaning given in section 15(2) of FSMR."
+        }
+    },
+    {
+        "ID": "a77dd5d6-98d7-4860-a0ed-9b6c8b85bddc",
+        "PassageID": "1.4",
+        "Passage": "The designations are voluntary, i.e. on opt-in basis, and issued by the Regulator upon application or notification. Upon receipt of a designation, a Person may use the relevant mark corresponding to the designation received in its communications, subject to receiving appropriate permission from the Regulator. The granting and use of an ADGM Designation is not a guarantee issued by the Regulator of the recipient\u2019s compliance with applicable Rules. Instead, it signifies that the recipient purports to have invested in or be investing in green or greening economic activities in accordance with applicable Rules.",
+        "Obligations": [
+            "Obligation:1 \"Application or Notification**: Apply or notify the Regulator to receive a green or sustainable finance designation, following the specific application process and providing necessary information about green economic activities.\"",
+            "Obligation:2 \"Use of Designation Mark**: Obtain explicit permission from the Regulator to use the designation mark and ensure its use complies with the Regulator's guidelines.\"",
+            "Obligation:3 \"Compliance with Applicable Rules**: Understand and adhere to the ADGM Rules related to green or sustainable finance, ensuring ongoing compliance with the criteria for green investments and the broader regulatory framework.\"",
+            "Obligation:4 \"Transparency and Accuracy**: Provide accurate and truthful information during the application process and in all representations of the designation to avoid misrepresentation and potential regulatory consequences.\"",
+            "Obligation:5 \"Monitoring and Reporting**: Monitor compliance with green investment criteria and report periodically to the Regulator as required by the specific Rules associated with the designation.\"",
+            "Obligation:6 \"Maintaining Standards/Continuous Improvement**: Maintain the standards that qualified for the designation and continuously improve and adapt practices to align with evolving standards and expectations of sustainable finance.\"",
+            "Obligation:7 \"Revocation of Designation**: Be aware that non-compliance or misuse of the designation can lead to its revocation by the Regulator, which may include additional regulatory action.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "Person": "Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "168318c0-2a5b-46e9-b864-5a0522514847",
+        "PassageID": "2.",
+        "Passage": "TAXONOMIES AND ATTESTATION REQUIREMENTS \u2013 FUNDS AND MODEL PORTFOLIOS\n",
+        "Obligations": [
+            "Obligation:1 \"Classification of Investments**: Classify investments within funds or model portfolios according to the prescribed taxonomies, assessing each investment against criteria such as type, risk, ESG factors, etc.\"",
+            "Obligation:2 \"Disclosure**: Disclose the taxonomy classifications to investors, regulators, or other stakeholders as required, which may involve periodic or ad-hoc reporting.\"",
+            "Obligation:3 \"Attestation**: Formally attest to the accuracy of the classifications and compliance with the taxonomy criteria, potentially requiring a declaration or certification from a senior or compliance officer.\"",
+            "Obligation:4 \"Record-Keeping**: Maintain comprehensive records that support the classifications and attestations, including documentation of the assessment process, data sources, decision-making records, and any reviews or audits.\"",
+            "Obligation:5 \"Due Diligence**: Perform due diligence to ensure information used for classification is accurate and current, with regular reviews and updates as necessary.\"",
+            "Obligation:6 \"Compliance Monitoring**: Implement and maintain systems and controls to monitor ongoing compliance with taxonomy and attestation requirements, detecting and correcting deviations.\"",
+            "Obligation:7 \"Training and Awareness**: Ensure that staff managing funds and model portfolios are adequately trained and aware of the taxonomy and attestation requirements.\"",
+            "Obligation:8 \"Reporting Violations**: Report any instances of non-compliance to the relevant regulatory authorities within the specified timeframe.\"",
+            "Obligation:9 \"Auditing**: Have classifications and attestations audited by an independent third party, if required, to ensure accuracy and compliance.\"",
+            "Obligation:10 \"Regular Reporting**: Engage in regular reporting to the ADGM Financial Services Regulatory Authority (FSRA) or other designated bodies detailing compliance with the taxonomy and attestation requirements.\n\nPlease note that the exact obligations would depend on the specific regulatory text or guidelines issued by the ADGM, and the above action items are based on common practices that may be applicable.\""
+        ],
+        "NamedEntities": {
+            "funds": "artificial currency used as calculation basis for another currency(s) and accounting purposes"
+        },
+        "DefinedTerms": {
+            "FUNDS": "Means the Funds Rulebook."
+        }
+    },
+    {
+        "ID": "ef13b28a-5352-40e4-8ef9-a798ecb4142e",
+        "PassageID": "2.1",
+        "Passage": "Acceptable Green Taxonomies. An ADGM Green Fund may choose any published, credible and independent green taxonomy as a reference against which its assets will be assessed as to their being environmentally sustainable. As green taxonomies tend to describe economic activities prioritised in the jurisdiction in which they are published, the Fund Manager is given flexibility to select the most suitable taxonomy considering the strategy of the Fund, rather than specifying one specific green taxonomy must be used.",
+        "Obligations": [
+            "Obligation:1 \"Select a Green Taxonomy**: Choose a published, credible, and independent green taxonomy that aligns with the Fund's strategy and investment objectives.\"",
+            "Obligation:2 \"Align Taxonomy with Fund Strategy**: Ensure the selected taxonomy is suitable for the specific investment focus and objectives of the Green Fund.\"",
+            "Obligation:3 \"Ensure Credibility and Independence**: Verify that the chosen taxonomy is recognized within the industry and free from conflicts of interest.\"",
+            "Obligation:4 \"Document and Justify Selection**: Record the process of selecting the taxonomy and be prepared to explain the choice, demonstrating alignment with the Fund's strategy and its credibility.\"",
+            "Obligation:5 \"Regularly Monitor and Review**: Continuously assess the chosen taxonomy to ensure it remains appropriate and credible, and reassess if necessary due to market changes or updates in green taxonomies.\"",
+            "Obligation:6 \"Disclose Taxonomy to Investors**: Clearly communicate to investors the selected taxonomy and its application in assessing the environmental sustainability of the Fund's assets.\"",
+            "Obligation:7 \"Comply with ADGM Regulations**: Ensure that the taxonomy selection and application comply with all relevant ADGM regulations and guidelines.\"",
+            "Obligation:8 \"Report as Required**: Submit reports to the ADGM as required, detailing the application of the taxonomy and the sustainability outcomes of the Fund.\"",
+            "Obligation:9 \"Communicate with Investors**: Inform investors about how the taxonomy influences investment decisions and the environmental sustainability of the portfolio.\"",
+            "Obligation:10 \"Stay Informed of Regulatory Changes**: Keep abreast of any updates or changes to ADGM regulations that could affect the management of the Green Fund.\""
+        ],
+        "NamedEntities": {
+            "fund manager": "The party that sets up the fund, decides the investment strategy, appoints the agents, and is responsible for the promotion and the marketing of the fund. It makes all of the important decisions related to the fund. Also called fund promotor or fund sponsor. This is a dupliucate of Fund Management Company at the moment",
+            "jurisdiction": "power of a court to adjudicate cases, issue orders, and interpret and apply the law with respect to some specific geographic area"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Green Fund": "Means a Fund that has received an ADGM Green Fund Designation from the Regulator.",
+            "Fund": "Means a Collective Investment Fund.",
+            "Fund Manager": "Means a Person responsible for the management of the property held for or within a Fund and who otherwise operates the Fund."
+        }
+    },
+    {
+        "ID": "b8861fca-01c1-456c-9244-4d0b562d4cd9",
+        "PassageID": "2.2",
+        "Passage": "Acceptable Green Taxonomies. The Regulator would usually consider only a taxonomy published by another regulatory or supranational body to be an \u201cAcceptable Green Taxonomy\u201d or \u201cAcceptable Climate Transition Taxonomy\u201d as defined in the Glossary. A taxonomy published by a market participant or group of market participants is significantly less likely to meet the \u201cindependent\u201d requirement of those terms. At present, the following taxonomies are considered acceptable by the Regulator:\na)\tthe EU Green Taxonomy;\nb)\tthe ASEAN Sustainable Finance Taxonomy;\nc)\tthe Common Principles for Climate Mitigation Finance Tracking.",
+        "Obligations": [
+            "Obligation:1 \"Adopt an Acceptable Green Taxonomy**: Use an Acceptable Green Taxonomy or Acceptable Climate Transition Taxonomy as defined by the ADGM regulator when classifying financial products, investments, or services as environmentally sustainable or aligned with climate transition objectives.\"",
+            "Obligation:2 \"Refer to Approved Taxonomies**: Utilize taxonomies recognized by the ADGM regulator, such as the EU Green Taxonomy, the ASEAN Sustainable Finance Taxonomy, and the Common Principles for Climate Mitigation Finance Tracking.\"",
+            "Obligation:3 \"Ensure Independence of Taxonomies**: Verify that any taxonomy used meets the independence requirement set by the ADGM regulator to avoid potential conflicts of interest.\"",
+            "Obligation:4 \"Disclose and Report Compliance**: Accurately disclose the use of taxonomies in financial products or investments and report in accordance with ADGM regulatory requirements, including how products meet the criteria of the chosen taxonomies.\"",
+            "Obligation:5 \"Monitor Regulatory Updates**: Stay informed of any updates to the list of Acceptable Green Taxonomies and ensure ongoing compliance with current and future standards.\"",
+            "Obligation:6 \"Conduct Due Diligence**: Perform due diligence to substantiate green or climate transition claims and prevent \"greenwashing.\"\"",
+            "Obligation:7 \"Maintain Transparency**: Clearly communicate to stakeholders which taxonomy is being used and how it applies to your activities or products.\"",
+            "Obligation:8 \"Implement Risk Management**: Address risks associated with misclassification or misrepresentation of activities or products as green or climate transition-aligned.\"",
+            "Obligation:9 \"Train Staff**: Ensure staff are trained and aware of the requirements related to the use of Acceptable Green Taxonomies and their implications for business operations.\"",
+            "Obligation:10 \"Engage with the Regulator**: Seek clarification and guidance from the ADGM regulator on the use of taxonomies and any uncertainties regarding their application to your specific circumstances.\n\nNote: These action items are based on the assumption that the entity's activities fall under the scope of ADGM's regulatory framework and are related to sustainable finance. Always consult the full regulatory framework or seek professional advice for comprehensive guidance.\""
+        ],
+        "NamedEntities": {
+            "group": "collection of agents (people, organizations, software agents, etc.) that are considered as a unit"
+        },
+        "DefinedTerms": {
+            "Acceptable Climate Transition Taxonomy": "Means a classification system established to clarify those economic activities that:\na)\tare not currently zero or near-zero emitters of greenhouse gases, but\nb)\tassist the transition of an economy towards lower carbon emissions or becoming more environmentally sustainable; and\nuses credible and independent accreditation standards, is published by a governmental body or a reputable industry association and freely available.",
+            "Acceptable Green Taxonomy": "Means a classification system that determines which economic activities are environmentally sustainable using credible and independent accreditation standards, that is published by a governmental body or a reputable industry association and freely available.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "c6573994-75fd-4500-b125-4fee097fd2c4",
+        "PassageID": "2.3",
+        "Passage": "Acceptable Green Taxonomies. In the future, the scope of taxonomies deemed to be acceptable to the Regulator, as currently indicated under section  20.2 of the Fund Rules (\u201cFUNDS\u201d) may be expanded. It is likely to include any UAE green taxonomy that is developed.\n",
+        "Obligations": [
+            "Obligation:1 \"Monitoring Developments**: Keep up to date with ADGM's regulatory framework changes regarding green taxonomies, including the potential inclusion of a UAE green taxonomy.\"",
+            "Obligation:2 \"Due Diligence**: Perform due diligence to ensure that green investments or sustainable finance activities comply with current and potentially new green taxonomies.\"",
+            "Obligation:3 \"Compliance Planning**: Create a compliance plan to incorporate any new UAE green taxonomy into your investment processes if it is recognized by ADGM.\"",
+            "Obligation:4 \"Disclosure and Reporting**: Prepare to modify disclosure and reporting practices to accurately represent green investments in line with the expanded green taxonomies.\"",
+            "Obligation:5 \"Training and Awareness**: Train your team on the new requirements and implications of any changes in the green taxonomy that ADGM accepts.\"",
+            "Obligation:6 \"Policy and Procedure Updates**: Revise internal policies and procedures to include the new green taxonomy requirements.\"",
+            "Obligation:7 \"Engagement with Regulator**: Communicate with the ADGM Financial Services Regulatory Authority for guidance on interpreting and implementing changes in green taxonomy scope.\"",
+            "Obligation:8 \"Compliance**: Ensure ongoing compliance with updated regulations and adjust investment strategies or operations as necessary.\"",
+            "Obligation:9 \"Disclosure Enhancements**: Improve disclosures to investors and stakeholders regarding the application of expanded taxonomies in investment processes.\n\nIt is essential to stay informed through official ADGM communications for any updates or guidance on this topic and to review specific requirements for compliance when changes are implemented.\""
+        ],
+        "NamedEntities": {
+            "funds": "artificial currency used as calculation basis for another currency(s) and accounting purposes",
+            "future": "derivative instrument that obligates the buyer to receive and the seller to deliver the assets specified at an agreed price, at some later point in time"
+        },
+        "DefinedTerms": {
+            "Fund": "Means a Collective Investment Fund.",
+            "FUNDS": "Means the Funds Rulebook.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "261c3371-0cf2-4d60-a2b4-fce4f03199ad",
+        "PassageID": "2.4",
+        "Passage": "Acceptable Climate Transition Taxonomy. An ADGM Climate Transition Fund or ADGM Climate Transition Portfolio may invest in assets aligned with an Acceptable Climate Transition Taxonomy. An Acceptable Climate Transition Taxonomy provides a classification system that identifies economic activities that are assisting the transition of an economy towards lower carbon emissions or becoming more environmentally sustainable, but where those economic activities do not currently meet zero or near-zero emissions standards.",
+        "Obligations": [
+            "Obligation:1 \"Alignment with Taxonomy**: Ensure investments are aligned with an Acceptable Climate Transition Taxonomy, contributing to climate transition even if not currently at zero or near-zero emissions.\"",
+            "Obligation:2 \"Due Diligence**: Conduct thorough due diligence to confirm that investments align with the taxonomy and contribute to environmental sustainability.\"",
+            "Obligation:3 \"Disclosure and Reporting**: Provide clear disclosures to investors about the application of the taxonomy, including selection criteria and investment proportions aligned with the taxonomy. Regularly report on the environmental impact and progress towards climate transition goals.\"",
+            "Obligation:4 \"Monitoring and Compliance**: Continuously monitor investments for ongoing compliance with the taxonomy, including periodic reviews and adjustments to the investment strategy.\"",
+            "Obligation:5 \"Investment Policy Documentation**: Maintain a documented investment policy that reflects the commitment to the taxonomy, and regularly review and update it for compliance.\"",
+            "Obligation:6 \"Risk Management**: Incorporate climate transition risks into the risk management framework, assessing financial impacts and adjusting the investment strategy as needed.\"",
+            "Obligation:7 \"Regulatory Compliance**: Ensure all activities comply with ADGM's regulatory framework and stay updated with any changes in regulations or guidelines related to climate transition investments.\"",
+            "Obligation:8 \"Training and Competence**: Ensure the team has the necessary expertise and understanding of climate-related issues and the taxonomy, which may involve staff training and competency development.\"",
+            "Obligation:9 \"Transparency**: Maintain transparency in investment practices and taxonomy application, including regular communication with stakeholders.\"",
+            "Obligation:10 \"Stakeholder Engagement**: Engage with stakeholders to ensure a shared understanding of the fund's or portfolio's objectives and investment criteria based on the taxonomy.\n\nNote: These action items are based on the provided information and should be cross-referenced with specific ADGM regulations and guidelines for accuracy and completeness. Consulting with a compliance officer or legal advisor specializing in ADGM financial regulations is recommended for tailored advice.\""
+        ],
+        "DefinedTerms": {
+            "Acceptable Climate Transition Taxonomy": "Means a classification system established to clarify those economic activities that:\na)\tare not currently zero or near-zero emitters of greenhouse gases, but\nb)\tassist the transition of an economy towards lower carbon emissions or becoming more environmentally sustainable; and\nuses credible and independent accreditation standards, is published by a governmental body or a reputable industry association and freely available.",
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Climate Transition Fund": "Means a Fund that has received an ADGM Climate Transition Fund Designation from the Regulator.",
+            "ADGM Climate Transition Portfolio": "Means a Model Portfolio that complies with the ADGM Climate Transition Portfolio Rules.",
+            "Fund": "Means a Collective Investment Fund."
+        }
+    },
+    {
+        "ID": "00886023-1872-4306-aa9f-bf78b265a56a",
+        "PassageID": "2.5",
+        "Passage": "Acceptable Climate Transition Taxonomy. At the time of publication, no standalone Acceptable Climate Transition Taxonomies have been published, although a number are being developed. However, an Acceptable Climate Transition Taxonomy may be incorporated as a section or sections within an Acceptable Green Taxonomy, where it is clear that the identified economic activities are assisting a transition to net zero emissions.",
+        "Obligations": [
+            "Obligation:1 \"Due Diligence**: Conduct due diligence on investments and financing activities to ensure alignment with the Acceptable Green Taxonomy and any relevant sections pertaining to climate transition.\"",
+            "Obligation:2 \"Disclosure**: Make clear, accurate, and non-misleading disclosures about how financial products or services claiming to support climate transition meet the criteria set out in the Acceptable Green Taxonomy.\"",
+            "Obligation:3 \"Reporting**: Report on the environmental impact of investments or financing activities, focusing on their contribution to climate transition and efforts to achieve net-zero emissions.\"",
+            "Obligation:4 \"Alignment with Taxonomy**: Ensure that financial products or services related to climate transition are aligned with the Acceptable Green Taxonomy, particularly the sections addressing climate transition.\"",
+            "Obligation:5 \"Monitoring Developments**: Stay informed about updates or the publication of standalone Acceptable Climate Transition Taxonomies and adjust compliance practices as necessary.\"",
+            "Obligation:6 \"Integration into Risk Management**: Integrate climate-related risks into the overall risk management strategy, considering the impact of climate transition on financial activities and the market.\"",
+            "Obligation:7 \"Training and Competence**: Train staff to understand and apply relevant taxonomies and ESG considerations in their work.\"",
+            "Obligation:8 \"Strategy Alignment**: Reflect a commitment to the transition to net-zero emissions in the business strategy, incorporating the principles of the taxonomy into operational and investment decisions.\"",
+            "Obligation:9 \"Product Development**: Design new financial products to support economic activities that align with the transition to net-zero emissions as defined by the taxonomy.\n\n*Note*: These action items are based on the information provided and may be subject to change. Entities should refer to the latest FSRA regulations, guidelines, and related technical standards for precise obligations.\""
+        ],
+        "DefinedTerms": {
+            "Acceptable Climate Transition Taxonomy": "Means a classification system established to clarify those economic activities that:\na)\tare not currently zero or near-zero emitters of greenhouse gases, but\nb)\tassist the transition of an economy towards lower carbon emissions or becoming more environmentally sustainable; and\nuses credible and independent accreditation standards, is published by a governmental body or a reputable industry association and freely available.",
+            "Acceptable Green Taxonomy": "Means a classification system that determines which economic activities are environmentally sustainable using credible and independent accreditation standards, that is published by a governmental body or a reputable industry association and freely available."
+        }
+    },
+    {
+        "ID": "52d5da10-209c-46bb-a90f-e90673ff03ff",
+        "PassageID": "2.6",
+        "Passage": "Acceptable Climate Transition Taxonomy. One example of a climate transition taxonomy likely to be considered \u201cacceptable\u201d by the Regulator is the cohort of economic activities categorised as \u201camber\u201d or \u201camber plus standard\u201d \u2013 rather than green \u2013 and included in the ASEAN Sustainable Finance Taxonomy. For example, an economic activity which has been defined as aligning with a climate transition taxonomy is that of a power company using natural gas plants with carbon capture and storage. Another example of a climate transition taxonomy embedded in a wider Acceptable Green Taxonomy and that is likely to be considered acceptable by the Regulator is the cohort of economic activities categorised as \u201cTransitional\u201d by the Common Principles for Climate Mitigation Finance Tracking.\n",
+        "Obligations": [
+            "Obligation:1 \"Identify Relevant Activities**: Determine if your economic activities fall within the scope of the climate transition taxonomy, focusing on categories such as \"amber,\" \"amber plus standard,\" or \"Transitional.\"\"",
+            "Obligation:2 \"Ensure Alignment with Taxonomy**: Align your activities with the criteria of an acceptable climate transition taxonomy, such as the ASEAN Sustainable Finance Taxonomy.\"",
+            "Obligation:3 \"Disclosure and Reporting**: Regularly disclose the nature and classification of your economic activities within the climate transition taxonomy to regulators, investors, and other stakeholders.\"",
+            "Obligation:4 \"Documentation and Due Diligence**: Maintain thorough documentation and conduct due diligence to demonstrate that your activities meet the taxonomy standards and avoid \"greenwashing.\"\"",
+            "Obligation:5 \"Risk Management**: Integrate climate-related risks into your overall risk management framework and assess the risks associated with transitioning to a lower-carbon economy.\"",
+            "Obligation:6 \"Governance and Accountability**: Establish governance structures to oversee compliance with the taxonomy and ensure senior management and the board are accountable for climate transition-related activities.\"",
+            "Obligation:7 \"Stakeholder and Regulator Engagement**: Engage with stakeholders to communicate your commitment to the taxonomy and proactively interact with the ADGM Financial Services Regulatory Authority (FSRA) for updates and information sharing.\"",
+            "Obligation:8 \"Continuous Improvement and Monitoring**: Commit to continuous improvement by monitoring developments in taxonomies and sustainable finance, updating practices, and being prepared for regulatory reviews or audits.\"",
+            "Obligation:9 \"Product and Service Offerings**: If applicable, ensure financial products or services are designed and marketed in line with climate transition objectives, providing clear information to clients.\"",
+            "Obligation:10 \"Stay Informed and Adjust**: Keep abreast of regulatory updates or changes to climate transition taxonomies and adjust your activities and disclosures accordingly.\n\nIt's important to consult the relevant regulatory guidelines or seek expert advice to ensure full compliance with the ADGM financial regulations related to climate transition taxonomies.\""
+        ],
+        "DefinedTerms": {
+            "Acceptable Climate Transition Taxonomy": "Means a classification system established to clarify those economic activities that:\na)\tare not currently zero or near-zero emitters of greenhouse gases, but\nb)\tassist the transition of an economy towards lower carbon emissions or becoming more environmentally sustainable; and\nuses credible and independent accreditation standards, is published by a governmental body or a reputable industry association and freely available.",
+            "Acceptable Green Taxonomy": "Means a classification system that determines which economic activities are environmentally sustainable using credible and independent accreditation standards, that is published by a governmental body or a reputable industry association and freely available.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "cd8b2539-17f7-4d86-b235-a1b12bcb826e",
+        "PassageID": "2.7",
+        "Passage": "Third-Party Attestation Requirements. Where third-party attestation (\u201cTPA\u201d) is required for ADGM Green Funds, ADGM Climate Transition Funds, ADGM Green Portfolios and ADGM Climate Transition Portfolios it can provide investors with additional comfort that the assets in the Fund or Model Portfolio are aligned with investors\u2019 expectations regarding their environmental credentials.",
+        "Obligations": [
+            "Obligation:1 \"Select a Qualified Third-Party**: Choose an independent, reputable, and qualified third-party service provider with expertise in environmental standards to conduct the attestation.\"",
+            "Obligation:2 \"Define the Scope of Attestation**: Clearly establish the scope of the attestation to cover all relevant aspects of the fund's or portfolio's environmental claims, including compliance with specific green or climate transition criteria.\"",
+            "Obligation:3 \"Facilitate the Attestation Process**: Collaborate with the third-party attester, providing necessary access to documentation, data, and operational processes for a comprehensive assessment of the environmental claims.\"",
+            "Obligation:4 \"Obtain and Review Attestation Report**: Receive a formal report from the third-party attester detailing their findings and confirming the alignment of the fund or portfolio with the stated environmental credentials.\"",
+            "Obligation:5 \"Disclose Attestation Results to Investors**: Transparently communicate the results of the third-party attestation to current and prospective investors through fund documentation, marketing materials, and periodic reports.\"",
+            "Obligation:6 \"Ensure Ongoing Compliance**: Regularly review and update the environmental criteria for the fund or portfolio, maintaining continuous compliance and obtaining periodic third-party attestations.\"",
+            "Obligation:7 \"Maintain Comprehensive Documentation**: Keep detailed records of the environmental features of the fund or portfolio, the attestation process, and all related documentation for regulatory inspection and investor review.\"",
+            "Obligation:8 \"Report to Regulatory Authorities**: If required, report the results of the third-party attestation to the ADGM Financial Services Regulatory Authority (FSRA) in an accurate and timely manner.\"",
+            "Obligation:9 \"Adhere to ADGM Regulations and Guidelines**: Ensure that the entire third-party attestation process complies with the relevant ADGM regulations and guidelines.\"",
+            "Obligation:10 \"Enhance Investor Confidence**: Use the third-party attestation as a tool to boost investor confidence by demonstrating the independent verification of the fund's or portfolio's environmental claims.\"",
+            "Obligation:11 \"Consult Relevant Regulations and Legal Advice**: Regularly consult the relevant ADGM regulations and guidelines, and seek legal and compliance advice to ensure full adherence to regulatory obligations.\""
+        ],
+        "NamedEntities": {
+            "funds": "artificial currency used as calculation basis for another currency(s) and accounting purposes"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "Fund": "Means a Collective Investment Fund.",
+            "Model Portfolio": "Means a portfolio of segregated holdings managed on a discretionary basis by an Investment Manager where all Clients in a particular profile or model receive the same portfolios and are traded and adjusted at the same time and in the same way, but with each Client having a separate Discretionary Portfolio Management Agreement in place with the relevant Investment Manager."
+        }
+    },
+    {
+        "ID": "89172c85-1278-4ed2-bda1-1780f9583692",
+        "PassageID": "2.8",
+        "Passage": "Third-Party Attestation Requirements. Under our Rules, TPA providers must:\na)\tpossess the required skills, resources and experience to provide the attestation;\nb)\tbe independent of, and not subject to any conflict of interest with, the Fund Manager, the investment advisor or the Trustee, where applicable; and\nc)\thave been provided with all documents, records and information necessary to give the attestation.",
+        "Obligations": [
+            "Obligation:1 \"Possess Required Skills, Resources, and Experience**:\n   - Ensure appropriate expertise and qualifications for attestation services are held.\n   - Maintain sufficient resources, including staff and technology, for effective attestation.\n   - Have relevant experience in providing attestation services, especially in financial services and fund management.\"",
+            "Obligation:2 \"Maintain Independence and Avoid Conflicts of Interest**:\n   - Remain independent from entities such as the Fund Manager, investment advisor, or Trustee.\n   - Implement measures to identify, manage, and disclose any potential conflicts of interest.\n   - Avoid financial, business, or personal relationships that could affect objectivity.\"",
+            "Obligation:3 \"Access to Necessary Documents, Records, and Information**:\n   - Ensure access to all relevant documents, records, and information for accurate attestation.\n   - Verify the completeness and reliability of the information provided.\n   - Request additional information if necessary to form a thorough opinion or conclusion.\n\n**General Compliance**:\n   - Comply with all obligations to avoid regulatory actions, including penalties or restrictions.\n   - Stay informed about updates to ADGM regulations and guidelines affecting TPA obligations.\""
+        ],
+        "NamedEntities": {
+            "fund manager": "The party that sets up the fund, decides the investment strategy, appoints the agents, and is responsible for the promotion and the marketing of the fund. It makes all of the important decisions related to the fund. Also called fund promotor or fund sponsor. This is a dupliucate of Fund Management Company at the moment",
+            "investment advisor": "The party that provides investment guidance at a fee. Definition origin:EFAMA DD",
+            "interest": "the cost of using credit, or another's money, expressed as a rate per period of time, payable by a debtor to a creditor in consideration of the credit extended to the debtor"
+        },
+        "DefinedTerms": {
+            "Fund": "Means a Collective Investment Fund.",
+            "Fund Manager": "Means a Person responsible for the management of the property held for or within a Fund and who otherwise operates the Fund.",
+            "Trustee": "Means the Person, described under FUNDS 12.3.4 who is appointed under a Trust Deed as the trustee of an Investment Trust to hold the Investment Trust's Property on trust for the Unitholders and to oversee the operation of the Investment Trust and, in relation to a Domestic Fund, is authorised under its Financial Services Permission to Act as the Trustee of the Investment Trust."
+        }
+    },
+    {
+        "ID": "31b91cc4-baa5-456a-a8b7-3af75cdd35a8",
+        "PassageID": "2.9",
+        "Passage": "Third-Party Attestation Requirements. In selecting a provider for a TPA, a firm should consider the following attributes, amongst others, as indicating that the third party is likely to meet the FSRA\u2019s requirements regarding the required skills, resources and experience. These are that the TPA provider:\na)\thas a thorough knowledge and experience of the asset class(es) invested in by the Fund or Model Portfolio;\nb)\thas demonstrable experience in undertaking assurance in the area, or an equivalent area, such as having provided a third-party attestation on sustainability of a fund or portfolio previously, or provided a second-party opinion for a green bond/sukuk or sustainability linked bond/sukuk issuance; and\nc)\tbe of good standing and reputation in the market.\n\n",
+        "Obligations": [
+            "Obligation:1 \"Conduct Due Diligence on Knowledge and Experience:**\n   - Evaluate the TPA provider's knowledge and experience with the asset classes your fund or model portfolio invests in.\n   - Review the provider's track record, expertise, and understanding of the specific investments.\"",
+            "Obligation:2 \"Assess Assurance Experience:**\n   - Verify the TPA provider's experience in providing assurance services relevant to your fund's operations.\n   - Request and review evidence of the provider's previous experience with third-party attestations or second-party opinions in similar contexts.\"",
+            "Obligation:3 \"Evaluate Market Standing and Reputation:**\n   - Check the TPA provider's market standing and reputation for integrity, reliability, and professionalism.\n   - Conduct background checks, seek references, and consult industry reports or rankings as necessary.\"",
+            "Obligation:4 \"Document Due Diligence Process:**\n   - Ensure that the due diligence process is thoroughly documented and retained as part of your compliance records.\n   - This documentation should demonstrate that you have met the FSRA\u2019s requirements in selecting a TPA provider.\""
+        ],
+        "NamedEntities": {
+            "opinion": "judgement, appraisal, or view about something",
+            "bond": "tradable debt instrument representing a loan in which the issuer owes the holder(s) a debt",
+            "green bond": "bond issued specifically to fund climate or environmental projects"
+        },
+        "DefinedTerms": {
+            "Fund": "Means a Collective Investment Fund.",
+            "Model Portfolio": "Means a portfolio of segregated holdings managed on a discretionary basis by an Investment Manager where all Clients in a particular profile or model receive the same portfolios and are traded and adjusted at the same time and in the same way, but with each Client having a separate Discretionary Portfolio Management Agreement in place with the relevant Investment Manager."
+        }
+    },
+    {
+        "ID": "f64cb9f3-d716-4d08-9bf0-5d970f591ed5",
+        "PassageID": "3.",
+        "Passage": "ADGM GREEN AND ADGM CLIMATE TRANSITION FUNDS",
+        "Obligations": [],
+        "NamedEntities": {
+            "funds": "artificial currency used as calculation basis for another currency(s) and accounting purposes"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "FUNDS": "Means the Funds Rulebook."
+        }
+    },
+    {
+        "ID": "e641e467-2528-4f87-9deb-362e131a8d40",
+        "PassageID": "3.2",
+        "Passage": "In addition to the requirements in chapter 20 of FUNDS, Authorised Persons should be aware of:\na)\tthe restrictions on the financial promotion of Units in a Fund in section 18 and Schedule 2 of FSMR; and\nb)\tthe requirements that apply to the Offer of Units in Domestic Funds, including Prospectus disclosure by Authorised Persons under this Guidance.",
+        "Obligations": [
+            "Obligation:1 \"Understand and Comply with FUNDS Chapter 20:**\n   - Review and ensure understanding of Chapter 20 of FUNDS.\n   - Comply with all operational, reporting, and conduct obligations for Authorised Persons.\"",
+            "Obligation:2 \"Adhere to Financial Promotion Restrictions:**\n   - Familiarize with and adhere to Section 18 and Schedule 2 of FSMR regarding financial promotions.\n   - Ensure financial promotions are clear, fair, and not misleading.\n   - Communicate promotions only to permitted persons under FSMR.\n   - Obtain necessary consents and follow prescribed communication methods.\"",
+            "Obligation:3 \"Conduct Compliant Offers of Units in Domestic Funds:**\n   - Ensure offers are made in accordance with ADGM regulations.\n   - Provide a compliant Prospectus with all required disclosures.\n   - Keep the Prospectus updated with any material changes.\"",
+            "Obligation:4 \"Ensure Prospectus Disclosure Requirements are Met:**\n   - Ensure Prospectus is clear, accurate, and contains necessary information for informed investment decisions.\n   - Include comprehensive details such as investment objectives, strategies, risks, charges, and expenses.\n   - Disclose terms of the offer, rights attached to Units, and conditions of the offer.\"",
+            "Obligation:5 \"Maintain Records and Reporting:**\n   - Keep records of all financial promotions and offers of Units.\n   - Retain records for the minimum required period.\n   - Be prepared to provide records to FSRA upon request.\"",
+            "Obligation:6 \"Implement Ongoing Compliance Monitoring:**\n   - Establish systems and controls for regular compliance monitoring.\n   - Promptly address any compliance deficiencies.\"",
+            "Obligation:7 \"Ensure Training and Competency:**\n   - Train staff involved in financial promotions and offers of Units on regulatory requirements.\n   - Maintain competency within the organization for ongoing compliance.\"",
+            "Obligation:8 \"Stay Informed and Seek Advice:**\n   - Regularly consult the full text of FSMR, FUNDS rules, and relevant FSRA guidance.\n   - Seek professional advice or clarification from FSRA when uncertain about obligations.\"",
+            "Obligation:9 \"Implement Compliance Review Processes:**\n   - Set up processes to review and ensure ongoing adherence to regulations.\"",
+            "Obligation:10 \"Stay Updated on Regulatory Changes:**\n    - Monitor for any changes in the ADGM's regulatory framework that may affect obligations.\n\nBy following these consolidated action items, you will be better equipped to fulfill your obligations as an Authorised Person within the ADGM framework.\""
+        ],
+        "NamedEntities": {
+            "funds": "artificial currency used as calculation basis for another currency(s) and accounting purposes"
+        },
+        "DefinedTerms": {
+            "FSMR": "Means the Financial Services and Markets Regulations 2015.",
+            "Fund": "Means a Collective Investment Fund.",
+            "FUNDS": "Means the Funds Rulebook.",
+            "Guidance": "Has the meaning given in section 15(2) of FSMR.",
+            "Offer": "Means:\n(a)\tin relation to Securities other than Units, an offer of Securities falling within Part 6 of FSMR; and\n(b)\tin relation to Units, an offer of Units falling outside Part 6 of FSMR.",
+            "Prospectus": "Means a prospectus submitted in accordance with section 61 of FSMR.  In relation to Collective Investment Funds, a Prospectus refers to (where section 61 of FSMR does not apply):\n(a)\tan information memorandum;\n(b)\tan offering memorandum;\n(c)\ta private placement memorandum; or\n(d)\tany other similar document.",
+            "Units": "Means the rights or interests (however described) of the Unitholders in a Collective Investment Fund."
+        }
+    },
+    {
+        "ID": "290e44a5-913a-4145-8f7f-195cd1d728bd",
+        "PassageID": "3.3",
+        "Passage": "COBS Rule 3.2.1 requires an Authorised Person to take reasonable steps to ensure that any communication to a Person in relation to a Specified Investment is clear, fair and not misleading. Similarly, FUNDS Rule 9.3.1(1) requires the presentation of information in a Prospectus to be clear, fair and not misleading.",
+        "Obligations": [
+            "Obligation:1 \"Ensure all communications are clear, easily understandable, and avoid technical jargon.\"",
+            "Obligation:2 \"Provide a balanced view of Specified Investments, including both benefits and risks.\"",
+            "Obligation:3 \"Avoid making false statements or omitting material information that could mislead.\"",
+            "Obligation:4 \"Maintain consistency across all forms of communication, including marketing materials and legal documents.\"",
+            "Obligation:5 \"Regularly review and update communications and Prospectus information to reflect changes.\"",
+            "Obligation:6 \"Comply with all relevant regulations and guidelines related to investment communication.\"",
+            "Obligation:7 \"Keep records of all communications to demonstrate compliance.\"",
+            "Obligation:8 \"Consider the client categorization (e.g., Retail Client, Professional Client) when communicating.\"",
+            "Obligation:9 \"Include appropriate risk warnings and disclosures in communications and the Prospectus.\"",
+            "Obligation:10 \"Disclose any conflicts of interest that may affect the impartiality of the communication.\"",
+            "Obligation:11 \"Ensure staff involved in communication are adequately trained and competent.\"",
+            "Obligation:12 \"Take reasonable steps to ensure compliance with communication principles.\"",
+            "Obligation:13 \"Maintain documentation of compliance efforts, including records and processes.\"",
+            "Obligation:14 \"Regularly monitor compliance and update practices as needed.\"",
+            "Obligation:15 \"Remain responsible for compliance even if functions are outsourced.\""
+        ],
+        "NamedEntities": {
+            "funds": "artificial currency used as calculation basis for another currency(s) and accounting purposes"
+        },
+        "DefinedTerms": {
+            "Authorised Person": "Means a Person, other than a Recognised Body, who is authorised under the FSMR.",
+            "COBS": "Means the Conduct of Business module of the Rulebook.",
+            "FUNDS": "Means the Funds Rulebook.",
+            "Investment": "Means in relation to:\n(a)\tCOBS, means either of the following:\n(i)\ta Security; or\n\n(ii)\ta Derivative,\nunless otherwise specified\n(b)\tGEN and elsewhere, means Specified Investments set out in Part 3 of Schedule 1 of FSMR, unless otherwise specified.",
+            "Person": "Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state.",
+            "Prospectus": "Means a prospectus submitted in accordance with section 61 of FSMR.  In relation to Collective Investment Funds, a Prospectus refers to (where section 61 of FSMR does not apply):\n(a)\tan information memorandum;\n(b)\tan offering memorandum;\n(c)\ta private placement memorandum; or\n(d)\tany other similar document.",
+            "Rule": "Means any rule made by the Regulator or the Board, as applicable, in accordance with the procedures in Part 2 of FSMR.",
+            "Specified Investment": "Means an investment falling within paragraphs 85 to 99 of Schedule 1 of FSMR, without regard to any applicable exceptions or exemptions set out in that Schedule."
+        }
+    },
+    {
+        "ID": "9d6b00ad-3084-441c-9fa1-48a4c399098c",
+        "PassageID": "3.4",
+        "Passage": "Without limiting any requirements under COBS or FUNDS, the Regulator has developed the ADGM Green Fund Designation and the ADGM Climate Transition Fund Designation to indicate that a Fund pursuing Green or Climate Transition objectives purports to meet the Regulator\u2019s requirements for an ADGM Green Fund or an ADGM Climate Transition Fund. This includes seeking to meet the relevant Green Fund Investment Requirement or ADGM Climate Transition Fund Investment Requirement and taking measures to mitigate the risk of \u201cgreenwashing\u201d, which, for the purposes of this Guidance, means the practice of misrepresenting sustainability-related practices or the sustainability-related features of investment products.",
+        "Obligations": [
+            "Obligation:1 \"Ensure Compliance with COBS and FUNDS Rules**: Adhere to the Conduct of Business (COBS) rules and the Fund Rules (FUNDS) within ADGM.\"",
+            "Obligation:2 \"Meet Investment Requirements**:\n   - For Green Funds: Invest in assets with positive environmental outcomes that align with recognized green standards.\n   - For Climate Transition Funds: Invest in assets that support the transition to a lower carbon economy and align with climate transition benchmarks like the Paris Agreement.\"",
+            "Obligation:3 \"Mitigate Greenwashing Risks**: \n   - Accurately represent sustainability practices and features of your fund.\n   - Avoid misleading claims about environmental benefits.\n   - Implement robust governance and due diligence processes.\"",
+            "Obligation:4 \"Provide Transparency and Disclosure**: \n   - Offer clear information about the fund's sustainability objectives, strategies, and performance.\n   - Disclose how the fund meets ADGM requirements and addresses environmental risks and opportunities.\"",
+            "Obligation:5 \"Monitor and Report**: \n   - Establish regular monitoring and reporting processes to ensure adherence to Green or Climate Transition criteria.\n   - Conduct periodic assessments and audits for compliance.\"",
+            "Obligation:6 \"Engage with Regulators and Stakeholders**: \n   - Maintain communication with the ADGM Financial Services Regulatory Authority (FSRA) for updates and guidance.\n   - Engage with investors and other stakeholders to understand their expectations and communicate the fund's environmental strategies.\"",
+            "Obligation:7 \"Verification and Validation**: \n   - Obtain third-party verification or validation of the fund's green or climate transition credentials to enhance credibility.\"",
+            "Obligation:8 \"Regulatory Filings and Notifications**: \n   - Comply with filing or notification requirements set by the ADGM for Green or Climate Transition Fund designations.\"",
+            "Obligation:9 \"Conduct Due Diligence and Investment Analysis**: \n   - Perform thorough due diligence and investment analysis to ensure portfolio assets genuinely contribute to environmental objectives.\"",
+            "Obligation:10 \"Continuous Improvement**: \n    - Strive for continuous improvement in environmental performance and alignment with sustainability and climate transition best practices.\n\nIt is recommended to consult the full ADGM regulatory framework and seek professional advice to ensure comprehensive compliance with all obligations.\""
+        ],
+        "NamedEntities": {
+            "funds": "artificial currency used as calculation basis for another currency(s) and accounting purposes"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Climate Transition Fund": "Means a Fund that has received an ADGM Climate Transition Fund Designation from the Regulator.",
+            "ADGM Climate Transition Fund Designation": "Means the designation provided by the Regulator to an ADGM Climate Transition Fund pursuant to FUNDS 20.4.4 or 20.4.6.",
+            "ADGM Green Fund": "Means a Fund that has received an ADGM Green Fund Designation from the Regulator.",
+            "ADGM Green Fund Designation": "Means the designation provided by the Regulator to an ADGM Green Fund pursuant to either FUNDS 20.4.4 or 20.4.6.",
+            "Climate Transition Fund Investment Requirement": "Has the meaning given to it in FUNDS 20.3.2.",
+            "COBS": "Means the Conduct of Business module of the Rulebook.",
+            "Fund": "Means a Collective Investment Fund.",
+            "FUNDS": "Means the Funds Rulebook.",
+            "Green Fund Investment Requirement": "Has the meaning given to it in FUNDS 20.2.2.",
+            "Guidance": "Has the meaning given in section 15(2) of FSMR.",
+            "Investment": "Means in relation to:\n(a)\tCOBS, means either of the following:\n(i)\ta Security; or\n\n(ii)\ta Derivative,\nunless otherwise specified\n(b)\tGEN and elsewhere, means Specified Investments set out in Part 3 of Schedule 1 of FSMR, unless otherwise specified.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "5fe71c29-a6eb-4ad1-ba24-1c2d3ef7c027",
+        "PassageID": "3.5",
+        "Passage": "The purpose of the ADGM Green Fund Rules is to provide a framework for investment in assets whose activities are already environmentally sustainable, therefore helping to achieve local or global targets to reduce greenhouse gas emissions.",
+        "Obligations": [
+            "Obligation:1 \"Compliance with Green Criteria:**\n   - Ensure investments align with environmental sustainability criteria.\n   - Align the fund's objectives with local or global environmental targets.\"",
+            "Obligation:2 \"Disclosure and Reporting:**\n   - Provide detailed disclosures on investment strategy and sustainability criteria.\n   - Regularly report on the fund's green performance and environmental impact.\n   - Disclose methodologies for assessing environmental sustainability.\"",
+            "Obligation:3 \"Due Diligence:**\n   - Conduct thorough due diligence to verify genuine environmental contributions of investments and avoid greenwashing.\"",
+            "Obligation:4 \"Risk Management:**\n   - Develop and implement strategies to manage environmental risks.\n   - Mitigate the impact of environmental risks on investment returns.\"",
+            "Obligation:5 \"Governance:**\n   - Establish and maintain governance structures to oversee green investment strategy.\n   - Ensure management and decision-making processes prioritize environmental sustainability.\"",
+            "Obligation:6 \"Transparency:**\n   - Maintain transparency with investors regarding objectives, strategies, and performance.\n   - Communicate clearly about how the fund contributes to environmental sustainability.\"",
+            "Obligation:7 \"Certification and Standards:**\n   - Obtain certifications or recognition from relevant bodies to confirm sustainability credentials of investments.\"",
+            "Obligation:8 \"Training and Competence:**\n   - Provide training for staff to manage a green fund effectively under ADGM rules.\"",
+            "Obligation:9 \"Monitoring and Continuous Improvement:**\n   - Monitor investments and adjust strategies to ensure ongoing compliance and enhance environmental performance.\"",
+            "Obligation:10 \"Audit and Assurance:**\n    - Obtain independent verification that the fund meets Green Fund Criteria.\n    - Ensure green claims are auditable and based on reliable data.\"",
+            "Obligation:11 \"Operational Controls:**\n    - Implement internal controls to ensure operations align with green objectives.\n    - Maintain records demonstrating compliance with Green Fund Rules.\"",
+            "Obligation:12 \"Investor Relations:**\n    - Engage with investors about environmental strategies and address their inquiries and concerns.\"",
+            "Obligation:13 \"Regulatory Filings and Notifications:**\n    - Submit required documents to the FSRA in a timely manner.\n    - Notify the FSRA of any significant changes to the fund's green strategy or operations.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Green Fund": "Means a Fund that has received an ADGM Green Fund Designation from the Regulator.",
+            "ADGM Green Fund Rules": "Means FUNDS 20.2.",
+            "Fund": "Means a Collective Investment Fund."
+        }
+    },
+    {
+        "ID": "06699159-b0f9-4a7c-9e51-7f47d44f02b9",
+        "PassageID": "3.6",
+        "Passage": "The purpose of the ADGM Climate Transition Fund Rules is to provide a framework for investment in assets whose activities are not currently considered environmentally sustainable, in order to finance their transition to become so. This will also help to achieve local or global targets to reduce greenhouse gas emissions.",
+        "Obligations": [
+            "Obligation:1 \"Compliance with Regulatory Framework and Rules**: Ensure that the fund complies with the ADGM regulatory framework, the ADGM Climate Transition Fund Rules, other applicable ADGM regulations, and UAE laws.\"",
+            "Obligation:2 \"Fund Registration and Management**: Register the fund with the ADGM FSRA, manage the fund in accordance with its stated objectives, and select assets that align with the fund's purpose.\"",
+            "Obligation:3 \"Investment Strategy Development**: Develop and implement an investment strategy that supports the transition of assets to become environmentally sustainable.\"",
+            "Obligation:4 \"Due Diligence**: Perform thorough due diligence on potential investments to evaluate their environmental impact and transition potential.\"",
+            "Obligation:5 \"Disclosure, Reporting, and Transparency**: Provide clear, accurate, and transparent reporting on the fund\u2019s activities, strategies, performance, and environmental impact to investors, stakeholders, and the FSRA.\"",
+            "Obligation:6 \"Risk Management**: Implement effective risk management strategies to address risks associated with investing in transitioning assets.\"",
+            "Obligation:7 \"Governance**: Establish and maintain robust governance structures to oversee fund operations and ensure accountability.\"",
+            "Obligation:8 \"Stakeholder and Investor Engagement**: Engage with stakeholders and communicate with investors to ensure a shared understanding of the fund\u2019s objectives, progress, and management of expectations.\"",
+            "Obligation:9 \"Adherence to Environmental Targets**: Align the fund\u2019s investments with local and global targets for reducing greenhouse gas emissions, ensuring contributions are measurable and verifiable.\"",
+            "Obligation:10 \"Monitoring, Evaluation, and Adjustment**: Regularly monitor and evaluate the fund\u2019s environmental sustainability impact and adjust the strategy as necessary.\"",
+            "Obligation:11 \"Audit and Assurance**: Engage with auditors or third-party assurance providers to validate the fund's environmental impact claims and financial statements.\n\nFor precise obligations, it is recommended to refer to the actual text of the ADGM Climate Transition Fund Rules, consult with the FSRA, or seek legal advice.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Climate Transition Fund": "Means a Fund that has received an ADGM Climate Transition Fund Designation from the Regulator.",
+            "ADGM Climate Transition Fund Rules": "Means FUNDS 20.3.",
+            "Fund": "Means a Collective Investment Fund."
+        }
+    },
+    {
+        "ID": "209730f3-4046-4f23-94af-718fa0feb280",
+        "PassageID": "3.7",
+        "Passage": "A Fund which purports to meet the ADGM Green Fund Rules or ADGM Climate Transition Fund Rules (as applicable) may apply to the Regulator for the ADGM Green Fund Designation or ADGM Climate Transition Fund Designation. An ADGM Green Fund Designation or ADGM Climate Transition Fund Designation reflects that a Fund purports to adhere to the ADGM Green Fund Rules or ADGM Climate Transition Fund Rules (as applicable) and allows such a Fund to be listed on the Public Register as an ADGM Green Fund or ADGM Climate Transition Fund. It is not an assurance or guarantee from the Regulator that the Fund is in compliance with the applicable Rules. Funds granted an ADGM Green Fund Designation or ADGM Climate Transition Fund Designation may receive permission from the Regulator to use the ADGM Green Fund mark or ADGM Climate Transition Fund mark (as applicable).",
+        "Obligations": [
+            "Obligation:1 \"Adherence to Applicable Rules**: Ensure that the fund's investment strategy, operations, and disclosures are in alignment with the ADGM Green Fund Rules or ADGM Climate Transition Fund Rules.\"",
+            "Obligation:2 \"Application to the Regulator**: Submit a detailed application to the ADGM Financial Services Regulatory Authority (FSRA) demonstrating how the fund meets the criteria for the desired designation.\"",
+            "Obligation:3 \"Public Register Listing**: Maintain the standards required for listing on the Public Register as an ADGM Green Fund or ADGM Climate Transition Fund, ensuring ongoing adherence to the relevant rules.\"",
+            "Obligation:4 \"Use of Designation Mark**: Obtain permission from the Regulator to use the ADGM Green Fund mark or ADGM Climate Transition Fund mark in marketing and communications, adhering to any guidelines or restrictions.\"",
+            "Obligation:5 \"Ongoing Compliance**: Continuously monitor and update the fund's activities to ensure they align with the Green Fund or Climate Transition Fund Rules, including regular reporting to the Regulator.\"",
+            "Obligation:6 \"Disclosure and Transparency**: Provide clear, accurate, and transparent disclosures to investors and the public about the fund's strategies, risks, performance, and adherence to the green or climate transition criteria.\"",
+            "Obligation:7 \"Regulatory Engagement and Reporting**: Engage with the Regulator by providing required information or documentation, and submit periodic reports as necessary to demonstrate ongoing compliance.\"",
+            "Obligation:8 \"Investor Protection Measures**: Implement measures to protect investors, including clear disclosures about the fund's strategies and risks.\"",
+            "Obligation:9 \"Reassessment and Renewal**: Be prepared for periodic reassessment or renewal processes as required by the ADGM to maintain the designation.\"",
+            "Obligation:10 \"Revocation of Designation**: Understand that non-compliance or misconduct could lead to the revocation of the designation by the Regulator.\n\nIt is recommended to thoroughly understand the specific ADGM rules and seek professional advice to ensure full compliance with all regulatory obligations associated with the designation.\""
+        ],
+        "NamedEntities": {
+            "funds": "artificial currency used as calculation basis for another currency(s) and accounting purposes"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Climate Transition Fund": "Means a Fund that has received an ADGM Climate Transition Fund Designation from the Regulator.",
+            "ADGM Climate Transition Fund Designation": "Means the designation provided by the Regulator to an ADGM Climate Transition Fund pursuant to FUNDS 20.4.4 or 20.4.6.",
+            "ADGM Climate Transition Fund Rules": "Means FUNDS 20.3.",
+            "ADGM Green Fund": "Means a Fund that has received an ADGM Green Fund Designation from the Regulator.",
+            "ADGM Green Fund Designation": "Means the designation provided by the Regulator to an ADGM Green Fund pursuant to either FUNDS 20.4.4 or 20.4.6.",
+            "ADGM Green Fund Rules": "Means FUNDS 20.2.",
+            "Fund": "Means a Collective Investment Fund.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "2f4800a5-de0c-4936-8c34-8060fb34091e",
+        "PassageID": "3.8",
+        "Passage": "Upon receipt of permission from the Regulator, the Fund Manager and Persons engaged to promote the Fund may choose to use the ADGM Green Fund mark or the ADGM Climate Transition Fund mark in the Fund\u2019s Prospectus and related promotional materials to indicate to prospective investors that the Fund purports to meet the criteria of an ADGM Green Fund or an ADGM Climate Transition Fund. As a result, the requirements set out in chapter 20 of FUNDS will not apply to any Person that does not seek to obtain ADGM Green Fund Designation or the ADGM Climate Transition Fund Designation for a Fund. Fund Managers may choose not to use the ADGM Green Fund mark or the ADGM Climate Transition Fund mark in any marketing materials or Prospectus of a Fund, but they may do so, should they wish, if they are granted permission by the Regulator.",
+        "Obligations": [
+            "Obligation:1 \"Obtain permission from the ADGM Regulator before using the ADGM Green Fund mark or the ADGM Climate Transition Fund mark.\"",
+            "Obligation:2 \"Ensure the Fund meets the specific criteria set by the ADGM for Green Funds or Climate Transition Funds, including adherence to ESG standards or investment strategies.\"",
+            "Obligation:3 \"Use the ADGM Green Fund mark or the ADGM Climate Transition Fund mark in the Fund\u2019s Prospectus and related promotional materials only if granted permission.\"",
+            "Obligation:4 \"Accurately represent the Fund\u2019s adherence to the criteria for being designated as a Green Fund or Climate Transition Fund in all marketing materials, including the Prospectus.\"",
+            "Obligation:5 \"Maintain ongoing compliance with any conditions or ongoing reporting requirements associated with the use of the marks, as stipulated by the ADGM Regulator.\"",
+            "Obligation:6 \"Provide clear and transparent information to prospective investors about the Fund\u2019s strategies, objectives, and performance in relation to its green or climate transition criteria.\"",
+            "Obligation:7 \"Cease using the respective mark and inform the Regulator and investors if the Fund no longer meets the criteria.\"",
+            "Obligation:8 \"Be aware that the permission to use the marks may be revoked by the Regulator if there is a breach of regulatory requirements or the Fund no longer meets the criteria.\"",
+            "Obligation:9 \"Comply with all other applicable regulatory requirements within the ADGM, regardless of whether you seek the Green Fund or Climate Transition Fund Designation.\"",
+            "Obligation:10 \"Understand that the use of the marks is voluntary and at the discretion of the Fund Manager, provided that permission is granted by the Regulator.\"",
+            "Obligation:11 \"Recognize that if you choose not to seek the ADGM Green Fund Designation or the ADGM Climate Transition Fund Designation, the requirements in chapter 20 of the ADGM FUNDS regulations related to these designations do not apply.\""
+        ],
+        "NamedEntities": {
+            "fund manager": "The party that sets up the fund, decides the investment strategy, appoints the agents, and is responsible for the promotion and the marketing of the fund. It makes all of the important decisions related to the fund. Also called fund promotor or fund sponsor. This is a dupliucate of Fund Management Company at the moment",
+            "funds": "artificial currency used as calculation basis for another currency(s) and accounting purposes"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Climate Transition Fund": "Means a Fund that has received an ADGM Climate Transition Fund Designation from the Regulator.",
+            "ADGM Climate Transition Fund Designation": "Means the designation provided by the Regulator to an ADGM Climate Transition Fund pursuant to FUNDS 20.4.4 or 20.4.6.",
+            "ADGM Green Fund": "Means a Fund that has received an ADGM Green Fund Designation from the Regulator.",
+            "ADGM Green Fund Designation": "Means the designation provided by the Regulator to an ADGM Green Fund pursuant to either FUNDS 20.4.4 or 20.4.6.",
+            "Fund": "Means a Collective Investment Fund.",
+            "Fund Manager": "Means a Person responsible for the management of the property held for or within a Fund and who otherwise operates the Fund.",
+            "FUNDS": "Means the Funds Rulebook.",
+            "Person": "Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state.",
+            "Prospectus": "Means a prospectus submitted in accordance with section 61 of FSMR.  In relation to Collective Investment Funds, a Prospectus refers to (where section 61 of FSMR does not apply):\n(a)\tan information memorandum;\n(b)\tan offering memorandum;\n(c)\ta private placement memorandum; or\n(d)\tany other similar document.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "a08431c1-32ab-4a71-98df-6ee0ca2349cc",
+        "PassageID": "3.10",
+        "Passage": "However, the Regulator considers greenwashing to present a material risk to one or more of its objectives set out in FSMR. Furthermore, pursuant to section 117 of FSMR, the Regulator has the power to make a direction if the name of a Fund, Sub-Fund or class of Units in a Fund is undesirable or misleading.  Persons indicating that a Fund is pursuing green or climate transition objectives should therefore avoid using a name that suggests it is an ADGM Green Fund or ADGM Climate Transition Fund.\n",
+        "Obligations": [
+            "Obligation:1 \"Avoid Misleading Names**: Ensure that the name of the Fund, Sub-Fund, or class of Units is not misleading, especially when indicating green or climate transition objectives, and does not suggest designations like \"ADGM Green Fund\" unless it genuinely meets the criteria.\"",
+            "Obligation:2 \"Compliance with FSMR and FSRA Regulations**: Adhere to all relevant regulations, including the Financial Services and Markets Regulations (FSMR) and guidelines set forth by the Financial Services Regulatory Authority (FSRA), to prevent greenwashing and ensure accurate representation of fund characteristics.\"",
+            "Obligation:3 \"Transparency and Disclosure**: Provide clear, accurate, and transparent information about the Fund's objectives, investment strategies, and how it meets green or climate transition objectives, including compliance with any specific disclosure requirements related to ESG factors.\"",
+            "Obligation:4 \"Due Diligence**: Conduct thorough due diligence to ensure that the Fund's investments align with its stated objectives and that any claims of being a green or climate transition fund are substantiated by the Fund's activities and investments.\"",
+            "Obligation:5 \"Documentation and Evidence**: Maintain proper documentation and evidence to support the Fund's green or climate transition claims for regulatory review or investor inquiries.\"",
+            "Obligation:6 \"Monitoring and Reporting**: Establish processes for ongoing monitoring and reporting on the Fund's adherence to its green or climate transition objectives, including regular assessments and updates to investors and the regulator.\"",
+            "Obligation:7 \"Regulatory Directions**: Be prepared to comply with any directions from the Regulator, including changing the name of the Fund if it is deemed undesirable or misleading.\"",
+            "Obligation:8 \"Regulatory Engagement**: Proactively engage with the Regulator for clarification regarding the Fund's naming and marketing to ensure alignment with regulatory expectations and requirements.\"",
+            "Obligation:9 \"Risk Management**: Implement risk management strategies to address the risk of greenwashing and ensure that the Fund's operations align with regulatory objectives.\"",
+            "Obligation:10 \"Professional Advice**: Consider seeking professional advice to ensure full compliance with the regulatory framework and assist with the implementation of the above obligations.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Climate Transition Fund": "Means a Fund that has received an ADGM Climate Transition Fund Designation from the Regulator.",
+            "ADGM Green Fund": "Means a Fund that has received an ADGM Green Fund Designation from the Regulator.",
+            "FSMR": "Means the Financial Services and Markets Regulations 2015.",
+            "Fund": "Means a Collective Investment Fund.",
+            "Regulator": "Means the Financial Services Regulatory Authority.",
+            "Units": "Means the rights or interests (however described) of the Unitholders in a Collective Investment Fund."
+        }
+    },
+    {
+        "ID": "f92f7ce8-b759-4003-9d16-0c3e9c0b9b16",
+        "PassageID": "3.11",
+        "Passage": "Green Fund Investment Requirement. An ADGM Green Fund must invest in assets meeting the Green Fund Investment Requirement. Where a Fund solely invests in assets aligned with an Acceptable Green Taxonomy, the Regulator recognises that it may take time to acquire Eligible Green Fund Property. At a minimum, the Regulator expects that assets meeting the Green Fund Investment Requirement will constitute:\na)\tmore than 50% of the Fund\u2019s assets within two years of the date on which an ADGM Green Fund Designation is granted; and\nb)\t75% or more of the Fund\u2019s assets within five years of the date on which an ADGM Green Fund Designation is granted.",
+        "Obligations": [
+            "Obligation:1 \"Invest in Eligible Green Fund Property**: Ensure that the fund's investments are in assets that meet the criteria of the Green Fund Investment Requirement and are aligned with an Acceptable Green Taxonomy.\"",
+            "Obligation:2 \"Meet Investment Allocation Thresholds**:\n   - Within two years of the ADGM Green Fund Designation, allocate more than 50% of the fund's assets to Eligible Green Fund Property.\n   - Within five years of the designation, increase this allocation to 75% or more of the fund's assets.\"",
+            "Obligation:3 \"Establish Monitoring and Compliance Systems**: Implement systems and controls to monitor the fund's compliance with the Green Fund Investment Requirement and track the proportion of green investments.\"",
+            "Obligation:4 \"Conduct Regular Reporting**: Report to the ADGM Regulator on the fund's progress towards meeting the investment thresholds and any changes in the investment strategy.\"",
+            "Obligation:5 \"Maintain Documentation and Records**: Keep thorough documentation of all investments to demonstrate compliance with the Green Fund Investment Requirement.\"",
+            "Obligation:6 \"Perform Due Diligence**: Conduct due diligence on potential investments to verify that they qualify as Eligible Green Fund Property and are in line with an Acceptable Green Taxonomy.\"",
+            "Obligation:7 \"Disclose Investment Strategy to Investors**: Clearly communicate to investors the fund's strategy and timeline for meeting the Green Fund Investment Requirement and provide regular updates.\"",
+            "Obligation:8 \"Engage with the ADGM Regulator**: Maintain open communication with the ADGM Regulator to ensure ongoing compliance and address any regulatory concerns.\"",
+            "Obligation:9 \"Adjust Investment Strategy if Necessary**: Be prepared to modify the fund's investment strategy to meet the Green Fund Investment Requirement within the specified timeframes.\"",
+            "Obligation:10 \"Stay Informed of Regulatory Changes**: Keep updated with any changes in the regulatory framework or additional guidance provided by the ADGM Regulator that may affect the fund's obligations.\n\nNote: Adherence to these action items is crucial to avoid regulatory action, including fines, revocation of the Green Fund Designation, or other enforcement measures.\""
+        ],
+        "DefinedTerms": {
+            "Acceptable Green Taxonomy": "Means a classification system that determines which economic activities are environmentally sustainable using credible and independent accreditation standards, that is published by a governmental body or a reputable industry association and freely available.",
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Green Fund": "Means a Fund that has received an ADGM Green Fund Designation from the Regulator.",
+            "ADGM Green Fund Designation": "Means the designation provided by the Regulator to an ADGM Green Fund pursuant to either FUNDS 20.4.4 or 20.4.6.",
+            "Eligible Green Fund Property": "Means an asset or assets that meet the criteria in FUNDS 20.2.3.",
+            "Fund": "Means a Collective Investment Fund.",
+            "Fund Property": "Means the property held for or within a Fund.\nFund Return \tThe return described in CIB 2.3.5(5).",
+            "Green Fund Investment Requirement": "Has the meaning given to it in FUNDS 20.2.2.",
+            "Investment": "Means in relation to:\n(a)\tCOBS, means either of the following:\n(i)\ta Security; or\n\n(ii)\ta Derivative,\nunless otherwise specified\n(b)\tGEN and elsewhere, means Specified Investments set out in Part 3 of Schedule 1 of FSMR, unless otherwise specified.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "118f5d04-8d88-4fce-a513-2b6f395f4c2b",
+        "PassageID": "3.12",
+        "Passage": "Green Fund Investment Requirement. Where a Fund invests solely in assets included in, or which track, an EU Paris Aligned Benchmark, the Regulator expects that such assets will constitute 75% or more of the Fund\u2019s assets as soon as practicable upon receipt of an ADGM Green Fund Designation.\n\n",
+        "Obligations": [
+            "Obligation:1 \"Investment Allocation**: Invest at least 75% of the Fund's assets in investments that are included in, or track, an EU Paris Aligned Benchmark.\"",
+            "Obligation:2 \"Timeliness**: Achieve the 75% investment allocation as soon as practicable after receiving the ADGM Green Fund Designation, with a clear strategy and timeline.\"",
+            "Obligation:3 \"Compliance Monitoring**: Establish and maintain systems to continuously monitor compliance with the 75% investment threshold and make necessary portfolio adjustments.\"",
+            "Obligation:4 \"Reporting**: Report to the ADGM Regulator on the Fund's compliance with the green investment requirement, including progress towards and maintenance of the 75% threshold.\"",
+            "Obligation:5 \"Disclosure**: Clearly communicate to investors the Fund's investment strategy and its alignment with the EU Paris Aligned Benchmark, including progress towards meeting the green investment requirement.\"",
+            "Obligation:6 \"Due Diligence**: Conduct due diligence to verify that the assets qualify as being included in, or tracking, an EU Paris Aligned Benchmark.\"",
+            "Obligation:7 \"Risk Management**: Implement risk management policies to address risks associated with the investment strategy, particularly the concentration risk due to the 75% allocation towards green assets.\"",
+            "Obligation:8 \"Governance**: Ensure that the Fund's governance structure supports compliance with the Green Fund Designation requirements.\"",
+            "Obligation:9 \"Continuous Assessment**: Regularly assess the Fund's portfolio to ensure ongoing compliance with the 75% investment requirement as the Fund's assets evolve.\"",
+            "Obligation:10 \"Regulatory Updates**: Stay updated on any changes to ADGM regulations or the EU Paris Aligned Benchmark that could impact compliance obligations.\n\nIt is recommended to consult the full ADGM regulatory framework or seek professional advice to ensure full understanding and compliance with all the implications and requirements associated with the Green Fund Designation.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Green Fund": "Means a Fund that has received an ADGM Green Fund Designation from the Regulator.",
+            "ADGM Green Fund Designation": "Means the designation provided by the Regulator to an ADGM Green Fund pursuant to either FUNDS 20.4.4 or 20.4.6.",
+            "Benchmark": "Has the meaning given in section 258 of FSMR.",
+            "EU Paris Aligned Benchmark": "Hs the meaning given to it in Regulation (EU) 2016/1011 as may be amended from time to time.",
+            "Fund": "Means a Collective Investment Fund.",
+            "Green Fund Investment Requirement": "Has the meaning given to it in FUNDS 20.2.2.",
+            "Investment": "Means in relation to:\n(a)\tCOBS, means either of the following:\n(i)\ta Security; or\n\n(ii)\ta Derivative,\nunless otherwise specified\n(b)\tGEN and elsewhere, means Specified Investments set out in Part 3 of Schedule 1 of FSMR, unless otherwise specified.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "a07399ea-1892-4917-8f7d-94b66f29e2e5",
+        "PassageID": "3.13",
+        "Passage": "Climate Transition Fund Investment Requirement. An ADGM Climate Transition Fund must invest in assets meeting the Climate Transition Fund Investment Requirement. The Regulator recognises that it may take time to acquire Eligible Climate Transition Fund Property. At a minimum, the Regulator expects that assets meeting the Climate Transition Fund Investment Requirement will constitute:\na)\tMore than 50% of the Fund\u2019s assets within two years of the date on which an ADGM Climate Transition Fund Designation is granted; and\nb)\t75% or more of the Fund\u2019s assets within five years of the date on which an ADGM Climate Transition Fund Designation is granted.",
+        "Obligations": [
+            "Obligation:1 \"Develop and Implement Investment Strategy**:\n   - Formulate a strategy to identify, evaluate, and invest in assets that support climate transition.\n   - Ensure the strategy reflects the commitment to meet the investment thresholds.\"",
+            "Obligation:2 \"Meet Investment Thresholds**:\n   - Invest more than 50% of the Fund's assets in Eligible Climate Transition Fund Property within two years of designation.\n   - Increase this to 75% or more within five years of designation.\"",
+            "Obligation:3 \"Monitor Compliance and Report**:\n   - Establish systems and controls to monitor compliance with investment thresholds.\n   - Report the Fund's progress and compliance to the Regulator as required.\"",
+            "Obligation:4 \"Conduct Due Diligence**:\n   - Perform thorough due diligence to ensure assets qualify as Eligible Climate Transition Fund Property and align with the Fund's criteria and objectives.\"",
+            "Obligation:5 \"Maintain Records**:\n   - Keep accurate and detailed records of all investments, including the rationale for their eligibility and the Fund's asset allocation over time.\"",
+            "Obligation:6 \"Communicate with Investors**:\n   - Disclose the Fund's investment strategy, timeline, and progress towards meeting the investment thresholds to investors.\n   - Inform investors of any material changes affecting the Fund's ability to meet the investment requirements.\"",
+            "Obligation:7 \"Engage with Regulator**:\n   - Proactively contact the Regulator in case of challenges, uncertainties, or anticipated difficulties in meeting the obligations.\n   - Seek guidance or clarification from the Regulator as needed.\"",
+            "Obligation:8 \"Manage Risks**:\n   - Implement risk management practices specific to climate transition investments and compliance with investment thresholds.\n   - Consider market conditions, liquidity, and other investment risks during asset transition.\"",
+            "Obligation:9 \"Review and Adjust Portfolio**:\n   - Regularly review the Fund's portfolio and make necessary adjustments to maintain ongoing compliance with the investment thresholds.\n\nBy following these consolidated action items, the management of an ADGM Climate Transition Fund can ensure compliance with regulatory expectations and maintain the Fund's designation.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Climate Transition Fund": "Means a Fund that has received an ADGM Climate Transition Fund Designation from the Regulator.",
+            "ADGM Climate Transition Fund Designation": "Means the designation provided by the Regulator to an ADGM Climate Transition Fund pursuant to FUNDS 20.4.4 or 20.4.6.",
+            "Climate Transition Fund Investment Requirement": "Has the meaning given to it in FUNDS 20.3.2.",
+            "Eligible Climate Transition Fund Property": "Means an asset or assets that meet the criteria in FUNDS 20.3.3.",
+            "Fund": "Means a Collective Investment Fund.",
+            "Fund Property": "Means the property held for or within a Fund.\nFund Return \tThe return described in CIB 2.3.5(5).",
+            "Investment": "Means in relation to:\n(a)\tCOBS, means either of the following:\n(i)\ta Security; or\n\n(ii)\ta Derivative,\nunless otherwise specified\n(b)\tGEN and elsewhere, means Specified Investments set out in Part 3 of Schedule 1 of FSMR, unless otherwise specified.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "ea6d0643-c870-4f7d-8be4-a13f13eff159",
+        "PassageID": "3.14",
+        "Passage": "Climate Transition Fund Investment Requirement. However, where a Fund solely invests in assets included in, or which track, a Climate Transition Benchmark, the Regulator expects that such assets will constitute 75% or more of the Fund\u2019s assets as soon as practicable upon receipt of an ADGM Climate Transition Fund Designation.\n\n",
+        "Obligations": [
+            "Obligation:1 \"Align Investment Strategy with Climate Transition Benchmark**: Ensure that the fund's investment strategy is aligned with a recognized Climate Transition Benchmark, with at least 75% of the fund's assets invested in accordance with this benchmark.\"",
+            "Obligation:2 \"Achieve Asset Allocation Threshold Promptly**: Act quickly to meet the 75% investment threshold in climate transition assets as soon as practicable after receiving the ADGM Climate Transition Fund Designation.\"",
+            "Obligation:3 \"Maintain Ongoing Compliance**: Regularly monitor and rebalance the fund's portfolio to maintain at least 75% investment in climate transition assets and ensure ongoing compliance with the benchmark.\"",
+            "Obligation:4 \"Document Investment Strategy**: Clearly document the investment strategy and the process for meeting the Climate Transition Benchmark criteria, making this information accessible to investors and the regulator.\"",
+            "Obligation:5 \"Conduct Due Diligence**: Perform thorough due diligence on potential investments to confirm their genuine alignment with the Climate Transition Benchmark and their substantive environmental benefits.\"",
+            "Obligation:6 \"Manage Risks**: Implement risk management practices to address the specific risks associated with climate transition assets and the fund's investment concentration in these assets.\"",
+            "Obligation:7 \"Report and Disclose**: Provide regular reports to the ADGM regulator and clearly disclose to investors the fund's strategy, its alignment with the Climate Transition Benchmark, and any implications for the fund's investment strategy.\"",
+            "Obligation:8 \"Communicate with Investors**: Clearly communicate to investors the nature of the Climate Transition Benchmark and how the fund's assets align with this benchmark.\"",
+            "Obligation:9 \"Engage with Regulator**: Proactively engage with the ADGM regulator, especially in cases of challenges or delays in meeting the investment requirement, and keep the regulator informed of progress towards compliance.\"",
+            "Obligation:10 \"Ensure Proper Governance**: Verify that the fund's governance structure is capable of supporting the oversight and management of compliance with the Climate Transition Fund requirements.\n\nNote: These action items are based on the provided information and should be considered within the full scope of the ADGM regulatory framework. Additional consultation with the regulations or professional advice may be necessary for comprehensive compliance.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Climate Transition Fund": "Means a Fund that has received an ADGM Climate Transition Fund Designation from the Regulator.",
+            "ADGM Climate Transition Fund Designation": "Means the designation provided by the Regulator to an ADGM Climate Transition Fund pursuant to FUNDS 20.4.4 or 20.4.6.",
+            "Benchmark": "Has the meaning given in section 258 of FSMR.",
+            "Climate Transition Fund Investment Requirement": "Has the meaning given to it in FUNDS 20.3.2.",
+            "Fund": "Means a Collective Investment Fund.",
+            "Investment": "Means in relation to:\n(a)\tCOBS, means either of the following:\n(i)\ta Security; or\n\n(ii)\ta Derivative,\nunless otherwise specified\n(b)\tGEN and elsewhere, means Specified Investments set out in Part 3 of Schedule 1 of FSMR, unless otherwise specified.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "3b74cfa7-4ea6-49f3-845d-1e8906c5b76a",
+        "PassageID": "3.15",
+        "Passage": "Fund Manager\u2019s Report. FUNDS Rule 16.4.7 sets out the items that must be included in the Fund Manager\u2019s annual report. These include any information which would enable Unitholders to make an informed judgement on the development and results of activities of the Fund during the relevant period. For a Fund that is an ADGM Green Fund or an ADGM Climate Transition Fund, a Fund Manager must pay particular attention to information explaining the development of the activities of the Fund during the period and the results of those activities in achieving the Fund\u2019s green or climate transition objectives as at the end of the period. This should include making reference to compliance with the Green Fund Investment Requirement or the Climate Transition Fund Investment Requirement. The Fund Manager\u2019s report should include additional information on the nature and composition of the Fund Property, including information on Fund Property considered to constitute Eligible Green Fund Property or Eligible Climate Transition Fund Property.\n\n",
+        "Obligations": [
+            "Obligation:1 \"General Information**:\n   - Provide comprehensive information to enable Unitholders to make informed judgments about the Fund's development and results during the reporting period.\"",
+            "Obligation:2 \"Green or Climate Transition Objectives**:\n   - Detail the development and results of the Fund's activities in relation to achieving its green or climate transition objectives by the end of the reporting period.\"",
+            "Obligation:3 \"Compliance with Investment Requirements**:\n   - Reference and confirm the Fund's compliance with the Green Fund Investment Requirement or the Climate Transition Fund Investment Requirement, as applicable.\"",
+            "Obligation:4 \"Nature and Composition of Fund Property**:\n   - Offer additional information on the nature and composition of the Fund Property.\n   - Highlight and provide details on the Fund Property that qualifies as Eligible Green Fund Property or Eligible Climate Transition Fund Property.\"",
+            "Obligation:5 \"Report Preparation**:\n   - Ensure the annual report is comprehensive, clear, and accurate, covering all aspects of the Fund's performance and activities.\n   - Include both quantitative and qualitative assessments of the Fund's investments in relation to the green or climate transition criteria.\n   - Maintain transparency about the Fund's adherence to the specific investment requirements that define it as a Green Fund or Climate Transition Fund.\n   - Provide a detailed breakdown of the Fund's assets, especially those classified as Eligible Green Fund Property or Eligible Climate Transition Fund Property, and explain the criteria used for this classification.\"",
+            "Obligation:6 \"Report Presentation**:\n   - Keep the report user-friendly while meeting all regulatory requirements.\n   - Include relevant disclosures to help Unitholders assess the Fund's environmental sustainability impact.\"",
+            "Obligation:7 \"Due Diligence**:\n   - Prepare the annual report with due diligence to reflect the Fund's commitment to its green or climate transition objectives and compliance with ADGM regulations.\""
+        ],
+        "NamedEntities": {
+            "fund manager": "The party that sets up the fund, decides the investment strategy, appoints the agents, and is responsible for the promotion and the marketing of the fund. It makes all of the important decisions related to the fund. Also called fund promotor or fund sponsor. This is a dupliucate of Fund Management Company at the moment",
+            "funds": "artificial currency used as calculation basis for another currency(s) and accounting purposes"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Climate Transition Fund": "Means a Fund that has received an ADGM Climate Transition Fund Designation from the Regulator.",
+            "ADGM Green Fund": "Means a Fund that has received an ADGM Green Fund Designation from the Regulator.",
+            "Climate Transition Fund Investment Requirement": "Has the meaning given to it in FUNDS 20.3.2.",
+            "Eligible Climate Transition Fund Property": "Means an asset or assets that meet the criteria in FUNDS 20.3.3.",
+            "Eligible Green Fund Property": "Means an asset or assets that meet the criteria in FUNDS 20.2.3.",
+            "Fund": "Means a Collective Investment Fund.",
+            "Fund Manager": "Means a Person responsible for the management of the property held for or within a Fund and who otherwise operates the Fund.",
+            "Fund Property": "Means the property held for or within a Fund.\nFund Return \tThe return described in CIB 2.3.5(5).",
+            "FUNDS": "Means the Funds Rulebook.",
+            "Green Fund Investment Requirement": "Has the meaning given to it in FUNDS 20.2.2.",
+            "Investment": "Means in relation to:\n(a)\tCOBS, means either of the following:\n(i)\ta Security; or\n\n(ii)\ta Derivative,\nunless otherwise specified\n(b)\tGEN and elsewhere, means Specified Investments set out in Part 3 of Schedule 1 of FSMR, unless otherwise specified.",
+            "Rule": "Means any rule made by the Regulator or the Board, as applicable, in accordance with the procedures in Part 2 of FSMR."
+        }
+    },
+    {
+        "ID": "c21de826-a487-4c40-822f-5e98b5aaddfa",
+        "PassageID": "4.",
+        "Passage": "ADGM GREEN AND ADGM CLIMATE TRANSITION PORTFOLIOS",
+        "Obligations": [],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market."
+        }
+    },
+    {
+        "ID": "ceb282ee-091c-4858-b003-2622caffc311",
+        "PassageID": "4.1",
+        "Passage": "COBS Rule 3.2.1 requires an Authorised Person to take reasonable steps to ensure that all communications to a Person in relation to a Regulated Activity are clear, fair and not misleading.",
+        "Obligations": [
+            "Obligation:1 \"Ensure Clarity**: Make all communications understandable, avoiding technical jargon unless appropriate for the audience, and present information in a straightforward manner.\"",
+            "Obligation:2 \"Maintain Fairness**: Provide balanced information in communications, including both benefits and risks, without bias or undue influence.\"",
+            "Obligation:3 \"Avoid Misleading Information**: Do not deceive or omit important facts in communications; ensure all claims are accurate and substantiated.\"",
+            "Obligation:4 \"Keep Information Accurate and Up-to-date**: Regularly review and update communications to reflect current and correct information.\"",
+            "Obligation:5 \"Tailor Communications Appropriately**: Consider the knowledge and experience of the target audience and adjust the complexity of the message accordingly.\"",
+            "Obligation:6 \"Comply with Regulatory Requirements**: Adhere to all ADGM regulations, including disclosure requirements, marketing restrictions, and product-specific rules.\"",
+            "Obligation:7 \"Maintain Records**: Keep detailed records of all communications related to Regulated Activities for compliance monitoring and evidentiary purposes.\"",
+            "Obligation:8 \"Implement Review and Approval Processes**: Establish procedures for the review and approval of communications by competent individuals or teams.\"",
+            "Obligation:9 \"Include Risk Warnings and Disclosures**: Clearly incorporate any required risk warnings or disclosures in a prominent manner.\"",
+            "Obligation:10 \"Identify Promotional Material**: Clearly label any communication that is promotional in nature.\"",
+            "Obligation:11 \"Conduct Regular Training**: Provide ongoing training for staff involved in drafting and disseminating communications to ensure awareness and compliance with COBS Rule 3.2.1.\"",
+            "Obligation:12 \"Take Reasonable Steps for Compliance**: Develop and enforce policies and procedures, and monitor communications to ensure they meet regulatory standards.\"",
+            "Obligation:13 \"Provide Comprehensive Product Information**: Offer sufficient details about financial products or services, including costs, charges, and terms and conditions.\n\nBy following these consolidated action items, an Authorised Person will be in compliance with COBS Rule 3.2.1 and uphold the integrity and standards required by the ADGM's financial regulatory framework. Non-compliance could lead to regulatory consequences such as fines, sanctions, or loss of authorization within the ADGM.\""
+        ],
+        "DefinedTerms": {
+            "Authorised Person": "Means a Person, other than a Recognised Body, who is authorised under the FSMR.",
+            "COBS": "Means the Conduct of Business module of the Rulebook.",
+            "Person": "Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state.",
+            "Regulated Activity": "Has the meaning given in section 19 of FSMR.",
+            "Rule": "Means any rule made by the Regulator or the Board, as applicable, in accordance with the procedures in Part 2 of FSMR."
+        }
+    },
+    {
+        "ID": "76c32d02-fd08-463b-8677-d1337209b5e9",
+        "PassageID": "4.2",
+        "Passage": "The purpose of the ADGM Green Portfolio Rules is to provide a framework for investment in assets whose activities are already environmentally sustainable, therefore helping to achieve local or global targets to reduce greenhouse gas emissions.  The ADGM Green Portfolio Rules only apply to a Model Portfolio offered to one or more Retail Clients.",
+        "Obligations": [
+            "Obligation:1 \"Ensure Compliance with Green Criteria/Framework**: Verify that investments within the Green Portfolio adhere to the ADGM's criteria or framework for environmentally sustainable activities.\"",
+            "Obligation:2 \"Provide Clear Disclosure to Retail Clients**: Offer transparent information to Retail Clients about the Green Portfolio's selection criteria, environmental objectives, and alignment with environmental targets.\"",
+            "Obligation:3 \"Maintain Transparency and Reporting**: Regularly report on the Green Portfolio's environmental impact, including greenhouse gas emissions profile, sustainability of investments, and progress towards environmental targets.\"",
+            "Obligation:4 \"Conduct Due Diligence**: Perform ongoing due diligence to ensure the assets in the Green Portfolio continue to meet environmental sustainability criteria.\"",
+            "Obligation:5 \"Implement Risk Management Strategies**: Develop and apply risk management processes to address risks specific to environmentally sustainable investments.\"",
+            "Obligation:6 \"Ensure Accurate Marketing Materials**: Create marketing materials that truthfully represent the Green Portfolio's environmental sustainability and avoid misleading claims or \"greenwashing.\"\"",
+            "Obligation:7 \"Comply with Regulatory Filings and Notifications**: Fulfill all filing or notification requirements with the ADGM, including reporting on new or changed Green Portfolios.\"",
+            "Obligation:8 \"Train and Maintain Staff Competence**: Guarantee that staff managing or selling the Green Portfolio are trained and competent to understand and communicate its environmental aspects and investment strategy.\"",
+            "Obligation:9 \"Assess Client Suitability**: Evaluate whether the Green Portfolio suits each Retail Client's investment objectives, risk tolerance, and understanding of environmental investments.\"",
+            "Obligation:10 \"Establish Governance Structures**: Set up governance frameworks to oversee and manage the Green Portfolio in line with ADGM rules.\"",
+            "Obligation:11 \"Monitor Ongoing Compliance**: Continuously monitor the Green Portfolio to ensure it remains compliant with the ADGM Green Portfolio Rules and the investments uphold the stated environmental sustainability criteria.\"",
+            "Obligation:12 \"Act in Client's Best Interest**: Ensure that the Green Portfolio aligns with the Retail Clients' best interests, investment objectives, and risk tolerance.\"",
+            "Obligation:13 \"Maintain Professional Competence**: Keep the necessary knowledge and skills to manage a Green Portfolio and advise clients on such investments effectively.\n\n*Note: It is crucial to refer to the actual ADGM Green Portfolio Rules for a comprehensive understanding of obligations and to consult with a compliance professional or legal advisor for full regulatory compliance.*\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Green Portfolio": "Means a Model Portfolio that has received an ADGM Green Portfolio Designation from the Regulator.",
+            "ADGM Green Portfolio Rules": "Means COBS 3.8.2 to 3.8.9",
+            "Model Portfolio": "Means a portfolio of segregated holdings managed on a discretionary basis by an Investment Manager where all Clients in a particular profile or model receive the same portfolios and are traded and adjusted at the same time and in the same way, but with each Client having a separate Discretionary Portfolio Management Agreement in place with the relevant Investment Manager."
+        }
+    },
+    {
+        "ID": "3fd923c5-4f79-41a2-9652-15b3d508b758",
+        "PassageID": "4.3",
+        "Passage": "The purpose of the ADGM Climate Transition Portfolio Rules is to provide a framework for investment in assets whose activities are not currently considered environmentally sustainable, in order to finance their transition to become so. This will also help to achieve local or global targets to reduce greenhouse gas emissions.  The ADGM Climate Transition Portfolio Rules only apply to a Model Portfolio offered to one or more Retail Clients.",
+        "Obligations": [
+            "Obligation:1 \"Align with Framework**: Ensure that the investment strategy and portfolio management practices comply with the ADGM Climate Transition Portfolio Rules.\"",
+            "Obligation:2 \"Conduct Due Diligence**: Perform thorough due diligence on assets to assess their environmental sustainability and potential for transition.\"",
+            "Obligation:3 \"Develop Investment Strategy**: Create an investment strategy focused on financing the transition of assets to become environmentally sustainable.\"",
+            "Obligation:4 \"Disclose Information**: Provide clear, transparent, and comprehensive information to Retail Clients about the investment nature, strategies, risks, and intended outcomes regarding environmental sustainability.\"",
+            "Obligation:5 \"Monitor and Report Progress**: Regularly monitor the progress of assets towards environmental sustainability and report this progress to stakeholders, including Retail Clients and the ADGM regulatory authorities.\"",
+            "Obligation:6 \"Risk Management**: Implement appropriate risk management processes to address financial and environmental risks.\"",
+            "Obligation:7 \"Client Communication and Suitability**: Ensure Retail Clients are informed about the risks and potential returns, and confirm that the Model Portfolio is suitable for them based on their investment objectives, risk tolerance, and financial situation.\"",
+            "Obligation:8 \"Adhere to Emission Reduction Targets**: Review and ensure the portfolio's alignment with local or global targets for reducing greenhouse gas emissions.\"",
+            "Obligation:9 \"Regulatory Filings and Notifications**: Submit necessary reports and notifications to the ADGM Financial Services Regulatory Authority (FSRA) as required.\"",
+            "Obligation:10 \"Professional Conduct and Governance**: Act professionally and fairly in the best interest of Retail Clients and establish governance structures to oversee the portfolio management in compliance with the rules.\"",
+            "Obligation:11 \"Transparency**: Maintain transparency in all communications with Retail Clients and the regulator.\"",
+            "Obligation:12 \"Staff Training**: Ensure that staff involved in the management and distribution of the Model Portfolio are adequately trained on the ADGM Climate Transition Portfolio Rules and environmental sustainability principles.\n\n*Note*: These action items are based on the provided information and should be cross-referenced with the actual ADGM Climate Transition Portfolio Rules for accuracy and completeness. Legal advice or direct consultation with ADGM regulatory authorities is recommended for a comprehensive understanding of specific obligations.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Climate Transition Portfolio": "Means a Model Portfolio that complies with the ADGM Climate Transition Portfolio Rules.",
+            "ADGM Climate Transition Portfolio Rules": "Means COBS 3.8.10 to 3.8.18",
+            "Model Portfolio": "Means a portfolio of segregated holdings managed on a discretionary basis by an Investment Manager where all Clients in a particular profile or model receive the same portfolios and are traded and adjusted at the same time and in the same way, but with each Client having a separate Discretionary Portfolio Management Agreement in place with the relevant Investment Manager."
+        }
+    },
+    {
+        "ID": "b4cb9ffb-e006-420e-aaea-8faea2a7f22a",
+        "PassageID": "4.4",
+        "Passage": "A Model Portfolio which meets the ADGM Green Portfolio Rules or ADGM Climate Transition Portfolio Rules may apply to the Regulator for an ADGM Green Portfolio Designation or ADGM Climate Transition Portfolio Designation, as applicable. An ADGM Green Portfolio Designation or ADGM Climate Transition Portfolio Designation reflects that a Model Portfolio purports to adhere to the ADGM Green Portfolio Rules or ADGM Climate Transition Portfolio Rules respectively. It is not an assurance or guarantee from the Regulator that a Model Portfolio is in compliance with the applicable Rules. Model Portfolios granted an ADGM Green Portfolio Designation or ADGM Climate Transition Portfolio Designation may receive permission from the Regulator to use the ADGM Green Portfolio mark or ADGM Climate Transition Portfolio mark (as appropriate).",
+        "Obligations": [
+            "Obligation:1 \"Ensure Compliance:**\n   - Ensure that the Model Portfolio meets all criteria and guidelines of the ADGM Green Portfolio Rules or ADGM Climate Transition Portfolio Rules.\"",
+            "Obligation:2 \"Apply for Designation:**\n   - Submit an application to the ADGM Regulator for the Green Portfolio Designation or Climate Transition Portfolio Designation, with necessary documentation.\"",
+            "Obligation:3 \"Accurate Representation:**\n   - Accurately represent the Model Portfolio's adherence to the applicable rules in all communications and applications.\"",
+            "Obligation:4 \"Use of ADGM Mark:**\n   - Use the ADGM Green Portfolio mark or ADGM Climate Transition Portfolio mark in accordance with Regulator guidelines upon receiving the designation.\"",
+            "Obligation:5 \"Maintain Ongoing Compliance:**\n   - Regularly monitor and adjust the Model Portfolio to ensure ongoing compliance with the rules.\"",
+            "Obligation:6 \"Reporting and Disclosure:**\n   - Submit periodic reports and make disclosures to the Regulator and stakeholders about the Model Portfolio's compliance and the significance of the designation.\"",
+            "Obligation:7 \"Engage with Regulator:**\n   - Cooperate and respond to the Regulator's reviews, audits, inquiries, or requests for information regarding compliance.\"",
+            "Obligation:8 \"Transparency with Stakeholders:**\n   - Clearly communicate to investors and stakeholders that the designation is not an assurance or guarantee from the Regulator.\"",
+            "Obligation:9 \"Prepare for Potential Revocation:**\n   - Understand that the designation may be revoked if the Model Portfolio fails to comply with the rules, and cease using the ADGM marks if revoked.\"",
+            "Obligation:10 \"Record-Keeping:**\n    - Maintain comprehensive records of all documentation and actions taken to ensure compliance with the rules.\n\nBy following these action items, you will be working towards fulfilling your obligations for maintaining an ADGM Green Portfolio Designation or ADGM Climate Transition Portfolio Designation.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Climate Transition Portfolio": "Means a Model Portfolio that complies with the ADGM Climate Transition Portfolio Rules.",
+            "ADGM Climate Transition Portfolio Designation": "Means the designation provided by the Regulator to an ADGM Climate Transition Portfolio pursuant to COBS 3.8.22.",
+            "ADGM Climate Transition Portfolio Rules": "Means COBS 3.8.10 to 3.8.18",
+            "ADGM Green Portfolio": "Means a Model Portfolio that has received an ADGM Green Portfolio Designation from the Regulator.",
+            "ADGM Green Portfolio Designation": "Means the designation provided by the Regulator to an ADGM Green Portfolio pursuant to COBS 3.8.19 to 3.8.22.",
+            "ADGM Green Portfolio Rules": "Means COBS 3.8.2 to 3.8.9",
+            "Model Portfolio": "Means a portfolio of segregated holdings managed on a discretionary basis by an Investment Manager where all Clients in a particular profile or model receive the same portfolios and are traded and adjusted at the same time and in the same way, but with each Client having a separate Discretionary Portfolio Management Agreement in place with the relevant Investment Manager.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "44316cbb-4c54-4c21-80e8-a9f2a854bc03",
+        "PassageID": "4.5",
+        "Passage": "Authorised Persons may elect to use the ADGM Green Portfolio mark or the ADGM Climate Transition Portfolio mark to indicate to actual or prospective Clients that the Model Portfolio meets the criteria of an ADGM Green Portfolio or an ADGM Climate Transition Portfolio.",
+        "Obligations": [
+            "Obligation:1 \"Compliance with Criteria**:\n   - Ensure the Model Portfolio adheres to the ADGM-established criteria for classification as a Green or Climate Transition Portfolio.\n   - Understand and align investments with the environmental sustainability or climate transition requirements.\"",
+            "Obligation:2 \"Disclosure and Transparency**:\n   - Provide clear, accurate, and comprehensive information to clients about the portfolio's compliance with the criteria.\n   - Disclose any material changes that could affect the portfolio's classification.\"",
+            "Obligation:3 \"Due Diligence**:\n   - Conduct thorough due diligence to verify investments align with the green or climate transition criteria.\n   - Regularly review the portfolio to ensure ongoing compliance.\"",
+            "Obligation:4 \"Monitoring, Reporting, and Regulatory Filings**:\n   - Monitor the portfolio regularly for ongoing compliance and report to the ADGM FSRA as required.\n   - Provide periodic updates to clients on the portfolio's performance and alignment with the objectives.\n   - File necessary documentation with the regulator, especially before using the marks or when significant changes occur.\"",
+            "Obligation:5 \"Record Keeping**:\n   - Maintain comprehensive records to demonstrate compliance and support any claims regarding the portfolio's characteristics.\"",
+            "Obligation:6 \"Marketing and Communications**:\n   - Ensure marketing materials and communications accurately reflect the portfolio's compliance and do not mislead clients.\"",
+            "Obligation:7 \"Training and Competence**:\n   - Train relevant staff to manage the portfolio according to the criteria and understand the implications of using the ADGM marks.\"",
+            "Obligation:8 \"Client Agreements and Documentation**:\n   - Update client agreements and documentation to reflect the use of the ADGM marks and associated obligations.\"",
+            "Obligation:9 \"Risk Management**:\n   - Implement risk management processes to manage risks associated with maintaining the portfolio's alignment with the criteria.\"",
+            "Obligation:10 \"Adherence to Regulatory Framework**:\n   - Follow all relevant ADGM regulations and guidelines applicable to Authorised Persons, including conduct of business, risk management, and client protection.\"",
+            "Obligation:11 \"Consultation and Legal Advice**:\n   - Consult the specific ADGM regulations or seek legal advice to ensure full compliance with all applicable requirements.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Climate Transition Portfolio": "Means a Model Portfolio that complies with the ADGM Climate Transition Portfolio Rules.",
+            "ADGM Green Portfolio": "Means a Model Portfolio that has received an ADGM Green Portfolio Designation from the Regulator.",
+            "Model Portfolio": "Means a portfolio of segregated holdings managed on a discretionary basis by an Investment Manager where all Clients in a particular profile or model receive the same portfolios and are traded and adjusted at the same time and in the same way, but with each Client having a separate Discretionary Portfolio Management Agreement in place with the relevant Investment Manager."
+        }
+    },
+    {
+        "ID": "dada34c1-a4e5-4d6b-968f-122561c572d9",
+        "PassageID": "4.6",
+        "Passage": "Authorised Persons are not required under FSMR or applicable Rules to use the ADGM Green Portfolio mark or the ADGM Climate Transition Portfolio mark in any marketing materials or Discretionary Portfolio Management Agreement relating to a Model Portfolio.",
+        "Obligations": [
+            "Obligation:1 \"No Mandatory Use**: You are not obligated to use the ADGM Green Portfolio mark or the ADGM Climate Transition Portfolio mark in your marketing materials or Discretionary Portfolio Management Agreements.\"",
+            "Obligation:2 \"Compliance with Voluntary Use**: If you choose to use the ADGM marks voluntarily, ensure compliance with any guidelines, standards, or criteria set by ADGM for their use.\"",
+            "Obligation:3 \"Accurate Representation**: When using the marks, accurately represent the environmental or climate-related aspects of the portfolios to avoid misleading investors.\"",
+            "Obligation:4 \"Adherence to General Regulations**: Maintain compliance with all relevant ADGM regulations and rules applicable to your activities as an Authorised Person, including those related to marketing, disclosures, and portfolio management.\"",
+            "Obligation:5 \"Stay Informed**: Regularly update yourself with any changes in the ADGM regulatory framework or guidance that may affect the use of these marks or other aspects of your operations.\""
+        ],
+        "NamedEntities": {
+            "agreement": "negotiated understanding between two or more parties, reflecting the offer and acceptance of commitments on the part of either party"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Climate Transition Portfolio": "Means a Model Portfolio that complies with the ADGM Climate Transition Portfolio Rules.",
+            "ADGM Green Portfolio": "Means a Model Portfolio that has received an ADGM Green Portfolio Designation from the Regulator.",
+            "Discretionary Portfolio Management Agreement": "Means an agreement under which an Authorised Person agrees with a Client to manage an investment portfolio for that particular Client in accordance with pre agreed investment parameters in that agreement and where:\n(a)\tthe Client's approval of any specific Transaction is not required before undertaking the Transaction; and\n(b)\tthe assets of the Client are discretely held for that Client and no pooling of those assets occurs with the assets of any other Person, except purely for transactional purposes.",
+            "FSMR": "Means the Financial Services and Markets Regulations 2015.",
+            "Model Portfolio": "Means a portfolio of segregated holdings managed on a discretionary basis by an Investment Manager where all Clients in a particular profile or model receive the same portfolios and are traded and adjusted at the same time and in the same way, but with each Client having a separate Discretionary Portfolio Management Agreement in place with the relevant Investment Manager."
+        }
+    },
+    {
+        "ID": "f6bd3fce-f796-4b1f-979e-2e906767a74e",
+        "PassageID": "4.7",
+        "Passage": "As a result, the requirements set out in COBS section 3.8 will not apply to any Person that does not seek to obtain the ADGM Green Portfolio Designation or the ADGM Climate Transition Portfolio Designation. However, the Regulator considers greenwashing to present a material risk to its objectives as set out in FSMR. Authorised Persons electing not to obtain the ADGM Green Portfolio Designation or the ADGM Climate Transition Portfolio Designation and that otherwise indicate that a Model Portfolio is pursuing green or climate transition objectives should avoid using a name that suggests it is an ADGM Green Portfolio or ADGM Climate Transition Portfolio.\n\n",
+        "Obligations": [
+            "Obligation:1 \"Avoid Misrepresentation (Greenwashing):** Ensure that you do not mislead investors or the market by implying that your Model Portfolio is pursuing green or climate transition objectives when this is not the case.\"",
+            "Obligation:2 \"Naming Conventions:** Refrain from using names for your Model Portfolio that suggest it is an ADGM Green Portfolio or ADGM Climate Transition Portfolio without the respective designation.\"",
+            "Obligation:3 \"Compliance with FSMR:** Adhere to the broader regulatory framework set out in the Financial Services and Markets Regulations (FSMR), including principles of integrity, transparency, and protecting the interests of clients and investors.\"",
+            "Obligation:4 \"Risk Management:** Implement appropriate risk management processes to identify, assess, and manage the risks associated with misrepresenting your products or services.\"",
+            "Obligation:5 \"Disclosure and Transparency:** Ensure that all communications, marketing materials, fund prospectuses, and periodic reports to investors and the public are clear, fair, and not misleading.\"",
+            "Obligation:6 \"Regulatory Updates:** Stay updated on any changes to the regulatory framework or guidance issued by the ADGM Financial Services Regulatory Authority (FSRA), especially concerning ESG factors.\"",
+            "Obligation:7 \"Accurate Representation:** Provide clear and substantiated information about how your Model Portfolio meets environmental or climate transition objectives, if claimed.\"",
+            "Obligation:8 \"Regular Review and Monitoring:** Continuously review and monitor your Model Portfolio to ensure alignment with stated green or climate transition objectives and adjust as necessary.\"",
+            "Obligation:9 \"Disclosure Requirements:** Comply with any applicable disclosure requirements for your financial products or services, regardless of whether they seek specific ADGM designations.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Climate Transition Portfolio": "Means a Model Portfolio that complies with the ADGM Climate Transition Portfolio Rules.",
+            "ADGM Climate Transition Portfolio Designation": "Means the designation provided by the Regulator to an ADGM Climate Transition Portfolio pursuant to COBS 3.8.22.",
+            "ADGM Green Portfolio": "Means a Model Portfolio that has received an ADGM Green Portfolio Designation from the Regulator.",
+            "ADGM Green Portfolio Designation": "Means the designation provided by the Regulator to an ADGM Green Portfolio pursuant to COBS 3.8.19 to 3.8.22.",
+            "COBS": "Means the Conduct of Business module of the Rulebook.",
+            "FSMR": "Means the Financial Services and Markets Regulations 2015.",
+            "Model Portfolio": "Means a portfolio of segregated holdings managed on a discretionary basis by an Investment Manager where all Clients in a particular profile or model receive the same portfolios and are traded and adjusted at the same time and in the same way, but with each Client having a separate Discretionary Portfolio Management Agreement in place with the relevant Investment Manager.",
+            "Person": "Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "dc21c8ad-1563-4109-97a6-6e5d1a72c639",
+        "PassageID": "4.9",
+        "Passage": "Green Portfolio Investment Requirement. An ADGM Green Portfolio must invest predominantly in assets meeting the Green Portfolio Investment Requirement, i.e. assets which meet the definition of an Eligible Green Portfolio Asset in COBS Rule 3.8.4. However, where a Model Portfolio solely invests in assets aligned with an Acceptable Green Taxonomy, the Regulator is cognisant that it may take time to acquire Eligible Green Portfolio Assets. At a minimum, the Regulator expects that Green Taxonomy-aligned assets meeting the Green Portfolio Investment Requirement will constitute:\na)\tMore than 50% of the Model Portfolio\u2019s assets within two years of the date on which an ADGM Green Portfolio Designation is granted; and\nb)\t75% or more of the Model Portfolio\u2019s assets within five years of the date on which an ADGM Green Portfolio Designation is granted.",
+        "Obligations": [
+            "Obligation:1 \"Invest Predominantly in Eligible Green Portfolio Assets**: Ensure that the majority of the portfolio's assets qualify as Eligible Green Portfolio Assets according to COBS Rule 3.8.4.\"",
+            "Obligation:2 \"Compliance with Green Taxonomy**: Verify that investments align with an Acceptable Green Taxonomy and meet the definitions and requirements for being environmentally sustainable.\"",
+            "Obligation:3 \"Meet Minimum Investment Thresholds**: \n   - Within two years of the Green Portfolio Designation, at least 50% of the portfolio's assets must comply with the Green Portfolio Investment Requirement.\n   - Within five years of the designation, this must increase to 75% or more.\"",
+            "Obligation:4 \"Monitoring and Adjusting Portfolio**: Actively monitor and adjust the portfolio to ensure that the investment thresholds are met within the required timeframes.\"",
+            "Obligation:5 \"Record-Keeping**: Maintain accurate and comprehensive records of all investments and due diligence processes to demonstrate ongoing compliance with the Green Portfolio Investment Requirement.\"",
+            "Obligation:6 \"Reporting and Disclosure**: Report to the ADGM Regulator on the portfolio's compliance with the Green Portfolio Investment Requirement and provide evidence that the assets meet the criteria of Eligible Green Portfolio Assets.\"",
+            "Obligation:7 \"Regulatory Engagement**: Regularly engage with the ADGM Regulator for updates or changes to the regulations and adjust the portfolio management strategy as necessary.\"",
+            "Obligation:8 \"Due Diligence**: Conduct thorough due diligence to confirm that investments are aligned with an Acceptable Green Taxonomy and qualify as Eligible Green Portfolio Assets.\"",
+            "Obligation:9 \"Establish Policies and Procedures**: Develop internal policies and procedures to ensure continuous compliance with the Green Portfolio Investment Requirement.\"",
+            "Obligation:10 \"Stay Informed**: Keep up to date with the latest ADGM regulations and guidelines to ensure the portfolio remains compliant with the current standards.\n\nIt is critical to adhere to these action items to avoid regulatory actions by the ADGM Financial Services Regulatory Authority (FSRA).\""
+        ],
+        "DefinedTerms": {
+            "Acceptable Green Taxonomy": "Means a classification system that determines which economic activities are environmentally sustainable using credible and independent accreditation standards, that is published by a governmental body or a reputable industry association and freely available.",
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Green Portfolio": "Means a Model Portfolio that has received an ADGM Green Portfolio Designation from the Regulator.",
+            "ADGM Green Portfolio Designation": "Means the designation provided by the Regulator to an ADGM Green Portfolio pursuant to COBS 3.8.19 to 3.8.22.",
+            "Assets": "Means, unless specified otherwise, collateral held to cover positions and includes the right to the transfer of assets equivalent to that collateral or the proceeds of the realisation of any collateral, but does not include Default Fund Contributions.",
+            "COBS": "Means the Conduct of Business module of the Rulebook.",
+            "Eligible Green Portfolio Asset": "Means an asset that meets the criteria in COBS 3.8.4.",
+            "Green Portfolio Investment Requirement": "Has the meaning given to it in COBS 3.8.3.",
+            "Investment": "Means in relation to:\n(a)\tCOBS, means either of the following:\n(i)\ta Security; or\n\n(ii)\ta Derivative,\nunless otherwise specified\n(b)\tGEN and elsewhere, means Specified Investments set out in Part 3 of Schedule 1 of FSMR, unless otherwise specified.",
+            "Model Portfolio": "Means a portfolio of segregated holdings managed on a discretionary basis by an Investment Manager where all Clients in a particular profile or model receive the same portfolios and are traded and adjusted at the same time and in the same way, but with each Client having a separate Discretionary Portfolio Management Agreement in place with the relevant Investment Manager.",
+            "Regulator": "Means the Financial Services Regulatory Authority.",
+            "Rule": "Means any rule made by the Regulator or the Board, as applicable, in accordance with the procedures in Part 2 of FSMR."
+        }
+    },
+    {
+        "ID": "a0ba1561-ed82-4f1c-b720-5aab374d2c18",
+        "PassageID": "4.10",
+        "Passage": "Green Portfolio Investment Requirement. Where Eligible Green Portfolio Assets solely constitute assets included in or tracking an EU Paris Aligned Benchmark, the Regulator expects that such assets will constitute 75% or more of the Model Portfolio\u2019s assets as soon as practicable upon receipt of an ADGM Green Portfolio Designation.\n",
+        "Obligations": [
+            "Obligation:1 \"Asset Composition and Eligibility**: Ensure that at least 75% of the Model Portfolio\u2019s assets are Eligible Green Portfolio Assets that are included in or tracking an EU Paris Aligned Benchmark, aligning with the criteria set out in the EU Paris Agreement for climate change mitigation.\"",
+            "Obligation:2 \"Timeliness**: Promptly achieve the 75% asset composition threshold as soon as practicable upon receiving the ADGM Green Portfolio Designation.\"",
+            "Obligation:3 \"Ongoing Compliance**: Continuously monitor and maintain the portfolio to ensure that the 75% threshold of Eligible Green Portfolio Assets is consistently met for the duration of holding the Green Portfolio Designation.\"",
+            "Obligation:4 \"Reporting and Disclosure**: Regularly report to the Regulator on the portfolio's composition, demonstrating compliance with the EU Paris Aligned Benchmark criteria, and disclose relevant information as required by ADGM regulations.\"",
+            "Obligation:5 \"Due Diligence**: Conduct thorough due diligence on the portfolio's assets to confirm they meet the EU Paris Aligned Benchmark criteria and contribute to climate change mitigation.\"",
+            "Obligation:6 \"Risk Management**: Develop and implement risk management strategies to address potential risks associated with maintaining a high threshold of green assets, including market volatility, regulatory changes, and evolving definitions of green assets.\"",
+            "Obligation:7 \"Stakeholder and Regulatory Engagement**: Engage with stakeholders, including investors and the ADGM Regulator, to communicate the portfolio's compliance with green investment criteria and clarify any regulatory obligations or ambiguities.\"",
+            "Obligation:8 \"Consultation**: Seek professional advice or consult directly with the ADGM Regulator when in doubt or to obtain further clarification on financial regulatory compliance within the ADGM jurisdiction.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Green Portfolio": "Means a Model Portfolio that has received an ADGM Green Portfolio Designation from the Regulator.",
+            "ADGM Green Portfolio Designation": "Means the designation provided by the Regulator to an ADGM Green Portfolio pursuant to COBS 3.8.19 to 3.8.22.",
+            "Assets": "Means, unless specified otherwise, collateral held to cover positions and includes the right to the transfer of assets equivalent to that collateral or the proceeds of the realisation of any collateral, but does not include Default Fund Contributions.",
+            "Benchmark": "Has the meaning given in section 258 of FSMR.",
+            "EU Paris Aligned Benchmark": "Hs the meaning given to it in Regulation (EU) 2016/1011 as may be amended from time to time.",
+            "Green Portfolio Investment Requirement": "Has the meaning given to it in COBS 3.8.3.",
+            "Investment": "Means in relation to:\n(a)\tCOBS, means either of the following:\n(i)\ta Security; or\n\n(ii)\ta Derivative,\nunless otherwise specified\n(b)\tGEN and elsewhere, means Specified Investments set out in Part 3 of Schedule 1 of FSMR, unless otherwise specified.",
+            "Model Portfolio": "Means a portfolio of segregated holdings managed on a discretionary basis by an Investment Manager where all Clients in a particular profile or model receive the same portfolios and are traded and adjusted at the same time and in the same way, but with each Client having a separate Discretionary Portfolio Management Agreement in place with the relevant Investment Manager.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "a724fc86-a160-4a86-bc9c-c47812da7afa",
+        "PassageID": "4.11",
+        "Passage": "Climate Transition Portfolio Investment Requirement. An ADGM Climate Transition Portfolio must invest predominantly in assets meeting the Climate Transition Portfolio Investment Requirement. The Regulator is cognisant that it may take time to acquire certain Eligible Climate Transition Portfolio Assets. At a minimum, the Regulator expects that assets meeting the Climate Transition Portfolio Investment Requirement will constitute:\na)\tMore than 50% of the Model Portfolio\u2019s assets within two years of the date on which an ADGM Climate Transition Portfolio Designation is granted; and\nb)\t75% or more of the Model Portfolio\u2019s assets within five years of the date on which an ADGM Climate Transition Portfolio Designation is granted.",
+        "Obligations": [
+            "Obligation:1 \"Meet Initial Investment Threshold**: Within two years of receiving the ADGM Climate Transition Portfolio Designation, ensure that over 50% of the Model Portfolio's assets are Eligible Climate Transition Portfolio Assets.\"",
+            "Obligation:2 \"Meet Increased Investment Threshold**: Within five years of the designation date, increase the proportion of Eligible Climate Transition Portfolio Assets to 75% or more of the Model Portfolio's assets.\"",
+            "Obligation:3 \"Conduct Due Diligence for Asset Selection and Management**: Perform due diligence to identify and select assets that qualify as Eligible Climate Transition Portfolio Assets and manage the portfolio in alignment with the Climate Transition Portfolio Investment Requirement.\"",
+            "Obligation:4 \"Establish Monitoring and Reporting Systems**: Monitor the portfolio's compliance with the investment thresholds and report to the regulator as required, including periodic reporting on the portfolio's asset composition and compliance status.\"",
+            "Obligation:5 \"Adjust and Rebalance Portfolio**: If the portfolio does not meet the required thresholds, adjust the holdings by acquiring more Eligible Climate Transition Portfolio Assets or divesting from non-compliant assets.\"",
+            "Obligation:6 \"Stay Informed and Comply with Regulatory Changes**: Keep up to date with any additional guidance or changes to the regulations related to the Climate Transition Portfolio Investment Requirement and ensure compliance with all relevant ADGM regulations and guidelines.\"",
+            "Obligation:7 \"Engage with the Regulator**: Maintain open communication with the Regulator, especially regarding challenges in meeting the investment requirements, and seek guidance or clarification as needed.\"",
+            "Obligation:8 \"Maintain Documentation and Record-Keeping**: Keep thorough records of all investments, due diligence processes, and decisions related to the Climate Transition Portfolio to demonstrate compliance with the investment requirements.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Climate Transition Portfolio": "Means a Model Portfolio that complies with the ADGM Climate Transition Portfolio Rules.",
+            "ADGM Climate Transition Portfolio Designation": "Means the designation provided by the Regulator to an ADGM Climate Transition Portfolio pursuant to COBS 3.8.22.",
+            "Assets": "Means, unless specified otherwise, collateral held to cover positions and includes the right to the transfer of assets equivalent to that collateral or the proceeds of the realisation of any collateral, but does not include Default Fund Contributions.",
+            "Climate Transition Portfolio Investment Requirement": "Has the meaning given to it in COBS 3.8.11.",
+            "Investment": "Means in relation to:\n(a)\tCOBS, means either of the following:\n(i)\ta Security; or\n\n(ii)\ta Derivative,\nunless otherwise specified\n(b)\tGEN and elsewhere, means Specified Investments set out in Part 3 of Schedule 1 of FSMR, unless otherwise specified.",
+            "Model Portfolio": "Means a portfolio of segregated holdings managed on a discretionary basis by an Investment Manager where all Clients in a particular profile or model receive the same portfolios and are traded and adjusted at the same time and in the same way, but with each Client having a separate Discretionary Portfolio Management Agreement in place with the relevant Investment Manager.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "72636a47-1a7d-48d3-86d5-3492268e276e",
+        "PassageID": "4.12",
+        "Passage": "Climate Transition Portfolio Investment Requirement. However, where a Model Portfolio solely invests in assets included in, or which track, a Climate Transition Benchmark, the Regulator expects that such assets will constitute 75% or more of the Model Portfolio\u2019s assets as soon as practicable upon receipt of an ADGM Climate Transition Portfolio Designation.\n",
+        "Obligations": [
+            "Obligation:1 \"Ensure that 75% or more of the Model Portfolio's assets are invested in assets that are included in, or which track, a Climate Transition Benchmark.\"",
+            "Obligation:2 \"Achieve the 75% asset allocation threshold as soon as practicable upon receipt of the ADGM Climate Transition Portfolio Designation.\"",
+            "Obligation:3 \"Maintain the 75% investment threshold in climate transition-aligned assets on an ongoing basis.\"",
+            "Obligation:4 \"Conduct due diligence to verify that the assets included in the portfolio align with the criteria for a Climate Transition Benchmark.\"",
+            "Obligation:5 \"Continuously monitor the portfolio to ensure ongoing compliance with the ADGM regulatory expectations, including rebalancing as necessary.\"",
+            "Obligation:6 \"Document all investment decisions, due diligence processes, compliance efforts, and strategies related to the Climate Transition Portfolio requirements.\"",
+            "Obligation:7 \"Report regularly to the ADGM Regulator on the portfolio's composition, changes to the assets, and the benchmarks being tracked.\"",
+            "Obligation:8 \"Communicate clearly to investors about the Climate Transition Portfolio requirements, the alignment with the Climate Transition Benchmark, and the nature of the investments.\"",
+            "Obligation:9 \"Implement risk management strategies to address the risks associated with climate transition within the portfolio.\"",
+            "Obligation:10 \"Stay informed about any updates or changes to the ADGM's regulatory expectations regarding Climate Transition Portfolios and engage proactively with the Regulator for clarification and guidance.\n\nThese action items are synthesized from the provided responses and are intended to ensure compliance with the ADGM's regulatory framework for Climate Transition Portfolios. It is recommended to consult the relevant ADGM regulations and guidelines or seek professional advice for a comprehensive understanding of all obligations.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Climate Transition Portfolio": "Means a Model Portfolio that complies with the ADGM Climate Transition Portfolio Rules.",
+            "ADGM Climate Transition Portfolio Designation": "Means the designation provided by the Regulator to an ADGM Climate Transition Portfolio pursuant to COBS 3.8.22.",
+            "Benchmark": "Has the meaning given in section 258 of FSMR.",
+            "Climate Transition Portfolio Investment Requirement": "Has the meaning given to it in COBS 3.8.11.",
+            "Investment": "Means in relation to:\n(a)\tCOBS, means either of the following:\n(i)\ta Security; or\n\n(ii)\ta Derivative,\nunless otherwise specified\n(b)\tGEN and elsewhere, means Specified Investments set out in Part 3 of Schedule 1 of FSMR, unless otherwise specified.",
+            "Model Portfolio": "Means a portfolio of segregated holdings managed on a discretionary basis by an Investment Manager where all Clients in a particular profile or model receive the same portfolios and are traded and adjusted at the same time and in the same way, but with each Client having a separate Discretionary Portfolio Management Agreement in place with the relevant Investment Manager.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "9704149a-55b3-4737-a6de-0c42267e91ca",
+        "PassageID": "5.",
+        "Passage": "ADGM GREEN AND ADGM SUSTAINABILITY-LINKED DEBENTURES AND SUKUKS",
+        "Obligations": [],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market."
+        }
+    },
+    {
+        "ID": "c56f3532-2884-4d65-94ee-388ce4d12301",
+        "PassageID": "5.1",
+        "Passage": "Section 4.15 of the Markets Rules (\u201cMKT\u201d) sets out the detailed requirements that apply to an ADGM Issuer seeking an ADGM Green Bond Designation or ADGM Sustainability-Linked Bond Designation for an applicable debenture.",
+        "Obligations": [
+            "Obligation:1 \"Develop a Framework or Policy:**\n   - Create and disclose a bond framework or policy detailing the use of proceeds and the environmental or sustainability objectives.\"",
+            "Obligation:2 \"External Review and Verification:**\n   - Obtain an external review or verification from a third party to confirm alignment with recognized green or sustainability bond principles and criteria.\"",
+            "Obligation:3 \"Use of Proceeds:**\n   - Ensure that proceeds are exclusively used for projects with environmental benefits (Green Bonds) or projects meeting sustainability performance targets (Sustainability-Linked Bonds).\n   - Establish a process for project evaluation and selection that aligns with the disclosed framework or policy.\n   - Implement a mechanism for managing proceeds, such as a separate account or tracking method, to allocate funds to eligible projects.\"",
+            "Obligation:4 \"Reporting and Disclosure:**\n   - Provide regular reports on the allocation of proceeds and the environmental or sustainability impact of funded projects, typically annually until fully allocated.\n   - Maintain transparency throughout the bond's lifecycle, including any changes to the use of proceeds or funded projects.\n   - Disclose information enabling investors to assess the bond's environmental or sustainability performance.\"",
+            "Obligation:5 \"Ongoing Compliance and Governance:**\n   - Comply with ongoing requirements to ensure that funded projects continue to meet designated green or sustainability criteria.\n   - Establish and maintain governance structures to oversee the management of bond proceeds and their intended use.\"",
+            "Obligation:6 \"Market Conduct:**\n   - Adhere to general market conduct rules, such as avoiding misleading statements and ensuring fair dealing with investors.\"",
+            "Obligation:7 \"Non-Compliance Procedures:**\n   - Have procedures in place for addressing non-compliance with the bond framework or if funded projects do not achieve expected outcomes.\"",
+            "Obligation:8 \"Framework Alignment:**\n   - Align bond issuance with international frameworks or principles, such as the Green Bond Principles, Climate Bonds Standard, or Sustainability-Linked Bond Principles.\n\nFor specific obligations under Section 4.15 of the MKT, refer to the actual text of the regulation.\""
+        ],
+        "NamedEntities": {
+            "bond": "tradable debt instrument representing a loan in which the issuer owes the holder(s) a debt",
+            "green bond": "bond issued specifically to fund climate or environmental projects",
+            "issuer": "party that issues (or proposes to issue in a formal filing) a financial instrument"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Green Bond Designation": "Means the designation provided by the Regulator to an ADGM Green Debenture pursuant to MKT 4.15.7 to 4.15.11.",
+            "ADGM Sustainability-Linked Bond Designation": "Means the designation provided by the Regulator to an ADGM Sustainability-Linked Debenture pursuant to MKT 4.15.7 to 4.15.11.",
+            "Issuer": "In relation to:\n(a)\tany Security other than a Unit in a Collective Investment Fund, means the Person by whom it is or is to be issued;\n(b)\ta Unit in a Collective Investment Fund, means the Fund Manager; and\n(c)\tan interest in a Limited Liability Partnership, means the Partnership.",
+            "MKT": "Means the Markets Rules."
+        }
+    },
+    {
+        "ID": "dd27804d-1dc0-4692-9e1e-f62c8cdcfbcf",
+        "PassageID": "5.2",
+        "Passage": "The Rules in MKT section 4.15 are in addition to the requirements that apply to the Offer of Securities in or from the ADGM, including Prospectus disclosure under MKT.",
+        "Obligations": [
+            "Obligation:1 \"Prepare a Prospectus**: Draft a Prospectus that meets the disclosure requirements set out in the MKT rules, providing all necessary information for investors.\"",
+            "Obligation:2 \"Submit Prospectus for Approval**: Submit the Prospectus to the ADGM Financial Services Regulatory Authority (FSRA) for review and approval before publication.\"",
+            "Obligation:3 \"Ensure Consistency in Marketing**: Ensure that all marketing materials, advertisements, and promotional activities are consistent with the information in the Prospectus and are not misleading.\"",
+            "Obligation:4 \"Ongoing Reporting and Notification**: Maintain ongoing reporting and notification obligations to the FSRA, including informing them of significant changes that affect the securities or the issuer.\"",
+            "Obligation:5 \"Compliance with MKT Section 4.15**: Adhere to any additional specific provisions detailed in MKT section 4.15, which may include further disclosure requirements, eligibility criteria for investors, and other regulatory obligations.\"",
+            "Obligation:6 \"Market Conduct**: Monitor activities to prevent market abuse, such as insider trading or market manipulation.\"",
+            "Obligation:7 \"Record Keeping**: Keep accurate and comprehensive records of all documents and communications related to the offer of securities.\"",
+            "Obligation:8 \"Conduct Due Diligence**: Perform due diligence to ensure the accuracy and completeness of all information provided to investors and the FSRA.\"",
+            "Obligation:9 \"Assess Investor Eligibility and Suitability**: Determine the eligibility of investors and assess whether the securities are suitable or appropriate for them, based on their classification (e.g., retail or professional).\"",
+            "Obligation:10 \"Consult Regulatory Text or Experts**: Review the full text of MKT section 4.15 for specific obligations and consult with compliance professionals or legal advisors if clarification or assistance is needed.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "MKT": "Means the Markets Rules.",
+            "Offer": "Means:\n(a)\tin relation to Securities other than Units, an offer of Securities falling within Part 6 of FSMR; and\n(b)\tin relation to Units, an offer of Units falling outside Part 6 of FSMR.",
+            "Offer of Securities": "Has the meaning given in section 258 of FSMR.",
+            "Prospectus": "Means a prospectus submitted in accordance with section 61 of FSMR.  In relation to Collective Investment Funds, a Prospectus refers to (where section 61 of FSMR does not apply):\n(a)\tan information memorandum;\n(b)\tan offering memorandum;\n(c)\ta private placement memorandum; or\n(d)\tany other similar document."
+        }
+    },
+    {
+        "ID": "48bcaa58-c3a9-4d7f-8042-bfb462cf2949",
+        "PassageID": "5.3",
+        "Passage": "COBS Rule 3.2.1 requires an Authorised Person to take reasonable steps to ensure that any communication to a Person in relation to a Specified Investment is clear, fair and not misleading. Similarly, chapter 4 of MKT sets out the requirements on a Person who makes or intends to make an Offer of Securities in ADGM. Without limiting any requirements under COBS or MKT, the Regulator has developed the ADGM Green Bond Designation and the ADGM Sustainability-Linked Bond Designation to indicate that an ADGM Issuer is issuing a debenture that it asserts is in accordance with Qualifying Green Debenture Principles or Qualifying Sustainability-Linked Debenture Principles.",
+        "Obligations": [
+            "Obligation:1 \"Clear, Fair, and Not Misleading Communications:**\n   - Ensure all communications with clients or potential clients regarding Specified Investments are clear, fair, and not misleading.\n   - Provide information in an understandable manner appropriate for the intended audience.\n   - Present risks and downsides with at least equal prominence as benefits.\"",
+            "Obligation:2 \"Offer of Securities Compliance:**\n   - Comply with MKT Chapter 4 requirements when making or intending to make an Offer of Securities.\n   - Prepare and have a Prospectus approved by the FSRA before making an offer to the public or admitting securities to trading on a regulated market.\n   - Ensure the Prospectus contains necessary information for investors to assess the issuer and the securities offered.\"",
+            "Obligation:3 \"Green Bond and Sustainability-Linked Bond Obligations:**\n   - If issuing Green Bonds or Sustainability-Linked Bonds, ensure compliance with the respective ADGM Designation guidelines and principles.\n   - Use proceeds for environmental projects (Green Bonds) or meet sustainability performance targets (Sustainability-Linked Bonds).\n   - Maintain transparency in reporting and use of proceeds or performance against sustainability objectives.\"",
+            "Obligation:4 \"General Compliance:**\n   - Maintain ongoing compliance with all relevant ADGM regulations and guidelines.\n   - Implement and regularly update internal policies and procedures to meet regulatory obligations.\n   - Train staff on regulatory requirements and ensure they understand and apply them.\"",
+            "Obligation:5 \"Regulatory Reporting and Disclosure:**\n   - Regularly report to the FSRA as required by the regulatory framework.\n   - Timely and accurately disclose information to investors and the market.\"",
+            "Obligation:6 \"Due Diligence:**\n   - Conduct due diligence to ensure all disclosed information in the context of an Offer of Securities is accurate and complete.\"",
+            "Obligation:7 \"Consultation and Legal Advice:**\n   - Consult the actual text of the COBS, MKT, and any FSRA guidance for a comprehensive understanding of obligations.\n   - Seek legal or compliance advice to ensure full adherence to regulations.\""
+        ],
+        "NamedEntities": {
+            "bond": "tradable debt instrument representing a loan in which the issuer owes the holder(s) a debt",
+            "green bond": "bond issued specifically to fund climate or environmental projects",
+            "issuer": "party that issues (or proposes to issue in a formal filing) a financial instrument"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Green Bond Designation": "Means the designation provided by the Regulator to an ADGM Green Debenture pursuant to MKT 4.15.7 to 4.15.11.",
+            "ADGM Sustainability-Linked Bond Designation": "Means the designation provided by the Regulator to an ADGM Sustainability-Linked Debenture pursuant to MKT 4.15.7 to 4.15.11.",
+            "Authorised Person": "Means a Person, other than a Recognised Body, who is authorised under the FSMR.",
+            "COBS": "Means the Conduct of Business module of the Rulebook.",
+            "Debenture": "Means an instrument creating or acknowledging indebtedness, whether secured or not, but excludes:\n(a)\tan instrument creating or acknowledging indebtedness for, or for money borrowed to defray, the consideration payable under a contract for the supply of goods or services;\n(b)\ta cheque or other bill of exchange, a banker's draft or a letter of credit (but not a bill of exchange accepted by a banker);\n(c)\ta banknote, a statement showing a balance on a bank account, or a lease or other disposition of property; and\n(d)\ta Contract of Insurance.",
+            "Investment": "Means in relation to:\n(a)\tCOBS, means either of the following:\n(i)\ta Security; or\n\n(ii)\ta Derivative,\nunless otherwise specified\n(b)\tGEN and elsewhere, means Specified Investments set out in Part 3 of Schedule 1 of FSMR, unless otherwise specified.",
+            "Issuer": "In relation to:\n(a)\tany Security other than a Unit in a Collective Investment Fund, means the Person by whom it is or is to be issued;\n(b)\ta Unit in a Collective Investment Fund, means the Fund Manager; and\n(c)\tan interest in a Limited Liability Partnership, means the Partnership.",
+            "MKT": "Means the Markets Rules.",
+            "Offer": "Means:\n(a)\tin relation to Securities other than Units, an offer of Securities falling within Part 6 of FSMR; and\n(b)\tin relation to Units, an offer of Units falling outside Part 6 of FSMR.",
+            "Offer of Securities": "Has the meaning given in section 258 of FSMR.",
+            "Person": "Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state.",
+            "Qualifying Green Debenture Principles": "Has the meaning given to it in MKT 4.15.4.",
+            "Qualifying Sustainability-Linked Debenture Principles": "Has the meaning given to it in MKT 4.15.5.",
+            "Regulator": "Means the Financial Services Regulatory Authority.",
+            "Rule": "Means any rule made by the Regulator or the Board, as applicable, in accordance with the procedures in Part 2 of FSMR.",
+            "Specified Investment": "Means an investment falling within paragraphs 85 to 99 of Schedule 1 of FSMR, without regard to any applicable exceptions or exemptions set out in that Schedule."
+        }
+    },
+    {
+        "ID": "99172519-5bb3-4c52-b495-7ea48184aff9",
+        "PassageID": "5.4",
+        "Passage": "This section only applies to those Persons electing to apply for the ADGM Green Bond Designation or the ADGM Sustainability-Linked Bond Designation. Such Persons may elect to use the ADGM Green Bond mark or the ADGM Sustainability-Linked Bond mark to indicate to that the applicable Security has the ADGM Green Bond Designation or the ADGM Sustainability-Linked Bond Designation.",
+        "Obligations": [
+            "Obligation:1 \"Complete the Application Process**: Engage in the application process for the chosen bond designation, providing all necessary documentation and information as required by the ADGM.\"",
+            "Obligation:2 \"Ensure Compliance with Criteria**: Verify that the bond adheres to the ADGM's criteria for Green Bond or Sustainability-Linked Bond Designation, including the use of proceeds, project selection, and management.\"",
+            "Obligation:3 \"Use Designation Marks Appropriately**: If granted designation, use the ADGM Green Bond mark or the ADGM Sustainability-Linked Bond mark correctly in accordance with ADGM guidelines.\"",
+            "Obligation:4 \"Accurate Marketing and Communication**: Represent the bond's designation truthfully in all marketing and communication materials, providing clear and accurate information to potential investors.\"",
+            "Obligation:5 \"Ongoing Reporting and Disclosure**: Maintain transparency by providing regular reports on the use of proceeds, environmental impact, sustainability outcomes, and any other performance metrics related to the bond's sustainability goals.\"",
+            "Obligation:6 \"Adhere to ADGM Regulations**: Comply with all relevant ADGM regulations, guidelines, and any subsequent updates or amendments.\"",
+            "Obligation:7 \"Participate in Review or Renewal Processes**: Engage in periodic reviews or renewals as required to ensure the bond continues to meet the designation criteria.\"",
+            "Obligation:8 \"Notify ADGM of Material Changes**: Inform ADGM of any significant changes to the bond or financed projects that could affect its designation and be prepared for a potential re-assessment.\n\nIt is recommended to consult the full ADGM regulatory framework or seek professional advice for a comprehensive understanding of all obligations.\""
+        ],
+        "NamedEntities": {
+            "bond": "tradable debt instrument representing a loan in which the issuer owes the holder(s) a debt",
+            "green bond": "bond issued specifically to fund climate or environmental projects",
+            "security": "financial instrument that can be bought or sold"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Green Bond Designation": "Means the designation provided by the Regulator to an ADGM Green Debenture pursuant to MKT 4.15.7 to 4.15.11.",
+            "ADGM Sustainability-Linked Bond Designation": "Means the designation provided by the Regulator to an ADGM Sustainability-Linked Debenture pursuant to MKT 4.15.7 to 4.15.11.",
+            "Security": "Has the meaning given in section 258 of FSMR."
+        }
+    },
+    {
+        "ID": "9dc55b71-e2af-45cc-801f-375286bfc31d",
+        "PassageID": "5.5",
+        "Passage": "Persons are not required under FSMR or applicable Rules to obtain an ADGM Green Bond Designation or ADGM Sustainability-Linked Bond Designation, or use the ADGM Green Bond mark or ADGM Sustainability-Linked Bond mark, in any marketing materials, Prospectus or other communications relating to Securities. As a result, the requirements set out in this section will not apply to any Person that elects not to obtain an ADGM Green Bond Designation or ADGM Sustainability-Linked Bond Designation, or does not wish to use the ADGM Green Bond mark or ADGM Sustainability Linked-Bond mark in the marketing materials, Prospectus or other communications relating to relevant Securities.",
+        "Obligations": [
+            "Obligation:1 \"Understand Obligations**: Recognize that opting out of the ADGM Green Bond and Sustainability-Linked Bond designations and marks does not entail specific obligations under the FSMR related to these designations.\"",
+            "Obligation:2 \"Comply with Other Regulations**: Ensure compliance with all other relevant financial regulations and rules within the ADGM that govern your conduct and the securities you are dealing with, regardless of the decision on the designations and marks.\"",
+            "Obligation:3 \"Consider Future Compliance**: If you later decide to pursue the ADGM Green Bond or Sustainability-Linked Bond Designation, or to use the respective marks, be prepared to comply with the specific requirements for those designations, including reporting, disclosure, and use of proceeds.\"",
+            "Obligation:4 \"No Requirement for Designations and Marks**: Acknowledge that there is no obligation to obtain the ADGM Green Bond or Sustainability-Linked Bond Designation, nor to use the ADGM Green Bond mark or ADGM Sustainability-Linked Bond mark in marketing materials, prospectus, or other communications if you opt out.\"",
+            "Obligation:5 \"Adhere to General Compliance**: Maintain general compliance with the FSMR and any other disclosure, reporting, and securities management obligations within the ADGM.\""
+        ],
+        "NamedEntities": {
+            "bond": "tradable debt instrument representing a loan in which the issuer owes the holder(s) a debt",
+            "green bond": "bond issued specifically to fund climate or environmental projects"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Green Bond Designation": "Means the designation provided by the Regulator to an ADGM Green Debenture pursuant to MKT 4.15.7 to 4.15.11.",
+            "ADGM Sustainability-Linked Bond Designation": "Means the designation provided by the Regulator to an ADGM Sustainability-Linked Debenture pursuant to MKT 4.15.7 to 4.15.11.",
+            "FSMR": "Means the Financial Services and Markets Regulations 2015.",
+            "Person": "Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state.",
+            "Prospectus": "Means a prospectus submitted in accordance with section 61 of FSMR.  In relation to Collective Investment Funds, a Prospectus refers to (where section 61 of FSMR does not apply):\n(a)\tan information memorandum;\n(b)\tan offering memorandum;\n(c)\ta private placement memorandum; or\n(d)\tany other similar document."
+        }
+    },
+    {
+        "ID": "988e843a-7120-449f-b09c-b2190bae1dfa",
+        "PassageID": "5.6",
+        "Passage": "However, the Regulator considers greenwashing to present a material risk to one or more of its objectives set out in section 1 of FSMR. Persons electing not to obtain an ADGM Green Bond Designation or ADGM Sustainability-Linked Bond Designation and otherwise indicating that the issuance of Securities is pursuing green or sustainability-linked objectives should establish and maintain systems and controls to mitigate Greenwashing risk.",
+        "Obligations": [
+            "Obligation:1 \"Establish and Maintain Systems and Controls**: Implement systems and controls to ensure that claims regarding the green or sustainability-linked nature of the securities are accurate, transparent, and can be substantiated to mitigate the risk of greenwashing.\"",
+            "Obligation:2 \"Conduct Due Diligence**: Perform thorough due diligence to verify that the use of proceeds aligns with the stated green or sustainability-linked objectives and to confirm the environmental or sustainability benefits of the financed projects.\"",
+            "Obligation:3 \"Provide Clear Disclosure and Reporting**: Offer clear and comprehensive disclosure to investors about the criteria and methodologies used for classifying the securities as green or sustainability-linked and regularly update investors on the financed projects' progress and impact.\"",
+            "Obligation:4 \"Seek Independent Review**: Obtain an independent third-party review of the green or sustainability claims to provide additional assurance to investors.\"",
+            "Obligation:5 \"Ensure Compliance with Laws and Standards**: Comply with the Financial Services and Markets Regulations (FSMR) and any other relevant laws, standards, or guidelines applicable to green or sustainability-linked securities.\"",
+            "Obligation:6 \"Implement Monitoring and Review Processes**: Establish ongoing monitoring and review processes to ensure the effectiveness of systems and controls and update them as necessary.\"",
+            "Obligation:7 \"Provide Training**: Educate relevant staff on the risks associated with greenwashing and their responsibilities in preventing it.\"",
+            "Obligation:8 \"Engage with Regulatory Authorities**: Communicate with ADGM regulatory authorities as required, including timely reporting of any material greenwashing risks or incidents.\"",
+            "Obligation:9 \"Maintain Documentation**: Keep comprehensive records that support the green or sustainability-linked claims of the securities for potential regulatory review.\"",
+            "Obligation:10 \"Monitor Compliance**: Regularly check compliance with the established systems and controls to ensure ongoing adherence to anti-greenwashing measures.\"",
+            "Obligation:11 \"Review and Update Systems and Controls**: Periodically reassess and refine the systems and controls to align with evolving market practices, investor expectations, and regulatory guidance on greenwashing.\""
+        ],
+        "NamedEntities": {
+            "bond": "tradable debt instrument representing a loan in which the issuer owes the holder(s) a debt",
+            "green bond": "bond issued specifically to fund climate or environmental projects"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Green Bond Designation": "Means the designation provided by the Regulator to an ADGM Green Debenture pursuant to MKT 4.15.7 to 4.15.11.",
+            "ADGM Sustainability-Linked Bond Designation": "Means the designation provided by the Regulator to an ADGM Sustainability-Linked Debenture pursuant to MKT 4.15.7 to 4.15.11.",
+            "FSMR": "Means the Financial Services and Markets Regulations 2015.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "87e51ac8-48bf-44fb-8ff8-42660ee38ace",
+        "PassageID": "5.7",
+        "Passage": "The guidance above on ADGM Green Debentures and ADGM Sustainability-Linked Debentures applies to Sukuks in the same way as to Debentures, with all references to \u201cDebenture\u201d being read as \u201cSukuk\u201d.",
+        "Obligations": [
+            "Obligation:1 \"Ensure Compliance with ADGM Guidance**: Adhere to the principles and criteria set out by the ADGM for Green Debentures and Sustainability-Linked Debentures, including Sharia compliance for Sukuks.\"",
+            "Obligation:2 \"Manage Use of Proceeds**: Direct proceeds from Green Sukuks to environmentally sustainable projects and link proceeds from Sustainability-Linked Sukuks to specific sustainability performance targets.\"",
+            "Obligation:3 \"Conduct Regular Reporting and Disclosure**: Provide pre-issuance and post-issuance reports on the use of proceeds and the environmental/sustainability impact of funded projects. Make all necessary regulatory filings and disclosures with the ADGM FSRA.\"",
+            "Obligation:4 \"Obtain External Verification**: Engage third-party service providers to review or verify the Sukuk's alignment with green or sustainability criteria and provide assurance on compliance.\"",
+            "Obligation:5 \"Maintain Transparency**: Clearly communicate with investors and stakeholders about the environmental or sustainability aspects of the Sukuk, including the framework and features of the Sukuk.\"",
+            "Obligation:6 \"Implement Robust Governance**: Establish governance mechanisms for managing Sukuk proceeds and monitoring compliance with green or sustainability criteria throughout the Sukuk's lifecycle.\"",
+            "Obligation:7 \"Integrate Risk Management**: Incorporate environmental or sustainability risk management into the overall risk management framework for the Sukuk, addressing potential reputational risks and performance target risks.\"",
+            "Obligation:8 \"Adhere to Market Conduct Rules**: Conduct all Sukuk-related activities in a fair and transparent manner as per ADGM market conduct regulations.\"",
+            "Obligation:9 \"Monitor Ongoing Compliance**: Continuously ensure that all activities and features of the Sukuk comply with ADGM regulations and any other applicable laws or standards.\"",
+            "Obligation:10 \"Seek Professional Advice**: Consult with legal or compliance professionals for tailored advice to ensure full compliance with ADGM regulations and guidance.\n\n*Note: These action items are based on the general information provided. Specific details and requirements should be reviewed in the actual guidance from the ADGM, and professional advice should be sought as necessary.*\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "Debenture": "Means an instrument creating or acknowledging indebtedness, whether secured or not, but excludes:\n(a)\tan instrument creating or acknowledging indebtedness for, or for money borrowed to defray, the consideration payable under a contract for the supply of goods or services;\n(b)\ta cheque or other bill of exchange, a banker's draft or a letter of credit (but not a bill of exchange accepted by a banker);\n(c)\ta banknote, a statement showing a balance on a bank account, or a lease or other disposition of property; and\n(d)\ta Contract of Insurance.",
+            "Sukuk": "Has the meaning given in paragraph 89 of Schedule 1 of FSMR."
+        }
+    },
+    {
+        "ID": "ae2565e2-ba4f-410c-a03a-0afefb6be5eb",
+        "PassageID": "5.8",
+        "Passage": "An ADGM Green Sukuk or ADGM Sustainability-Linked Sukuk may also apply for, and maintain, an ADGM Green Sukuk Designation or ADGM Sustainability-Linked Sukuk Designation in the same way as for Debentures. Accordingly, the Guidance applies in the same way with all references to \u201cDebenture\u201d or \u201cBond\u201d being read as \u201cSukuk\u201d.\n",
+        "Obligations": [
+            "Obligation:1 \"Apply for the Green Sukuk Designation or Sustainability-Linked Sukuk Designation at the ADGM following the prescribed procedures.\"",
+            "Obligation:2 \"Ensure compliance with ADGM guidance and criteria for Green Sukuk or Sustainability-Linked Sukuk.\"",
+            "Obligation:3 \"Use proceeds from the Sukuk for eligible green projects or to achieve sustainability performance targets.\"",
+            "Obligation:4 \"Provide detailed pre-issuance and post-issuance reporting on the use of proceeds and the environmental or sustainability impact of the funded projects.\"",
+            "Obligation:5 \"Obtain an external review or verification to confirm alignment with green or sustainability criteria (e.g., second-party opinion, verification, certification, or assurance).\"",
+            "Obligation:6 \"Maintain transparency throughout the Sukuk's lifecycle, including clear information on financed projects, evaluation and selection processes, and management of proceeds.\"",
+            "Obligation:7 \"Comply with ongoing ADGM regulations and guidance for the duration of the Sukuk's term, including reporting, transparency, and use of proceeds.\"",
+            "Obligation:8 \"Make all necessary regulatory filings with the ADGM, including updates or changes to the Sukuk's structure or compliance status.\"",
+            "Obligation:9 \"Adhere to fair and transparent market conduct principles to prevent market abuse or manipulation.\"",
+            "Obligation:10 \"Keep accurate and complete records of all matters related to the Sukuk issuance, including documentation on the use of proceeds and external reviews.\"",
+            "Obligation:11 \"Manage proceeds in a transparent manner, which may involve setting up a dedicated account or tracking system.\"",
+            "Obligation:12 \"Adhere to internationally recognized standards for green or sustainability-linked bonds and Sukuks, as applicable.\"",
+            "Obligation:13 \"Have a process in place for remedial actions in case of non-compliance or if funded projects do not meet criteria.\""
+        ],
+        "NamedEntities": {
+            "bond": "tradable debt instrument representing a loan in which the issuer owes the holder(s) a debt"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "ADGM Green Sukuk": "Means a Sukuk that meets the requirements of MKT 4.15.2 when read together with MKT 4.16.",
+            "ADGM Green Sukuk Designation": "Means the designation provided by the Regulator to an ADGM Green Sukuk pursuant to MKT 4.15.7 to 4.15.11 when read together with MKT 4.16.",
+            "ADGM Sustainability-Linked Sukuk Designation": "Means the designation provided by the Regulator to an ADGM Sustainability-Linked Sukuk pursuant to MKT 4.15.7 to 4.15.11 when read together with MKT 4.16.",
+            "Debenture": "Means an instrument creating or acknowledging indebtedness, whether secured or not, but excludes:\n(a)\tan instrument creating or acknowledging indebtedness for, or for money borrowed to defray, the consideration payable under a contract for the supply of goods or services;\n(b)\ta cheque or other bill of exchange, a banker's draft or a letter of credit (but not a bill of exchange accepted by a banker);\n(c)\ta banknote, a statement showing a balance on a bank account, or a lease or other disposition of property; and\n(d)\ta Contract of Insurance.",
+            "Guidance": "Has the meaning given in section 15(2) of FSMR.",
+            "Sukuk": "Has the meaning given in paragraph 89 of Schedule 1 of FSMR."
+        }
+    },
+    {
+        "ID": "271fbdc3-f2f9-4929-8ccd-d3ab7b19cf5c",
+        "PassageID": "6.",
+        "Passage": "USE OF ADGM DESIGNATION MARKS",
+        "Obligations": [],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market."
+        }
+    },
+    {
+        "ID": "65c31f30-6926-46cd-9b56-905293ec97ea",
+        "PassageID": "6.1",
+        "Passage": "Upon receipt of a designation in relation to the products and services detailed in paragraph 1.3 a Person may choose to seek to use a specific ADGM mark corresponding to the designation received (an \u201cADGM mark\u201d).",
+        "Obligations": [
+            "Obligation:1 \"Compliance with Usage Guidelines**: Adhere to ADGM's guidelines on the mark's usage, including size, color, placement, and context.\"",
+            "Obligation:2 \"Maintaining Designation Standards**: Continuously meet the standards required for the designation to use the ADGM mark.\"",
+            "Obligation:3 \"Renewal and Review**: Undergo periodic reviews and renew the designation if necessary to ensure compliance with ADGM standards.\"",
+            "Obligation:4 \"Prohibition of Misuse**: Avoid misusing the mark in any manner that could mislead about the nature of your products, services, or relationship with ADGM.\"",
+            "Obligation:5 \"Revocation**: Acknowledge that the right to use the mark may be revoked for non-compliance or if the designation is withdrawn.\"",
+            "Obligation:6 \"Notification of Changes**: Inform ADGM of any changes to your products or services that could affect the designation or the use of the mark.\"",
+            "Obligation:7 \"Marketing and Promotional Material**: Ensure that all marketing materials with the ADGM mark are truthful, not deceptive, and comply with ADGM's advertising standards.\"",
+            "Obligation:8 \"Intellectual Property Rights**: Respect ADGM's intellectual property rights by not altering the mark or using it in a misleading manner.\"",
+            "Obligation:9 \"Cease Use Upon Revocation**: Stop using the ADGM mark immediately if your designation is revoked or expires.\"",
+            "Obligation:10 \"Record-Keeping**: Keep records demonstrating compliance with the designation criteria and proper use of the ADGM mark.\n\nFor complete understanding and compliance, review the full designation criteria, terms and conditions for using the ADGM mark, and consult ADGM regulations or seek legal advice if necessary.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "Person": "Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state."
+        }
+    },
+    {
+        "ID": "cab702c4-82d4-4ba5-802e-68091415451f",
+        "PassageID": "6.2",
+        "Passage": "The use of an ADGM mark is subject to the written consent of the Regulator, the requirements set out in the relevant FSRA Rulebooks and this guidance and any other conditions for use required by the Regulator. For the avoidance of doubt, the Regulator granting its permission to use an ADGM mark does not indicate:\na)\tendorsement of a Person by the Regulator;\nb)\tan assurance or guarantee by the Regulator that the product or service is compliant with or will be compliant with the relevant FSRA Rules; or\nc)\twhere applicable, that any Offer of a Security meets applicable Rules regarding the Offer of that Security.",
+        "Obligations": [
+            "Obligation:1 \"Obtain Written Consent**: Secure written consent from the Financial Services Regulatory Authority (FSRA) prior to using the ADGM mark.\"",
+            "Obligation:2 \"Comply with FSRA Rulebooks**: Ensure that the use of the ADGM mark adheres to the requirements outlined in the FSRA Rulebooks by familiarizing yourself with and following these rules.\"",
+            "Obligation:3 \"Adhere to Additional Conditions**: Abide by any other conditions specified by the Regulator for the use of the ADGM mark, which may be provided at the time of consent or subsequently.\"",
+            "Obligation:4 \"Understand the Limitations of Consent**: Recognize that the Regulator's consent does not constitute an endorsement of your business, a guarantee of compliance with FSRA Rules, or an assurance that any offers of securities meet the applicable rules.\"",
+            "Obligation:5 \"Avoid Misrepresentation**: Do not misrepresent the Regulator's consent as an endorsement or compliance guarantee, and ensure that the use of the mark does not mislead others about the nature of the Regulator's consent.\"",
+            "Obligation:6 \"Maintain Compliance**: Continuously ensure that your use of the ADGM mark complies with the FSRA Rulebooks and any additional conditions, and make necessary adjustments if rules or conditions change.\"",
+            "Obligation:7 \"Regular Monitoring and Reporting**: If required, monitor your use of the ADGM mark and periodically report on compliance to the Regulator.\"",
+            "Obligation:8 \"Cease Use Upon Request**: Immediately stop using the ADGM mark if the Regulator revokes its consent or if you fail to meet the conditions for its use.\""
+        ],
+        "NamedEntities": {
+            "security": "financial instrument that can be bought or sold"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "Offer": "Means:\n(a)\tin relation to Securities other than Units, an offer of Securities falling within Part 6 of FSMR; and\n(b)\tin relation to Units, an offer of Units falling outside Part 6 of FSMR.",
+            "Person": "Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state.",
+            "Regulator": "Means the Financial Services Regulatory Authority.",
+            "Security": "Has the meaning given in section 258 of FSMR."
+        }
+    },
+    {
+        "ID": "f36178b6-a3d4-4f9f-a5fe-2443b10f414e",
+        "PassageID": "6.3",
+        "Passage": "All use of an ADGM mark should include the following disclaimer:\n\u201cUse of the [specified ADGM logo] does not create any rights in, or liability to, any person, public or private. The mark does not indicate an endorsement by the Regulator of any financial service or product, or a guarantee by the Regulator that any financial service or product is or will be compliant with the FSRA Rules.\u201d",
+        "Obligations": [
+            "Obligation:1 \"Include the Provided Disclaimer**: Ensure that the exact disclaimer text is included verbatim with every use of the ADGM mark.\"",
+            "Obligation:2 \"Ensure Visibility and Clarity**: Make the disclaimer clearly legible and visible, ensuring it is not hidden or obscured.\"",
+            "Obligation:3 \"Avoid Misrepresentation**: Do not imply endorsement or guarantee by the ADGM's Financial Services Regulatory Authority (FSRA) where none exists.\"",
+            "Obligation:4 \"Do Not Imply False Guarantees**: Avoid suggesting that the use of the ADGM mark guarantees compliance with FSRA rules.\"",
+            "Obligation:5 \"Clarify No Creation of Rights or Liabilities**: Communicate that the use of the ADGM mark does not create any legal rights or liabilities.\"",
+            "Obligation:6 \"Maintain Consistency**: Use the disclaimer consistently with every instance of the ADGM mark to prevent misleading representations.\"",
+            "Obligation:7 \"Adhere to Additional Guidelines**: Follow any other guidelines or rules provided by ADGM regarding the use of their mark.\"",
+            "Obligation:8 \"Seek Approval if Necessary**: Obtain prior approval for the use of the ADGM mark if required by ADGM guidelines.\"",
+            "Obligation:9 \"Do Not Alter the Disclaimer**: Use the disclaimer as provided without any modifications.\"",
+            "Obligation:10 \"Comply with FSRA Rules**: Ensure that all financial services and products are compliant with FSRA Rules, independent of the use of the ADGM mark.\"",
+            "Obligation:11 \"Monitor for Compliance**: Be aware that ADGM or the FSRA may monitor the use of their marks and enforce compliance.\"",
+            "Obligation:12 \"Consult for Clarification**: If uncertain about the application of these obligations or if there are additional requirements, consult with the ADGM or a legal advisor specialized in ADGM financial regulatory compliance.\""
+        ],
+        "NamedEntities": {
+            "financial service": "service provided to consumers and businesses by financial institutions such as banks, insurance companies, brokerage firms, consumer finance companies, and investment companies"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "82297f08-1adb-4d74-9ead-ccb4bd908326",
+        "PassageID": "6.4",
+        "Passage": "A Person may only use an ADGM mark in the form that is reproduced from original artwork provided by the Regulator.",
+        "Obligations": [
+            "Obligation:1 \"Use of Original Artwork**: Utilize the ADGM mark exactly as provided by the Regulator without alteration, modification, or recreation.\"",
+            "Obligation:2 \"Obtain Artwork Directly from Regulator**: Ensure the ADGM mark is sourced directly from the Regulator to guarantee accuracy and authorization.\"",
+            "Obligation:3 \"Adhere to Guidelines**: Follow all guidelines or standards set by the Regulator regarding the size, color, placement, and context of the ADGM mark's use.\"",
+            "Obligation:4 \"Authorized Use Only**: Use the ADGM mark only if you have received authorization or approval from the Regulator. Unauthorized use is prohibited.\"",
+            "Obligation:5 \"Appropriate Purpose of Use**: Employ the ADGM mark in a manner that is consistent with your official relationship with ADGM or as explicitly permitted by the Regulator.\"",
+            "Obligation:6 \"Intellectual Property Rights**: Respect the intellectual property rights associated with the ADGM mark and understand that unauthorized use may lead to legal action.\"",
+            "Obligation:7 \"Report Misuse**: If you become aware of any misuse or unauthorized use of the ADGM mark, report it to the Regulator.\"",
+            "Obligation:8 \"Cease Use Upon Request**: Discontinue the use of the ADGM mark immediately if requested by the Regulator.\n\nFor any uncertainties or further clarification, contact the Regulator directly and refer to the detailed regulations and guidelines provided by the ADGM.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "Person": "Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "9040cd19-5ec5-415f-94d5-b04b9f8b4467",
+        "PassageID": "6.5",
+        "Passage": "The Regulator will withdraw its permission to use an ADGM mark if a product or service fails to, or chooses not to, maintain the corresponding designation.",
+        "Obligations": [
+            "Obligation:1 \"Maintain Compliance**: Ensure continuous adherence to ADGM standards or criteria for using its mark, including specific standards, practices, or regulatory requirements.\"",
+            "Obligation:2 \"Regular Reporting and Auditing**: Submit required reports and allow audits to demonstrate compliance with ADGM standards or criteria.\"",
+            "Obligation:3 \"Renewal of Designation**: Timely renew any designation that has an expiration date or requires periodic renewal.\"",
+            "Obligation:4 \"Notification of Changes**: Inform the Regulator of any changes to your product or service that might affect compliance with designation requirements.\"",
+            "Obligation:5 \"Cease Use Upon Withdrawal**: Immediately cease all use of the ADGM mark if permission to use it is withdrawn by the Regulator.\"",
+            "Obligation:6 \"Remedial Actions and Timely Rectification**: Promptly correct any deficiencies to regain compliance if found non-compliant and take immediate action to rectify any failure to meet designation criteria.\"",
+            "Obligation:7 \"Record Keeping**: Maintain accurate records to demonstrate compliance with designation requirements and the right to use the ADGM mark.\"",
+            "Obligation:8 \"Regular Monitoring and Review**: Continuously monitor and review practices to ensure they align with the ADGM's expectations.\"",
+            "Obligation:9 \"Proactive Notification**: Proactively notify the Regulator if aware that your product or service no longer meets the designation criteria.\"",
+            "Obligation:10 \"Reapplication**: If necessary, reapply for the designation and demonstrate compliance with all criteria to regain the right to use the ADGM mark after withdrawal.\n\nFor complete and detailed obligations, refer to specific ADGM regulations and guidelines or consult with the ADGM, FSRA, or a legal expert specialized in ADGM financial regulatory compliance.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    },
+    {
+        "ID": "ead263ae-9ec2-4ef6-8ae1-d5e199670f3c",
+        "PassageID": "6.6",
+        "Passage": "The effect of a withdrawal of the Regulator\u2019s permission is that a Person is not permitted to market or offer a product or service in or from the ADGM using an ADGM mark.",
+        "Obligations": [
+            "Obligation:1 \"Cease Marketing and Offering**: Immediately stop all marketing and offering of products or services using the ADGM mark in or from the ADGM.\"",
+            "Obligation:2 \"Withdraw ADGM Mark**: Remove the ADGM mark from all promotional materials, websites, documents, and other media.\"",
+            "Obligation:3 \"Notify Clients and Partners**: Inform all clients, partners, and relevant parties about the withdrawal of the Regulator's permission and the subsequent implications for your services.\"",
+            "Obligation:4 \"Compliance with Transition Provisions/Requirements**: Adhere to any transition provisions or requirements set by the Regulator for winding down operations, which may include submitting a plan for discontinuing services or products.\"",
+            "Obligation:5 \"Settlement of Obligations**: Settle all obligations to clients, counterparties, and service providers, including contractual and financial liabilities.\"",
+            "Obligation:6 \"Record Keeping**: Maintain all necessary records as required by the ADGM regulatory framework for potential post-authorization inquiries or investigations.\"",
+            "Obligation:7 \"Regulatory Reporting**: Submit any final reports or notifications to the Regulator regarding the cessation of activities.\"",
+            "Obligation:8 \"Cooperation with the Regulator**: Fully cooperate with the FSRA during the withdrawal process, providing access to information, personnel, and records as needed.\"",
+            "Obligation:9 \"Refrain from New Business**: Avoid engaging in new business activities that would require the Regulator's permission during the withdrawal process.\"",
+            "Obligation:10 \"Review Contracts and Agreements**: Examine all contracts and agreements for clauses that may be affected by the withdrawal of the Regulator's permission.\"",
+            "Obligation:11 \"Legal and Regulatory Consultation**: Seek legal and regulatory advice to ensure compliance with the law and regulatory expectations, and to understand the full implications of the withdrawal.\"",
+            "Obligation:12 \"Future Applications**: If planning to reapply for permission in the future, understand and address the reasons for the withdrawal to the satisfaction of the Regulator before reapplying.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "Person": "Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state.",
+            "Regulator": "Means the Financial Services Regulatory Authority."
+        }
+    }
+]

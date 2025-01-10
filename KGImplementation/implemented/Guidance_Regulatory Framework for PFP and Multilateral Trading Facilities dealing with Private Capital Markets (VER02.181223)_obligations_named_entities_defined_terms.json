@@ -1,0 +1,895 @@
+[
+    {
+        "ID": "cb36be6d-812e-4058-937f-7f6c2dbb82c8",
+        "PassageID": "1.",
+        "Passage": "INTRODUCTION",
+        "Obligations": []
+    },
+    {
+        "ID": "e1fbb7b7-d70d-4a40-87c0-ca077ad05b67",
+        "PassageID": "1.1",
+        "Passage": "This Guidance is issued under section 15(2) of the Financial Services and Markets Regulations 2015 (FSMR). It should be read in conjunction with FSMR, the relevant Rulebooks of the Financial Services Regulatory Authority (FSRA) and the Guidance & Policies Manual (GPM) of the FSRA.",
+        "Obligations": [],
+        "DefinedTerms": {
+            "Authority": "Means the Securities and Commodities Authority, the Financial Services Regulatory Authority or the Dubai Financial Services Authority.",
+            "FSMR": "Means the Financial Services and Markets Regulations 2015.",
+            "GPM": "Means the Guidance and Policies Manual, once published by the Regulator.",
+            "Guidance": "Has the meaning given in section 15(2) of FSMR."
+        }
+    },
+    {
+        "ID": "a90e1c2b-ad0b-46c4-98bd-9eff55c9b63b",
+        "PassageID": "1.2",
+        "Passage": "It is applicable to an applicant for a Financial Services Permission (FSP) to carry on:\n(a)\tthe Regulated Activity of Operating a Private Financing Platform as defined in Schedule 1, Chapter 17C, Section 73E of FSMR;\n(b)\tthe Regulated Activity of Operating a Multilateral Trading Facility as defined in Schedule 1, Chapter 9, Section 54 of FSMR; and\n(c)\tAuthorised Persons having received an FSP to do so.",
+        "Obligations": [
+            "Obligation:1 \"Submit FSP Application**: Apply to the FSRA for a Financial Services Permission, providing all necessary documentation and information to demonstrate compliance with authorization criteria.\"",
+            "Obligation:2 \"Comply with Specific Activity Regulations**: If operating a private financing platform or an MTF, adhere to the specific rules governing these activities, including due diligence, record-keeping, fair operations, risk management, and transparency.\"",
+            "Obligation:3 \"Meet Prudential and Capital Requirements**: Satisfy minimum capital requirements and other prudential standards as specified by the FSRA for the regulated activities.\"",
+            "Obligation:4 \"Implement Risk Management Systems**: Establish and maintain policies and procedures for identifying, managing, monitoring, and reporting risks.\"",
+            "Obligation:5 \"Establish Compliance Arrangements**: Have effective compliance arrangements in place, including appointing a compliance officer and an MLRO where necessary.\"",
+            "Obligation:6 \"Protect Client Assets**: Ensure client assets are segregated and protected, with proper systems and controls for record-keeping.\"",
+            "Obligation:7 \"Maintain Transparency and Disclosure**: Provide clear, accurate, and fair information to clients and the market, including disclosures required by the FSRA.\"",
+            "Obligation:8 \"Adhere to Market Conduct Rules**: Operate in a manner that is fair, transparent, and does not contribute to market abuse.\"",
+            "Obligation:9 \"Fulfill Reporting Obligations**: Submit regular reports to the FSRA, including financial statements and risk management reports.\"",
+            "Obligation:10 \"Ensure Operational Resilience**: Maintain robust and resilient operational infrastructure, including IT systems, to support regulated activities.\"",
+            "Obligation:11 \"Manage Outsourcing Risks**: Monitor outsourced service providers effectively and ensure they do not lead to the delegation of regulatory responsibilities.\"",
+            "Obligation:12 \"Continuously Meet Regulatory Requirements**: Continually satisfy the threshold conditions and any other ongoing requirements set by the FSRA.\"",
+            "Obligation:13 \"Notify FSRA of Significant Changes**: Promptly inform the FSRA of any significant business changes that could affect the FSP.\"",
+            "Obligation:14 \"Comply with Client Money Rules**: Handle client money in accordance with ADGM's Client Money Rules.\"",
+            "Obligation:15 \"Implement AML and CTF Controls**: Establish policies and procedures to prevent money laundering or terrorist financing and comply with all applicable sanctions.\"",
+            "Obligation:16 \"Pass the Fit and Proper Test**: Ensure that senior management passes the FSRA's 'fit and proper' test.\"",
+            "Obligation:17 \"Cooperate with FSRA**: Fully cooperate with the FSRA during inspections, investigations, or information requests.\n\nNote: This consolidated list is a summary and applicants should refer to the full FSMR text and FSRA guidelines for comprehensive details. Professional advice is recommended to ensure full compliance.\""
+        ],
+        "NamedEntities": {
+            "multilateral trading facility": "trading system that facilitates the exchange of financial instruments between multiple parties"
+        },
+        "DefinedTerms": {
+            "Financial Services Permission": "Means a permission given, or having effect as if so given, by the Regulator in accordance with \u200ePart 4 of FSMR.",
+            "FSMR": "Means the Financial Services and Markets Regulations 2015.",
+            "Regulated Activity": "Has the meaning given in section 19 of FSMR."
+        }
+    },
+    {
+        "ID": "174e2b84-98f1-48a8-8d60-0799f3f88d1e",
+        "PassageID": "1.3",
+        "Passage": "This Guidance includes the authorisation criteria that applicants must satisfy to be authorised to undertake the Regulated Activity of Operating a Private Financing Platform (a \u201cPFP Operator\u201d), as well as their ongoing regulatory requirements.  While this Guidance discusses the requirements and restrictions relating to the admission and trading of Exempt Offer Securities on a MTF, this Guidance does not describe all the criteria applicable to the Regulated Activity of Operating a Multilateral Trading Facility.  Applicants seeking to become a MTF Operator are encouraged to contact the FSRA directly at authorisation@adgm.com.",
+        "Obligations": [
+            "Obligation:1 \"Meet FSRA authorisation criteria, demonstrating:\n   - Appropriateness of business model.\n   - Fitness and propriety of management.\n   - Adequacy of financial resources.\n   - Robust systems and controls.\"",
+            "Obligation:2 \"Submit a comprehensive application to the FSRA, including:\n   - Business plan.\n   - Risk management framework.\n   - Operational controls.\n   - Compliance arrangements.\"",
+            "Obligation:3 \"Contact FSRA at authorisation@adgm.com for guidance if intending to operate an MTF.\"",
+            "Obligation:4 \"Conduct business with integrity, skill, care, and diligence.\"",
+            "Obligation:5 \"Maintain adequate financial resources and capital adequacy.\"",
+            "Obligation:6 \"Implement effective governance, risk management, and internal controls.\"",
+            "Obligation:7 \"Protect and handle client assets appropriately.\"",
+            "Obligation:8 \"Comply with AML and CFT requirements.\"",
+            "Obligation:9 \"Regularly report to FSRA on financial performance, risk exposure, and compliance.\"",
+            "Obligation:10 \"Operate the platform in a way that supports market integrity and investor confidence.\"",
+            "Obligation:11 \"Maintain secure and resilient technological infrastructure for cybersecurity.\"",
+            "Obligation:12 \"Establish procedures for effective client complaints handling and resolution.\"",
+            "Obligation:13 \"Keep comprehensive records of all business activities as specified by the FSRA.\"",
+            "Obligation:14 \"Ensure clear, transparent, and non-misleading information is provided to investors and issuers.\"",
+            "Obligation:15 \"Conduct due diligence on clients and investors, and ensure investor protection measures are in place.\"",
+            "Obligation:16 \"Maintain open communication with FSRA, including reporting significant changes to operations or management.\"",
+            "Obligation:17 \"Ensure compliance with all applicable laws and regulations in ADGM, including updates to the regulatory framework.\n\nPlease note that this consolidated list is a general guide and it is important to refer to the relevant ADGM regulations and guidance notes or consult directly with the FSRA for a complete understanding of obligations. Compliance with these obligations is essential for maintaining authorisation and lawful operation within the ADGM.\""
+        ],
+        "NamedEntities": {
+            "multilateral trading facility": "trading system that facilitates the exchange of financial instruments between multiple parties"
+        },
+        "DefinedTerms": {
+            "Exempt Offer": "Means Offers prescribed in MKT 4.3.1.",
+            "Guidance": "Has the meaning given in section 15(2) of FSMR.",
+            "Offer": "Means:\n(a)\tin relation to Securities other than Units, an offer of Securities falling within Part 6 of FSMR; and\n(b)\tin relation to Units, an offer of Units falling outside Part 6 of FSMR.",
+            "PFP Operator": "An Authorised Person engaged in the Regulated Activity of Operating a Private Financing Platform.",
+            "Regulated Activity": "Has the meaning given in section 19 of FSMR."
+        }
+    },
+    {
+        "ID": "dcd9b5ba-cc1e-44c1-94ec-b04b221087f1",
+        "PassageID": "1.4",
+        "Passage": "This Guidance, together with the applicable Abu Dhabi Global Market (ADGM) Regulations and FSRA Rules governing PFP Operators and MTF Operators in relation to Securities offered by Exempt Offer, is collectively referred to as the \u201cprivate capital markets or PCM Framework\u201d.",
+        "Obligations": [
+            "Obligation:1 \"Licensing and Registration**: Apply for and maintain the appropriate license from the FSRA to operate within the ADGM.\"",
+            "Obligation:2 \"Compliance with Regulations and Rules**: Adhere to all relevant ADGM regulations, FSRA rules, and any updates or amendments to the PCM Framework.\"",
+            "Obligation:3 \"Due Diligence**: Perform thorough due diligence on securities to ensure eligibility for an Exempt Offer and compliance with the PCM Framework.\"",
+            "Obligation:4 \"Disclosure and Transparency**: Provide clear, accurate, and comprehensive information to investors regarding securities, risks, terms, and conditions.\"",
+            "Obligation:5 \"Risk Management**: Develop and implement effective risk management policies and procedures.\"",
+            "Obligation:6 \"AML and CTF Compliance**: Establish and maintain AML and CTF policies, conduct customer due diligence, monitor transactions, and report suspicious activities.\"",
+            "Obligation:7 \"Client Assets Protection**: Segregate and safeguard client assets in accordance with regulations.\"",
+            "Obligation:8 \"Fair Treatment of Clients**: Ensure clients are treated fairly and services are provided in their best interest.\"",
+            "Obligation:9 \"Record Keeping**: Maintain detailed records of all transactions and activities for the required period.\"",
+            "Obligation:10 \"Reporting Obligations**: Regularly submit required reports to the FSRA, including financial statements and risk management reports.\"",
+            "Obligation:11 \"Market Conduct**: Maintain market integrity by preventing market abuse and ensuring fair and orderly trading.\"",
+            "Obligation:12 \"Operational Resilience**: Ensure systems and controls are robust for service continuity and reliability.\"",
+            "Obligation:13 \"Professional Indemnity Insurance**: Obtain and maintain insurance to cover potential liabilities.\"",
+            "Obligation:14 \"Client Communication**: Engage with clients clearly, fairly, and without misleading them.\"",
+            "Obligation:15 \"Conflict of Interest**: Identify, manage, and disclose any conflicts of interest.\"",
+            "Obligation:16 \"Investor Protection**: Implement measures to protect investor interests, including clear rules for security admission and handling investor complaints.\"",
+            "Obligation:17 \"Corporate Governance**: Maintain a sound corporate governance framework with a competent board and adequate oversight.\"",
+            "Obligation:18 \"Market Monitoring**: Monitor for any market abuse or manipulative practices.\n\nIt is important for PFP or MTF Operators to consult with a compliance professional or legal advisor specializing in ADGM financial regulations and to review the detailed regulations and rules, including guidance notes or policy statements issued by the FSRA, to ensure full understanding and compliance with all obligations under the PCM Framework.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "Exempt Offer": "Means Offers prescribed in MKT 4.3.1.",
+            "Guidance": "Has the meaning given in section 15(2) of FSMR.",
+            "Offer": "Means:\n(a)\tin relation to Securities other than Units, an offer of Securities falling within Part 6 of FSMR; and\n(b)\tin relation to Units, an offer of Units falling outside Part 6 of FSMR."
+        }
+    },
+    {
+        "ID": "cdf601dc-6780-49c8-97f1-00a24de85bcd",
+        "PassageID": "1.5",
+        "Passage": "This Guidance is not an exhaustive source of the FSRA\u2019s policy on the exercise of its statutory powers and discretions. In the discharge of its regulatory mandate, the FSRA may impose specific conditions to address any risks posed by the proposed activities of a particular PFP Operator or MTF Operator.",
+        "Obligations": [],
+        "NamedEntities": {
+            "policy": "system of principles, rules and guidelines, adopted by an organization to guide decision making with respect to particular situations and implemented via procedures or protocols to achieve stated goals"
+        },
+        "DefinedTerms": {
+            "Guidance": "Has the meaning given in section 15(2) of FSMR.",
+            "PFP Operator": "An Authorised Person engaged in the Regulated Activity of Operating a Private Financing Platform."
+        }
+    },
+    {
+        "ID": "a5c63009-a590-4c4d-9cf2-328c1ffffc18",
+        "PassageID": "1.6",
+        "Passage": "The FSRA is not bound by the requirements set out in this Guidance and may waive or modify any of these requirements at its discretion where appropriate.",
+        "Obligations": [],
+        "DefinedTerms": {
+            "Guidance": "Has the meaning given in section 15(2) of FSMR."
+        }
+    },
+    {
+        "ID": "5fd60161-1137-4956-a864-e32fe7f5cdac",
+        "PassageID": "1.7",
+        "Passage": "Unless otherwise specified, the term \u201cClient\u201d is used in this paper to denote the lenders and investors on the buy-side of a transaction facilitated through a PFP (a \u201cPFP Transaction\u201d) or investors who trade in Exempt Offer Securities on a MTF.  The PFP Operator and the MTF Operator will have duties in respect of their respective Clients.",
+        "Obligations": [
+            "Obligation:1 \"Client Classification**: Classify clients according to their knowledge and experience, such as retail, professional, or eligible counterparties, to provide appropriate levels of protection and disclosure.\"",
+            "Obligation:2 \"Client Onboarding**: Implement robust client onboarding procedures, including Know Your Customer (KYC) and Anti-Money Laundering (AML) checks, to ensure compliance with relevant laws and regulations.\"",
+            "Obligation:3 \"Client Identification and Due Diligence**: Identify clients and conduct due diligence to understand their financial situation, investment experience, and risk tolerance.\"",
+            "Obligation:4 \"Client Communication**: Provide clear, fair, and not misleading information to clients about the PFP or MTF, including risks, costs, charges, and details of transactions.\"",
+            "Obligation:5 \"Client Assets Protection**: Ensure proper segregation and protection of client assets from the firm's assets, particularly in the event of the firm's insolvency.\"",
+            "Obligation:6 \"Best Execution**: Take all reasonable steps to achieve the best possible result for clients when executing orders, considering factors like price, costs, speed, likelihood of execution and settlement, size, and nature of the order.\"",
+            "Obligation:7 \"Conflict of Interest Management**: Identify, manage, and disclose any conflicts of interest that may arise between the firm, its clients, and between different clients.\"",
+            "Obligation:8 \"Complaints Handling**: Establish effective and transparent procedures for the reasonable and prompt handling of client complaints.\"",
+            "Obligation:9 \"Reporting Obligations**: Provide regular reports to clients on their investments and transactions and report certain transactions to the regulatory authority.\"",
+            "Obligation:10 \"Disclosure and Transparency**: Disclose relevant information to clients regarding the PFP or MTF, including any fees, charges, and the nature and risks of the investment products available.\"",
+            "Obligation:11 \"Compliance with Market Conduct Rules**: Comply with market conduct rules to prevent market abuse, such as insider trading or market manipulation.\"",
+            "Obligation:12 \"Regulatory Reporting and Record Keeping**: Maintain accurate records of all business activities and report certain information to the regulatory authorities as required.\"",
+            "Obligation:13 \"Risk Management**: Implement effective risk management systems to identify, assess, manage, and monitor the risks associated with the services provided to clients.\"",
+            "Obligation:14 \"Regulatory Filings and Notifications**: Make timely regulatory filings and notifications as required by the FSRA, including disclosures of significant events that could impact clients.\n\nTo ensure full compliance, operators should consult the relevant ADGM regulations, such as the Financial Services and Markets Regulations (FSMR), the Conduct of Business (COBS) Rulebook, and any other relevant guidance or rules issued by the ADGM Financial Services Regulatory Authority (FSRA). Legal advice or consultation with compliance professionals is also advisable.\""
+        ],
+        "NamedEntities": {
+            "trade": "situation that realizes an agreement between parties participating in a voluntary action of buying and selling goods and services"
+        },
+        "DefinedTerms": {
+            "Client": "Means a Retail Client or Professional Client as defined in COBS 2.",
+            "Exempt Offer": "Means Offers prescribed in MKT 4.3.1.",
+            "Offer": "Means:\n(a)\tin relation to Securities other than Units, an offer of Securities falling within Part 6 of FSMR; and\n(b)\tin relation to Units, an offer of Units falling outside Part 6 of FSMR.",
+            "PFP Operator": "An Authorised Person engaged in the Regulated Activity of Operating a Private Financing Platform.",
+            "Transaction": "Means any transaction undertaken by a Relevant Person for or on behalf of a Customer in the course of carrying on a business in or from the ADGM."
+        }
+    },
+    {
+        "ID": "d6bbf4da-606d-45a6-8864-19e8f30cbb25",
+        "PassageID": "1.8",
+        "Passage": "Unless otherwise defined or the context requires otherwise, the terms contained in this Guidance have the same meanings as defined in FSMR and the Glossary (GLO).",
+        "Obligations": [],
+        "DefinedTerms": {
+            "FSMR": "Means the Financial Services and Markets Regulations 2015.",
+            "GLO": "Means the Glossary module of the Rulebook.",
+            "Guidance": "Has the meaning given in section 15(2) of FSMR."
+        }
+    },
+    {
+        "ID": "f57e0976-e03d-45b2-8380-4cbc5633ac4c",
+        "PassageID": "2.",
+        "Passage": "OBJECTIVES OF THE PRIVATE CAPITAL MARKETS FRAMEWORK",
+        "Obligations": []
+    },
+    {
+        "ID": "ff7b5a06-f929-4ce7-b0e6-2b26dfd86ddf",
+        "PassageID": "2.1",
+        "Passage": "PFPs are online platforms that allow private companies, such as start-ups and small and medium enterprises (\u201cSMEs\u201d) from early to pre-IPO stage, to source financing from private and institutional investors to launch and scale their businesses.",
+        "Obligations": [
+            "Obligation:1 \"Obtain Licensing and Authorization**: Apply for and secure the necessary financial services license from the FSRA.\"",
+            "Obligation:2 \"Conduct Client Onboarding and Due Diligence**: Implement robust procedures for Know Your Customer (KYC), Anti-Money Laundering (AML), Counter-Terrorist Financing (CTF), and investor suitability assessments.\"",
+            "Obligation:3 \"Ensure Disclosure and Transparency**: Provide clear, accurate, and not misleading information about investment risks, fees, charges, and the nature of investment products.\"",
+            "Obligation:4 \"Maintain Effective Risk Management**: Establish policies and procedures to identify, manage, monitor, and mitigate business risks.\"",
+            "Obligation:5 \"Protect Client Data**: Comply with data protection regulations to ensure the confidentiality and security of client information.\"",
+            "Obligation:6 \"Treat Clients Fairly**: Act in the best interests of clients and manage conflicts of interest appropriately.\"",
+            "Obligation:7 \"Establish a Compliance Function**: Set up an independent compliance function with sufficient authority, resources, and access to the governing body.\"",
+            "Obligation:8 \"Adhere to Governance and Internal Controls**: Develop a sound governance framework with clear organizational structure and effective oversight.\"",
+            "Obligation:9 \"Fulfill Reporting Obligations**: Submit required reports to the FSRA, including financial statements and risk management reports.\"",
+            "Obligation:10 \"Protect Client Assets**: Segregate client money and assets from the firm's own and ensure their protection.\"",
+            "Obligation:11 \"Ensure Operational Resilience**: Have systems and controls in place to maintain effective operation under various conditions.\"",
+            "Obligation:12 \"Meet Capital Requirements**: Maintain the prescribed level of capital as required by the FSRA.\"",
+            "Obligation:13 \"Follow Market Conduct Rules**: Adhere to market conduct regulations to prevent market abuse and ensure market integrity.\"",
+            "Obligation:14 \"Implement Cybersecurity Measures**: Protect systems against unauthorized access and disruptions.\"",
+            "Obligation:15 \"Prepare for Ongoing Supervision**: Be ready for periodic reviews and audits by the FSRA to ensure ongoing compliance.\"",
+            "Obligation:16 \"Conduct Fit and Proper Test**: Ensure that the PFP, its management, and key control functions meet the 'fit and proper' criteria set by the FSRA.\"",
+            "Obligation:17 \"Adhere to Conduct of Business Regulations**: Follow the principles and rules in the ADGM's Conduct of Business (COBS) module.\n\nIt is recommended to consult with legal and compliance professionals or directly with the FSRA for tailored advice and guidance based on the specific nature of the PFP's services and client types.\""
+        ]
+    },
+    {
+        "ID": "fa8f2154-86d3-4501-b498-d60ea783c630",
+        "PassageID": "2.2",
+        "Passage": "PFPs can play an important role in improving access to alternative financing for start- ups and SMEs, which are key engines of economic growth and diversification in the MENA region. PFPs may include equity funding, private placement and invoice financing platforms that leverage data and technology to unlock new ways of raising money for small businesses from professional investors such as high net worth individuals, private equity, venture capital, family offices, accelerators / incubators and angel investors.",
+        "Obligations": [
+            "Obligation:1 \"Obtain Authorization and Licensing**: Apply for and secure the necessary financial services license from the FSRA, including a Financial Services Permission (FSP) if operating a PFP.\"",
+            "Obligation:2 \"Ensure Senior Management Compliance**: Conduct fit and proper tests for senior management and key stakeholders as per FSRA requirements.\"",
+            "Obligation:3 \"Implement Robust Client Onboarding**: Establish thorough client onboarding processes with KYC and AML checks to comply with legal and regulatory standards.\"",
+            "Obligation:4 \"Protect Investors**: Adopt measures to safeguard investors, including clear communication of terms, fee structures, and risk disclosures.\"",
+            "Obligation:5 \"Maintain Effective Risk Management**: Develop and uphold risk management policies to identify, manage, and mitigate operational risks.\"",
+            "Obligation:6 \"Adhere to Data Protection Laws**: Comply with regulations concerning the privacy and security of user data.\"",
+            "Obligation:7 \"Secure Technology Infrastructure**: Ensure the platform's technology is secure against cyber threats and capable of maintaining operational resilience.\"",
+            "Obligation:8 \"Fulfill Regulatory Reporting Requirements**: Regularly submit required reports to the FSRA, including financial statements and risk assessments.\"",
+            "Obligation:9 \"Comply with Market Conduct Rules**: Observe market conduct regulations to prevent market abuse and promote transparency.\"",
+            "Obligation:10 \"Handle Complaints Appropriately**: Establish and maintain a formal complaints handling process and report specific complaints to the FSRA.\"",
+            "Obligation:11 \"Meet Capital Requirements**: Maintain the necessary capital levels as mandated by the FSRA to support financial stability and investor protection.\"",
+            "Obligation:12 \"Monitor Ongoing Compliance**: Continuously oversee and adjust compliance measures to align with current regulatory demands.\"",
+            "Obligation:13 \"Classify Clients Correctly**: Accurately classify clients into categories such as retail, professional, or market counterparties as appropriate.\"",
+            "Obligation:14 \"Manage Conflicts of Interest**: Implement policies to identify and manage potential conflicts of interest.\"",
+            "Obligation:15 \"Safeguard Client Assets**: If handling client assets, ensure proper segregation and protection as per FSRA guidelines.\"",
+            "Obligation:16 \"Prepare for Periodic Reviews and Audits**: Be ready for regular scrutiny and audits by the FSRA to verify compliance.\n\nIt is essential to regularly consult with the FSRA or legal advisors specializing in ADGM financial regulations to stay updated on any changes and ensure full compliance.\""
+        ]
+    },
+    {
+        "ID": "e4125499-e4d3-477e-8afe-ef198db7b4f5",
+        "PassageID": "2.3",
+        "Passage": "Notwithstanding the benefits of a PFP Framework to the financing ecosystem for start- ups and SMEs, there are risks associated with PFP Transactions that include, but are not limited to, the following:\n(a)\tLoss of capital: PFPs may mainly attract start-ups and SMEs that have no or very little established track record, for which the observed failure rate is generally high.\n(b)\tLack of liquidity: In the absence of a ready secondary market for PFP Transactions, Clients face the risk of not being able to exit their PFP Transactions or having to transfer them at a significant discount.\n(c)\tLack of information: There may not be sufficient information on the start-ups and SMEs (\u201cPFP Prospects\u201d) seeking financing through the PFP to enable Clients to conduct proper due diligence and make fully informed investment decisions.\n(d)\tPlatform failure: Clients of a PFP may not be able to readily recover their assets in the event that a PFP Operator that handles Client Assets fails and becomes insolvent.\n(e)\tConflicts of interest between the PFP Operator and Clients: The remuneration of a PFP Operator is typically linked to the amount of funds raised so the interests of a PFP Operator may be more aligned with those of the PFP Prospect than those of its Client providing financing.",
+        "Obligations": [
+            "Obligation:1 \"Risk Disclosure**: Clearly and accurately inform clients about the risks of PFP Transactions, including loss of capital, lack of liquidity, and high failure rates of start-ups and SMEs.\"",
+            "Obligation:2 \"Due Diligence**: Conduct thorough due diligence on PFP Prospects, assessing financial health, business model, management team, market potential, creditworthiness, and business plans.\"",
+            "Obligation:3 \"Client Asset Protection**: Implement robust measures to protect client assets, including segregating client assets from the platform's own assets and establishing clear procedures for asset return in case of platform failure or insolvency.\"",
+            "Obligation:4 \"Conflict of Interest Management**: Identify, disclose, and manage conflicts of interest, ensuring transparent remuneration policies and that the platform's interests do not unduly influence or benefit at the expense of clients.\"",
+            "Obligation:5 \"Transparency and Reporting**: Maintain operational transparency and provide regular reports to clients and the regulator on investment performance, risk profile changes, and PFP financial health.\"",
+            "Obligation:6 \"Compliance with Regulatory Framework**: Comply with all relevant ADGM regulations, including FSRA rules, AML, CTF, KYC requirements, and obtain necessary licensing for PFP activities.\"",
+            "Obligation:7 \"Licensing and Ongoing Supervision**: Obtain the necessary FSRA license for PFP operations and submit to ongoing supervision and regulatory audits.\"",
+            "Obligation:8 \"Client Education**: Provide educational resources to help clients understand PFP Transactions and associated risks.\"",
+            "Obligation:9 \"Complaints Handling and Redress**: Establish an effective complaints handling process and provide access to redress for clients.\"",
+            "Obligation:10 \"Technology Risk Management**: Ensure platform systems are secure, resilient, and safeguarded against cyber threats, with a business continuity plan in place.\"",
+            "Obligation:11 \"Liquidity Management**: Inform clients about the lack of liquidity and potential exit mechanisms or secondary market risks.\"",
+            "Obligation:12 \"Client Communication**: Maintain open communication channels to address client concerns or questions.\"",
+            "Obligation:13 \"Regulatory Notifications**: Notify the FSRA of significant changes to the business model, operational risks, or other matters impacting clients or the financial system.\n\nNote: This consolidated list is a general guide and should be cross-referenced with the specific ADGM regulations and guidelines. Consulting with a compliance professional or legal advisor is recommended for comprehensive understanding and adherence to regulatory obligations.\""
+        ],
+        "NamedEntities": {
+            "liquidity": "Precise definition needed for liquidity, and check that it is modeled accordingly.",
+            "funds": "artificial currency used as calculation basis for another currency(s) and accounting purposes",
+            "interest": "the cost of using credit, or another's money, expressed as a rate per period of time, payable by a debtor to a creditor in consideration of the credit extended to the debtor"
+        },
+        "DefinedTerms": {
+            "Assets": "Means, unless specified otherwise, collateral held to cover positions and includes the right to the transfer of assets equivalent to that collateral or the proceeds of the realisation of any collateral, but does not include Default Fund Contributions.",
+            "Client": "Means a Retail Client or Professional Client as defined in COBS 2.",
+            "Client Assets": "Means Client Money and Client Investments.",
+            "PFP Operator": "An Authorised Person engaged in the Regulated Activity of Operating a Private Financing Platform.",
+            "PFP Prospect": "A Body Corporate seeking financing by publishing a financing proposal upon a Private Financing Platform."
+        }
+    },
+    {
+        "ID": "5976184b-74fa-4c2e-b2ea-7d35d3a01694",
+        "PassageID": "2.4",
+        "Passage": "While PFP Operators are limited to primary markets, they may wish to expand their offering by allowing investors to trade or transfer their PFP investments in secondary markets.  Secondary market exposure is viewed as an important component of private market allocation by investors.",
+        "Obligations": [
+            "Obligation:1 \"Obtain Regulatory Approval**: Seek additional approvals or licenses from the FSRA for secondary market activities, which may involve amending the existing license or obtaining a new one.\"",
+            "Obligation:2 \"Ensure Rulebook and Regulatory Compliance**: Adhere to ADGM regulations, FSRA rulebook, and Market Abuse Rules, including market conduct, disclosure requirements, and operation of secondary markets.\"",
+            "Obligation:3 \"Implement Market Abuse Controls**: Establish systems to prevent market abuse and ensure fair and transparent trading practices.\"",
+            "Obligation:4 \"Protect Investors**: Create clear rules and procedures for investor protection, including risk disclosure, conflict of interest management, and understanding of secondary market risks.\"",
+            "Obligation:5 \"Enhance Operational Infrastructure**: Ensure the platform has the necessary technology and infrastructure for trade matching, settlement, record-keeping, and operational resilience, including cybersecurity measures.\"",
+            "Obligation:6 \"Strengthen Risk Management**: Develop robust risk management policies to address credit, market, operational, and other risks associated with secondary market activities.\"",
+            "Obligation:7 \"Fulfill Reporting Obligations**: Comply with additional reporting requirements to the FSRA, including transaction reporting and disclosure of significant shareholdings.\"",
+            "Obligation:8 \"Adhere to AML and CTF Regulations**: Enhance AML and CTF frameworks to cover risks posed by secondary market activities, including customer due diligence and transaction monitoring.\"",
+            "Obligation:9 \"Manage Client Assets**: If handling client assets, comply with regulations on segregation and protection of client funds and assets.\"",
+            "Obligation:10 \"Prepare for Ongoing Supervision**: Be ready for regular reporting, compliance checks, and audits by the FSRA.\"",
+            "Obligation:11 \"Classify Clients Appropriately**: Classify clients based on their knowledge and experience to ensure suitability of secondary market services.\"",
+            "Obligation:12 \"Maintain Transparency**: Provide transparent reporting to investors and the regulator, including price information and transaction volumes.\"",
+            "Obligation:13 \"Ensure Compliance and Monitoring**: Maintain a compliance function to monitor adherence to regulatory requirements and internal policies.\"",
+            "Obligation:14 \"Assess Capital Requirements**: Evaluate and meet any additional capital requirements for secondary market activities.\"",
+            "Obligation:15 \"Review Insurance Coverage**: Hold or increase the level of professional indemnity insurance to cover potential liabilities from secondary market activities.\n\nIt is crucial for PFP Operators to consult with the FSRA or a legal advisor specializing in ADGM financial regulations to ensure full compliance with all applicable rules and regulations before expanding their offerings to include secondary market activities.\""
+        ],
+        "NamedEntities": {
+            "exposure": "the extent to which an individual or organization is unprotected and open to damage, danger, risk of suffering a loss, or uncertainty",
+            "offering": "The process step of offering a security for issue. This is the making available of a new securities issue through an underwriting.",
+            "trade": "situation that realizes an agreement between parties participating in a voluntary action of buying and selling goods and services"
+        }
+    },
+    {
+        "ID": "1afc74c9-338e-44c8-8b6b-bba509c5946f",
+        "PassageID": "2.5",
+        "Passage": "In respect of Securities offered by Exempt Offer, whether previously offered through a PFP or not, an MTF Operator may list Exempt Offer Securities on the MTF, enabling such Securities to be traded amongst an unlimited number of Professional Clients and not more than 200 Retail Clients which have been assessed by the MTF Operator to possess appropriate knowledge and experience of the relevant risks, in accordance with Market Infrastructure Rules (MIR) Rule 2.8.3. A description of the systems and controls required to be employed by a MTF Operator that seeks to admit Exempt Offer Securities to trading is set out in Conduct of Business Rules (COBS) Rule 8.2.2.",
+        "Obligations": [
+            "Obligation:1 \"Client Assessment and Onboarding**:\n   - Ensure that Exempt Offer Securities are traded among an unlimited number of Professional Clients and no more than 200 Retail Clients.\n   - Assess Retail Clients to confirm they have the necessary knowledge and experience to understand the risks involved in trading Exempt Offer Securities.\"",
+            "Obligation:2 \"Systems and Controls**:\n   - Implement and maintain systems and controls as required by COBS Rule 8.2.2 to manage risks, ensure fair, orderly, and transparent trading, and manage conflicts of interest.\"",
+            "Obligation:3 \"Compliance with Regulations**:\n   - Adhere to all relevant rules set out in the Market Infrastructure Rules (MIR), particularly Rule 2.8.3, and the Conduct of Business Rules (COBS).\n   - Stay informed about any changes to the MIR and COBS that may affect obligations and update systems and procedures accordingly.\"",
+            "Obligation:4 \"Record-Keeping**:\n   - Maintain accurate records of all assessments conducted on Retail Clients and all trades and transactions involving Exempt Offer Securities.\"",
+            "Obligation:5 \"Disclosure and Transparency**:\n   - Provide clear and fair information to all participants about the nature and risks of Exempt Offer Securities.\n   - Disclose all relevant information to the market in a timely manner to maintain transparency.\"",
+            "Obligation:6 \"Monitoring and Reporting**:\n   - Monitor trading activities to detect and prevent market abuse or activities that could harm market integrity.\n   - Report any suspicious activities to the relevant authorities as required by ADGM regulations.\"",
+            "Obligation:7 \"Risk Management**:\n   - Establish and maintain effective risk management policies and procedures.\"",
+            "Obligation:8 \"Regulatory Engagement**:\n   - Engage with the ADGM Financial Services Regulatory Authority (FSRA) as necessary for clarifications or guidance.\"",
+            "Obligation:9 \"Client Communication**:\n   - Ensure that all communications with clients, especially Retail Clients, are clear, fair, and not misleading.\n\nIt is recommended to review the full text of the MIR and COBS rules to ensure comprehensive compliance and consider seeking legal or compliance advice to fully understand and meet all obligations.\""
+        ],
+        "DefinedTerms": {
+            "Business Rules": "Means the written rules of a Recognised Investment Exchange which govern the membership and the operations of a financial market operated by it.",
+            "COBS": "Means the Conduct of Business module of the Rulebook.",
+            "Exempt Offer": "Means Offers prescribed in MKT 4.3.1.",
+            "MIR": "Means the Market Infrastructure Rules.",
+            "Offer": "Means:\n(a)\tin relation to Securities other than Units, an offer of Securities falling within Part 6 of FSMR; and\n(b)\tin relation to Units, an offer of Units falling outside Part 6 of FSMR.",
+            "Rule": "Means any rule made by the Regulator or the Board, as applicable, in accordance with the procedures in Part 2 of FSMR."
+        }
+    },
+    {
+        "ID": "e8945fba-18a2-4ea5-b3a5-11eae524a0ea",
+        "PassageID": "2.6",
+        "Passage": "In light of these considerations, the FSRA has developed a proportionate, risk-based PCM Framework that facilitates access by start-ups and SMEs to alternate sources of funding, rather than traditional channels, while applying the necessary regulatory safeguards to ensure the PFP Operators and MTF Operators operate in a safe and sound manner to protect their Clients.",
+        "Obligations": [
+            "Obligation:1 \"Licensing and Registration**: Obtain the necessary licenses and registrations from the FSRA to legally operate within ADGM.\"",
+            "Obligation:2 \"Client Protection**: Implement client onboarding, due diligence, and asset segregation to protect client interests.\"",
+            "Obligation:3 \"Risk Management**: Develop and maintain risk management policies to identify and mitigate operational risks.\"",
+            "Obligation:4 \"Compliance with Regulations**: Adhere to all applicable regulations, including AML/CFT requirements, and maintain robust compliance systems.\"",
+            "Obligation:5 \"Corporate Governance**: Establish a clear governance structure with competent oversight and clear lines of responsibility.\"",
+            "Obligation:6 \"Capital Requirements**: Ensure sufficient capital to support operations and cover potential losses.\"",
+            "Obligation:7 \"Operational Resilience**: Maintain business continuity and disaster recovery plans to ensure operational stability.\"",
+            "Obligation:8 \"Transparency and Reporting**: Provide clear information to clients and the regulator, and fulfill all reporting obligations.\"",
+            "Obligation:9 \"Market Conduct**: Promote fair and orderly markets and prevent market abuse and manipulation.\"",
+            "Obligation:10 \"Client Assets**: Properly segregate and protect client assets if handling them.\"",
+            "Obligation:11 \"Audit and Independent Reviews**: Conduct regular audits and independent reviews for compliance verification.\"",
+            "Obligation:12 \"Ongoing Supervision**: Cooperate with the FSRA's supervision, providing necessary information and access as required.\n\nFor detailed and specific obligations, refer to the actual regulatory texts issued by the FSRA and consider consulting with a compliance professional or legal advisor.\""
+        ]
+    },
+    {
+        "ID": "c7578427-c43f-4bf8-9f09-90077ffaf591",
+        "PassageID": "3.",
+        "Passage": "KEY FEATURES OF THE PRIVATE CAPITAL MARKETS FRAMEWORK",
+        "Obligations": []
+    },
+    {
+        "ID": "5d2ee67c-ace8-479b-a273-1dda5918897a",
+        "PassageID": "3.1",
+        "Passage": "Definition of Regulated Activity\nThe Regulated Activity of Operating a Private Financing Platform is defined in Schedule 1, Chapter 17C, Section 73E of FSMR and captures a number of alternative financing arrangements.\nThe Regulated Activity of Operating a Multilateral Trading Facility is defined in Schedule 1, Chapter 9, Section 54 of FSMR.",
+        "Obligations": [
+            "Obligation:1 \"Authorization**: Obtain authorization from the ADGM Financial Services Regulatory Authority (FSRA).\"",
+            "Obligation:2 \"Risk Management**: Implement appropriate risk management systems.\"",
+            "Obligation:3 \"Disclosure and Transparency**: Provide clear, fair, and not misleading information about the nature of investments and associated risks.\"",
+            "Obligation:4 \"Reporting**: Submit regular reports to the FSRA, including financial statements and compliance-related reports.\"",
+            "Obligation:5 \"Compliance**: Establish a compliance function to monitor adherence to regulatory requirements and implement effective policies and procedures.\"",
+            "Obligation:6 \"Conflict of Interest**: Manage and disclose any potential conflicts of interest.\"",
+            "Obligation:7 \"Capital Requirements**: Meet the minimum capital requirements set by the FSRA.\"",
+            "Obligation:8 \"Client Money Rules**: Comply with rules regarding the handling of client money, if applicable.\"",
+            "Obligation:9 \"Due Diligence**: Conduct due diligence on platform participants to prevent fraud and money laundering, and ensure investment suitability.\"",
+            "Obligation:10 \"Dispute Resolution**: Establish effective procedures for dispute resolution.\"",
+            "Obligation:11 \"Client Onboarding**: Have robust client onboarding processes, including KYC and AML checks.\"",
+            "Obligation:12 \"Client Assets**: Ensure client assets are appropriately segregated and protected.\"",
+            "Obligation:13 \"Fair Access**: Ensure the facility operates in a fair and non-discriminatory manner.\"",
+            "Obligation:14 \"Market Surveillance**: Implement systems for monitoring trading activities to prevent market abuse.\"",
+            "Obligation:15 \"Rules and Procedures**: Establish clear rules and procedures governing the operation of the MTF.\"",
+            "Obligation:16 \"Record Keeping**: Maintain comprehensive records of all activities and transactions.\"",
+            "Obligation:17 \"System Resilience**: Ensure the resilience of trading systems and have arrangements for business continuity.\"",
+            "Obligation:18 \"Fair and Orderly Trading**: Ensure the trading system is fair, transparent, and orderly.\"",
+            "Obligation:19 \"Access to the Facility**: Maintain transparent and non-discriminatory rules governing access.\"",
+            "Obligation:20 \"Clearing and Settlement**: Have clear arrangements for the clearing and settlement of trades.\"",
+            "Obligation:21 \"Compliance and Monitoring**: Monitor trading activities to ensure the MTF operates in accordance with regulations.\n\nPlease note that these action items are a general guide and specific obligations may vary based on the exact nature of the business, services provided, and the scale of operations. It is recommended to consult the FSMR, relevant FSRA rulebooks, and seek legal advice for full compliance.\""
+        ],
+        "NamedEntities": {
+            "multilateral trading facility": "trading system that facilitates the exchange of financial instruments between multiple parties"
+        },
+        "DefinedTerms": {
+            "FSMR": "Means the Financial Services and Markets Regulations 2015.",
+            "Regulated Activity": "Has the meaning given in section 19 of FSMR."
+        }
+    },
+    {
+        "ID": "4a3a1f9d-f7f6-4cb7-ae43-3ec7ef34e184",
+        "PassageID": "3.2",
+        "Passage": "Clients\nAs retail investors in general may not fully understand the high risks associated with the transactions facilitated through a PFP, or trading in Exempt Offer Securities through a MTF, the FSRA intends to restrict the accessibility to Exempt Offer Securities through the PCM Framework primarily to Professional Clients and a limited number of Retail Clients assessed to demonstrate adequate knowledge and experience to assess the risks of such investments.\nPFP Operators and MTF Operators generally do not provide financial advisory services to Clients. Under these circumstances, the onus is on Clients to seek independent financial advice or to make their own evaluation of the risks associated with any potential loan or investment. Professional Clients are considered to be more sophisticated and have more resources and capacity to make informed decisions on prospective debt and equity instruments offered through a PFP or MTF after considering the inherent risks.\nThere may be instances where a PFP Operator would like to offer its services to potential, sophisticated Clients who do not meet the current financial criteria to be classified as a Professional Client. The FSRA may consider allowing the participation of these Clients where the Authorised Person are able to assess and verify that these Clients are able to adequately understand the risks associated with PFP Transactions, based on their knowledge and experience.\nIn such circumstances, the PFP Operator may take into consideration information on the Client\u2019s educational qualifications, investment experience and work experience. In addition, the PCM Framework, as outlined in Chapter 4 of the Markets Rules (MKT), limits participation to not more than 200 Clients which do not qualify as Professional Clients, where such Clients have been assessed to possess knowledge and experience sufficient to appreciate the relevant risks.  As a prerequisite, the PFP Operator\u2019s FSP must specifically permit it to deal with Retail Clients.\nAll Clients must be pre-screened and onboarded by the PFP Operator, in accordance with COBS Chapter 2 and Chapter 18 as applicable, before being given access to the PFP.\nSimilarly, a MTF Operator which seeks to grant access to the MTF, enabling Retail Clients to trade in Exempt Offer Securities must first assess the relevant knowledge and experience of each potential Client and limit the number of Retail Clients which trade in any specific Exempt Offer Security to not exceed 200.  A MTF Operator seeking to use the Exempt Offer provisions in MKT Chapter 4 to enable trading is limited to listing Securities that are Shares.",
+        "Obligations": [
+            "Obligation:1 \"Client Classification and Accessibility Restrictions**:\n   - Restrict Exempt Offer Securities primarily to Professional Clients.\n   - Allow a limited number of Retail Clients access after demonstrating adequate knowledge and experience.\"",
+            "Obligation:2 \"Client Assessment**:\n   - Assess and verify Retail Clients' understanding of risks based on their knowledge, experience, educational qualifications, investment experience, and work experience.\n   - Limit the number of Retail Clients to no more than 200 who do not qualify as Professional Clients but are assessed as sufficiently knowledgeable and experienced.\"",
+            "Obligation:3 \"Financial Services Permission (FSP)**:\n   - Ensure your FSP permits dealing with Retail Clients.\"",
+            "Obligation:4 \"Client Onboarding**:\n   - Pre-screen and onboard all Clients in accordance with COBS Chapter 2 and Chapter 18 before granting access to the PFP.\"",
+            "Obligation:5 \"MTF Operator Specific Obligations**:\n   - Assess each potential Retail Client's relevant knowledge and experience before allowing them to trade in Exempt Offer Securities.\n   - Limit the number of Retail Clients trading in any specific Exempt Offer Security to not exceed 200.\n   - List only Securities that are Shares if using the Exempt Offer provisions in MKT Chapter 4.\"",
+            "Obligation:6 \"No Financial Advisory Services**:\n   - Inform Clients that they are responsible for seeking independent financial advice or evaluating the risks themselves.\"",
+            "Obligation:7 \"Compliance with MKT Chapter 4**:\n   - Adhere to the PCM Framework in Chapter 4 of the Markets Rules, including restrictions and conditions for offering services to Clients.\"",
+            "Obligation:8 \"Regulatory Adherence**:\n   - Strictly follow FSRA rules to ensure only sophisticated Clients participate in investments through PFPs or MTFs.\n   - Be aware that non-compliance may result in regulatory action by the FSRA.\""
+        ],
+        "NamedEntities": {
+            "debt": "obligation to pay something, such as an amount of money, good, service, or instrument",
+            "security": "financial instrument that can be bought or sold",
+            "trade": "situation that realizes an agreement between parties participating in a voluntary action of buying and selling goods and services"
+        },
+        "DefinedTerms": {
+            "Authorised Person": "Means a Person, other than a Recognised Body, who is authorised under the FSMR.",
+            "Client": "Means a Retail Client or Professional Client as defined in COBS 2.",
+            "COBS": "Means the Conduct of Business module of the Rulebook.",
+            "Exempt Offer": "Means Offers prescribed in MKT 4.3.1.",
+            "MKT": "Means the Markets Rules.",
+            "Offer": "Means:\n(a)\tin relation to Securities other than Units, an offer of Securities falling within Part 6 of FSMR; and\n(b)\tin relation to Units, an offer of Units falling outside Part 6 of FSMR.",
+            "Person": "Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state.",
+            "PFP Operator": "An Authorised Person engaged in the Regulated Activity of Operating a Private Financing Platform.",
+            "Professional Client": "Means a Client specified under COBS 2.4.",
+            "Security": "Has the meaning given in section 258 of FSMR."
+        }
+    },
+    {
+        "ID": "191c9748-e52b-480e-81d8-1431df85a9c0",
+        "PassageID": "3.3",
+        "Passage": "PFP Prospects\nA PFP Prospect must be a Body Corporate. The FSRA is of the view that a PFP would be an inappropriate forum for use by natural persons seeking financing for a business venture for a number of reasons, including:\n(a)\tthe inappropriateness of a PFP for the formation of partnerships between individuals; and\n(b)\tthe undesirability of posting personal information enabling the Clients of a PFP to ascertain the creditworthiness of an individual.\nThe FSRA is additionally of the view that a PFP would be inappropriate for capitalising ventures at the pre-incorporation stage of their development, given the lack of track record and the limited scope of potential due diligence that may be undertaken.",
+        "Obligations": [
+            "Obligation:1 \"Restrict Target Audience**: Ensure that your PFP targets only Bodies Corporate, excluding services to natural persons and individual entrepreneurs.\"",
+            "Obligation:2 \"Prohibit Individual Partnerships**: Do not facilitate the formation of partnerships between individuals on your PFP.\"",
+            "Obligation:3 \"Protect Privacy and Credit Information**: Do not post personal information that could be used to ascertain the creditworthiness of individuals.\"",
+            "Obligation:4 \"Conduct Due Diligence**: Perform appropriate due diligence on corporate entities to ensure they have a sufficient track record and are beyond the pre-incorporation stage.\"",
+            "Obligation:5 \"Adhere to Regulatory Compliance**: Comply with all relevant FSRA regulations and guidelines, including AML, CTF, KYC, and other prudential and conduct requirements.\"",
+            "Obligation:6 \"Maintain Records and Reporting**: Keep accurate records and report necessary information to the FSRA as required.\"",
+            "Obligation:7 \"Implement Risk Management**: Develop and enforce effective risk management policies to handle various risks such as credit, market, operational, and legal risks.\"",
+            "Obligation:8 \"Ensure Consumer Protection**: Protect client interests by providing transparent, clear, and non-misleading information about the risks and terms of financing.\""
+        ],
+        "DefinedTerms": {
+            "Body Corporate": "Means any body corporate, including limited liability partnership and a body corporate constituted under the law of a country or territory outside of the ADGM.",
+            "PFP Prospect": "A Body Corporate seeking financing by publishing a financing proposal upon a Private Financing Platform."
+        }
+    },
+    {
+        "ID": "66cbe855-e901-4b3e-8032-066c20b3b30e",
+        "PassageID": "3.4",
+        "Passage": "Exempt Offers\nA Security being offered to the public within the ADGM must be accompanied by a Prospectus under Section 61 of FSMR, unless it qualifies as an Exempt Offer. Accordingly, the FSRA will only allow a financing proposal to be published on a PFP where it qualifies as an Exempt Offer through satisfying any of the criteria set out in MKT Rule 4.3.1, also bearing in mind Rules 4.3.2 and 4.3.3, which are included in Appendix 1 of this Guidance.\nSpecifically where an Offer involves Retail Clients participation, it would qualify as an Exempt Offer if it is directed at no more than 200 Retail Clients, in circumstances where the Securities are offered within a PFP or MTF.\nPursuant to such an Exempt Offer, a PFP Operator or MTF Operator is required to put in place appropriate systems and controls to ensure that the Issuer must provide a Product Summary Note to Retail Clients in accordance with the MKT APP 7.",
+        "Obligations": [
+            "Obligation:1 \"Assess Exempt Offer Status**: Verify that the offer of securities meets the criteria for an Exempt Offer as per MKT Rule 4.3.1.\"",
+            "Obligation:2 \"Retail Client Limitation**: Ensure the offer is limited to no more than 200 Retail Clients if it involves them.\"",
+            "Obligation:3 \"Offering Platform**: Confirm that the securities are offered within a Private Financing Platform (PFP) or a Multilateral Trading Facility (MTF) when involving Retail Clients.\"",
+            "Obligation:4 \"Implement Systems and Controls**: If operating as a PFP or MTF, establish appropriate systems and controls to comply with Exempt Offer rules.\"",
+            "Obligation:5 \"Provide Product Summary Note**: Issue a Product Summary Note to Retail Clients that complies with MKT APP 7, detailing key information about the securities.\"",
+            "Obligation:6 \"Adhere to Additional Rules**: Comply with the requirements and conditions specified in Rules 4.3.2 and 4.3.3.\"",
+            "Obligation:7 \"Prospectus Obligation**: Prepare and publish a Prospectus if the offer does not qualify as an Exempt Offer, as required by Section 61 of FSMR.\"",
+            "Obligation:8 \"Regulatory Filings and Notifications**: Complete any necessary filings or notifications with the FSRA related to the Exempt Offer.\"",
+            "Obligation:9 \"Maintain Ongoing Compliance**: Continuously comply with all relevant ADGM financial regulations and guidelines, including updates post-initial assessment.\"",
+            "Obligation:10 \"Seek Professional Advice**: Consult with legal or compliance experts specializing in ADGM regulations when in doubt about obligations.\n\nIt is critical to regularly review the FSMR, MKT Rules, and any guidance from the FSRA to ensure ongoing compliance.\""
+        ],
+        "NamedEntities": {
+            "issuer": "party that issues (or proposes to issue in a formal filing) a financial instrument",
+            "security": "financial instrument that can be bought or sold"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "Exempt Offer": "Means Offers prescribed in MKT 4.3.1.",
+            "FSMR": "Means the Financial Services and Markets Regulations 2015.",
+            "Guidance": "Has the meaning given in section 15(2) of FSMR.",
+            "Issuer": "In relation to:\n(a)\tany Security other than a Unit in a Collective Investment Fund, means the Person by whom it is or is to be issued;\n(b)\ta Unit in a Collective Investment Fund, means the Fund Manager; and\n(c)\tan interest in a Limited Liability Partnership, means the Partnership.",
+            "MKT": "Means the Markets Rules.",
+            "Offer": "Means:\n(a)\tin relation to Securities other than Units, an offer of Securities falling within Part 6 of FSMR; and\n(b)\tin relation to Units, an offer of Units falling outside Part 6 of FSMR.",
+            "PFP Operator": "An Authorised Person engaged in the Regulated Activity of Operating a Private Financing Platform.",
+            "Prospectus": "Means a prospectus submitted in accordance with section 61 of FSMR.  In relation to Collective Investment Funds, a Prospectus refers to (where section 61 of FSMR does not apply):\n(a)\tan information memorandum;\n(b)\tan offering memorandum;\n(c)\ta private placement memorandum; or\n(d)\tany other similar document.",
+            "Rule": "Means any rule made by the Regulator or the Board, as applicable, in accordance with the procedures in Part 2 of FSMR.",
+            "Security": "Has the meaning given in section 258 of FSMR.",
+            "Summary": "Means the document referred to in MKT 4.5.1(3)(a)."
+        }
+    },
+    {
+        "ID": "50a53aa8-d8a9-461c-b9ce-6dc8b95d7e76",
+        "PassageID": "3.5",
+        "Passage": "Client Assets\nAs best practice, a PFP Operator should appoint an Eligible Custodian to safeguard Client Assets. However, alternative arrangements may be permitted by the FSRA where appropriate safeguards are implemented.\nIn the case that a PFP Operator does not appoint an Eligible Custodian, it must comply with:\n(a)\tthe higher capital requirements set out in Prudential \u2013 Investment, Insurance Intermediation and Banking (PRU) Chapter 3 and Section 4.4(f) of this Guidance; and\n(b)\twhere applicable, the following COBS Rules:\n(i)\tChapter 14 \u2013 Client Money Rules (if holding or controlling Client Money, Providing Custody or Arranging Custody);\n(ii)\tChapter 15 \u2013 Safe Custody Rules (if holding or controlling Client Investments, Providing Custody or Arranging Custody);\n(iii)\tChapter 16 \u2013 Recovery & Resolution Planning for Client Money & Safe Custody Assets (if holding Client Money or Client Investments); and\n(iv)\tChapter 18 \u2013 Operating a Private Financing Platform.",
+        "Obligations": [
+            "Obligation:1 \"Appoint an Eligible Custodian**:\n   - Appoint an Eligible Custodian to safeguard Client Assets as a best practice.\"",
+            "Obligation:2 \"Alternative Arrangements**:\n   - If an Eligible Custodian is not appointed, obtain approval from the FSRA for alternative arrangements that provide appropriate safeguards for Client Assets.\"",
+            "Obligation:3 \"Compliance with Higher Capital Requirements**:\n   - Comply with higher capital requirements as specified in PRU Chapter 3 and Section 4.4(f) of the provided Guidance if operating without an Eligible Custodian.\"",
+            "Obligation:4 \"Compliance with COBS Rules**:\n   - Adhere to specific COBS Rules relevant to your activities:\n     - Chapter 14 for handling Client Money.\n     - Chapter 15 for safeguarding Client Investments.\n     - Chapter 16 for having recovery and resolution plans for Client Money and Client Investments.\n     - Chapter 18 for operational requirements specific to PFP Operators.\"",
+            "Obligation:5 \"Implementation of Appropriate Safeguards**:\n   - Ensure that any alternative arrangements to an Eligible Custodian offer equivalent protection to Client Assets.\"",
+            "Obligation:6 \"Review and Stay Updated**:\n   - Regularly review the full text of the PRU and COBS chapters and any other relevant FSRA guidance or regulations to ensure ongoing compliance.\n   - Stay informed about any changes in the regulatory framework that could impact obligations as a PFP Operator.\"",
+            "Obligation:7 \"Seek Clarification or Legal Advice**:\n   - If necessary, seek further clarification or legal advice regarding your specific operations within ADGM to ensure compliance.\""
+        ],
+        "NamedEntities": {
+            "custodian": "financial institution that holds customers' securities for safekeeping",
+            "holding": "real or personal property (assets), including but not limited to financial assets, to which one holds title and of which one has possession"
+        },
+        "DefinedTerms": {
+            "Arranging Custody": "In relation to:\n(a)\tCOBS, means arranging for one or more Persons to Provide Custody; and\n(b)\tGEN and FEES, has the meaning given in paragraph 46 of Schedule 1 of FSMR.",
+            "Assets": "Means, unless specified otherwise, collateral held to cover positions and includes the right to the transfer of assets equivalent to that collateral or the proceeds of the realisation of any collateral, but does not include Default Fund Contributions.",
+            "Client": "Means a Retail Client or Professional Client as defined in COBS 2.",
+            "Client Assets": "Means Client Money and Client Investments.",
+            "Client Investments": "Means all Investments held or controlled on behalf of Client in the course of, or in connection with, the carrying on of the Investment Business.",
+            "Client Money": "Means money of any currency which an Authorised Person holds on behalf of a Client (including any receivables of the Authorised Person in respect of bank accounts or clearing or brokerage accounts) or which an Authorised Person treats as Client Money, subject to the exclusions in COBS 14.3.1.",
+            "Client Money Rules": "Means the Rules in COBS 14.2 relating to the holding of Client Money.",
+            "COBS": "Means the Conduct of Business module of the Rulebook.",
+            "Eligible Custodian": "Has the meaning given in FSMR.",
+            "Guidance": "Has the meaning given in section 15(2) of FSMR.",
+            "Insurance Intermediation": "Has the meaning given in paragraph 33 of Schedule 1 of FSMR.",
+            "Investment": "Means in relation to:\n(a)\tCOBS, means either of the following:\n(i)\ta Security; or\n\n(ii)\ta Derivative,\nunless otherwise specified\n(b)\tGEN and elsewhere, means Specified Investments set out in Part 3 of Schedule 1 of FSMR, unless otherwise specified.",
+            "Money": "Means any form of money, including banknotes, coins, cheques, Electronic Money and any other non-cash form, such as payable orders.",
+            "PFP Operator": "An Authorised Person engaged in the Regulated Activity of Operating a Private Financing Platform.",
+            "Providing Custody": "Means the Regulated Activity specified in paragraph 43 of Schedule 1 of FSMR.",
+            "Safe Custody Rules": "Means the Rules in COBS 15."
+        }
+    },
+    {
+        "ID": "b680a1aa-643c-4a18-be21-3deafdcd9d68",
+        "PassageID": "4.",
+        "Passage": "AUTHORISATION CRITERIA FOR PFP OPERATORS",
+        "Obligations": []
+    },
+    {
+        "ID": "5161c2c6-7010-4665-a37a-83bb9a4d9828",
+        "PassageID": "4.1",
+        "Passage": "When reviewing an FSP application from a proposed PFP Operator (a \u201cPFP Applicant\u201d), the FSRA will consider the Threshold Conditions set out in FSMR and Chapter 5 of the General (GEN) Rulebook and the matters set out in Chapter 2 of the GPM.",
+        "Obligations": [
+            "Obligation:1 \"Legal and Regulatory Compliance:**\n   - Ensure the entity is properly established for the type of financial services provided.\n   - Comply with the Financial Services and Markets Regulations (FSMR), General (GEN) Rulebook, and Guidance & Policies Manual (GPM).\n   - Establish and maintain effective compliance arrangements, including AML and CTF measures.\"",
+            "Obligation:2 \"Organizational Fitness and Propriety:**\n   - Demonstrate that all individuals involved (e.g., directors, senior managers) are fit and proper for their roles.\n   - Maintain a sound governance structure with clear responsibilities and effective oversight.\"",
+            "Obligation:3 \"Business Model and Strategy:**\n   - Present a clear, sustainable business model suitable for the nature, scale, and complexity of the business.\n   - Ensure the business model is sound and prudent for the proposed financial services activities.\"",
+            "Obligation:4 \"Resource Adequacy:**\n   - Have adequate financial and non-financial resources to conduct business effectively and meet liabilities.\n   - Ensure sufficient liquid resources to meet financial obligations as they come due.\"",
+            "Obligation:5 \"Risk Management:**\n   - Implement a robust risk management framework appropriate for the business risks.\n   - Manage and mitigate various risks including credit, market, operational, and others.\"",
+            "Obligation:6 \"Customer and Investor Protection:**\n   - Ensure fair treatment of customers and compliance with conduct of business standards.\n   - Implement investor protection measures and disclosure requirements.\"",
+            "Obligation:7 \"Governance and Control:**\n   - Have effective governance arrangements and a clear organizational structure.\n   - Establish comprehensive risk management policies and procedures.\"",
+            "Obligation:8 \"Conflict of Interest and Outsourcing:**\n   - Identify, manage, and disclose any conflicts of interest.\n   - Ensure effective supervision of outsourced service providers without delegating responsibility.\"",
+            "Obligation:9 \"Disclosure and Transparency:**\n   - Provide clear, accurate, and timely information to the FSRA, clients, and the public.\"",
+            "Obligation:10 \"Consultation and Professional Advice:**\n    - Seek professional advice or consult with the FSRA for specific guidance related to the application.\"",
+            "Obligation:11 \"Application Preparation:**\n    - Prepare a comprehensive FSP application that demonstrates the ability to meet all relevant criteria.\n\nBy addressing these consolidated action items, a PFP Applicant can ensure that they are meeting the requirements set by the FSRA for obtaining a Financial Services Permission within the ADGM.\""
+        ],
+        "DefinedTerms": {
+            "Applicant": "Has the meaning given in section 258 of FSMR.",
+            "FSMR": "Means the Financial Services and Markets Regulations 2015.",
+            "GEN": "Means the General module of the Rulebook.",
+            "GPM": "Means the Guidance and Policies Manual, once published by the Regulator.",
+            "PFP Operator": "An Authorised Person engaged in the Regulated Activity of Operating a Private Financing Platform.",
+            "Rulebook": "Means the ADGM financial services rulebooks comprising GLO, GEN, PRU, PIN, MIR, AML, MKT, COBS, FUNDS, CIB, IFR and FEES."
+        }
+    },
+    {
+        "ID": "463a8515-2530-430b-9902-4861c673a8c0",
+        "PassageID": "4.2",
+        "Passage": "A PFP Applicant must apply for the Regulated Activity of \u201cOperating a Private Financing Platform\u201d.  To allow for secondary trading of Securities that are offered on its platform, the PFP Applicant must also apply for the Regulated Activity of \u201cOperating a Multilateral Trading Facility\u201d.",
+        "Obligations": [
+            "Obligation:1 \"Application for Operating Licenses:**\n   - Submit applications to the FSRA for:\n     - Operating a Private Financing Platform (PFP).\n     - Operating a Multilateral Trading Facility (MTF), if secondary trading is intended.\"",
+            "Obligation:2 \"Compliance with Regulatory Requirements:**\n   - Demonstrate compliance with prudential and conduct requirements for PFP and MTF operations.\n   - Adhere to the FSMR and any relevant rules and guidance issued by the FSRA.\n   - Implement and maintain robust governance, risk management, and internal control systems.\n   - Establish fair and orderly trading systems, transparent rules, and measures to manage conflicts of interest for MTF operations.\n   - Monitor transactions to prevent fraudulent and manipulative practices.\n   - Maintain transparent and non-discriminatory rules governing access to the platform.\n   - Ensure that the MTF is accessible to various types of users and that the interests of all market participants are safeguarded.\"",
+            "Obligation:3 \"Client and Investor Protection:**\n   - Implement client protection measures, including clear terms of service, onboarding procedures, and dispute resolution mechanisms.\n   - Protect investor interests with clear and transparent disclosure of information about securities offered.\n   - Have a fair, efficient, and transparent complaints handling procedure.\"",
+            "Obligation:4 \"AML and CTF Compliance:**\n   - Establish and maintain effective AML and CTF policies and procedures.\n   - Ensure proper customer due diligence processes are in place.\"",
+            "Obligation:5 \"Financial Prudence:**\n   - Maintain adequate capital and liquidity to manage business risks and ensure smooth operations.\n   - Have a robust framework for the management of technical operations, including contingency arrangements for system disruptions.\"",
+            "Obligation:6 \"Regular Audits, Reporting, and Filings:**\n   - Conduct regular audits and assessments to ensure ongoing compliance.\n   - Comply with ongoing regulatory reporting obligations to the FSRA.\n   - Make regulatory filings as required, including financial statements, audit reports, and any other requested information.\"",
+            "Obligation:7 \"Notification of Changes:**\n   - Promptly inform the FSRA of any significant changes to business model, operations, management, or control.\n   - Obtain necessary approvals for material changes.\"",
+            "Obligation:8 \"Governance and Staffing:**\n   - Ensure a competent and experienced management team with a clear governance structure.\n   - Ensure staff are adequately trained and qualified.\n\nBy addressing these consolidated action items, a PFP applicant will be able to meet the obligations required to operate within the ADGM's regulatory framework. It is essential to stay informed about any updates or changes to the regulations to maintain compliance continuously.\""
+        ],
+        "NamedEntities": {
+            "multilateral trading facility": "trading system that facilitates the exchange of financial instruments between multiple parties"
+        },
+        "DefinedTerms": {
+            "Applicant": "Has the meaning given in section 258 of FSMR.",
+            "Regulated Activity": "Has the meaning given in section 19 of FSMR."
+        }
+    },
+    {
+        "ID": "05a7c46a-5ae7-46dc-9959-0022589fb3c0",
+        "PassageID": "4.3",
+        "Passage": "The Threshold Conditions set out in GEN Rule 5.2.7, require a PFP Applicant to demonstrate to the satisfaction of the FSRA that it:\n(a)\thas adequate and appropriate resources, including financial resources;\n(b)\tis fit and proper;\n(c)\tis capable of being effectively supervised; and\n(d)\thas adequate compliance arrangements, including policies and procedures, that will enable it to comply with all the applicable legal requirements.",
+        "Obligations": [
+            "Obligation:1 \"Ensure Adequate and Appropriate Resources**:\n   - Maintain adequate financial resources (capital, liquidity) to support operations and withstand risks.\n   - Have sufficient human resources with the necessary skills, knowledge, and experience.\n   - Implement appropriate systems and controls for effective resource management.\n   - Ensure non-financial resources (systems, staff, operational capabilities) are suitable for the business's nature, scale, and complexity.\"",
+            "Obligation:2 \"Maintain Fit and Proper Standards**:\n   - Ensure that management and persons with control over the business meet the 'fit and proper' criteria (integrity, competence, financial soundness).\n   - Conduct due diligence on persons in control functions.\n   - Maintain a clear organizational structure with defined lines of responsibility.\n   - Ensure all directors or persons directing the business are competent and committed to honesty, integrity, and fairness.\"",
+            "Obligation:3 \"Facilitate Effective Supervision**:\n   - Structure business operations to enable effective FSRA supervision.\n   - Maintain transparent and open communication with the FSRA.\n   - Comply with regulatory reporting and disclosure requirements.\n   - Organize the business to avoid regulatory arbitrage and protect ADGM\u2019s reputation.\"",
+            "Obligation:4 \"Establish Adequate Compliance Arrangements**:\n   - Develop and maintain robust compliance policies and procedures.\n   - Ensure the compliance function is independent, well-resourced, and has sufficient authority and access to the board or equivalent.\n   - Implement effective internal controls, risk management, and monitoring processes.\n   - Maintain adequate AML and CTF measures.\n   - Stay informed about regulatory changes and adjust compliance arrangements as necessary.\n   - Establish systems to prevent financial crime.\"",
+            "Obligation:5 \"Conduct Regular Assessments and Updates**:\n   - Perform thorough assessments of current and projected business activities to ensure compliance with FSRA conditions.\n   - Document how the business meets regulatory conditions and be prepared to demonstrate this to the FSRA.\n   - Regularly review and update policies, procedures, and resources.\n   - Engage in regular reviews and audits for ongoing compliance with the regulatory framework.\"",
+            "Obligation:6 \"Resource Enhancement and Training**:\n   - Enhance financial resources if necessary.\n   - Recruit or train staff for compliance and control functions.\n   - Develop comprehensive internal policies.\n   - Establish robust reporting and risk management systems.\""
+        ],
+        "DefinedTerms": {
+            "Applicant": "Has the meaning given in section 258 of FSMR.",
+            "GEN": "Means the General module of the Rulebook.",
+            "Rule": "Means any rule made by the Regulator or the Board, as applicable, in accordance with the procedures in Part 2 of FSMR."
+        }
+    },
+    {
+        "ID": "5ec7e30d-7b76-40d4-bf5a-dbd768caacaa",
+        "PassageID": "4.4",
+        "Passage": "Chapter 2 of the GPM sets out in detail the FSRA\u2019s approach to assessing whether an applicant for an FSP meets the Threshold Conditions above. Some key considerations for PFP Applicants are the following:\n(a)\tBusiness Model\nThe FSRA will consider the PFP Applicant\u2019s proposed business model and assess any potential risks it poses. In particular, the FSRA will consider:\n(i)\tthe nature and structure of the products offered on the PFP;\n(ii)\tthe PFP Applicant\u2019s target Clients;\n(iii)\tthe roles and responsibilities of the PFP Applicant;\n(iv)\twhether the Applicant will carry out primary and/or secondary trading;\n(v)\twhether the PFP Applicant might have any perceived conflicts of interest when authorised and how these might be managed;\n(vi)\tany proposed outsourcing arrangements with third party service providers;\n(vii)\twhether the PFP Applicant is proposing to carry out any other Regulated Activities; and\n(viii)\tthe safekeeping arrangements for Client Assets if the PFP Applicant intends to hold these.\nIn the case that a PFP Applicant proposes to carry out other Regulated Activities such as Operating a MTF, Advising on Investments or Credit, Managing Assets or Managing a Collective Investment Fund, the PFP Applicant would need to demonstrate how it would manage any potential conflicts of interest that these activities may pose.\n(b)\tTrack Record\nA PFP Applicant should demonstrate that it or its Group has an established track record in corporate finance or a related business, of a minimum of five years, in a jurisdiction that has a legislative and regulatory framework that is of comparable standard to that of the FSRA. The PFP Applicant or its Group, where applicable, should also be subject to proper supervision by a competent regulatory authority.\nAlternatively, where a PFP Applicant does not have an established track-record of at least five years or meet the regulatory status requirement, the FSRA may take into account (i) the track record of the PFP Applicant\u2019s Controllers/substantial shareholders and (ii) the experience and qualifications of the PFP Applicant\u2019s key individuals, when assessing the application.\n(c)\tGoverning Body\n(i)\tLicensed Directors \u2013 A PFP Applicant which is a Body Corporate incorporated in the ADGM, must register all its Directors with the FSRA in accordance with GEN Rule 5.5.4.\n(ii)\tLicensed Partners \u2013 A PFP Applicant which is Partnership established in the ADGM, must register all its Partners with the FSRA in accordance with GEN Rule 5.5.5.\nThese appointments are not required for PFP Applicants that are branches of legal entities domiciled outside the ADGM.\nThe PFP Applicant must demonstrate that its Governing Body has sufficient collective skills and experience in corporate finance or related fields to oversee the firm\u2019s operations.\n(d)\tMandatory Appointments\nA PFP Applicant must also appoint the following individuals in accordance with GEN Rule 5.5.1:\n(i)\tSenior Executive Officer (\u201cSEO\u201d) \u2013 an SEO who is ultimately responsible for the day-to-day operation, supervision and control of the firm\u2019s operation. The SEO must possess a minimum of five years\u2019 relevant and demonstrable experience and qualifications.\n(ii)\tFinance Officer (\u201cFO\u201d) \u2013 a Finance Officer with the relevant expertise to prepare and oversee its financial reporting.\n(iii)\tCompliance Officer (\u201cCO\u201d) \u2013 a suitably experienced and qualified Compliance Officer who is independent of the firm\u2019s operations and oversees the compliance function.\n(iv)\tMoney Laundering Reporting Officer (\u201cMLRO\u201d) \u2013 a suitably experienced and qualified MLRO who is independent of the firm\u2019s operations and responsible for the implementation of the firm\u2019s anti-money laundering controls and the day-to-day oversight of its compliance with the Anti- Money Laundering and Sanctions Rules (AML) and Guidance.\nOther considerations for PFP Applicants:\n(i)\tThe SEO, CO and MLRO must all be resident in the UAE;\n(ii)\tThe CO and MLRO functions may be carried out by the same individual; and\n(iii)\tThe FO, CO and MLRO may be carried out in-house or outsourced to another Group entity or service provider.\nThe FSRA will consider the collective suitability of all of the PFP Applicant\u2019s proposed staff and whether there is a sufficient range of individuals with appropriate knowledge, skills and experience to understand, operate and manage the firm's affairs in a sound and prudent manner.\n(e)\tSystems and Controls\nThe FSRA will assess the following governance and control requirements in relation to the PFP Applicant.\n\\Table Start\nRequirement\tRule(s)\tNote\nRisk Management\tGEN 3.3.4 \u2013 3.3.6\tA PFP Operator must establish and maintain risk management systems and controls to enable it to identify, assess, monitor, mitigate and control its risks.\nThis framework should include measures to minimise technology risks associated with the PFP. In particular, a PFP Operator should have measures in place to ensure data integrity and the protection of its technology from fraud, impairment, tampering, misuse or unauthorised access.\nCompliance Arrangements\tGEN 3.3.7 \u2013 3.3.12\tA PFP Operator must establish and maintain compliance arrangements, including processes and procedures that ensure and evidence, as far as reasonably practicable, that it complies with all Regulations and Rules.\nWhile compliance support may be provided by a related entity and/or third party service providers, the ultimate responsibility for compliance with applicable laws and regulations lies with PFP Operator\u2019s SEO and Governing Body.\nThe PFP operator is required as part of customer due diligence to assess whether the Client has the relevant knowledge or experience to understand the risks and features of the Exempt Offer.\nInternal audit\tGEN 3.3.13 \u2013 3.3.15\tA PFP Operator\u2019s internal audit arrangements should be appropriate to the scale, nature and complexity of its operations.\nThe internal audit may be conducted by the internal audit function within the PFP Operator, its Group\u2019s internal audit function or outsourced to a third party service provider.\nMultilateral Trading Facility\tCOBS 8.2.2\tA MTF Operator that provides trading of Securities offered by way of an Exempt Offer on its platform, must ensure that it has effective systems and controls in place to:\n(i)\tAdmit only Securities of Exempt Offers that are made on its own platform or other platforms approved by FSRA;\n(ii)\tidentify those Persons to whom the Exempt Offer was made;\n(iii)\tcomply with MIR 3.9.1 (Admission to trading), as applicable in relation to the relevant Securities;\n(iv) \tcomply with MIR 2.8.3 in relation to Clients permitted to trade on the MTF; and\n(iv)\tallow users of its market to obtain Inside Information, including any Offer documents. relevant to the Securities.\nConflicts of Interest \tGEN 2.2.7 & 3.3.21 \u2013 3.3.24\tA PFP  Operator  must  have  arrangements  in place ensure that conflicts of interest between itself and its Customers, between its Employees and Customers, and between one Customer and another are identified and prevented or managed or disclosed, in such a way that the interests of a Customer are not adversely affected.\n\\Table End\n(f)\tCapital Requirements\nA PFP Operator will fall within Prudential Category 4. As set out in PRU Chapter 3, a PFP Operator must maintain at all times Capital Resources in excess of its Capital Requirement, which is the higher of its Base Capital Requirement or Expenditure-Based Capital Minimum.\nThe table below sets out the Capital Requirement for PFP Operators:\n\\Table Start\nClient Asset Arrangements\tBase Capital Requirement (USD)\tExpenditure Based Capital Minimum\nPFP Operator does not hold or control Client Assets\t10,000\t6/52 x AAE\nPFP Operator holds or controls Clients Assets\t150,000\t18/52 X AAE\n(g)\tProfessional Indemnity Insurance (\u201cPII\u201d)\nIn accordance with PRU Rule 6.12, a PFP Operator must maintain PII cover appropriate to the nature, size, scale and risk profile of its business.\n\\Table End\n\n",
+        "Obligations": [
+            "Obligation:1 \"Business Model:**\n   - Assess and manage risks associated with the proposed business model.\n   - Define the nature, structure of products offered, target clients, roles, responsibilities, and trading activities (primary and/or secondary).\n   - Identify and manage conflicts of interest.\n   - Outline outsourcing arrangements with third-party service providers.\n   - Establish safekeeping arrangements if holding client assets.\n   - Demonstrate management of conflicts of interest if carrying out other Regulated Activities.\"",
+            "Obligation:2 \"Track Record:**\n   - Demonstrate a minimum of five years' track record in corporate finance or related business within a comparable regulatory framework.\n   - If lacking a track record, provide evidence of the track record of controllers/substantial shareholders and the experience and qualifications of key individuals.\"",
+            "Obligation:3 \"Governing Body:**\n   - Register Directors (if a Body Corporate) or Partners (if a Partnership) with the FSRA.\n   - Ensure the Governing Body has sufficient skills and experience in corporate finance or related fields.\"",
+            "Obligation:4 \"Mandatory Appointments:**\n   - Appoint a Senior Executive Officer (SEO), Finance Officer (FO), Compliance Officer (CO), and Money Laundering Reporting Officer (MLRO) with relevant experience and qualifications.\n   - Ensure the SEO, CO, and MLRO are UAE residents.\n   - The CO and MLRO roles may be combined, and the FO, CO, and MLRO roles may be in-house or outsourced.\"",
+            "Obligation:5 \"Systems and Controls:**\n   - Establish and maintain risk management systems and controls, particularly for technology-related risks.\n   - Implement compliance arrangements to ensure adherence to all regulations and rules.\n   - Maintain appropriate internal audit arrangements.\n   - If operating a Multilateral Trading Facility (MTF), ensure effective systems and controls for trading of Securities offered by way of an Exempt Offer.\n   - Manage conflicts of interest through appropriate arrangements.\"",
+            "Obligation:6 \"Capital Requirements:**\n   - Maintain Capital Resources in excess of the Capital Requirement, which is the higher of the Base Capital Requirement or Expenditure-Based Capital Minimum.\n   - Adjust Capital Requirement based on whether you hold or control Client Assets.\"",
+            "Obligation:7 \"Professional Indemnity Insurance (PII):**\n   - Maintain PII cover appropriate to the nature, size, scale, and risk profile of the business.\n\n**General Compliance:**\n- Review and ensure full compliance with the FSRA's General Rulebook (GEN), Conduct of Business Rulebook (COBS), Market Infrastructure Rules (MIR), and Prudential \u2013 Investment, Insurance Intermediation and Banking Rulebook (PRU).\n- Understand and implement all regulatory requirements to maintain Financial Services Permission (FSP) and avoid regulatory breaches and sanctions.\""
+        ],
+        "NamedEntities": {
+            "account": "container for records associated with a business arrangement for regular transactions and services",
+            "control": "situation in which some party has the power to direct or strongly influence the direction of the management and policies related to something",
+            "interest": "the cost of using credit, or another's money, expressed as a rate per period of time, payable by a debtor to a creditor in consideration of the credit extended to the debtor",
+            "executive": "person appointed and given the responsibility to manage the affairs of an organization and the authority to make decisions within specified role-specific boundaries",
+            "trade": "situation that realizes an agreement between parties participating in a voluntary action of buying and selling goods and services",
+            "group": "collection of agents (people, organizations, software agents, etc.) that are considered as a unit",
+            "jurisdiction": "power of a court to adjudicate cases, issue orders, and interpret and apply the law with respect to some specific geographic area",
+            "multilateral trading facility": "trading system that facilitates the exchange of financial instruments between multiple parties"
+        },
+        "DefinedTerms": {
+            "Activities": "In relation to GEN 2.1.2 and 2.1.3, means:\n(a)\ta Regulated Activity;\n(b)\tactivities carried on in connection with a Regulated Activity;\n(c)\tactivities held out as being for the purpose of a Regulated Activity; and\n(d)\tin relation to any particular Principle, any activity specified in GEN \u200e2.1.3(2), (3) and \u200e(4).",
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "Advising on Investments or Credit": "Has the meaning given in paragraph 28 of Schedule 1 of FSMR.",
+            "Applicant": "Has the meaning given in section 258 of FSMR.",
+            "Assets": "Means, unless specified otherwise, collateral held to cover positions and includes the right to the transfer of assets equivalent to that collateral or the proceeds of the realisation of any collateral, but does not include Default Fund Contributions.",
+            "Body Corporate": "Means any body corporate, including limited liability partnership and a body corporate constituted under the law of a country or territory outside of the ADGM.",
+            "Capital": "Means Tier 1 Capital, as defined in PRU.",
+            "Capital Requirement": "Means the minimum amount of Capital Resources an Authorised Person must hold, calculated in accordance with the applicable provisions of PRU Chapter 3.",
+            "Capital Resources": "Means the total capital resources of an Authorised Person calculated in accordance with PRU 3.15.",
+            "Category": "Means a prudential grouping of Authorised Persons which determines the application of the Rules in PRU, as outlined in PRU 1.3.",
+            "Category 4": "Has the meaning given in PRU 1.3.",
+            "Client": "Means a Retail Client or Professional Client as defined in COBS 2.",
+            "Client Assets": "Means Client Money and Client Investments.",
+            "COBS": "Means the Conduct of Business module of the Rulebook.",
+            "Collective Investment Fund": "Means an arrangement falling within section 106 of FSMR and which is not excluded under FUNDS Chapter 2.",
+            "Compliance Officer": "Means in relation to an Authorised Person, the Controlled Function described in GEN 5.3.6.",
+            "Credit": "Includes any cash loan or other financial accommodation.",
+            "Customer": "In relation to:\n(a)\tMKT, means:\n(i)\ta Person where, in relation to a business relationship between a Person and a Relevant Person, there is a firm intention or commitment by each party to enter into a contractual relationship or where there is a firm commitment by each party to enter into a Transaction, in connection with a product or service provided by the Relevant Person;\n(ii)\ta Client of an Authorised Person;\n(iii)\ta Member or prospective Member of, or an applicant for admission of Financial Instruments to trading on, a Recognised Investment Exchange or Recognised Clearing House; or\n(iv)\ta Person with whom a Relevant Person is otherwise establishing or has established a business relationship; and\n(b)\totherwise, means a person who is using, or who is or may be contemplating using, any of the services provided by an Authorised Person or Recognised Body.",
+            "Exempt Offer": "Means Offers prescribed in MKT 4.3.1.",
+            "Expenditure Based Capital Minimum": "Means a capital requirement calculated in accordance with PRU 3.7.",
+            "Finance Officer": "Means in relation to an Authorised Person, the Controlled Function described in GEN 5.3.5.",
+            "Fund": "Means a Collective Investment Fund.",
+            "GEN": "Means the General module of the Rulebook.",
+            "Governing Body": "In relation to:\n(a)\tFUNDS, and in relation to a Fund, means a Person or a body of Persons who together form the directing mind of the Fund including but not limited to:\n(i)\tits Fund Manager, a member of its main or supervisory board, a General Partner; or\n(ii)\tany other Person or body of Persons exercising equivalent powers and functions in relation to directing the operation of the Fund; and\n(b)\texcept in the Fund Rules, means the board of directors, partners, committee of management or other governing body of an Undertaking.",
+            "GPM": "Means the Guidance and Policies Manual, once published by the Regulator.",
+            "Group": "Has the meaning given in section 258 of FSMR.",
+            "Guidance": "Has the meaning given in section 15(2) of FSMR.",
+            "Inside Information": "Has the meaning given in section 95 of FSMR.",
+            "Investment": "Means in relation to:\n(a)\tCOBS, means either of the following:\n(i)\ta Security; or\n\n(ii)\ta Derivative,\nunless otherwise specified\n(b)\tGEN and elsewhere, means Specified Investments set out in Part 3 of Schedule 1 of FSMR, unless otherwise specified.",
+            "Managing Assets": "Has the meaning given in paragraph 56 of Schedule 1 of FSMR.",
+            "Managing a Collective Investment Fund": "Has the meaning given in paragraph 59 of Schedule 1 of FSMR.",
+            "MIR": "Means the Market Infrastructure Rules.",
+            "Money": "Means any form of money, including banknotes, coins, cheques, Electronic Money and any other non-cash form, such as payable orders.",
+            "Money Laundering Reporting Officer": "Means, for the purposes of an Authorised Person other than a Credit Rating Agency, the Controlled Function described in GEN 5.3.8.",
+            "Offer": "Means:\n(a)\tin relation to Securities other than Units, an offer of Securities falling within Part 6 of FSMR; and\n(b)\tin relation to Units, an offer of Units falling outside Part 6 of FSMR.",
+            "Officer": "Means:\n(a)\tin relation to a limited liability partnership, a member of the limited liability partnership; and\n(b)\tin relation to a Body Corporate:\n(i)\ta Director, member of the committee of management, Chief Executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity; and\n(ii)\tan individual who is a Controller of the body.",
+            "Partnership": "Means any partnership, including a partnership constituted under the law of a country, jurisdiction or territory outside the ADGM, but not including a Limited Liability Partnership.",
+            "PFP Operator": "An Authorised Person engaged in the Regulated Activity of Operating a Private Financing Platform.",
+            "Rule": "Means any rule made by the Regulator or the Board, as applicable, in accordance with the procedures in Part 2 of FSMR.",
+            "Sanctions": "Means any law executing foreign policy, security, sanction, trade embargo, or anti terrorism objectives or similar restrictions imposed, administered or enforced from time to time by: (i) the U.A.E.; (ii) the United Nations Security Council; (iii) the European Union; (iv) H.M.  Treasury of the United Kingdom; (v) the Office of Foreign Assets Control (OFAC) of the U.S. Department of the Treasury; (vi) any other relevant governmental authority; or (vii) any of their successors.",
+            "Senior Executive Officer": "Means, in relation to an Authorised Person, the Controlled Function described in GEN 5.3.2."
+        }
+    },
+    {
+        "ID": "71f3c15a-6e45-4053-a109-1b894b7b3f5e",
+        "PassageID": "4.5",
+        "Passage": "Prior to issuing an FSP, the FSRA may require the technology utilised by a PFP to be at a suitably advanced stage in order for the PFP Applicant to demonstrate the functionality of the platform and its compliance with the PFP Framework.",
+        "Obligations": [
+            "Obligation:1 \"Technology Readiness**: Ensure that the technology underpinning your platform is fully developed, operational, and at an advanced stage of development, capable of performing all intended tasks within a live environment.\"",
+            "Obligation:2 \"Demonstration of Functionality**: Prepare to demonstrate the platform's functionality, including user interface efficiency, transaction processing capabilities, and security measures, to show that it operates effectively and meets the PFP Framework requirements.\"",
+            "Obligation:3 \"Compliance with PFP Framework**: Adhere to all regulatory requirements specified in the PFP Framework, including customer due diligence, anti-money laundering controls, data protection, and cybersecurity measures.\"",
+            "Obligation:4 \"Documentation and Evidence**: Maintain and provide comprehensive documentation and evidence of technological readiness and compliance with the PFP Framework, including technical specifications, policy documents, operational procedures, compliance plans, audit reports, and results from testing phases.\"",
+            "Obligation:5 \"Testing and Reporting**: Conduct necessary tests to prove the platform's functionality and compliance, and provide reports or findings from these tests to the FSRA.\"",
+            "Obligation:6 \"Engagement with FSRA**: Proactively engage with the FSRA throughout the application process, respond to queries, participate in meetings, and provide additional information or clarification as requested.\"",
+            "Obligation:7 \"Continuous Compliance**: Ensure ongoing compliance with the PFP Framework and any other relevant regulations post-FSP issuance, including monitoring regulatory changes and updating the platform as necessary.\"",
+            "Obligation:8 \"Consultation with Professionals**: Review the PFP Framework and other relevant regulations in detail and consider consulting with compliance professionals or legal advisors specializing in ADGM financial regulations for a comprehensive understanding of all obligations.\""
+        ],
+        "DefinedTerms": {
+            "Applicant": "Has the meaning given in section 258 of FSMR."
+        }
+    },
+    {
+        "ID": "47c0789d-6ebc-4a77-97a9-17907dd135c4",
+        "PassageID": "4.6",
+        "Passage": "For more details on the process for authorisation as a PFP Operator, please contact the FSRA at authorisation@adgm.com.",
+        "Obligations": [],
+        "DefinedTerms": {
+            "PFP Operator": "An Authorised Person engaged in the Regulated Activity of Operating a Private Financing Platform."
+        }
+    },
+    {
+        "ID": "97f194e5-fa1a-4fed-882d-bcb92356a8fd",
+        "PassageID": "5.",
+        "Passage": "ONGOING REQUIREMENTS FOR PFP OPERATORS",
+        "Obligations": []
+    },
+    {
+        "ID": "0e5afff4-c5f4-4e49-9137-cb0a8b4320f4",
+        "PassageID": "5.1",
+        "Passage": "Upon authorisation, a PFP Operator, as a holder of an FSP, must comply at all times with the relevant requirements in FSMR and the FSRA Rulebooks, including GEN, COBS, PRU and AML.",
+        "Obligations": [
+            "Obligation:1 \"FSMR Compliance:**\n   - Adhere to FSMR principles and rules.\n   - Maintain ongoing compliance with FSP conditions and restrictions.\"",
+            "Obligation:2 \"GEN Rulebook Compliance:**\n   - Follow general operation requirements for financial services firms.\n   - Maintain appropriate financial, operational, and human resources.\n   - Establish and maintain effective corporate governance.\n   - Implement robust risk management, internal controls, and procedures.\n   - Ensure fitness and propriety of staff, senior management, and key control functions.\n   - Report significant business or operational changes to FSRA.\n   - Comply with FSRA reporting and notification requirements.\n   - Maintain transparent and orderly business practices.\n   - Keep adequate records of business operations.\"",
+            "Obligation:3 \"COBS Rulebook Compliance:**\n   - Conduct business with integrity, due care, and in clients' best interests.\n   - Provide clear, fair, and not misleading information to clients.\n   - Manage conflicts of interest effectively and maintain a clear policy.\n   - Assess the suitability or appropriateness of products and services for clients.\n   - Implement a client classification system.\n   - Comply with rules on client assets and money (segregation, protection, reconciliation).\n   - Maintain and preserve records of client agreements and transactions.\n   - Maintain a complaints handling process.\"",
+            "Obligation:4 \"PRU Rulebook Compliance:**\n   - Maintain adequate capital resources and liquidity.\n   - Comply with capital adequacy, liquidity, large exposures, and concentration risk requirements.\n   - Conduct stress testing and scenario analysis.\n   - Submit regular prudential reporting to the FSRA.\"",
+            "Obligation:5 \"AML Rulebook Compliance:**\n   - Implement and maintain an effective AML/CTF program.\n   - Conduct CDD and KYC procedures.\n   - Monitor transactions for suspicious activities and report to authorities.\n   - Maintain records of AML/CTF checks, training, and transactions.\n   - Appoint an MLRO for AML/CTF oversight.\n   - Comply with sanctions and measures prescribed by the FSRA.\"",
+            "Obligation:6 \"General Compliance:**\n   - Regularly review and update knowledge of regulatory requirements.\n   - Consult with compliance professionals or legal advisors for guidance.\n   - Stay informed of regulatory framework updates or changes.\n\nBy consolidating the action items, it is clear that the PFP Operator must ensure comprehensive compliance across various domains, including general operations, conduct of business, prudential standards, and anti-money laundering efforts, while also staying abreast of regulatory changes and maintaining open communication with the FSRA.\""
+        ],
+        "DefinedTerms": {
+            "COBS": "Means the Conduct of Business module of the Rulebook.",
+            "FSMR": "Means the Financial Services and Markets Regulations 2015.",
+            "GEN": "Means the General module of the Rulebook.",
+            "PFP Operator": "An Authorised Person engaged in the Regulated Activity of Operating a Private Financing Platform."
+        }
+    },
+    {
+        "ID": "9bdb6c57-ff28-443f-8e90-17e15aadb700",
+        "PassageID": "5.2",
+        "Passage": "The principal conduct rules that apply to PFP Operators are set out in COBS Chapter 18, and are outlined below:\n(a)\tRisk Warning\nA PFP Operator must publish a prominent risk warning on the PFP which identifies the risks involved in participating in a PFP Transaction. As a minimum the risk warning should address the risks set out in section 2.3 of this Guidance.\nPrior to registering a Client to access the PFP, a PFP Operator must obtain their acknowledgement that they fully understand the risks set out in the risk warning.\n(b)\tDue Diligence\nThe PFP Operator is required to undertake appropriate and proportionate due diligence on a PFP Prospect covering the matters set out in COBS Section 18.4, as a minimum. Where reasonable and prudent, the due diligence review of a PFP Prospect may require independent verification.\nA PFP Operator is not required to disclose its due diligence assessments to Clients, although it may choose to do so. However, it is required to disclose and explain in a clear way its selection and acceptance criteria for a PFP Transaction to be offered on its platform. It must also disclose its due diligence methodology for each of its criterion including where the due diligence is undertaken by a third party.\nA PFP Operator must keep records of the due diligence undertaken on all PFP Prospects for the FSRA\u2019s review.\nA PFP Operator must also form a reasonable basis for believing that the PFP Prospect has adequately set out relevant information regarding its proposal in a clear, fair and not misleading manner for Clients to make an informed decision including, but not limited to:\n(i)\tgeneral information about the PFP Prospect including details of its incorporation, commercial licence, directorships, major shareholders, beneficial holders;\n(ii)\tthe business proposal and business model;\n(iii)\tfinancial information about the PFP Prospect;\n(iv)\tcriteria by which the PFP Transaction would be regarded as being in default;\n(v)\ta wind-down plan, including information on the return of Client Assets, in the event of business default/failure of the PFP Prospect;\n(vi)\tfeatures, structures, and subscription classes of the PFP Transaction;\n(vii)\tbasis of subscription class and allotment to each Client;\n(viii)\ttreatment, voting / contractual rights and claims of Clients of the PFP Transaction in any particular subscription class;\n(ix)\tpricing and valuation basis of the PFP Transaction;\n(x)\trisks specific to the PFP Prospect and PFP Transaction;\n(xi)\tparties involved in the PFP Transaction and any conflicts of interest, including any financial or other interests that the PFP Operator, its key officers, Employees and Associates have in the PFP Prospect or PFP Transaction;\n(xii)\tprocedures and obligations for Clients in any administrative / corporate actions;\n(xiii)\twhether the PFP Prospect is seeking funding from other sources at the same time;\n(xiv)\tintended use of funds;\n(xv)\ttreatment of oversubscriptions and maximum amount accepted, if applicable;\n(xvi)\tany cancellation rights;\n(xvii)\tformat / frequency of performance reporting to Clients; and\n(xviii)\tformat / frequency of ongoing disclosure of applicable information in relation to the PFP Transaction and PFP Prospect.\nAny material changes to the information disclosed in the proposal to Clients must be updated and notified to Clients within a reasonable timeframe and at least ten business days prior to closing of the PFP Transaction.\n(c)\tForums / Message Boards\nA PFP Operator is not required to comply with the above disclosure requirements where it is merely gauging the interest of Clients on a potential PFP Transaction where the related start-up or SME is not identified.\nIn such instances, the PFP Operator should monitor the forum or message board used to gauge Client interest to remove any potentially misleading or fraudulent posts.\n(d)\tMarketing\nAs access to PFPs is restricted to registered Clients only, mass solicitation, advertising or canvassing of the PFP Transaction is not permitted.\nHowever, a PFP Operator may promote its platform to the general public. Such communication may include general information about the PFP Operator, its business model and the PFP Prospects accepted on its platform. Such communication should not include any information on specific offers, research or recommendations relating to a PFP Prospect or a PFP transaction.\n(e)\tDisclosure\nA PFP Operator must disclose the following information to its Clients, either in written form or electronically through the PFP, to enable them to make an informed decision on whether to participate in a transaction on the PFP:\n\n(i)\thow the PFP operates (e.g. whether it offers loan or investment based financing opportunities, the process for participating in a financing opportunity; how Client Assets are held, how transactions through the PFP may be structured);\n(ii)\tthe PFP Operator\u2019s remuneration model (e.g. whether the PFP Operator is remunerated entirely by PFP Prospects by a percentage of funds raised or on a transaction basis by its Clients);\n(iii)\tthe PFP Operator\u2019s roles and obligations (including to Clients in any administrative / corporate actions in relation to the PFP Transactions). Where the PFP Operator and Clients relationship is non-advisory in nature, the PFP Operator must clearly disclose the fact and that the information presented does not constitute personal advice or a recommendation;\n(iv)\tthe recourse available to Clients in the event of the failure of the PFP Operator or the PFP Prospect;\n(v)\tin the event that there is a material adverse change in the circumstances of PFP Transaction or the PFP Prospect defaults, the PFP Operator\u2019s roles and obligations, including any arrangements in relation to the recovery of the Client Assets; and\n(vi)\tthe general disclosure obligations set out in COBS (e.g. where applicable, the Client agreement content in Rule 3.3.2 and potential conflicts of interest in Rule 3.5.4).\nIf a PFP Operator carries on an Exempt Offer pursuant to MKT Rule 4.3.1(13), it must ensure that the Issuer provides a Product Summary Note to Clients in accordance with MKT APP 7.\n(f)\tExit Facility and Trading Facility\nA PFP Operator may offer an incidental facility (termed an \u201cExit Facility\u201d) to permit Clients to exit their PFP transactions by allowing them to seek potential \u201cbuyers\u201d who are also Clients of the PFP Operator in order to transfer their rights and obligations under their loan or investment agreements.\nThe Exit Facility should not allow active trading by Clients and should be solely an ancillary service provided by the PFP Operator. The Exit Facility must comply with the requirements set out in COBS Section 18.8. In particular, the PFP Operator should not be remunerated for any transaction made through this facility nor should it provide advice to or make arrangements on behalf of Clients using this facility.\nWhere the PFP Operator provides a secondary market trading facility (termed a \u201cTrading Facility\u201d) for Clients, the PFP Operator is required to add the Regulated Activity of Operating a Multilateral Trading Facility to its FSP  and demonstrate it can meet the threshold conditions to undertake that additional Regulated Activity.\nAny investment-based Offer made through the Exit Facility or Trading Facility must continue to comply with the Exempt Offer criteria set out in Appendix A of this Guidance.\n(g)\tIntermediate entities\nWhere a PFP Operator structures a PFP Transaction using a special purpose vehicle, that vehicle should be incorporated in the ADGM to ensure the ease of administration and greater regulatory oversight in the event of the failure of the PFP Operator.",
+        "Obligations": [
+            "Obligation:1 \"Risk Warning:**\n   - Publish a clear and prominent risk warning on the PFP platform.\n   - Obtain written acknowledgement from Clients regarding their understanding of the risks before registration.\"",
+            "Obligation:2 \"Due Diligence:**\n   - Perform due diligence on PFP Prospects as per COBS Section 18.4.\n   - Clearly disclose and explain the selection and acceptance criteria for PFP Transactions.\n   - Disclose the due diligence methodology, including any third-party involvement.\n   - Maintain records of all due diligence activities for FSRA review.\n   - Ensure PFP Prospect proposals are clear, fair, and not misleading, with detailed information provided.\"",
+            "Obligation:3 \"Forums / Message Boards:**\n   - Actively monitor and remove misleading or fraudulent posts on forums or message boards.\"",
+            "Obligation:4 \"Marketing:**\n   - Avoid mass solicitation, advertising, or canvassing of PFP Transactions.\n   - Promote the platform generally without specific offers or recommendations for any PFP Prospect or transaction.\"",
+            "Obligation:5 \"Disclosure:**\n   - Provide comprehensive disclosure to Clients about the PFP's operation, remuneration model, roles, obligations, and available recourse.\n   - Ensure Issuers provide a Product Summary Note to Clients for Exempt Offers as per MKT Rule 4.3.1(13).\"",
+            "Obligation:6 \"Exit Facility and Trading Facility:**\n   - Offer an Exit Facility as an ancillary service without remuneration or advice.\n   - Adhere to COBS Section 18.8 requirements for the Exit Facility.\n   - If operating a Trading Facility, obtain the necessary regulatory approval for Operating a Multilateral Trading Facility.\n   - Ensure Offers through the Exit or Trading Facility meet Exempt Offer criteria in Appendix A of the Guidance.\"",
+            "Obligation:7 \"Intermediate Entities:**\n   - If using a special purpose vehicle for PFP Transactions, ensure it is incorporated in the ADGM.\n\n**Note:** These action items are a summary and should be cross-referenced with the full ADGM regulations. Professional advice may be necessary to ensure full compliance.\""
+        ],
+        "NamedEntities": {
+            "agreement": "negotiated understanding between two or more parties, reflecting the offer and acceptance of commitments on the part of either party",
+            "funds": "artificial currency used as calculation basis for another currency(s) and accounting purposes",
+            "interest": "the cost of using credit, or another's money, expressed as a rate per period of time, payable by a debtor to a creditor in consideration of the credit extended to the debtor",
+            "principal": "with respect to a debt: the value of an obligation, such as a bond or loan, raised and that must be repaid at maturity; for investments: the original amount of money invested, separate from any associated interest, dividends or capital gains",
+            "issuer": "party that issues (or proposes to issue in a formal filing) a financial instrument",
+            "multilateral trading facility": "trading system that facilitates the exchange of financial instruments between multiple parties"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "Assets": "Means, unless specified otherwise, collateral held to cover positions and includes the right to the transfer of assets equivalent to that collateral or the proceeds of the realisation of any collateral, but does not include Default Fund Contributions.",
+            "Client": "Means a Retail Client or Professional Client as defined in COBS 2.",
+            "Client Assets": "Means Client Money and Client Investments.",
+            "COBS": "Means the Conduct of Business module of the Rulebook.",
+            "Disclosure": "Means the disclosures required under sections 75, 76 and 77 of FSMR.",
+            "Exempt Offer": "Means Offers prescribed in MKT 4.3.1.",
+            "Guidance": "Has the meaning given in section 15(2) of FSMR.",
+            "Issuer": "In relation to:\n(a)\tany Security other than a Unit in a Collective Investment Fund, means the Person by whom it is or is to be issued;\n(b)\ta Unit in a Collective Investment Fund, means the Fund Manager; and\n(c)\tan interest in a Limited Liability Partnership, means the Partnership.",
+            "MKT": "Means the Markets Rules.",
+            "Offer": "Means:\n(a)\tin relation to Securities other than Units, an offer of Securities falling within Part 6 of FSMR; and\n(b)\tin relation to Units, an offer of Units falling outside Part 6 of FSMR.",
+            "PFP Operator": "An Authorised Person engaged in the Regulated Activity of Operating a Private Financing Platform.",
+            "PFP Prospect": "A Body Corporate seeking financing by publishing a financing proposal upon a Private Financing Platform.",
+            "Regulated Activity": "Has the meaning given in section 19 of FSMR.",
+            "Rule": "Means any rule made by the Regulator or the Board, as applicable, in accordance with the procedures in Part 2 of FSMR.",
+            "Summary": "Means the document referred to in MKT 4.5.1(3)(a).",
+            "Transaction": "Means any transaction undertaken by a Relevant Person for or on behalf of a Customer in the course of carrying on a business in or from the ADGM."
+        }
+    },
+    {
+        "ID": "3390ff1e-fa8b-4faa-864b-8fe471bfaf39",
+        "PassageID": "5.3",
+        "Passage": "A PFP Operator will also need to consider the applicability of other ADGM Regulations including, but not limited to, the Companies Regulations 2020, Insolvency Regulations 2015, Data Protection Regulations 2021 and the Common Reporting Standard Regulations 2017; as well as any other relevant international legislation that may apply.",
+        "Obligations": [
+            "Obligation:1 \"Corporate Governance and Directors' Duties:**\n   - Adhere to corporate governance principles.\n   - Ensure directors act in the company's best interest, avoid conflicts of interest, and disclose personal gains.\"",
+            "Obligation:2 \"Financial Reporting and Record-Keeping:**\n   - Maintain accurate and complete financial and operational records.\n   - Prepare and file annual financial statements and returns as required.\"",
+            "Obligation:3 \"Disclosure and Transparency:**\n   - Disclose material information to shareholders, the Registrar, and comply with transparency requirements.\"",
+            "Obligation:4 \"Financial Solvency and Insolvency Procedures:**\n   - Monitor the company's financial health to avoid insolvency.\n   - Follow proper insolvency resolution procedures if necessary.\n   - Directors must minimize potential losses to creditors during insolvency.\"",
+            "Obligation:5 \"Data Protection and Privacy:**\n   - Process personal data lawfully, fairly, and transparently.\n   - Respect data subjects' rights, including access, correction, and deletion of their data.\n   - Implement appropriate security measures to protect personal data.\n   - Report data breaches to the ADGM Office of Data Protection promptly.\n   - Appoint a Data Protection Officer if required.\"",
+            "Obligation:6 \"CRS Compliance and Due Diligence:**\n   - Conduct due diligence to identify tax residents in CRS-participating countries.\n   - Report financial account information of reportable persons to the ADGM Registration Authority.\n   - Maintain records of due diligence and reporting as prescribed.\"",
+            "Obligation:7 \"International Legislation and Cross-Border Activities:**\n   - Comply with relevant international legislation, including AML and CFT laws.\n   - Understand and adhere to regulatory requirements in other jurisdictions where you operate or have clients.\"",
+            "Obligation:8 \"General Compliance and Licensing:**\n   - Maintain a valid PFP operating license and adhere to its conditions.\n   - Implement robust risk management policies and procedures.\n   - Provide clear and fair terms to users and protect their interests.\n   - Establish AML policies, conduct customer due diligence, and report suspicious activities.\n\nIt is essential to consult the actual text of each regulation or seek professional legal advice to understand the full scope of obligations. Stay informed about regulatory updates and changes that may affect compliance.\""
+        ],
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "Companies Regulations": "Means the ADGM Companies Regulations 2020.",
+            "Insolvency Regulations": "Means the Insolvency Regulations 2022.",
+            "PFP Operator": "An Authorised Person engaged in the Regulated Activity of Operating a Private Financing Platform."
+        }
+    },
+    {
+        "ID": "ff9c9c85-80b9-4f01-b0df-49e93d8b9946",
+        "PassageID": "5.4",
+        "Passage": "Chapter 3 of the GPM sets out in detail the FSRA\u2019s risk-based approach to the supervision of Authorised Persons.\n\n",
+        "Obligations": [
+            "Obligation:1 \"Risk Management Systems**: Implement and maintain robust risk management systems appropriate for the nature, scale, and complexity of your business.\"",
+            "Obligation:2 \"Compliance Framework**: Establish and maintain a compliance framework to meet all applicable regulatory requirements.\"",
+            "Obligation:3 \"Regular Reporting**: Submit regular reports to the FSRA on compliance, financial, and operational condition.\"",
+            "Obligation:4 \"Customer Due Diligence**: Conduct thorough customer due diligence to prevent money laundering and terrorist financing and manage customer-related risks.\"",
+            "Obligation:5 \"Capital Adequacy**: Maintain adequate capital resources to manage business risks.\"",
+            "Obligation:6 \"Internal Controls**: Ensure effective internal controls for operational integrity and accurate financial reporting.\"",
+            "Obligation:7 \"Audit and Assurance**: Have financial statements audited by an independent auditor and provide compliance assurance to the FSRA.\"",
+            "Obligation:8 \"Fit and Proper Criteria**: Ensure senior management and key personnel meet the FSRA's 'fit and proper' criteria.\"",
+            "Obligation:9 \"Training and Competency**: Ensure staff are adequately trained and competent to perform their duties.\"",
+            "Obligation:10 \"Notification of Changes**: Notify the FSRA of significant business changes, including changes in control, management, or operations.\"",
+            "Obligation:11 \"Cooperation with Supervision**: Cooperate fully with the FSRA's supervisory activities, including inspections and information requests.\"",
+            "Obligation:12 \"Consumer Protection**: Adhere to regulations for consumer protection, including transparent information disclosure and fair customer treatment.\"",
+            "Obligation:13 \"Risk Identification and Assessment**: Identify and assess business, client, product, and service risks, including credit, market, operational, and liquidity risks.\"",
+            "Obligation:14 \"Risk Management and Control**: Have systems and controls to manage and mitigate identified risks, with appropriate policies, procedures, and governance.\"",
+            "Obligation:15 \"Compliance with Regulatory Requirements**: Comply with all FSRA regulatory requirements, including capital adequacy, liquidity, and conduct of business standards.\"",
+            "Obligation:16 \"Internal Audit and Review**: Maintain an internal audit function to assess the effectiveness of risk management systems and controls.\"",
+            "Obligation:17 \"Disclosure and Transparency**: Disclose required information to the FSRA and potentially the public for transparency and accountability.\"",
+            "Obligation:18 \"Cooperation with Supervisory Reviews**: Cooperate with FSRA supervisory reviews, including providing records, responding to requests, and participating in interviews.\"",
+            "Obligation:19 \"Remedial Actions**: Take prompt action to address any deficiencies in risk management or compliance identified by the FSRA.\""
+        ],
+        "DefinedTerms": {
+            "GPM": "Means the Guidance and Policies Manual, once published by the Regulator."
+        }
+    },
+    {
+        "ID": "6b4ad3d0-9455-4687-ae49-65d61e2bb31e",
+        "PassageID": "6.",
+        "Passage": "OTHER CONSIDERATIONS FOR PFP OPERATORS",
+        "Obligations": []
+    },
+    {
+        "ID": "2c33381e-7252-4748-9276-3b488e2ebebf",
+        "PassageID": "6.1",
+        "Passage": "Fees\nPursuant to the Fees Rules, a PFP Operator will be required to pay the following fees:\n\\Table Start\nInitial Authorisation Fee\t$10,000 for the Regulated Activity of Operating a Private Financing Platform. An additional $10,000 would apply for each Regulated Activity for which it also seeks an FSP.\nApproved Person Application Fee\t$500 for each Approved Person for whom it is seeking authorisation.\nAnnual Supervision Fee\t$10,000 for the Regulated Activity of Operating a Private Financing Platform. An additional $10,000 would apply for each Regulated Activity for which it has an FSP.\n\\Table End",
+        "Obligations": [
+            "Obligation:1 \"Pay the Initial Authorisation Fee:\n   - Pay an initial authorisation fee of $10,000 for operating a PFP.\n   - Pay an additional $10,000 for each additional regulated activity if seeking multiple Financial Services Permissions (FSPs).\"",
+            "Obligation:2 \"Pay the Approved Person Application Fee:\n   - Pay $500 for each individual you seek to have authorised as an Approved Person.\"",
+            "Obligation:3 \"Pay the Annual Supervision Fee:\n   - Pay an annual supervision fee of $10,000 for operating a PFP.\n   - Pay an additional $10,000 annually for each additional regulated activity if you hold an FSP for multiple activities.\"",
+            "Obligation:4 \"Maintain Compliance:\n   - Ensure timely payments of all fees to avoid penalties or disruptions in authorisation status.\n   - Keep accurate records of all fee payments, including receipts or confirmations from the FSRA.\n   - Stay informed about any changes to the ADGM Fees Rules and adjust your payments accordingly.\n   - Be aware of the potential for regulatory action, including fines or revocation of your FSP, if you fail to comply with financial obligations.\"",
+            "Obligation:5 \"Monitor for Changes:\n   - Regularly check for updates to the ADGM Fees Rules for any changes in the fee structure or introduction of additional fees.\""
+        ],
+        "NamedEntities": {
+            "fee": "charge for services performed"
+        },
+        "DefinedTerms": {
+            "Approved Person": "Means an individual who has been authorised by the Regulator to perform one or more Controlled Functions for an Authorised Person.",
+            "Fee": "Means any payment offered or made by a Client to an Authorised Person in connection with Investment Business or with any other business of the Authorised Person, including (where applicable) any Mark up or Mark down.",
+            "Person": "Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state.",
+            "PFP Operator": "An Authorised Person engaged in the Regulated Activity of Operating a Private Financing Platform.",
+            "Regulated Activity": "Has the meaning given in section 19 of FSMR."
+        }
+    },
+    {
+        "ID": "df9986be-f35e-4cae-a6c5-f9c1cf9304a7",
+        "PassageID": "6.2",
+        "Passage": "Islamic Financial Business\nThe Islamic Finance Rules (IFR) apply to:\n(a)\tevery Authorised Person, including a PFP Operator, who carries on, or holds itself out as carrying on, an Islamic Financial Business in the ADGM whether as an Islamic Financial Institution or through an Islamic Window; and\n(b)\tan Authorised Person, including a PFP Operator, making an Offer in the ADGM relating to a Security which is, or is held out as being, a Shari'a-compliant Security.\nAccordingly, should a PFP Operator itself wish to promote a Specified Investment as being Shari\u2019a compliant, it must hold the requisite Islamic Financial Business qualification on its FSP.\n",
+        "Obligations": [
+            "Obligation:1 \"Obtain Islamic Financial Business Qualification**: Secure the necessary Islamic Financial Business qualification on your Financial Services Permission (FSP) from the ADGM Financial Services Regulatory Authority (FSRA).\"",
+            "Obligation:2 \"Comply with Islamic Finance Rules (IFR)**: Adhere to all the rules and regulations outlined in the IFR, ensuring that your financial products and services align with Shari'a principles.\"",
+            "Obligation:3 \"Establish Shari'a Governance Framework**: Set up a governance framework that includes the appointment of a Shari'a Supervisory Board or advisor, along with policies, procedures, and controls to ensure Shari'a compliance.\"",
+            "Obligation:4 \"Ensure Disclosure and Transparency**: Accurately represent the Shari'a compliance of your products in all promotional materials and disclosures, avoiding any misleading information about the Shari'a compliance of the securities offered.\"",
+            "Obligation:5 \"Maintain Product Compliance**: Verify that all offered products and services are in accordance with accepted Shari'a principles and guidelines.\"",
+            "Obligation:6 \"Conduct Shari'a Compliance Audits**: Perform regular audits to assess and ensure ongoing compliance with Shari'a principles and address any non-compliant activities or products.\"",
+            "Obligation:7 \"Implement Reporting and Monitoring Systems**: Establish systems for monitoring Shari'a compliance and report significant compliance failures, breaches, or changes to the FSRA, including changes in Shari'a Supervisory Board or advisors.\"",
+            "Obligation:8 \"Provide Training and Ensure Staff Competency**: Train staff involved in Islamic Financial Business to understand and manage Shari'a-compliant products and services effectively.\"",
+            "Obligation:9 \"Implement Risk Management Policies**: Develop and apply risk management policies and procedures that address the unique risks of Islamic Financial Business, including Shari'a non-compliance risk.\"",
+            "Obligation:10 \"Adhere to Consumer Protection Rules**: Follow the ADGM's consumer protection rules, ensuring fair treatment of customers and providing clear information about the Islamic Financial Business products and services.\"",
+            "Obligation:11 \"Notify FSRA of Operational Changes**: Inform the FSRA of any significant operational changes within your Islamic Financial Business.\n\nIt is imperative to review the full text of the Islamic Finance Rules and any related guidance issued by the FSRA to ensure comprehensive compliance. Non-compliance can lead to regulatory actions such as fines, suspension, or revocation of authorization to operate in the ADGM.\""
+        ],
+        "NamedEntities": {
+            "security": "financial instrument that can be bought or sold",
+            "financial institution": "financial service provider identified as either a government agency or privately owned entity that collects funds from the public and from other institutions, and invests those funds in financial assets, such as loans, securities, bank deposits, and income-generating property"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "Authorised Person": "Means a Person, other than a Recognised Body, who is authorised under the FSMR.",
+            "Financial Institution": "Means:\n(a)\t(i)\tan Authorised Person; or\n(ii) \tany Person that carries out as its principal business an activity which would be a Regulated Activity if carried out in ADGM; and\n(b)\tthat is not one of the following:\n(i) \ta governmental organisation, including the Central Bank of the United Arab Emirates or its equivalent in any State;\n(ii) \ta multilateral development bank.",
+            "IFR": "Means the Islamic Finance Rulebook.",
+            "Investment": "Means in relation to:\n(a)\tCOBS, means either of the following:\n(i)\ta Security; or\n\n(ii)\ta Derivative,\nunless otherwise specified\n(b)\tGEN and elsewhere, means Specified Investments set out in Part 3 of Schedule 1 of FSMR, unless otherwise specified.",
+            "Islamic Financial Business": "Means any part of the financial business of an Authorised Person or a Recognised Body which is carried out in accordance with Shari'a.",
+            "Islamic Financial Institution": "Means an Authorised Person which has a Financial Services Permission authorising it to conduct its entire financial business in accordance with Shari'a.",
+            "Islamic Window": "Means that part of an Authorised Person, other than an Islamic Financial Institution, which conducts Islamic Financial Business as a segregated part of its overall business operations.",
+            "Offer": "Means:\n(a)\tin relation to Securities other than Units, an offer of Securities falling within Part 6 of FSMR; and\n(b)\tin relation to Units, an offer of Units falling outside Part 6 of FSMR.",
+            "Person": "Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state.",
+            "PFP Operator": "An Authorised Person engaged in the Regulated Activity of Operating a Private Financing Platform.",
+            "Security": "Has the meaning given in section 258 of FSMR.",
+            "Shari'a": "Means the Shari'a principles and rulings as interpreted by a Shari'a Supervisory Board.",
+            "Specified Investment": "Means an investment falling within paragraphs 85 to 99 of Schedule 1 of FSMR, without regard to any applicable exceptions or exemptions set out in that Schedule."
+        }
+    },
+    {
+        "ID": "985c30a3-7635-452e-ad3f-2c8c77694018",
+        "PassageID": "APPENDIX A:",
+        "Passage": "EXEMPT OFFER CRITERIA\nMKT RULE 4.3",
+        "Obligations": [],
+        "DefinedTerms": {
+            "MKT": "Means the Markets Rules."
+        }
+    },
+    {
+        "ID": "20fb6d34-d5a9-4518-a07a-8b2b46202fa8",
+        "PassageID": "APPENDIX A.Guidance",
+        "Passage": "\nThis section prescribes the type of Offer that is an Exempt Offer. The prohibition in section 58(1) of the FSMR does not apply to such Offers. Accordingly, a Person may make an Offer of Securities to the Public in the circumstances specified in this Rule without a Prospectus.\n4.3.1 \tFor the purposes of section 61(3)(a) of the FSMR the Regulator hereby prescribes the circumstances in which an Offer is an Exempt Offer:\n(1)\tan Offer made to or directed at only Professional Clients;\n(2)\tan Offer in or from the ADGM which is directed at no more than 50 Persons in any 12 month period, excluding Professional Clients who are not natural persons;\n(3)\tan Offer where the total consideration to be paid by a Person to acquire the Securities is at least $100,000, or an equivalent amount in another currency;\n(4)\tan Offer where the Securities are denominated in amounts of at least $100,000, or an equivalent amount in another currency;\n(5)\tan Offer where the total aggregate consideration for the Securities offered is less than $100,000, or an equivalent amount in another currency, calculated over a period of 12 months;\n(6)\tan Offer where Shares are issued in substitution for Shares of the same class as already issued, where the issue of the new Shares does not involve any increase in the issued Share capital;\n(7)\tan Offer where the Securities are Convertibles issued under a Prospectus to existing members or creditors of the Issuer or a member of its Group and there is no additional consideration to be paid;\n(8)\tan Offer where the Securities are offered in connection with a Takeover and a document is made available containing information which is considered by the Regulator as being equivalent to that of a Prospectus;\n(9)\tan Offer where the Securities are offered, allotted or to be allotted in connection with a merger if a document is available containing information which is regarded by the Regulator as being equivalent to that of a Prospectus;\n(10)\tan Offer where the Securities are offered, allotted or to be allotted in connection with a rights issue where:\n(a)\tthe Securities are of a class subject to Reporting Entity disclosure; and\n(b)\ta document is made available containing information on the number and nature of the Securities including rights attaching to those Securities and the reasons for and details of the Offer;\n(11)\tan Offer where the Shares are offered, allotted or to be allotted to existing Shareholders free of charge or dividends paid out in the form of Shares of the same class as the Shares in respect of which the dividends are paid, and a document is made available containing information on the number and nature of the Shares and the reasons for and details of the Offer;\n(12)\tan Offer where the Securities are offered, allotted or to be allotted to an existing or former Director or Employee, or any Close Relative of such a Director or Employee, of the Issuer or a member of the same Group as the Issuer and\n(a)\tthe Issuer or the member of the Group already has its Securities admitted to trading on a Regulated Exchange; and\n(b)\ta document is made available to the offerees containing information on the number and nature of the Securities and the reasons for and details of the Offer; or\n(13)\tan Offer in or from the ADGM which is directed at no more than 200 Persons that are not Professional Clients or Market Counterparties, in circumstances where the Securities are, or have been, offered within a Private Financing Platform or via a Multilateral Trading Facility\n4.3.2 \tWhere any Securities, which were previously the subject of an Exempt Offer, are subsequently offered to the public, such a subsequent Offer will be regarded, for the purposes of Part 6 of the FSMR and the Rules made for the purposes of that Part, as a separate and new Offer of Securities to the Public, unless that Offer meets one of the criteria in Rule 4.3.1.\n4.3.3\t(1)\tSubject to (2), an Offer of Securities remains an Exempt Offer even if the Offer falls in whole or part within more than one of the circumstances specified in Rule 4.3.1, as long as all of the Offer falls within at least one of those circumstances.\n(2)\tAn Issuer must not aggregate the limits contained in Rule 4.3.1(2) and Rule 4.3.1(13) when making an Exempt Offer.\n4.3.4\tA Person making an Exempt Offer must ensure that an exempt offer statement is included in the Exempt Offer Document. An exempt offer statement must contain the following statement displayed prominently on its front page:\n\u2026\n4.3.5\tPursuant to an Exempt Offer under Rule 4.3.1(13), the Issuer must provide a Product Summary Note to investors in accordance with the following requirements:\n(1)\tThe Product Summary Note must:\n(a)\thighlight key information in the Offer document to investors;\n(b)\tclearly disclose required information in the format as set out in APP 7;\n(c)\tgive a fair and balanced view of the nature, material benefits and material risks of the Securities offered;\n(d)\tnot contain any statement or information that is false or misleading in the form and context in which it is included;\n(e)\tbe given together with the Offer document to investors. If the Issuer makes the Offer document available online, the Product Summary Note must be made available online together with the Offer document;\n(f)\tnot contain any information that is not contained in the Offer document;\n(g)\tnot contain any Inside Information that differs in any material particular from that set out in the Offer document; and\n(h)\tnot omit any information from any part of the Product Summary Note which would result in that part of the Product Summary Note being construed as false or misleading.\n(2)\tThe Product Summary Note shall contain the prominent disclaimer set out in Rule 4.3.4 in bold, on its front.\n(3)\tThe Issuer must give notice the Regulator of its intention to provide a Product Summary Note at least ten Business Days prior to the Exempt Offer, in such form as the Regulator may prescribe.\n(4)\tWhen the Issuer makes any change to the Offer document, the Product Summary Note must be updated if the change has a material effect on the key information of the Securities offered.\n(5)\tIssuers must ensure there is clear naming of the Securities offered. The name of the Securities must be descriptive of the nature of the Securities offered. It must not give investors a misleading view of the true nature and risks of the Securities offered.",
+        "Obligations": [],
+        "NamedEntities": {
+            "currency": "medium of exchange value, defined by reference to the geographical location of the monetary authorities responsible for it",
+            "share": "financial instrument that signifies a unit of equity ownership in a corporation, or a unit of ownership in a mutual fund, or interest in a general or limited partnership, or a unit of ownership in a structured product, such as a real estate investment trust",
+            "issuer": "party that issues (or proposes to issue in a formal filing) a financial instrument",
+            "employee": "person in the service of another under any contract of hire, express or implied, oral or written, where the employer has the right to control and direct that person in the material details of how the work is to be performed",
+            "group": "collection of agents (people, organizations, software agents, etc.) that are considered as a unit",
+            "exchange": "any organization, association, or group of persons, whether incorporated or unincorporated, which constitutes, maintains, or provides a facility for bringing together purchasers and sellers of financial instruments, commodities, or other products, services, or goods, and includes the market place and facilities maintained by such exchange",
+            "multilateral trading facility": "trading system that facilitates the exchange of financial instruments between multiple parties",
+            "regulated exchange": "regulated market that is operated by and/or managed by a market operator that brings together or facilitates the bringing together of multiple third-party buying and selling interests in financial instruments"
+        },
+        "DefinedTerms": {
+            "ADGM": "Means the Abu Dhabi Global Market.",
+            "Close Relative": "Means in relation to a person:\n(a)\this spouse;\n(b)\this children and step children, his parents and step parents, his brothers and sisters and his step brothers and step sisters; and\n(c)\tthe spouse of any person within paragraph (b) of this definition.",
+            "Director": "In relation to:\n(a)\tGEN, means:\n(i)\tin relation to an undertaking established under the Companies Regulations 2015, a Person who appears on the register maintained by the ADGM Registration Bureau pursuant to section 153 of those Regulations; and\n(ii)\tin relation to all other undertakings, a Person who has been admitted to a register which has a corresponding meaning to the ADGM register of Directors or performs the function of acting in the capacity of a Director, by whatever name called;\n(b)\tMKT, includes, in relation to a Body Corporate:\n(i)\ta person occupying in relation to it the position of a director (by whatever name called); and\n(ii)\ta person in accordance with whose directions or instructions (not being advice given in a professional capacity) the directors of that body are accustomed to act; and\n(c)\tAML, means:\n(i)\tIn relation to an undertaking established under the ADGM Companies Regulations 2015, a Person who appears on the Register of Directors maintained by the ADGM Registrar of Companies; and\n(ii)\tIn relation to all other undertakings, a Person who has been admitted to a register which has a corresponding meaning to the Register of Directors or performs the function of acting in the capacity of a Director, by whatever name called;\n(iii)\twho is employed or appointed by a Person in connection with that Person's business, whether under a contract of service or for services or otherwise; or\n(iv)\twhose services, under an arrangement between that Person and a third party, are placed at the disposal and under the control of that Person.",
+            "Document": "Means any record of information recorded physically, electronically or in any other form and, in relation to information recorded otherwise than in legible form, references to its production include references to producing a copy of the information in legible form, or in a form from which it can readily be produced in visible and legible form.",
+            "Employee": "Means an individual:\n(a)\twho is employed or appointed by a Person in connection with that Person's business, whether under a contract of service or for services or otherwise; or\n(b)\twhose services, under an arrangement between that Person and a third party, are placed at the disposal and under the control of that Person.",
+            "Exempt Offer": "Means Offers prescribed in MKT 4.3.1.",
+            "FSMR": "Means the Financial Services and Markets Regulations 2015.",
+            "Group": "Has the meaning given in section 258 of FSMR.",
+            "Inside Information": "Has the meaning given in section 95 of FSMR.",
+            "Issuer": "In relation to:\n(a)\tany Security other than a Unit in a Collective Investment Fund, means the Person by whom it is or is to be issued;\n(b)\ta Unit in a Collective Investment Fund, means the Fund Manager; and\n(c)\tan interest in a Limited Liability Partnership, means the Partnership.",
+            "Offer": "Means:\n(a)\tin relation to Securities other than Units, an offer of Securities falling within Part 6 of FSMR; and\n(b)\tin relation to Units, an offer of Units falling outside Part 6 of FSMR.",
+            "Offer of Securities": "Has the meaning given in section 258 of FSMR.",
+            "Person": "Means a person and includes any Natural Person, Body Corporate or body unincorporated, including a Legal Person, company, Partnership, unincorporated association, government or state.",
+            "Prospectus": "Means a prospectus submitted in accordance with section 61 of FSMR.  In relation to Collective Investment Funds, a Prospectus refers to (where section 61 of FSMR does not apply):\n(a)\tan information memorandum;\n(b)\tan offering memorandum;\n(c)\ta private placement memorandum; or\n(d)\tany other similar document.",
+            "Regulated Exchange": "Means an exchange regulated by a Non-ADGM Financial Services Regulator.",
+            "Regulator": "Means the Financial Services Regulatory Authority.",
+            "Reporting Entity": "Has the meaning given in section 72 of FSMR.",
+            "Rule": "Means any rule made by the Regulator or the Board, as applicable, in accordance with the procedures in Part 2 of FSMR.",
+            "Share": "In relation to:\n(a)\tGEN 8.8, means:\n(i)\tin the case of an Authorised Person, or a Holding Company of an Authorised Person, which has a share capital, its allotted shares;\n(ii)\tin the case of an Authorised Person, or a Holding Company of an Authorised Person, with capital but no share capital, rights to a share in its capital; and\n(iii)\tin the case of an Authorised Person, or a Holding Company of an Authorised Person, without capital, any interest conferring a right to share in its profits or losses or any obligation to contribute to a share of its debt or expenses in the event of its winding up;\n(b)\tCOBS, means:\n(i)\tin relation to a Authorised Person or Recognised Body or a Holding Company of an Authorised Person or Recognised Body with share capital, allotted shares;\n(ii)\tin relation to an Authorised Person or Recognised Body or a Holding Company of an Authorised Person or Recognised Body with capital but no share capital, rights to a portion of the capital of an Authorised Person or a Recognised Body or a Holding Company of an Authorised Person or a Recognised Body; or\n(iii)\tin relation to an Authorised Person or a Recognised Body or a Holding Company of an Authorised Person or Recognised Body without capital interests:\n(A)\tconferring any right to share in the profits, or liability to contribute to the losses, of an Authorised Person or Recognised Body or a Holding Company of an Authorised Person or Recognised Body; or\n(B)\tgiving rise to any obligation to contribute to the debt or expenses of an Authorised Person or Recognised Body or a Holding Company of an Authorised Person or Recognised Body in the event of a winding up of the Authorised Person or Recognised Body or a Holding Company of an Authorised Person or Recognised Body;\n(c)\tFEES and MKT, has the meaning given in paragraph 87 of Schedule 1 of FSMR.",
+            "Summary": "Means the document referred to in MKT 4.5.1(3)(a).",
+            "Takeover": "Means takeover and merger transactions however effected, including arrangements which have similar commercial effect to takeovers, partial bids, bid by a parent Company for Shares in its subsidiary and (where appropriate) Share repurchases by general bid."
+        }
+    }
+]
