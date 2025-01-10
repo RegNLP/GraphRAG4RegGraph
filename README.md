@@ -1,10 +1,10 @@
 
-# RagGraph 
+# RegGraph 
 
 This system models regulatory documents as a graph in Neo4j, with nodes representing entities (e.g., documents, passages) and relationships capturing their interconnections (e.g., citations, hierarchy).
 
-## Link for dump : [http:google drive](http:google drive)
----
+## [Link for dump](https://drive.google.com/drive/folders/1WCG1ESVVLI5XDWZgkm9ZmHVkdZat6Q3h?usp=sharing) 
+
 
 ## Nodes
 
