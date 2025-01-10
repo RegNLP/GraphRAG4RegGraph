@@ -245,12 +245,12 @@ LIMIT 10;
 
 `DocumentMap` includes ID and file names map
 
-`AnnotatedDocuments` for each document for each passages data annotated by ADGM
+`# KGImplementation/implemented (AnnotatedDocuments)` for each document for each passages data annotated by ADGM
   - "Obligations" -> Labelled from Barry using GPT models
   - "NamedEntities" -> Labelled from Barry using standard keyword match, entities are static
   - "DefinedTerms"  -> Labelled from Barry using standard keyword match, terms are static
 
-    Sample (Format has slightly difference between documents, but logis is same)
+    Sample (Format has slightly difference between documents, but logic is same)
 ```json
 [
     {
