@@ -283,4 +283,34 @@ LIMIT 10;
 ```
 `CrossReferenceData.csv` include connection between documents based on the reference text. (Manually, Tuba)
 
+# RegCrossReference
+
+`ADGM Documents/OriginalDocuments` -> 40 regulatory documents
+`ADGM Documents/StandartizedRegulatoryDocumentsTXT` -> only hierarchical info structured (Manually - Tuba)
+`ADGM Documents/StructuredRegulatoryDocumentsJson`  -> txt file converted to json format with 
+	Sample
+```json
+[
+  {
+    "ID": "fa81ab52-b6d6-444c-a3e5-ec220f333a38",
+    "DocumentID": 23,
+    "PassageID": "1.1",
+    "Passage": "Introduction"
+  }
+]
+```
+`ADGM Documents/DocumentMap` includes ID and file names map
+
+`CrossReferenceData.csv`
+
+| SourceID                              | SourceDocumentID | SourcePassageID       | SourcePassage                                                                                                                                           | ReferenceText | ReferenceType | TargetID                              | TargetDocumentID | TargetPassageID       | TargetPassage                                                                                                                                                                                                                                                 |
+|---------------------------------------|------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------|---------------------------------------|------------------|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0ddfb32a-c23e-4da9-af5e-d04b51f92c41  | 3                | 19.2.17              | Any charges imposed under Rule 19.2.16 must not exceed the Payment Service Providers actual costs of providing such information.                         | 19.2.16       | Internal      | 18f42ca0-235a-47ac-9e8c-47bd6dd631d7 | 3                | 19.2.16               | The Payment Service Provider and the Payment Service User may agree on charges for any information which is provided at the request of the Payment Service User where such information is: (a) additional to the information required to be provided or made available by Section 19.2; (b) provided more frequently than is specified in Section 19.2; or (c) transmitted by means of communication other than those specified in the Framework Contract. |
+| 731c9d3a-6611-49d3-9ef9-2ddab7f4f1f2  | 6                | PART 5.12.3.6.(3)    | The Regulator may grant approval for the replacement of a Trustee only where it has received: (a) a written notice from the Fund Manager of its intention to remove the Trustee and either: (i) a certification that the removal of the Trustee will not adversely affect the interests of the Unitholders and the Fund Manager's ability to comply with its obligations under the Trust Deed, Prospectus, these Rules and the FSMR; or (ii) a Special Resolution of Unitholders approving the Fund Manager's proposal to remove the Trustee and its replacement with another Trustee; and (b) the written consent of the person who agrees to be the replacement Trustee, and that person meets the requirements for a Trustee in Section 114(2) of the FSMR to be able to act as the replacement Trustee. | 114(2)        | External      | f90dee9e-41b0-46ee-b8ad-8ec88ec8b05c | 17               | Part 11.Chapter 4.114.(2) | The Trustee of an Investment Trust must be independent of the Fund Manager of that Investment Trust. A Trustee will not be independent of a Fund Manager if‚Äî (a) the Fund Manager or the Trustee holds, or exercise voting rights in respect of, any Shares of the other; (b) the Fund Manager and the Trustee have a common holding company or a common ultimate holding company; (c) the Fund Manager or the Trustee have Directors on its Governing Body, who are also Directors of the other; (d) the Fund Manager or the Trustee has individuals performing Controlled Functions who are also individuals performing Controlled Functions for the other; or (e) the Fund Manager and the Trustee have been involved in the previous two years in any professional or material business dealings, other than acting as Fund Manager or Trustee respectively of any other Fund. |
+|                                       |                  |                       |                                                                                                                                                         |               |               |                                       |                  |                       |                                                                                                                                                                                                                                                             |
+
+
+**Important Note:** Due to the hierarchical structure of regulatory documents, it is crucial to account for nested information. For example, if the `TargetPassageID` is "6.1" it encompasses all its subpassages, such as "6.1.1" , "6.1.1.a", "6.1.1.b", "6.1.2" and "6.1.3." Relying solely on the `CrossReferenceData.csv` file may result in missing critical information. 
+
+
 
