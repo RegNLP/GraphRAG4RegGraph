@@ -299,7 +299,7 @@ LIMIT 10;
   }
 ]
 ```
-`ADGM Documents/DocumentMap` includes ID and file names map
+`DocumentMap` includes ID and file names map
 
 `CrossReferenceData.csv`
 
